@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1015,
-  quote: "Don't talk about what you have done or what you are going to do.",
-  author: "Thomas Jefferson"
+  id: 1212,
+  quote: "Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.",
+  author: "Charles A. Lindbergh"
 }
 ```
 
