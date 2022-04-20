@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 530,
-  quote: `"$Take no thought of who is right or wrong or who is better than. Be not for or against."`,
-  author: `"$Bruce Lee"`
+  id: 470,
+  quote: `"$The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character."`,
+  author: `"$Buddha"`
 }
 ```
 
