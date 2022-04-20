@@ -1,0 +1,28 @@
+{
+  "name": "patostickar",
+  "version": "1.0.0",
+  "description": "readme",
+  "main": "index.js",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.1.0",
+    "node-fetch": "^2.6.1",
+    "unfetch": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patostickar/patostickar.git"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "Patricio Stickar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patostickar/patostickar/issues"
+  },
+  "homepage": "https://github.com/patostickar/patostickar#readme"
+}
