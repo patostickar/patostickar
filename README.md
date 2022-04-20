@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 157,
-  quote: "Without faith, nothing is possible. With it, nothing is impossible.",
-  author: "Mary Bethune"
+  id: 85,
+  quote: "Only do what your heart tells you.",
+  author: "Princess Diana"
 }
 ```
 
