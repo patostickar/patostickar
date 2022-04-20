@@ -48,9 +48,9 @@
 
 ```javascript
 {
-  id: 38,
-  quote: Be as you wish to seem.,
-  author: Socrates
+  id: 1024,
+  quote: Kindness is the golden chain by which society is bound together.,
+  author: Johann Wolfgang von Goethe
 }
 ```
 
