@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1285,
-  quote: "Leaders aren't born they are made. And they are made just like anything else, through hard work. And that's the price well have to pay to achieve that goal, or any goal.",
-  author: "Vince Lombardi"
+  id: 1015,
+  quote: "Don't talk about what you have done or what you are going to do.",
+  author: "Thomas Jefferson"
 }
 ```
 
