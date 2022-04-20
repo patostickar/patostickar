@@ -1,5 +1,5 @@
 [![Patricio's GitHub Banner](./assests/GitHubHeader.jpg)](https://pstickar.me)
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:pstickar.me)
+[![Visits Badge](https://badges.pufler.dev/visits/patostickar/patostickar)](https:patostickar)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pstickar/)
 [![fCC Badge](https://img.shields.io/badge/-Certifications-lightgrey?logo=freeCodeCamp&labelColor=black)](https://www.freecodecamp.org/pstickar)
 
@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1606,
-  quote: "To know your purpose is to live a life of direction, and in that direction is found peace and tranquillity.",
-  author: "Byron Pulsifer"
+  id: 1175,
+  quote: "Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.",
+  author: "Carl Jung"
 }
 ```
 
@@ -56,6 +56,6 @@ Come back for the next one in one hour 😉
 
 <p>&nbsp;</p>
 
-<h2 align="center">Made with ❤️ by Patricio Stickar</h2>
+<h3 align="center">Made with ❤️ by Patricio Stickar</h3>
 
 <p>&nbsp;</p>
