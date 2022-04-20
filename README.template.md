@@ -1,9 +1,5 @@
 [![Patricio's GitHub Banner](./assests/GitHubHeader.jpg)](https://pstickar.me)
-<<<<<<< HEAD:README.template.md
-[![Visits Badge](https://badges.pufler.dev/visits/patostickar/patostickar)](https:patostickar)
-=======
-[![Visits Badge](https://badges.pufler.dev/visits/patostickar/patostickar)](https:pstickar.me)
->>>>>>> 3c930895f91ec679ce3a37aca9b4be5ad9701dc5:README template.md
+[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:pstickar.me)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pstickar/)
 [![fCC Badge](https://img.shields.io/badge/-Certifications-lightgrey?logo=freeCodeCamp&labelColor=black)](https://www.freecodecamp.org/pstickar)
 
