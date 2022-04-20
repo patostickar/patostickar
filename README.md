@@ -48,9 +48,9 @@
 
 ```javascript
 {
-  id: 1387,
-  quote: All action results from thought, so it is thoughts that matter.,
-  author: Sai Baba
+  id: 1337,
+  quote: Divide each difficulty into as many parts as is feasible and necessary to resolve it.,
+  author: Rene Descartes
 }
 ```
 
