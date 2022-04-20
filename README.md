@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1212,
-  quote: "Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.",
-  author: "Charles A. Lindbergh"
+  id: 1241,
+  quote: "The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.",
+  author: "Will Durant"
 }
 ```
 
