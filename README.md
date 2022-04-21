@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 938,
-  quote: "To know oneself is to study oneself in action with another person.",
-  author: "Bruce Lee"
+  id: 1024,
+  quote: "Kindness is the golden chain by which society is bound together.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
