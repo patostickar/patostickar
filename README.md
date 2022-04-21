@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 385,
-  quote: "If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.",
-  author: "Morris West"
+  id: 478,
+  quote: "A wise man can learn more from a foolish question than a fool can learn from a wise answer.",
+  author: "Bruce Lee"
 }
 ```
 
