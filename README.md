@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1262,
-  quote: "Ability will never catch up with the demand for it.",
-  author: "Confucius"
+  id: 244,
+  quote: "Don't smother each other. No one can grow in the shade.",
+  author: "Leo F. Buscaglia"
 }
 ```
 
