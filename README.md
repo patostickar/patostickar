@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 682,
-  quote: "Try not to become a man of success, but rather try to become a man of value.",
-  author: "Albert Einstein"
+  id: 302,
+  quote: "The doors we open and close each day decide the lives we live.",
+  author: "Flora Whittemore"
 }
 ```
 
