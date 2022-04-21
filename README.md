@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 796,
-  quote: "A life spent making mistakes is not only more honourable, but more useful than a life spent doing nothing.",
-  author: "George Bernard Shaw"
+  id: 1333,
+  quote: "A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.",
+  author: "Denis Waitley"
 }
 ```
 
