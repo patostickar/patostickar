@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1186,
-  quote: "The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.",
-  author: "Pierre Abelard"
+  id: 1083,
+  quote: "Every great advance in science has issued from a new audacity of the imagination.",
+  author: "John Dewey"
 }
 ```
 
