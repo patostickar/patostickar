@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 781,
-  quote: "Fear grows in darkness; if you think theres a bogeyman around, turn on the light.",
-  author: "Dorothy Thompson"
+  id: 1454,
+  quote: "An idea that is developed and put into action is more important than an idea that exists only as an idea.",
+  author: "Buddha"
 }
 ```
 
