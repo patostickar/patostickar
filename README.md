@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1072,
-  quote: "The most formidable weapon against errors of every kind is reason.",
-  author: "Thomas Paine"
+  id: 1101,
+  quote: "Change your words. Change your world.",
+  author: "null"
 }
 ```
 
