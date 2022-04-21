@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1024,
-  quote: "Kindness is the golden chain by which society is bound together.",
-  author: "Johann Wolfgang von Goethe"
+  id: 781,
+  quote: "Fear grows in darkness; if you think theres a bogeyman around, turn on the light.",
+  author: "Dorothy Thompson"
 }
 ```
 
