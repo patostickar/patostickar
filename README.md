@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 302,
-  quote: "The doors we open and close each day decide the lives we live.",
-  author: "Flora Whittemore"
+  id: 238,
+  quote: "Blaze with the fire that is never extinguished.",
+  author: "Luisa Sigea"
 }
 ```
 
