@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1491,
-  quote: "Knowledge has three degrees opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.",
-  author: "Plotinus"
+  id: 385,
+  quote: "If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.",
+  author: "Morris West"
 }
 ```
 
