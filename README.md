@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 238,
-  quote: "Blaze with the fire that is never extinguished.",
-  author: "Luisa Sigea"
+  id: 938,
+  quote: "To know oneself is to study oneself in action with another person.",
+  author: "Bruce Lee"
 }
 ```
 
