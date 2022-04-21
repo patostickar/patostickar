@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1083,
-  quote: "Every great advance in science has issued from a new audacity of the imagination.",
-  author: "John Dewey"
+  id: 682,
+  quote: "Try not to become a man of success, but rather try to become a man of value.",
+  author: "Albert Einstein"
 }
 ```
 
