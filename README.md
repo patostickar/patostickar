@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 271,
-  quote: "The future belongs to those who believe in the beauty of their dreams.",
-  author: "Eleanor Roosevelt"
+  id: 1186,
+  quote: "The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.",
+  author: "Pierre Abelard"
 }
 ```
 
