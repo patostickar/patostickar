@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 478,
-  quote: "A wise man can learn more from a foolish question than a fool can learn from a wise answer.",
-  author: "Bruce Lee"
+  id: 271,
+  quote: "The future belongs to those who believe in the beauty of their dreams.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
