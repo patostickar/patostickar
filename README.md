@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1454,
-  quote: "An idea that is developed and put into action is more important than an idea that exists only as an idea.",
-  author: "Buddha"
+  id: 1492,
+  quote: "Love vanquishes time. To lovers, a moment can be eternity, eternity can be the tick of a clock.",
+  author: "Mary Parrish"
 }
 ```
 
