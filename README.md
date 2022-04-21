@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1492,
-  quote: "Love vanquishes time. To lovers, a moment can be eternity, eternity can be the tick of a clock.",
-  author: "Mary Parrish"
+  id: 1476,
+  quote: "If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception, it is a prevailing attitude.",
+  author: "Colin Powell"
 }
 ```
 
