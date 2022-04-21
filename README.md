@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1241,
-  quote: "The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.",
-  author: "Will Durant"
+  id: 1262,
+  quote: "Ability will never catch up with the demand for it.",
+  author: "Confucius"
 }
 ```
 
