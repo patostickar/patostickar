@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1333,
-  quote: "A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.",
-  author: "Denis Waitley"
+  id: 793,
+  quote: "Self-trust is the first secret of success.",
+  author: "Ralph Emerson"
 }
 ```
 
