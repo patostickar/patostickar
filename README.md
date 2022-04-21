@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1101,
-  quote: "Change your words. Change your world.",
-  author: "null"
+  id: 796,
+  quote: "A life spent making mistakes is not only more honourable, but more useful than a life spent doing nothing.",
+  author: "George Bernard Shaw"
 }
 ```
 
