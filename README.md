@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1054,
-  quote: "We are all something, but none of us are everything.",
-  author: "Blaise Pascal"
+  id: 1437,
+  quote: "Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.",
+  author: "Nikola Tesla"
 }
 ```
 
