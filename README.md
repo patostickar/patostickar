@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1599,
-  quote: "The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition.",
-  author: "Abernathy"
+  id: 1564,
+  quote: "The only person who never makes mistakes is the person who never does anything.",
+  author: "Denis Waitley"
 }
 ```
 
