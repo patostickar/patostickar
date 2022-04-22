@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1042,
-  quote: "Nature is a mutable cloud which is always and never the same.",
-  author: "Ralph Emerson"
+  id: 455,
+  quote: "You may be deceived if you trust too much, but you will live in torment if you don't trust enough.",
+  author: "Frank Crane"
 }
 ```
 
