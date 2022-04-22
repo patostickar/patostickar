@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 694,
-  quote: "Try not to become a man of success but rather try to become a man of value.",
-  author: "Albert Einstein"
+  id: 1599,
+  quote: "The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition.",
+  author: "Abernathy"
 }
 ```
 
