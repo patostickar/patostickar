@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1551,
-  quote: "I endeavour to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.",
-  author: "Elizabeth Montagu"
+  id: 1152,
+  quote: "Take rest; a field that has rested gives a bountiful crop.",
+  author: "Ovid"
 }
 ```
 
