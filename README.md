@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1152,
-  quote: "Take rest; a field that has rested gives a bountiful crop.",
-  author: "Ovid"
+  id: 453,
+  quote: "Everyone can taste success when the going is easy, but few know how to taste victory when times get tough.",
+  author: "Byron Pulsifer"
 }
 ```
 
