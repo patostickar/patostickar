@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 721,
-  quote: "Be faithful in small things because it is in them that your strength lies.",
-  author: "Mother Teresa"
+  id: 198,
+  quote: "Science is organized knowledge. Wisdom is organized life.",
+  author: "Immanuel Kant"
 }
 ```
 
