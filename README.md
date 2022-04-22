@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 198,
-  quote: "Science is organized knowledge. Wisdom is organized life.",
-  author: "Immanuel Kant"
+  id: 390,
+  quote: "Every day may not be good, but there's something good in every day.",
+  author: "null"
 }
 ```
 
