@@ -5,7 +5,7 @@
 
 <h3 align="left">Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="28" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></h3>
 
-I'm Patricio, a full-stack web developer. I'm into all things about technology and I love being able to be creative through code. Be welcome to check out my repositories or see my work alive in my [portfolio](https://pstickar.me/).
+I'm Patricio, a full-stack web developer. I'm into all things about technology, and I love being able to be creative through code. Be welcome to check out my repositories, or see my work deployed through my [portfolio](https://pstickar.me/).
 
 <p>&nbsp;</p>
 
@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1413,
-  quote: "You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.",
-  author: "Anatole France"
+  id: 1476,
+  quote: "If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception, it is a prevailing attitude.",
+  author: "Colin Powell"
 }
 ```
 
