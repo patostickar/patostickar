@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 390,
-  quote: "Every day may not be good, but there's something good in every day.",
-  author: "null"
+  id: 1056,
+  quote: "He who lives in harmony with himself lives in harmony with the world.",
+  author: "Marcus Aurelius"
 }
 ```
 
