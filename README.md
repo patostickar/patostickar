@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 294,
-  quote: "Nothing in life is to be feared. It is only to be understood.",
-  author: "Marie Curie"
+  id: 156,
+  quote: "Someone remembers, someone cares; your name is whispered in someone's prayers.",
+  author: "null"
 }
 ```
 
