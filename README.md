@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1627,
-  quote: "We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.",
-  author: "Barbara De Angelis"
+  id: 294,
+  quote: "Nothing in life is to be feared. It is only to be understood.",
+  author: "Marie Curie"
 }
 ```
 
