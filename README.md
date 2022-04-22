@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 576,
-  quote: "There are only two mistakes one can make along the road to truth; not going all the way, and not starting.",
-  author: "Buddha"
+  id: 694,
+  quote: "Try not to become a man of success but rather try to become a man of value.",
+  author: "Albert Einstein"
 }
 ```
 
