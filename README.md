@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 156,
-  quote: "Someone remembers, someone cares; your name is whispered in someone's prayers.",
-  author: "null"
+  id: 1054,
+  quote: "We are all something, but none of us are everything.",
+  author: "Blaise Pascal"
 }
 ```
 
