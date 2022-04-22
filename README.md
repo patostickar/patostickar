@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 453,
-  quote: "Everyone can taste success when the going is easy, but few know how to taste victory when times get tough.",
-  author: "Byron Pulsifer"
+  id: 1467,
+  quote: "I am glad that I paid so little attention to good advice; had I abided by it I might have been saved from some of my most valuable mistakes.",
+  author: "Edna Millay"
 }
 ```
 
