@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 34,
-  quote: "God always takes the simplest way.",
-  author: "Albert Einstein"
+  id: 1313,
+  quote: "The first duty of a human being is to assume the right functional relationship to society more briefly, to find your real job, and do it.",
+  author: "Charlotte Perkins Gilman"
 }
 ```
 
