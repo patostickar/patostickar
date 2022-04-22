@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1056,
-  quote: "He who lives in harmony with himself lives in harmony with the world.",
-  author: "Marcus Aurelius"
+  id: 1551,
+  quote: "I endeavour to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.",
+  author: "Elizabeth Montagu"
 }
 ```
 
