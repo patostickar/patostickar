@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 136,
-  quote: "Growth itself contains the germ of happiness.",
-  author: "Pearl Buck"
+  id: 1466,
+  quote: "The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly.",
+  author: "Richard Bach"
 }
 ```
 
