@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 171,
-  quote: "There is no way to happiness, happiness is the way.",
-  author: "Thich Nhat Hanh"
+  id: 760,
+  quote: "To want to be what one can be is purpose in life.",
+  author: "Cynthia Ozick"
 }
 ```
 
