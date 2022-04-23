@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 51,
-  quote: "A weed is no more than a flower in disguise.",
-  author: "James Lowell"
+  id: 287,
+  quote: "Think as a wise man but communicate in the language of the people.",
+  author: "William Yeats"
 }
 ```
 
