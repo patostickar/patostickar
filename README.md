@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1564,
-  quote: "The only person who never makes mistakes is the person who never does anything.",
-  author: "Denis Waitley"
+  id: 1228,
+  quote: "First say to yourself what you would be; and then do what you have to do.",
+  author: "Epictetus"
 }
 ```
 
