@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 950,
-  quote: "A good rest is half the work.",
-  author: "null"
+  id: 171,
+  quote: "There is no way to happiness, happiness is the way.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
