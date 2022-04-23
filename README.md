@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 443,
-  quote: "Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.",
-  author: "M. Scott Peck"
+  id: 442,
+  quote: "By nature man hates change; seldom will he quit his old home till it has actually fallen around his ears.",
+  author: "Thomas Carlyle"
 }
 ```
 
