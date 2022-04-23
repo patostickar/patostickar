@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1007,
-  quote: "Happiness mainly comes from our own attitude, rather than from external factors.",
-  author: "Dalai Lama"
+  id: 1243,
+  quote: "Sometimes the biggest act of courage is a small one.",
+  author: "Lauren Raffo"
 }
 ```
 
