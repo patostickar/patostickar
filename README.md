@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 820,
-  quote: "The way we communicate with others and with ourselves ultimately determines the quality of our lives.",
-  author: "Tony Robbins"
+  id: 136,
+  quote: "Growth itself contains the germ of happiness.",
+  author: "Pearl Buck"
 }
 ```
 
