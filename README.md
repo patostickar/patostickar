@@ -44,8 +44,8 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1419,
-  quote: "The best cure for the body is a quiet mind.",
+  id: 1181,
+  quote: "If you want a thing done well, do it yourself.",
   author: "Napoleon Bonaparte"
 }
 ```
