@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 284,
-  quote: "If you don't know where you are going, you will probably end up somewhere else.",
-  author: "Lawrence Peter"
+  id: 1284,
+  quote: "We make our own fortunes and we call them fate.",
+  author: "Benjamin Disraeli"
 }
 ```
 
