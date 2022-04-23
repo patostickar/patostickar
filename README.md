@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1284,
-  quote: "We make our own fortunes and we call them fate.",
-  author: "Benjamin Disraeli"
+  id: 950,
+  quote: "A good rest is half the work.",
+  author: "null"
 }
 ```
 
