@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 760,
-  quote: "To want to be what one can be is purpose in life.",
-  author: "Cynthia Ozick"
+  id: 1577,
+  quote: "The energy of the mind is the essence of life.",
+  author: "Aristotle"
 }
 ```
 
