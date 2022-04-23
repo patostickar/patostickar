@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 127,
-  quote: "Silence is a true friend who never betrays.",
-  author: "Confucius"
+  id: 1430,
+  quote: "Wrinkles should merely indicate where smiles have been.",
+  author: "Mark Twain"
 }
 ```
 
