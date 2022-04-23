@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 442,
-  quote: "By nature man hates change; seldom will he quit his old home till it has actually fallen around his ears.",
-  author: "Thomas Carlyle"
+  id: 1419,
+  quote: "The best cure for the body is a quiet mind.",
+  author: "Napoleon Bonaparte"
 }
 ```
 
