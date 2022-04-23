@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1228,
-  quote: "First say to yourself what you would be; and then do what you have to do.",
-  author: "Epictetus"
+  id: 1007,
+  quote: "Happiness mainly comes from our own attitude, rather than from external factors.",
+  author: "Dalai Lama"
 }
 ```
 
