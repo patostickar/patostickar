@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1181,
-  quote: "If you want a thing done well, do it yourself.",
-  author: "Napoleon Bonaparte"
+  id: 127,
+  quote: "Silence is a true friend who never betrays.",
+  author: "Confucius"
 }
 ```
 
