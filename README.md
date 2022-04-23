@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1466,
-  quote: "The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly.",
-  author: "Richard Bach"
+  id: 443,
+  quote: "Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.",
+  author: "M. Scott Peck"
 }
 ```
 
