@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 287,
-  quote: "Think as a wise man but communicate in the language of the people.",
-  author: "William Yeats"
+  id: 1090,
+  quote: "Vision without action is a daydream. Action without vision is a nightmare.",
+  author: "Japanese proverb"
 }
 ```
 
