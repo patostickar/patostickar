@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1090,
-  quote: "Vision without action is a daydream. Action without vision is a nightmare.",
-  author: "Japanese proverb"
+  id: 820,
+  quote: "The way we communicate with others and with ourselves ultimately determines the quality of our lives.",
+  author: "Tony Robbins"
 }
 ```
 
