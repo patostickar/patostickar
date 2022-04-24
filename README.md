@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1642,
-  quote: "Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on.",
-  author: "Tom Jackson"
+  id: 1111,
+  quote: "Each time we face a fear, we gain strength, courage, and confidence in the doing.",
+  author: "null"
 }
 ```
 
