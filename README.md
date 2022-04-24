@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 353,
-  quote: "Tension is who you think you should be. Relaxation is who you are.",
-  author: "Chinese proverb"
+  id: 1274,
+  quote: "Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.",
+  author: "Richard Bach"
 }
 ```
 
