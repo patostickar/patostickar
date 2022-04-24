@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 469,
-  quote: "All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.",
-  author: "Immanuel Kant"
+  id: 722,
+  quote: "All is flux; nothing stays still.",
+  author: "Heraclitus"
 }
 ```
 
