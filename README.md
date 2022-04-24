@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 128,
-  quote: "Character develops itself in the stream of life.",
-  author: "Johann Wolfgang von Goethe"
+  id: 1639,
+  quote: "It is not in the stars to hold our destiny but in ourselves.",
+  author: "William Shakespeare"
 }
 ```
 
