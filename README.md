@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1063,
-  quote: "You always succeed in producing a result.",
-  author: "Tony Robbins"
+  id: 1512,
+  quote: "When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.",
+  author: "W. Clement Stone"
 }
 ```
 
