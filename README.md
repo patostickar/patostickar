@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1274,
-  quote: "Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.",
-  author: "Richard Bach"
+  id: 735,
+  quote: "Those who will play with cats must expect to be scratched.",
+  author: "Cervantes"
 }
 ```
 
