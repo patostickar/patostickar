@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1632,
-  quote: "To go against the dominant thinking of your friends, of most of the people you see every day, is perhaps the most difficult act of heroism you can perform.",
-  author: "Theodore H. White"
+  id: 1063,
+  quote: "You always succeed in producing a result.",
+  author: "Tony Robbins"
 }
 ```
 
