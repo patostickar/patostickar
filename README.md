@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 441,
-  quote: "Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.",
-  author: "Jane Addams"
+  id: 1642,
+  quote: "Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on.",
+  author: "Tom Jackson"
 }
 ```
 
