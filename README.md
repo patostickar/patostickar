@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 277,
-  quote: "In separateness lies the world's great misery, in compassion lies the world's true strength.",
-  author: "Buddha"
+  id: 1632,
+  quote: "To go against the dominant thinking of your friends, of most of the people you see every day, is perhaps the most difficult act of heroism you can perform.",
+  author: "Theodore H. White"
 }
 ```
 
