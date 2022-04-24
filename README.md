@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 121,
-  quote: "No alibi will save you from accepting the responsibility.",
-  author: "Napoleon Hill"
+  id: 353,
+  quote: "Tension is who you think you should be. Relaxation is who you are.",
+  author: "Chinese proverb"
 }
 ```
 
