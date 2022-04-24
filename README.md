@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1111,
-  quote: "Each time we face a fear, we gain strength, courage, and confidence in the doing.",
-  author: "null"
+  id: 774,
+  quote: "Everything that irritates us about others can lead us to an understanding about ourselves.",
+  author: "Carl Jung"
 }
 ```
 
