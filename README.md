@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1189,
-  quote: "Stay committed to your decisions, but stay flexible in your approach.",
-  author: "Tony Robbins"
+  id: 986,
+  quote: "We cannot solve our problems with the same thinking we used when we created them.",
+  author: "Albert Einstein"
 }
 ```
 
