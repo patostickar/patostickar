@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1316,
-  quote: "True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.",
-  author: "Daisaku Ikeda"
+  id: 121,
+  quote: "No alibi will save you from accepting the responsibility.",
+  author: "Napoleon Hill"
 }
 ```
 
