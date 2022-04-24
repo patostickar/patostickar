@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1243,
-  quote: "Sometimes the biggest act of courage is a small one.",
-  author: "Lauren Raffo"
+  id: 128,
+  quote: "Character develops itself in the stream of life.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
