@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 986,
-  quote: "We cannot solve our problems with the same thinking we used when we created them.",
-  author: "Albert Einstein"
+  id: 441,
+  quote: "Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.",
+  author: "Jane Addams"
 }
 ```
 
