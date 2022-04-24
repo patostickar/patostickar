@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 735,
-  quote: "Those who will play with cats must expect to be scratched.",
-  author: "Cervantes"
+  id: 1247,
+  quote: "Happiness often sneaks in through a door you didn't know you left open.",
+  author: "John Barrymore"
 }
 ```
 
