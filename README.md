@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1512,
-  quote: "When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.",
-  author: "W. Clement Stone"
+  id: 1500,
+  quote: "Genuine sincerity opens people's hearts, while manipulation causes them to close.",
+  author: "Daisaku Ikeda"
 }
 ```
 
