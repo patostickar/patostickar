@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1430,
-  quote: "Wrinkles should merely indicate where smiles have been.",
-  author: "Mark Twain"
+  id: 1189,
+  quote: "Stay committed to your decisions, but stay flexible in your approach.",
+  author: "Tony Robbins"
 }
 ```
 
