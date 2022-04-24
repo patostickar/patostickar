@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1639,
-  quote: "It is not in the stars to hold our destiny but in ourselves.",
-  author: "William Shakespeare"
+  id: 1171,
+  quote: "My advice to you is not to inquire why or whither, but just enjoy your ice cream while its on your plate, that's my philosophy.",
+  author: "Thornton Wilder"
 }
 ```
 
