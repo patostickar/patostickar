@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 38,
-  quote: "Be as you wish to seem.",
-  author: "Socrates"
+  id: 439,
+  quote: "You can't let praise or criticism get to you. It's a weakness to get caught up in either one.",
+  author: "John Wooden"
 }
 ```
 
