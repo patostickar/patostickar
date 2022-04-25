@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 5,
-  quote: "Be the chief but never the lord.",
-  author: "Lao Tzu"
+  id: 1012,
+  quote: "Passion creates the desire for more and action fuelled by passion creates a future.",
+  author: "Byron Pulsifer"
 }
 ```
 
