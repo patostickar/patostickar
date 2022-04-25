@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 250,
-  quote: "Where there is great love, there are always miracles.",
-  author: "Willa Cather"
+  id: 458,
+  quote: "Choose a job you love, and you will never have to work a day in your life.",
+  author: "Confucius"
 }
 ```
 
