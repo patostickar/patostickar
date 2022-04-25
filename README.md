@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 660,
-  quote: "When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.",
-  author: "Abraham Lincoln"
+  id: 1613,
+  quote: "The only way to have a friend is to be one.",
+  author: "Ralph Emerson"
 }
 ```
 
