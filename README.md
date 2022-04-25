@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 947,
-  quote: "A man is great by deeds, not by birth.",
-  author: "Chanakya"
+  id: 1137,
+  quote: "My mama always said: life's like a box of chocolate you never know what you gonna get.",
+  author: "Forrest Gump"
 }
 ```
 
