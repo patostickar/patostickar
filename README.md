@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 473,
-  quote: "Any of us can achieve virtue, if by virtue we merely mean the avoidance of the vices that do not attract us.",
-  author: "Robert Lynd"
+  id: 38,
+  quote: "Be as you wish to seem.",
+  author: "Socrates"
 }
 ```
 
