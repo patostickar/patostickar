@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1012,
-  quote: "Passion creates the desire for more and action fuelled by passion creates a future.",
-  author: "Byron Pulsifer"
+  id: 1491,
+  quote: "Knowledge has three degrees opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.",
+  author: "Plotinus"
 }
 ```
 
