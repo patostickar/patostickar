@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 326,
-  quote: "I'm not afraid of storms, for I'm learning how to sail my ship.",
-  author: "Louisa Alcott"
+  id: 250,
+  quote: "Where there is great love, there are always miracles.",
+  author: "Willa Cather"
 }
 ```
 
