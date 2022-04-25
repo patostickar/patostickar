@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1137,
-  quote: "My mama always said: life's like a box of chocolate you never know what you gonna get.",
-  author: "Forrest Gump"
+  id: 249,
+  quote: "If there is no struggle, there is no progress.",
+  author: "Frederick Douglass"
 }
 ```
 
