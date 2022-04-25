@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 692,
-  quote: "The greatest way to live with honour in this world is to be what we pretend to be.",
-  author: "Socrates"
+  id: 326,
+  quote: "I'm not afraid of storms, for I'm learning how to sail my ship.",
+  author: "Louisa Alcott"
 }
 ```
 
