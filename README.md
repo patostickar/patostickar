@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1247,
-  quote: "Happiness often sneaks in through a door you didn't know you left open.",
-  author: "John Barrymore"
+  id: 947,
+  quote: "A man is great by deeds, not by birth.",
+  author: "Chanakya"
 }
 ```
 
