@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 439,
-  quote: "You can't let praise or criticism get to you. It's a weakness to get caught up in either one.",
-  author: "John Wooden"
+  id: 1402,
+  quote: "The important thing is this: to be able at any moment to sacrifice what we are for what we could become.",
+  author: "Charles Dubois"
 }
 ```
 
