@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 479,
-  quote: "Every man takes the limits of his own field of vision for the limits of the world.",
-  author: "Arthur Schopenhauer"
+  id: 660,
+  quote: "When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.",
+  author: "Abraham Lincoln"
 }
 ```
 
