@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1055,
-  quote: "If you can't explain it simply, you don't understand it well enough.",
-  author: "Albert Einstein"
+  id: 692,
+  quote: "The greatest way to live with honour in this world is to be what we pretend to be.",
+  author: "Socrates"
 }
 ```
 
