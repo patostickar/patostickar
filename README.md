@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 953,
-  quote: "To be tested is good. The challenged life may be the best therapist.",
-  author: "Gail Sheehy"
+  id: 1440,
+  quote: "Love does not consist of gazing at each other, but in looking together in the same direction.",
+  author: "Antoine de Saint-Exupery"
 }
 ```
 
