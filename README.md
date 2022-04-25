@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1402,
-  quote: "The important thing is this: to be able at any moment to sacrifice what we are for what we could become.",
-  author: "Charles Dubois"
+  id: 479,
+  quote: "Every man takes the limits of his own field of vision for the limits of the world.",
+  author: "Arthur Schopenhauer"
 }
 ```
 
