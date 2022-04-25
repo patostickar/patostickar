@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 249,
-  quote: "If there is no struggle, there is no progress.",
-  author: "Frederick Douglass"
+  id: 953,
+  quote: "To be tested is good. The challenged life may be the best therapist.",
+  author: "Gail Sheehy"
 }
 ```
 
