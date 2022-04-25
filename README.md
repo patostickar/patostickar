@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1305,
-  quote: "In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.",
-  author: "Leonardo da Vinci"
+  id: 5,
+  quote: "Be the chief but never the lord.",
+  author: "Lao Tzu"
 }
 ```
 
