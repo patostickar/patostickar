@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 246,
-  quote: "You can't shake hands with a clenched fist.",
-  author: "Indira Gandhi"
+  id: 66,
+  quote: "Real magic in relationships means an absence of judgement of others.",
+  author: "Wayne Dyer"
 }
 ```
 
