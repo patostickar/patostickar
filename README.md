@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1396,
-  quote: "One may say the eternal mystery of the world is its comprehensibility.",
-  author: "Albert Einstein"
+  id: 200,
+  quote: "Strong beliefs win strong men, and then make them stronger.",
+  author: "Richard Bach"
 }
 ```
 
