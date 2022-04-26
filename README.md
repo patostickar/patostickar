@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 981,
-  quote: "A man is not where he lives but where he loves.",
-  author: "null"
+  id: 559,
+  quote: "We cannot change our memories, but we can change their meaning and the power they have over us.",
+  author: "David Seamans"
 }
 ```
 
