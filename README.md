@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 720,
-  quote: "No one has ever become poor by giving.",
-  author: "Anne Frank"
+  id: 1045,
+  quote: "I want you to be everything that's you, deep at the center of your being.",
+  author: "Confucius"
 }
 ```
 
