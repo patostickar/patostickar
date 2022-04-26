@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1548,
-  quote: "When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.",
-  author: "Helen Keller"
+  id: 838,
+  quote: "A hero is no braver than an ordinary man, but he is braver five minutes longer.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
