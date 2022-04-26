@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 66,
-  quote: "Real magic in relationships means an absence of judgement of others.",
-  author: "Wayne Dyer"
+  id: 865,
+  quote: "Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.",
+  author: "Thomas Carlyle"
 }
 ```
 
