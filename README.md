@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1608,
-  quote: "Bad times have a scientific value. These are occasions a good learner would not miss.",
-  author: "Ralph Emerson"
+  id: 1485,
+  quote: "Remember that failure is an event, not a person.",
+  author: "Zig Ziglar"
 }
 ```
 
