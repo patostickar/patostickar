@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 559,
-  quote: "We cannot change our memories, but we can change their meaning and the power they have over us.",
-  author: "David Seamans"
+  id: 1396,
+  quote: "One may say the eternal mystery of the world is its comprehensibility.",
+  author: "Albert Einstein"
 }
 ```
 
