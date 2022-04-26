@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 86,
-  quote: "Life is movement-we breathe, we eat, we walk, we move!",
-  author: "John Pierrakos"
+  id: 1289,
+  quote: "I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.",
+  author: "Buddha"
 }
 ```
 
