@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 676,
-  quote: "Everyone has been made for some particular work, and the desire for that work has been put in every heart.",
-  author: "Rumi"
+  id: 1565,
+  quote: "Life is what happens to you while you're busy making other plans.",
+  author: "John Lennon"
 }
 ```
 
