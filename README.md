@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1211,
-  quote: "Complaining doesn't change a thing only taking action does.",
-  author: "Byron Pulsifer"
+  id: 736,
+  quote: "I've never seen a smiling face that was not beautiful.",
+  author: "null"
 }
 ```
 
