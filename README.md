@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 355,
-  quote: "One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.",
-  author: "Albert Schweitzer"
+  id: 1608,
+  quote: "Bad times have a scientific value. These are occasions a good learner would not miss.",
+  author: "Ralph Emerson"
 }
 ```
 
