@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1565,
-  quote: "Life is what happens to you while you're busy making other plans.",
-  author: "John Lennon"
+  id: 355,
+  quote: "One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.",
+  author: "Albert Schweitzer"
 }
 ```
 
