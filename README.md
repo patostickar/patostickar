@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1289,
-  quote: "I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.",
-  author: "Buddha"
+  id: 1131,
+  quote: "Imagination is the living power and prime agent of all human perception.",
+  author: "Samuel Taylor Coleridge"
 }
 ```
 
