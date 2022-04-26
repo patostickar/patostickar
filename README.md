@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 838,
-  quote: "A hero is no braver than an ordinary man, but he is braver five minutes longer.",
-  author: "Ralph Waldo Emerson"
+  id: 246,
+  quote: "You can't shake hands with a clenched fist.",
+  author: "Indira Gandhi"
 }
 ```
 
