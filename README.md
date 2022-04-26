@@ -44,8 +44,8 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 736,
-  quote: "I've never seen a smiling face that was not beautiful.",
+  id: 981,
+  quote: "A man is not where he lives but where he loves.",
   author: "null"
 }
 ```
