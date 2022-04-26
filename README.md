@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1131,
-  quote: "Imagination is the living power and prime agent of all human perception.",
-  author: "Samuel Taylor Coleridge"
+  id: 1548,
+  quote: "When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.",
+  author: "Helen Keller"
 }
 ```
 
