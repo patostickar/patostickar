@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1613,
-  quote: "The only way to have a friend is to be one.",
-  author: "Ralph Emerson"
+  id: 168,
+  quote: "Loss is nothing else but change,and change is Natures delight.",
+  author: "Marcus Aurelius"
 }
 ```
 
