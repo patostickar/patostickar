@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 168,
-  quote: "Loss is nothing else but change,and change is Natures delight.",
-  author: "Marcus Aurelius"
+  id: 1211,
+  quote: "Complaining doesn't change a thing only taking action does.",
+  author: "Byron Pulsifer"
 }
 ```
 
