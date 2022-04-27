@@ -44,8 +44,8 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 523,
-  quote: "The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.",
+  id: 1303,
+  quote: "The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world.",
   author: "Dalai Lama"
 }
 ```
