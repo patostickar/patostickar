@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1143,
-  quote: "You cannot step twice into the same river, for other waters are continually flowing in.",
-  author: "Heraclitus"
+  id: 576,
+  quote: "There are only two mistakes one can make along the road to truth; not going all the way, and not starting.",
+  author: "Buddha"
 }
 ```
 
