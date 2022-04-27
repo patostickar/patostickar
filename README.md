@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 46,
-  quote: "Talk doesn't cook rice.",
-  author: "Chinese proverb"
+  id: 854,
+  quote: "It is surprising what a man can do when he has to, and how little most men will do when they don't have to.",
+  author: "Walter Linn"
 }
 ```
 
