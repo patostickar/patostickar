@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 614,
-  quote: "Do not go where the path may lead, go instead where there is no path and leave a trail.",
-  author: "Ralph Emerson"
+  id: 871,
+  quote: "There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.",
+  author: "Dalai Lama"
 }
 ```
 
