@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 576,
-  quote: "There are only two mistakes one can make along the road to truth; not going all the way, and not starting.",
-  author: "Buddha"
+  id: 19,
+  quote: "Having nothing, nothing can he lose.",
+  author: "William Shakespeare"
 }
 ```
 
