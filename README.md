@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1113,
-  quote: "Don't frown because you never know who is falling in love with your smile.",
-  author: "Sinvyest Tan"
+  id: 550,
+  quote: "I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.",
+  author: "Albert Einstein"
 }
 ```
 
