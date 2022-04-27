@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 707,
-  quote: "All I can say about life is, Oh God, enjoy it!",
-  author: "Bob Newhart"
+  id: 1360,
+  quote: "We can do no great things, only small things with great love.",
+  author: "Mother Teresa"
 }
 ```
 
