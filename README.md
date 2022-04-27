@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 494,
-  quote: "When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.",
-  author: "Confucius"
+  id: 122,
+  quote: "If you can dream it, you can do it.",
+  author: "Walt Disney"
 }
 ```
 
