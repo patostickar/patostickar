@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 252,
-  quote: "Every problem has a gift for you in its hands.",
-  author: "Richard Bach"
+  id: 1113,
+  quote: "Don't frown because you never know who is falling in love with your smile.",
+  author: "Sinvyest Tan"
 }
 ```
 
