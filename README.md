@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 758,
-  quote: "The biggest adventure you can ever take is to live the life of your dreams.",
-  author: "Oprah Winfrey"
+  id: 614,
+  quote: "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+  author: "Ralph Emerson"
 }
 ```
 
