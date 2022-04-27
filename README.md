@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 19,
-  quote: "Having nothing, nothing can he lose.",
-  author: "William Shakespeare"
+  id: 523,
+  quote: "The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.",
+  author: "Dalai Lama"
 }
 ```
 
