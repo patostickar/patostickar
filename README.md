@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1045,
-  quote: "I want you to be everything that's you, deep at the center of your being.",
-  author: "Confucius"
+  id: 758,
+  quote: "The biggest adventure you can ever take is to live the life of your dreams.",
+  author: "Oprah Winfrey"
 }
 ```
 
