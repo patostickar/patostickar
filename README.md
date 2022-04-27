@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1113,
-  quote: "Don't frown because you never know who is falling in love with your smile.",
-  author: "Sinvyest Tan"
+  id: 707,
+  quote: "All I can say about life is, Oh God, enjoy it!",
+  author: "Bob Newhart"
 }
 ```
 
