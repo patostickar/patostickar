@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 122,
-  quote: "If you can dream it, you can do it.",
-  author: "Walt Disney"
+  id: 252,
+  quote: "Every problem has a gift for you in its hands.",
+  author: "Richard Bach"
 }
 ```
 
