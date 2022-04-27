@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1360,
-  quote: "We can do no great things, only small things with great love.",
-  author: "Mother Teresa"
+  id: 494,
+  quote: "When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.",
+  author: "Confucius"
 }
 ```
 
