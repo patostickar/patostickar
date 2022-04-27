@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 871,
-  quote: "There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.",
-  author: "Dalai Lama"
+  id: 46,
+  quote: "Talk doesn't cook rice.",
+  author: "Chinese proverb"
 }
 ```
 
