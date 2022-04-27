@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 854,
-  quote: "It is surprising what a man can do when he has to, and how little most men will do when they don't have to.",
-  author: "Walter Linn"
+  id: 1143,
+  quote: "You cannot step twice into the same river, for other waters are continually flowing in.",
+  author: "Heraclitus"
 }
 ```
 
