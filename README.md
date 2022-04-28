@@ -44,8 +44,8 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1612,
-  quote: "He who knows that enough is enough will always have enough.",
+  id: 990,
+  quote: "Silence is a source of great strength.",
   author: "Lao Tzu"
 }
 ```
