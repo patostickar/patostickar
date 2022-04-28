@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1553,
-  quote: "If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?",
-  author: "Rabbi Hillel"
+  id: 539,
+  quote: "Sadness may be part of life but there is no need to let it dominate your entire life.",
+  author: "Byron Pulsifer"
 }
 ```
 
