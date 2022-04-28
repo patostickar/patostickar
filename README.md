@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1460,
-  quote: "Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.",
-  author: "Ralph Emerson"
+  id: 1256,
+  quote: "Peace begins with a smile.",
+  author: "Mother Teresa"
 }
 ```
 
