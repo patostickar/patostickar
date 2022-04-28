@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 539,
-  quote: "Sadness may be part of life but there is no need to let it dominate your entire life.",
-  author: "Byron Pulsifer"
+  id: 1460,
+  quote: "Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.",
+  author: "Ralph Emerson"
 }
 ```
 
