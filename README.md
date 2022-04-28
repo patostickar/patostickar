@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1409,
-  quote: "We are all faced with a series of great opportunities brilliantly disguised as impossible situations.",
-  author: "Charles R. Swindoll"
+  id: 933,
+  quote: "Believe deep down in your heart that you're destined to do great things.",
+  author: "Joe Paterno"
 }
 ```
 
