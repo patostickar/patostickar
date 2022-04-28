@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1622,
-  quote: "Music in the soul can be heard by the universe.",
-  author: "Lao Tzu"
+  id: 1521,
+  quote: "If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.",
+  author: "Daisaku Ikeda"
 }
 ```
 
