@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 572,
-  quote: "These days people seek knowledge, not wisdom. Knowledge is of the past, wisdom is of the future.",
-  author: "Vernon Cooper"
+  id: 1572,
+  quote: "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
+  author: "Marcus Aurelius"
 }
 ```
 
