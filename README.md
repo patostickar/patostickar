@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1295,
-  quote: "You can never cross the ocean unless you have the courage to lose sight of the shore.",
-  author: "null"
+  id: 1553,
+  quote: "If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?",
+  author: "Rabbi Hillel"
 }
 ```
 
