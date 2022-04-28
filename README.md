@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1474,
-  quote: "However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?",
-  author: "Buddha"
+  id: 892,
+  quote: "When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.",
+  author: "Confucius"
 }
 ```
 
