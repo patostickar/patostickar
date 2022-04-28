@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 862,
-  quote: "Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.",
-  author: "Alphonse Karr"
+  id: 743,
+  quote: "God has given you one face, and you make yourself another.",
+  author: "William Shakespeare"
 }
 ```
 
