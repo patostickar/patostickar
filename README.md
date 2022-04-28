@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 472,
-  quote: "Patience is a virtue but you will never ever accomplish anything if you don't exercise action over patience.",
-  author: "Byron Pulsifer"
+  id: 680,
+  quote: "You cannot make yourself feel something you do not feel, but you can make yourself do right in spite of your feelings.",
+  author: "Pearl Buck"
 }
 ```
 
