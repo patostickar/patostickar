@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 274,
-  quote: "Strength does not come from physical capacity. It comes from an indomitable will.",
-  author: "Mahatma Gandhi"
+  id: 47,
+  quote: "He is able who thinks he is able.",
+  author: "Buddha"
 }
 ```
 
