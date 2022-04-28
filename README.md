@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 933,
-  quote: "Believe deep down in your heart that you're destined to do great things.",
-  author: "Joe Paterno"
+  id: 203,
+  quote: "Keep yourself to the sunshine and you cannot see the shadow.",
+  author: "Helen Keller"
 }
 ```
 
