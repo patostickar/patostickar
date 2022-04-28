@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 892,
-  quote: "When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.",
-  author: "Confucius"
+  id: 572,
+  quote: "These days people seek knowledge, not wisdom. Knowledge is of the past, wisdom is of the future.",
+  author: "Vernon Cooper"
 }
 ```
 
