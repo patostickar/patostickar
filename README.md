@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1521,
-  quote: "If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.",
-  author: "Daisaku Ikeda"
+  id: 1474,
+  quote: "However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?",
+  author: "Buddha"
 }
 ```
 
