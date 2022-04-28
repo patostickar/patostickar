@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1572,
-  quote: "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
-  author: "Marcus Aurelius"
+  id: 274,
+  quote: "Strength does not come from physical capacity. It comes from an indomitable will.",
+  author: "Mahatma Gandhi"
 }
 ```
 
