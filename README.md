@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 533,
-  quote: "The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
-  author: "Henry Miller"
+  id: 464,
+  quote: "Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity",
+  author: "Louis Pasteur"
 }
 ```
 
