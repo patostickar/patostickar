@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 734,
-  quote: "The longer we dwell on our misfortunes, the greater is their power to harm us.",
-  author: "Voltaire"
+  id: 108,
+  quote: "Who looks outside, dreams; who looks inside, awakes.",
+  author: "Carl Jung"
 }
 ```
 
