@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 282,
-  quote: "I never see what has been done; I only see what remains to be done.",
-  author: "Marie Curie"
+  id: 526,
+  quote: "I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.",
+  author: "Og Mandino"
 }
 ```
 
