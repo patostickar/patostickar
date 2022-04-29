@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1258,
-  quote: "Turn your face toward the sun and the shadows will fall behind you.",
-  author: "Maori proverb"
+  id: 135,
+  quote: "The greatest remedy for anger is delay.",
+  author: "Seneca"
 }
 ```
 
