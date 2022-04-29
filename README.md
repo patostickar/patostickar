@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 135,
-  quote: "The greatest remedy for anger is delay.",
-  author: "Seneca"
+  id: 96,
+  quote: "Every new day is another chance to change your life.",
+  author: "null"
 }
 ```
 
