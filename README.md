@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 100,
-  quote: "No man was ever wise by chance.",
-  author: "Seneca"
+  id: 734,
+  quote: "The longer we dwell on our misfortunes, the greater is their power to harm us.",
+  author: "Voltaire"
 }
 ```
 
