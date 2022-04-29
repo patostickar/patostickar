@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1479,
-  quote: "The possibilities are numerous once we decide to act and not react.",
-  author: "George Bernard Shaw"
+  id: 665,
+  quote: "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+  author: "Buddha"
 }
 ```
 
