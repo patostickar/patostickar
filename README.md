@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 464,
-  quote: "Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity",
-  author: "Louis Pasteur"
+  id: 649,
+  quote: "Remember always that you not only have the right to be an individual, you have an obligation to be one.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
