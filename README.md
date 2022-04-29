@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 609,
-  quote: "The greatest way to live with honor in this world is to be what we pretend to be.",
-  author: "Socrates"
+  id: 1434,
+  quote: "Give thanks for a little and you will find a lot.",
+  author: "Hausa"
 }
 ```
 
