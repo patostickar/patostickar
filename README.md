@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1440,
-  quote: "Love does not consist of gazing at each other, but in looking together in the same direction.",
-  author: "Antoine de Saint-Exupery"
+  id: 1479,
+  quote: "The possibilities are numerous once we decide to act and not react.",
+  author: "George Bernard Shaw"
 }
 ```
 
