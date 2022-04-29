@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1000,
-  quote: "Everything that exists is in a manner the seed of that which will be.",
-  author: "Marcus Aurelius"
+  id: 609,
+  quote: "The greatest way to live with honor in this world is to be what we pretend to be.",
+  author: "Socrates"
 }
 ```
 
