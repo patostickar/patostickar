@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1029,
-  quote: "Action is the foundational key to all success.",
-  author: "Pablo Picasso"
+  id: 100,
+  quote: "No man was ever wise by chance.",
+  author: "Seneca"
 }
 ```
 
