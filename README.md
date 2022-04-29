@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 526,
-  quote: "I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.",
-  author: "Og Mandino"
+  id: 1293,
+  quote: "A single conversation across the table with a wise person is worth a months study of books.",
+  author: "Chinese proverb"
 }
 ```
 
