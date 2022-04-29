@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 802,
-  quote: "Trust your own instinct. Your mistakes might as well be your own, instead of someone elses.",
-  author: "Billy Wilder"
+  id: 533,
+  quote: "The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
+  author: "Henry Miller"
 }
 ```
 
