@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1293,
-  quote: "A single conversation across the table with a wise person is worth a months study of books.",
-  author: "Chinese proverb"
+  id: 1000,
+  quote: "Everything that exists is in a manner the seed of that which will be.",
+  author: "Marcus Aurelius"
 }
 ```
 
