@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 54,
-  quote: "The best teacher is experience learned from failures.",
-  author: "Byron Pulsifer"
+  id: 1029,
+  quote: "Action is the foundational key to all success.",
+  author: "Pablo Picasso"
 }
 ```
 
