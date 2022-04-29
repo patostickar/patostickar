@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 96,
-  quote: "Every new day is another chance to change your life.",
-  author: "null"
+  id: 1440,
+  quote: "Love does not consist of gazing at each other, but in looking together in the same direction.",
+  author: "Antoine de Saint-Exupery"
 }
 ```
 
