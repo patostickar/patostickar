@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 649,
-  quote: "Remember always that you not only have the right to be an individual, you have an obligation to be one.",
-  author: "Eleanor Roosevelt"
+  id: 751,
+  quote: "We must not say every mistake is a foolish one.",
+  author: "Cicero"
 }
 ```
 
