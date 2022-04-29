@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1256,
-  quote: "Peace begins with a smile.",
-  author: "Mother Teresa"
+  id: 54,
+  quote: "The best teacher is experience learned from failures.",
+  author: "Byron Pulsifer"
 }
 ```
 
