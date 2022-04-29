@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 751,
-  quote: "We must not say every mistake is a foolish one.",
-  author: "Cicero"
+  id: 1258,
+  quote: "Turn your face toward the sun and the shadows will fall behind you.",
+  author: "Maori proverb"
 }
 ```
 
