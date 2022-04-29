@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1434,
-  quote: "Give thanks for a little and you will find a lot.",
-  author: "Hausa"
+  id: 1442,
+  quote: "It is with words as with sunbeams. The more they are condensed, the deeper they burn.",
+  author: "Robert Southey"
 }
 ```
 
