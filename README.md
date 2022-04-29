@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 108,
-  quote: "Who looks outside, dreams; who looks inside, awakes.",
-  author: "Carl Jung"
+  id: 282,
+  quote: "I never see what has been done; I only see what remains to be done.",
+  author: "Marie Curie"
 }
 ```
 
