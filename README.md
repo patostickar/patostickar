@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 364,
-  quote: "The superior man is satisfied and composed; the mean man is always full of distress.",
-  author: "Confucius"
+  id: 661,
+  quote: "Courage is not about taking risks unknowingly, but putting your own being in front of challenges that others may not be able to.",
+  author: "Byron Pulsifer"
 }
 ```
 
