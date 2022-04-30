@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 585,
-  quote: "You can be what you want to be. You have the power within and we will help you always.",
-  author: "Byron Pulsifer"
+  id: 1464,
+  quote: "You must do the things you think you cannot do.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
