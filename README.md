@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 662,
-  quote: "Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?",
-  author: "Richard Bach"
+  id: 1413,
+  quote: "You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.",
+  author: "Anatole France"
 }
 ```
 
