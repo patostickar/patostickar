@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1352,
-  quote: "I don't believe in failure. It's not failure if you enjoyed the process.",
-  author: "Oprah Winfrey"
+  id: 1365,
+  quote: "If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?",
+  author: "Confucius"
 }
 ```
 
