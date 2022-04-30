@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1027,
-  quote: "No yesterdays are ever wasted for those who give themselves to today.",
-  author: "Brendan Francis"
+  id: 364,
+  quote: "The superior man is satisfied and composed; the mean man is always full of distress.",
+  author: "Confucius"
 }
 ```
 
