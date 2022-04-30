@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 661,
-  quote: "Courage is not about taking risks unknowingly, but putting your own being in front of challenges that others may not be able to.",
-  author: "Byron Pulsifer"
+  id: 1352,
+  quote: "I don't believe in failure. It's not failure if you enjoyed the process.",
+  author: "Oprah Winfrey"
 }
 ```
 
