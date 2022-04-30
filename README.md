@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1324,
-  quote: "Obstacles are those things you see when you take your eyes off the goal.",
-  author: "Hannah More"
+  id: 1428,
+  quote: "Failure will never overtake me if my determination to succeed is strong enough.",
+  author: "Og Mandino"
 }
 ```
 
