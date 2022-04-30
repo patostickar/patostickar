@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 626,
-  quote: "A true friend is the most precious of all possessions and the one we take the least thought about acquiring.",
-  author: "Francois de La Rochefoucauld"
+  id: 1027,
+  quote: "No yesterdays are ever wasted for those who give themselves to today.",
+  author: "Brendan Francis"
 }
 ```
 
