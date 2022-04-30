@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1365,
-  quote: "If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?",
-  author: "Confucius"
+  id: 1324,
+  quote: "Obstacles are those things you see when you take your eyes off the goal.",
+  author: "Hannah More"
 }
 ```
 
