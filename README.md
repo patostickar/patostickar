@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1464,
-  quote: "You must do the things you think you cannot do.",
-  author: "Eleanor Roosevelt"
+  id: 1082,
+  quote: "When in doubt, tell the truth.",
+  author: "Mark Twain"
 }
 ```
 
