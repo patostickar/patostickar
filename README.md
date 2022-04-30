@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1576,
-  quote: "Nothing could be worse than the fear that one had given up too soon, and left one unexpended effort that might have saved the world.",
-  author: "Jane Addams"
+  id: 1470,
+  quote: "The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.",
+  author: "Cecil B. DeMille"
 }
 ```
 
