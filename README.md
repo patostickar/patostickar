@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 931,
-  quote: "A man sees in the world what he carries in his heart.",
-  author: "Goethe"
+  id: 662,
+  quote: "Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?",
+  author: "Richard Bach"
 }
 ```
 
