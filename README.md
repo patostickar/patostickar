@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1129,
-  quote: "Much wisdom often goes with fewer words.",
-  author: "Sophocles"
+  id: 626,
+  quote: "A true friend is the most precious of all possessions and the one we take the least thought about acquiring.",
+  author: "Francois de La Rochefoucauld"
 }
 ```
 
