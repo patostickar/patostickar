@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1413,
-  quote: "You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.",
-  author: "Anatole France"
+  id: 585,
+  quote: "You can be what you want to be. You have the power within and we will help you always.",
+  author: "Byron Pulsifer"
 }
 ```
 
