@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1470,
-  quote: "The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.",
-  author: "Cecil B. DeMille"
+  id: 519,
+  quote: "Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.",
+  author: "Bruce Lee"
 }
 ```
 
