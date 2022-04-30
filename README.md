@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1428,
-  quote: "Failure will never overtake me if my determination to succeed is strong enough.",
-  author: "Og Mandino"
+  id: 602,
+  quote: "Never miss an opportunity to make others happy, even if you have to leave them alone in order to do it.",
+  author: "null"
 }
 ```
 
