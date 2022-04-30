@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 602,
-  quote: "Never miss an opportunity to make others happy, even if you have to leave them alone in order to do it.",
-  author: "null"
+  id: 506,
+  quote: "If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.",
+  author: "Vince Lombardi"
 }
 ```
 
