@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1028,
-  quote: "There are no failures just experiences and your reactions to them.",
-  author: "Tom Krause"
+  id: 1327,
+  quote: "We can change our lives. We can do, have, and be exactly what we wish.",
+  author: "Tony Robbins"
 }
 ```
 
