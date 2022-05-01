@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 370,
-  quote: "Before you put on a frown, make absolutely sure there are no smiles available.",
-  author: "Jim Beggs"
+  id: 201,
+  quote: "Autumn is a second spring when every leaf is a flower.",
+  author: "Albert Camus"
 }
 ```
 
