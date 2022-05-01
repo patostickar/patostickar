@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 73,
-  quote: "The years teach much which the days never know.",
-  author: "Ralph Emerson"
+  id: 1481,
+  quote: "Sometimes by losing a battle you find a new way to win the war.",
+  author: "Donald Trump"
 }
 ```
 
