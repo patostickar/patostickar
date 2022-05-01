@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1327,
-  quote: "We can change our lives. We can do, have, and be exactly what we wish.",
-  author: "Tony Robbins"
+  id: 1642,
+  quote: "Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on.",
+  author: "Tom Jackson"
 }
 ```
 
