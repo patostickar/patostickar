@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 972,
-  quote: "The wisest men follow their own direction.",
-  author: "Euripides"
+  id: 370,
+  quote: "Before you put on a frown, make absolutely sure there are no smiles available.",
+  author: "Jim Beggs"
 }
 ```
 
