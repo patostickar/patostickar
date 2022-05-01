@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1068,
-  quote: "An invasion of armies can be resisted, but not an idea whose time has come.",
-  author: "Victor Hugo"
+  id: 705,
+  quote: "An obstacle may be either a stepping stone or a stumbling block.",
+  author: "null"
 }
 ```
 
