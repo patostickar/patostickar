@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1529,
-  quote: "The best way to predict your future is to create it.",
-  author: "Peter Drucker"
+  id: 1028,
+  quote: "There are no failures just experiences and your reactions to them.",
+  author: "Tom Krause"
 }
 ```
 
