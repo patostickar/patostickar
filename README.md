@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1481,
-  quote: "Sometimes by losing a battle you find a new way to win the war.",
-  author: "Donald Trump"
+  id: 297,
+  quote: "Life is a process. We are a process. The universe is a process.",
+  author: "Anne Schaef"
 }
 ```
 
