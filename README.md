@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 201,
-  quote: "Autumn is a second spring when every leaf is a flower.",
-  author: "Albert Camus"
+  id: 1529,
+  quote: "The best way to predict your future is to create it.",
+  author: "Peter Drucker"
 }
 ```
 
