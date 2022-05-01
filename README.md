@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1252,
-  quote: "Chaos and Order are not enemies, only opposites.",
-  author: "Richard Garriott"
+  id: 1102,
+  quote: "Great acts are made up of small deeds.",
+  author: "Lao Tzu"
 }
 ```
 
