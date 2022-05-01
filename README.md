@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 705,
-  quote: "An obstacle may be either a stepping stone or a stumbling block.",
-  author: "null"
+  id: 669,
+  quote: "You have power over your mind not outside events. Realize this, and you will find strength.",
+  author: "Marcus Aurelius"
 }
 ```
 
