@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 297,
-  quote: "Life is a process. We are a process. The universe is a process.",
-  author: "Anne Schaef"
+  id: 250,
+  quote: "Where there is great love, there are always miracles.",
+  author: "Willa Cather"
 }
 ```
 
