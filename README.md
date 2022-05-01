@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 669,
-  quote: "You have power over your mind not outside events. Realize this, and you will find strength.",
-  author: "Marcus Aurelius"
+  id: 318,
+  quote: "Love is just a word until someone comes along and gives it meaning.",
+  author: "null"
 }
 ```
 
