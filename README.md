@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 497,
-  quote: "Snowflakes are one of natures most fragile things, but just look what they can do when they stick together.",
-  author: "Vista Kelly"
+  id: 1068,
+  quote: "An invasion of armies can be resisted, but not an idea whose time has come.",
+  author: "Victor Hugo"
 }
 ```
 
