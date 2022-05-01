@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 668,
-  quote: "Change is the law of life. And those who look only to the past or present are certain to miss the future.",
-  author: "John Kennedy"
+  id: 73,
+  quote: "The years teach much which the days never know.",
+  author: "Ralph Emerson"
 }
 ```
 
