@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1395,
-  quote: "We cannot direct the wind but we can adjust the sails.",
-  author: "null"
+  id: 1252,
+  quote: "Chaos and Order are not enemies, only opposites.",
+  author: "Richard Garriott"
 }
 ```
 
