@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1642,
-  quote: "Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on.",
-  author: "Tom Jackson"
+  id: 497,
+  quote: "Snowflakes are one of natures most fragile things, but just look what they can do when they stick together.",
+  author: "Vista Kelly"
 }
 ```
 
