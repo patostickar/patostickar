@@ -44,8 +44,8 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 318,
-  quote: "Love is just a word until someone comes along and gives it meaning.",
+  id: 358,
+  quote: "Invent your world. Surround yourself with people, color, sounds, and work that nourish you.",
   author: "null"
 }
 ```
