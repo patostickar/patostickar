@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 448,
-  quote: "There is only one success to be able to spend your life in your own way.",
-  author: "Christopher Morley"
+  id: 1557,
+  quote: "Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
