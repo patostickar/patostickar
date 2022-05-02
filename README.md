@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 770,
-  quote: "People seldom notice old clothes if you wear a big smile.",
-  author: "Lee Mildon"
+  id: 309,
+  quote: "A thing long expected takes the form of the unexpected when at last it comes.",
+  author: "Mark Twain"
 }
 ```
 
