@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 880,
-  quote: "When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points.",
-  author: "Confucius"
+  id: 448,
+  quote: "There is only one success to be able to spend your life in your own way.",
+  author: "Christopher Morley"
 }
 ```
 
