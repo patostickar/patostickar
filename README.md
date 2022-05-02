@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 309,
-  quote: "A thing long expected takes the form of the unexpected when at last it comes.",
-  author: "Mark Twain"
+  id: 1534,
+  quote: "One who is too insistent on his own views, finds few to agree with him.",
+  author: "Lao Tzu"
 }
 ```
 
