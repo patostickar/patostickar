@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1608,
-  quote: "Bad times have a scientific value. These are occasions a good learner would not miss.",
-  author: "Ralph Emerson"
+  id: 1251,
+  quote: "Setting an example is not the main means of influencing another, it is the only means.",
+  author: "Albert Einstein"
 }
 ```
 
