@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 544,
-  quote: "You were not born a winner, and you were not born a loser. You are what you make yourself be.",
-  author: "Lou Holtz"
+  id: 1464,
+  quote: "You must do the things you think you cannot do.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
