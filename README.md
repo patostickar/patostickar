@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 329,
-  quote: "It has never been my object to record my dreams, just to realize them.",
-  author: "Man Ray"
+  id: 1623,
+  quote: "What we see depends mainly on what we look for.",
+  author: "John Lubbock"
 }
 ```
 
