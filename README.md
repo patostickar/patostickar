@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1464,
-  quote: "You must do the things you think you cannot do.",
-  author: "Eleanor Roosevelt"
+  id: 1197,
+  quote: "Aim for success, not perfection. Never give up your right to be wrong, because then you will lose the ability to learn new things and move forward with your life.",
+  author: "Dr. David M. Burns"
 }
 ```
 
