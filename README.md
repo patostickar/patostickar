@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 322,
-  quote: "If you don't like something, change it. If you can't change it, change your attitude.",
-  author: "Maya Angelou"
+  id: 329,
+  quote: "It has never been my object to record my dreams, just to realize them.",
+  author: "Man Ray"
 }
 ```
 
