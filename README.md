@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 49,
-  quote: "To succeed, we must first believe that we can.",
-  author: "Michael Korda"
+  id: 249,
+  quote: "If there is no struggle, there is no progress.",
+  author: "Frederick Douglass"
 }
 ```
 
