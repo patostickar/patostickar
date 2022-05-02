@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 249,
-  quote: "If there is no struggle, there is no progress.",
-  author: "Frederick Douglass"
+  id: 1415,
+  quote: "There is only one happiness in life, to love and be loved.",
+  author: "George Sand"
 }
 ```
 
