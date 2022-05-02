@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 488,
-  quote: "We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.",
-  author: "James Freeman Clarke"
+  id: 1608,
+  quote: "Bad times have a scientific value. These are occasions a good learner would not miss.",
+  author: "Ralph Emerson"
 }
 ```
 
