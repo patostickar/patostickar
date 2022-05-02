@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1251,
-  quote: "Setting an example is not the main means of influencing another, it is the only means.",
-  author: "Albert Einstein"
+  id: 880,
+  quote: "When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points.",
+  author: "Confucius"
 }
 ```
 
