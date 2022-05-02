@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1415,
-  quote: "There is only one happiness in life, to love and be loved.",
-  author: "George Sand"
+  id: 65,
+  quote: "When deeds speak, words are nothing.",
+  author: "African proverb"
 }
 ```
 
