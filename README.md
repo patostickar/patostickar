@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1197,
-  quote: "Aim for success, not perfection. Never give up your right to be wrong, because then you will lose the ability to learn new things and move forward with your life.",
-  author: "Dr. David M. Burns"
+  id: 780,
+  quote: "Your future depends on many things, but mostly on you.",
+  author: "Frank Tyger"
 }
 ```
 
