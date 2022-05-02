@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1534,
-  quote: "One who is too insistent on his own views, finds few to agree with him.",
-  author: "Lao Tzu"
+  id: 488,
+  quote: "We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.",
+  author: "James Freeman Clarke"
 }
 ```
 
