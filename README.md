@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1557,
-  quote: "Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.",
-  author: "Johann Wolfgang von Goethe"
+  id: 322,
+  quote: "If you don't like something, change it. If you can't change it, change your attitude.",
+  author: "Maya Angelou"
 }
 ```
 
