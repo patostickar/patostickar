@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 616,
-  quote: "Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.",
-  author: "Napoleon Hill"
+  id: 387,
+  quote: "Every action of our lives touches on some chord that will vibrate in eternity.",
+  author: "Edwin Chapin"
 }
 ```
 
