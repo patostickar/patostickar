@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1623,
-  quote: "What we see depends mainly on what we look for.",
-  author: "John Lubbock"
+  id: 616,
+  quote: "Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.",
+  author: "Napoleon Hill"
 }
 ```
 
