@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1213,
-  quote: "Enjoy the little things, for one day you may look back and realize they were the big things.",
-  author: "Robert Brault"
+  id: 1486,
+  quote: "Don't settle for a relationship that won't let you be yourself.",
+  author: "Oprah Winfrey"
 }
 ```
 
