@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 389,
-  quote: "It does not matter how slowly you go as long as you do not stop.",
-  author: "Confucius"
+  id: 1116,
+  quote: "Listen to your intuition. It will tell you everything you need to know.",
+  author: "Anthony D'Angelo"
 }
 ```
 
