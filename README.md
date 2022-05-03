@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1000,
-  quote: "Everything that exists is in a manner the seed of that which will be.",
-  author: "Marcus Aurelius"
+  id: 133,
+  quote: "A really great talent finds its happiness in execution.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
