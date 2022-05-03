@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1116,
-  quote: "Listen to your intuition. It will tell you everything you need to know.",
-  author: "Anthony D'Angelo"
+  id: 368,
+  quote: "Three things cannot be long hidden: the sun, the moon, and the truth.",
+  author: "Buddha"
 }
 ```
 
