@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 133,
-  quote: "A really great talent finds its happiness in execution.",
-  author: "Johann Wolfgang von Goethe"
+  id: 1240,
+  quote: "I hear and I forget. I see and I remember. I do and I understand.",
+  author: "Confucius"
 }
 ```
 
