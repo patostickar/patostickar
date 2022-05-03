@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 368,
-  quote: "Three things cannot be long hidden: the sun, the moon, and the truth.",
-  author: "Buddha"
+  id: 1470,
+  quote: "The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.",
+  author: "Cecil B. DeMille"
 }
 ```
 
