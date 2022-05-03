@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 511,
-  quote: "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
-  author: "Aristotle"
+  id: 870,
+  quote: "If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace.",
+  author: "Ajahn Chah"
 }
 ```
 
