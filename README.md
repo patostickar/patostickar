@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 65,
-  quote: "When deeds speak, words are nothing.",
-  author: "African proverb"
+  id: 962,
+  quote: "Peace cannot be kept by force. It can only be achieved by understanding.",
+  author: "Albert Einstein"
 }
 ```
 
