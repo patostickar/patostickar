@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 962,
-  quote: "Peace cannot be kept by force. It can only be achieved by understanding.",
-  author: "Albert Einstein"
+  id: 947,
+  quote: "A man is great by deeds, not by birth.",
+  author: "Chanakya"
 }
 ```
 
