@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 773,
-  quote: "Man cannot discover new oceans unless he has the courage to lose sight of the shore.",
-  author: "Andre Gide"
+  id: 1213,
+  quote: "Enjoy the little things, for one day you may look back and realize they were the big things.",
+  author: "Robert Brault"
 }
 ```
 
