@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 870,
-  quote: "If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace.",
-  author: "Ajahn Chah"
+  id: 773,
+  quote: "Man cannot discover new oceans unless he has the courage to lose sight of the shore.",
+  author: "Andre Gide"
 }
 ```
 
