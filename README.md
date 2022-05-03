@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 376,
-  quote: "Life is so constructed that an event does not, cannot, will not, match the expectation.",
-  author: "Charlotte Bronte"
+  id: 971,
+  quote: "Go put your creed into the deed. Nor speak with double tongue.",
+  author: "Ralph Emerson"
 }
 ```
 
