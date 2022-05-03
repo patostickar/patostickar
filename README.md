@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1240,
-  quote: "I hear and I forget. I see and I remember. I do and I understand.",
-  author: "Confucius"
+  id: 714,
+  quote: "Wherever a man turns he can find someone who needs him.",
+  author: "Albert Schweitzer"
 }
 ```
 
