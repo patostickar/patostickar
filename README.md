@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 971,
-  quote: "Go put your creed into the deed. Nor speak with double tongue.",
-  author: "Ralph Emerson"
+  id: 1028,
+  quote: "There are no failures just experiences and your reactions to them.",
+  author: "Tom Krause"
 }
 ```
 
