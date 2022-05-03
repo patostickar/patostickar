@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 714,
-  quote: "Wherever a man turns he can find someone who needs him.",
-  author: "Albert Schweitzer"
+  id: 174,
+  quote: "He who talks more is sooner exhausted.",
+  author: "Lao Tzu"
 }
 ```
 
