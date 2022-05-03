@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 947,
-  quote: "A man is great by deeds, not by birth.",
-  author: "Chanakya"
+  id: 389,
+  quote: "It does not matter how slowly you go as long as you do not stop.",
+  author: "Confucius"
 }
 ```
 
