@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 174,
-  quote: "He who talks more is sooner exhausted.",
-  author: "Lao Tzu"
+  id: 1383,
+  quote: "Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.",
+  author: "Henry James"
 }
 ```
 
