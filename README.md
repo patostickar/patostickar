@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 358,
-  quote: "Invent your world. Surround yourself with people, color, sounds, and work that nourish you.",
-  author: "null"
+  id: 346,
+  quote: "Feeling and longing are the motive forces behind all human endeavor and human creations.",
+  author: "Albert Einstein"
 }
 ```
 
