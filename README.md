@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1028,
-  quote: "There are no failures just experiences and your reactions to them.",
-  author: "Tom Krause"
+  id: 1000,
+  quote: "Everything that exists is in a manner the seed of that which will be.",
+  author: "Marcus Aurelius"
 }
 ```
 
