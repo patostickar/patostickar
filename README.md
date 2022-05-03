@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1383,
-  quote: "Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.",
-  author: "Henry James"
+  id: 587,
+  quote: "Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.",
+  author: "Doug Larson"
 }
 ```
 
