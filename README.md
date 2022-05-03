@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1486,
-  quote: "Don't settle for a relationship that won't let you be yourself.",
-  author: "Oprah Winfrey"
+  id: 358,
+  quote: "Invent your world. Surround yourself with people, color, sounds, and work that nourish you.",
+  author: "null"
 }
 ```
 
