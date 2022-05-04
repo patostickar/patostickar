@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 123,
-  quote: "It is better to travel well than to arrive.",
-  author: "Buddha"
+  id: 956,
+  quote: "Be slow of tongue and quick of eye.",
+  author: "Cervantes"
 }
 ```
 
