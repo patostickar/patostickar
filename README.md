@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 165,
-  quote: "Freedom is the right to live as we wish.",
-  author: "Epictetus"
+  id: 751,
+  quote: "We must not say every mistake is a foolish one.",
+  author: "Cicero"
 }
 ```
 
