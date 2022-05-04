@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1490,
-  quote: "Do not wait for leaders; do it alone, person to person.",
-  author: "Mother Teresa"
+  id: 165,
+  quote: "Freedom is the right to live as we wish.",
+  author: "Epictetus"
 }
 ```
 
