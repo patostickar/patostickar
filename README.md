@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 587,
-  quote: "Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.",
-  author: "Doug Larson"
+  id: 123,
+  quote: "It is better to travel well than to arrive.",
+  author: "Buddha"
 }
 ```
 
