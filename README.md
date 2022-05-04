@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1636,
-  quote: "Nothing is a waste of time if you use the experience wisely.",
-  author: "Rodin"
+  id: 1283,
+  quote: "A man who doesn't trust himself can never really trust anyone else.",
+  author: "Cardinal Retz"
 }
 ```
 
