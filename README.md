@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1609,
-  quote: "It's not who you are that holds you back, it's who you think you're not.",
-  author: "null"
+  id: 391,
+  quote: "Most folks are about as happy as they make up their minds to be.",
+  author: "Abraham Lincoln"
 }
 ```
 
