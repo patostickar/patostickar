@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 956,
-  quote: "Be slow of tongue and quick of eye.",
-  author: "Cervantes"
+  id: 63,
+  quote: "What you fear is that which requires action to overcome.",
+  author: "Byron Pulsifer"
 }
 ```
 
