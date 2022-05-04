@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1460,
-  quote: "Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.",
-  author: "Ralph Emerson"
+  id: 882,
+  quote: "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.",
+  author: "Dale Carnegie"
 }
 ```
 
