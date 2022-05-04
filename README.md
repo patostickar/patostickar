@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 751,
-  quote: "We must not say every mistake is a foolish one.",
-  author: "Cicero"
+  id: 213,
+  quote: "The path to success is to take massive, determined action.",
+  author: "Tony Robbins"
 }
 ```
 
