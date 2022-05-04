@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 391,
-  quote: "Most folks are about as happy as they make up their minds to be.",
-  author: "Abraham Lincoln"
+  id: 1490,
+  quote: "Do not wait for leaders; do it alone, person to person.",
+  author: "Mother Teresa"
 }
 ```
 
