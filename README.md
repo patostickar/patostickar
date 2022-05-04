@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 228,
-  quote: "The heart has its reasons which reason knows not of.",
-  author: "Blaise Pascal"
+  id: 1431,
+  quote: "Your attitude, not your aptitude, will determine your altitude.",
+  author: "Zig Ziglar"
 }
 ```
 
