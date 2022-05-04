@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1310,
-  quote: "We make a living by what we get, but we make a life by what we give.",
-  author: "Winston Churchill"
+  id: 1460,
+  quote: "Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.",
+  author: "Ralph Emerson"
 }
 ```
 
