@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 213,
-  quote: "The path to success is to take massive, determined action.",
-  author: "Tony Robbins"
+  id: 114,
+  quote: "Truth is powerful and it prevails.",
+  author: "Sojourner Truth"
 }
 ```
 
