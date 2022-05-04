@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1431,
-  quote: "Your attitude, not your aptitude, will determine your altitude.",
-  author: "Zig Ziglar"
+  id: 1400,
+  quote: "The only real mistake is the one from which we learn nothing.",
+  author: "John Powell"
 }
 ```
 
