@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1224,
-  quote: "As we grow as unique persons, we learn to respect the uniqueness of others.",
-  author: "Robert Schuller"
+  id: 1636,
+  quote: "Nothing is a waste of time if you use the experience wisely.",
+  author: "Rodin"
 }
 ```
 
