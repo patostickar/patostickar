@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 63,
-  quote: "What you fear is that which requires action to overcome.",
-  author: "Byron Pulsifer"
+  id: 228,
+  quote: "The heart has its reasons which reason knows not of.",
+  author: "Blaise Pascal"
 }
 ```
 
