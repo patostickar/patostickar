@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 882,
-  quote: "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.",
-  author: "Dale Carnegie"
+  id: 1481,
+  quote: "Sometimes by losing a battle you find a new way to win the war.",
+  author: "Donald Trump"
 }
 ```
 
