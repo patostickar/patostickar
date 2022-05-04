@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1283,
-  quote: "A man who doesn't trust himself can never really trust anyone else.",
-  author: "Cardinal Retz"
+  id: 768,
+  quote: "Formula for success: under promise and over deliver.",
+  author: "Tom Peters"
 }
 ```
 
