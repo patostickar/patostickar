@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1325,
-  quote: "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.",
-  author: "Michelangelo"
+  id: 110,
+  quote: "The shortest answer is doing.",
+  author: "Lord Herbert"
 }
 ```
 
