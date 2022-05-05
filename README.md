@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 351,
-  quote: "Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.",
-  author: "John Adams"
+  id: 1386,
+  quote: "Learn to listen. Opportunity could be knocking at your door very softly.",
+  author: "Frank Tyger"
 }
 ```
 
