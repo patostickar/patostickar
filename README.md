@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 100,
-  quote: "No man was ever wise by chance.",
-  author: "Seneca"
+  id: 624,
+  quote: "Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.",
+  author: "Robert Graves"
 }
 ```
 
