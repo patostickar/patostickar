@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 979,
-  quote: "Love is the only force capable of transforming an enemy into friend.",
-  author: "Martin Luther King, Jr."
+  id: 1189,
+  quote: "Stay committed to your decisions, but stay flexible in your approach.",
+  author: "Tony Robbins"
 }
 ```
 
