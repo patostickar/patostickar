@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1399,
-  quote: "Moments of complete apathy are the best for new creations.",
-  author: "Philip Breedveld"
+  id: 1275,
+  quote: "Logic will get you from A to B. Imagination will take you everywhere.",
+  author: "Albert Einstein"
 }
 ```
 
