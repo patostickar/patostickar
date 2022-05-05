@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1136,
-  quote: "Always do your best. What you plant now, you will harvest later.",
-  author: "Og Mandino"
+  id: 979,
+  quote: "Love is the only force capable of transforming an enemy into friend.",
+  author: "Martin Luther King, Jr."
 }
 ```
 
