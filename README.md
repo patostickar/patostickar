@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 909,
-  quote: "I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.",
-  author: "Frederick Douglass"
+  id: 154,
+  quote: "Begin to weave and God will give you the thread.",
+  author: "German proverb"
 }
 ```
 
