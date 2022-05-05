@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 595,
-  quote: "If you accept the expectations of others, especially negative ones, then you never will change the outcome.",
-  author: "Michael Jordan"
+  id: 628,
+  quote: "Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.",
+  author: "Margaret Cousins"
 }
 ```
 
