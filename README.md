@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 624,
-  quote: "Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.",
-  author: "Robert Graves"
+  id: 545,
+  quote: "Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.",
+  author: "Napoleon Hill"
 }
 ```
 
