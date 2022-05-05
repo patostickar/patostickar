@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 684,
-  quote: "Men of perverse opinion do not know the excellence of what is in their hands, till some one dash it from them.",
-  author: "Sophocles"
+  id: 755,
+  quote: "Never be afraid to try, remember... Amateurs built the ark, Professionals built the Titanic.",
+  author: "null"
 }
 ```
 
