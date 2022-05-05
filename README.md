@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 457,
-  quote: "All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.",
-  author: "Kathleen Norris"
+  id: 351,
+  quote: "Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.",
+  author: "John Adams"
 }
 ```
 
