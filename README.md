@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1386,
-  quote: "Learn to listen. Opportunity could be knocking at your door very softly.",
-  author: "Frank Tyger"
+  id: 1586,
+  quote: "When you judge another, you do not define them, you define yourself.",
+  author: "Wayne Dyer"
 }
 ```
 
