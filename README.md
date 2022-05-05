@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 545,
-  quote: "Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.",
-  author: "Napoleon Hill"
+  id: 1325,
+  quote: "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.",
+  author: "Michelangelo"
 }
 ```
 
