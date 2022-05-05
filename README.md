@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 154,
-  quote: "Begin to weave and God will give you the thread.",
-  author: "German proverb"
+  id: 595,
+  quote: "If you accept the expectations of others, especially negative ones, then you never will change the outcome.",
+  author: "Michael Jordan"
 }
 ```
 
