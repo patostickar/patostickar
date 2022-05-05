@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1139,
-  quote: "If you come to a fork in the road, take it.",
-  author: "null"
+  id: 1399,
+  quote: "Moments of complete apathy are the best for new creations.",
+  author: "Philip Breedveld"
 }
 ```
 
