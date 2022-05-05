@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1275,
-  quote: "Logic will get you from A to B. Imagination will take you everywhere.",
-  author: "Albert Einstein"
+  id: 1050,
+  quote: "Whoso loves, believes the impossible.",
+  author: "Elizabeth Browning"
 }
 ```
 
