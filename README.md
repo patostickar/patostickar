@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1586,
-  quote: "When you judge another, you do not define them, you define yourself.",
-  author: "Wayne Dyer"
+  id: 1139,
+  quote: "If you come to a fork in the road, take it.",
+  author: "null"
 }
 ```
 
