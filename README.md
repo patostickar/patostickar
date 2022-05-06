@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1260,
-  quote: "Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.",
-  author: "Whoopi Goldberg"
+  id: 332,
+  quote: "Most great people have attained their greatest success just one step beyond their greatest failure.",
+  author: "Napoleon Hill"
 }
 ```
 
