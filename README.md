@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 884,
-  quote: "Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you.",
-  author: "Nathaniel Hawthorne"
+  id: 1385,
+  quote: "They can conquer who believe they can.",
+  author: "Virgil"
 }
 ```
 
