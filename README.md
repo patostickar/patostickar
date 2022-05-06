@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1640,
-  quote: "Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.",
-  author: "Tony Robbins"
+  id: 1193,
+  quote: "To change ones life, start immediately, do it flamboyantly, no exceptions.",
+  author: "William James"
 }
 ```
 
