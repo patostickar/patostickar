@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1075,
-  quote: "You only lose what you cling to.",
-  author: "Buddha"
+  id: 69,
+  quote: "Wisdom is the supreme part of happiness.",
+  author: "Sophocles"
 }
 ```
 
