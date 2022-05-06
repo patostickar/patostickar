@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1303,
-  quote: "The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world.",
-  author: "Dalai Lama"
+  id: 1075,
+  quote: "You only lose what you cling to.",
+  author: "Buddha"
 }
 ```
 
