@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1193,
-  quote: "To change ones life, start immediately, do it flamboyantly, no exceptions.",
-  author: "William James"
+  id: 901,
+  quote: "We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.",
+  author: "Stephen Covey"
 }
 ```
 
