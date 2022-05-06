@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1591,
-  quote: "The future is an opaque mirror. Anyone who tries to look into it sees nothing but the dim outlines of an old and worried face.",
-  author: "Jim Bishop"
+  id: 804,
+  quote: "I am always doing that which I can not do, in order that I may learn how to do it.",
+  author: "Pablo Picasso"
 }
 ```
 
