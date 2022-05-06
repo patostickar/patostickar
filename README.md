@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 847,
-  quote: "Happiness is when what you think, what you say, and what you do are in harmony.",
-  author: "Mohandas Gandhi"
+  id: 627,
+  quote: "There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.",
+  author: "Epictetus"
 }
 ```
 
