@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 627,
-  quote: "There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.",
-  author: "Epictetus"
+  id: 383,
+  quote: "The truth you believe and cling to makes you unavailable to hear anything new.",
+  author: "Pema Chodron"
 }
 ```
 
