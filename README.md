@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 578,
-  quote: "Giving up doesn't always mean you are weak. Sometimes it means that you are strong enough to let go.",
-  author: "null"
+  id: 142,
+  quote: "Rainbows apologize for angry skies.",
+  author: "Sylvia Voirol"
 }
 ```
 
