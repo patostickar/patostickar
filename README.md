@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1385,
-  quote: "They can conquer who believe they can.",
-  author: "Virgil"
+  id: 314,
+  quote: "If you light a lamp for somebody, it will also brighten your path.",
+  author: "Buddha"
 }
 ```
 
