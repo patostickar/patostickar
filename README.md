@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 134,
-  quote: "Reality leaves a lot to the imagination.",
-  author: "John Lennon"
+  id: 1260,
+  quote: "Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.",
+  author: "Whoopi Goldberg"
 }
 ```
 
