@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 604,
-  quote: "You have to take it as it happens, but you should try to make it happen the way you want to take it.",
-  author: "Old German proverb"
+  id: 847,
+  quote: "Happiness is when what you think, what you say, and what you do are in harmony.",
+  author: "Mohandas Gandhi"
 }
 ```
 
