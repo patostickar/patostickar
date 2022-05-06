@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 69,
-  quote: "Wisdom is the supreme part of happiness.",
-  author: "Sophocles"
+  id: 612,
+  quote: "By living deeply in the present moment we can understand the past better and we can prepare for a better future.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
