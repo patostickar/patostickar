@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1348,
-  quote: "To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.",
-  author: "Mahummad Ali"
+  id: 884,
+  quote: "Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you.",
+  author: "Nathaniel Hawthorne"
 }
 ```
 
