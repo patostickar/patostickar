@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 592,
-  quote: "To live a pure unselfish life, one must count nothing as ones own in the midst of abundance.",
-  author: "Buddha"
+  id: 1348,
+  quote: "To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.",
+  author: "Mahummad Ali"
 }
 ```
 
