@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 314,
-  quote: "If you light a lamp for somebody, it will also brighten your path.",
-  author: "Buddha"
+  id: 604,
+  quote: "You have to take it as it happens, but you should try to make it happen the way you want to take it.",
+  author: "Old German proverb"
 }
 ```
 
