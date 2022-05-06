@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 142,
-  quote: "Rainbows apologize for angry skies.",
-  author: "Sylvia Voirol"
+  id: 1075,
+  quote: "You only lose what you cling to.",
+  author: "Buddha"
 }
 ```
 
