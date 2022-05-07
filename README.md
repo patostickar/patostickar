@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 267,
-  quote: "Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.",
-  author: "Arthur Conan Doyle"
+  id: 1256,
+  quote: "Peace begins with a smile.",
+  author: "Mother Teresa"
 }
 ```
 
