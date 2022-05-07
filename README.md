@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 357,
-  quote: "You have to do your own growing no matter how tall your grandfather was.",
-  author: "Abraham Lincoln"
+  id: 1245,
+  quote: "You do not become good by trying to be good, but by finding the goodness that is already within you.",
+  author: "Eckhart Tolle"
 }
 ```
 
