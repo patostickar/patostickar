@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 670,
-  quote: "Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.",
-  author: "Louis Pasteur"
+  id: 290,
+  quote: "Our greatest glory is not in never failing but rising everytime we fall.",
+  author: "null"
 }
 ```
 
