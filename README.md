@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 64,
-  quote: "When performance exceeds ambition, the overlap is called success.",
-  author: "Cullen Hightower"
+  id: 651,
+  quote: "If you seek truth you will not seek victory by dishonourable means, and if you find truth you will become invincible.",
+  author: "Epictetus"
 }
 ```
 
