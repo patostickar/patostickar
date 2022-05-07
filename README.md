@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 186,
-  quote: "The mind unlearns with difficulty what it has long learned.",
-  author: "Seneca"
+  id: 1397,
+  quote: "The self is not something ready-made, but something in continuous formation through choice of action.",
+  author: "John Dewey"
 }
 ```
 
