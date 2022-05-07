@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 201,
-  quote: "Autumn is a second spring when every leaf is a flower.",
-  author: "Albert Camus"
+  id: 1478,
+  quote: "Better than a thousand hollow words is one word that brings peace.",
+  author: "Buddha"
 }
 ```
 
