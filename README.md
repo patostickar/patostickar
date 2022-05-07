@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1013,
-  quote: "Do good by stealth, and blush to find it fame.",
-  author: "Alexander Pope"
+  id: 201,
+  quote: "Autumn is a second spring when every leaf is a flower.",
+  author: "Albert Camus"
 }
 ```
 
