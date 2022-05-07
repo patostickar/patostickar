@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 651,
-  quote: "If you seek truth you will not seek victory by dishonourable means, and if you find truth you will become invincible.",
-  author: "Epictetus"
+  id: 1013,
+  quote: "Do good by stealth, and blush to find it fame.",
+  author: "Alexander Pope"
 }
 ```
 
