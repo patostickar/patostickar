@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 572,
-  quote: "These days people seek knowledge, not wisdom. Knowledge is of the past, wisdom is of the future.",
-  author: "Vernon Cooper"
+  id: 283,
+  quote: "Begin at once to live and count each separate day as a separate life.",
+  author: "Seneca"
 }
 ```
 
