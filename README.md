@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 313,
-  quote: "Short words are best and the old words when short are best of all.",
-  author: "Winston Churchill"
+  id: 1091,
+  quote: "The Superior Man is aware of Righteousness, the inferior man is aware of advantage.",
+  author: "Confucius"
 }
 ```
 
