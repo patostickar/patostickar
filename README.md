@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1478,
-  quote: "Better than a thousand hollow words is one word that brings peace.",
-  author: "Buddha"
+  id: 94,
+  quote: "You can do it if you believe you can!",
+  author: "Napoleon Hill"
 }
 ```
 
