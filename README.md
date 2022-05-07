@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1256,
-  quote: "Peace begins with a smile.",
-  author: "Mother Teresa"
+  id: 901,
+  quote: "We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.",
+  author: "Stephen Covey"
 }
 ```
 
