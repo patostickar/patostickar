@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 290,
-  quote: "Our greatest glory is not in never failing but rising everytime we fall.",
-  author: "null"
+  id: 357,
+  quote: "You have to do your own growing no matter how tall your grandfather was.",
+  author: "Abraham Lincoln"
 }
 ```
 
