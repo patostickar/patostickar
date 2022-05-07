@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 283,
-  quote: "Begin at once to live and count each separate day as a separate life.",
-  author: "Seneca"
+  id: 888,
+  quote: "Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.",
+  author: "Winston Churchill"
 }
 ```
 
