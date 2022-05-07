@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 281,
-  quote: "One of the advantages of being disorderly is that one is constantly making exciting discoveries.",
-  author: "A. A. Milne"
+  id: 670,
+  quote: "Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.",
+  author: "Louis Pasteur"
 }
 ```
 
