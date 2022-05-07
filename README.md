@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1245,
-  quote: "You do not become good by trying to be good, but by finding the goodness that is already within you.",
-  author: "Eckhart Tolle"
+  id: 267,
+  quote: "Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.",
+  author: "Arthur Conan Doyle"
 }
 ```
 
