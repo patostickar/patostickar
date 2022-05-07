@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1091,
-  quote: "The Superior Man is aware of Righteousness, the inferior man is aware of advantage.",
-  author: "Confucius"
+  id: 572,
+  quote: "These days people seek knowledge, not wisdom. Knowledge is of the past, wisdom is of the future.",
+  author: "Vernon Cooper"
 }
 ```
 
