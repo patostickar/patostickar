@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 612,
-  quote: "By living deeply in the present moment we can understand the past better and we can prepare for a better future.",
-  author: "Thich Nhat Hanh"
+  id: 887,
+  quote: "You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.",
+  author: "Caroline Myss"
 }
 ```
 
