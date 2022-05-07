@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 887,
-  quote: "You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.",
-  author: "Caroline Myss"
+  id: 64,
+  quote: "When performance exceeds ambition, the overlap is called success.",
+  author: "Cullen Hightower"
 }
 ```
 
