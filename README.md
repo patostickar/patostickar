@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 888,
-  quote: "Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.",
-  author: "Winston Churchill"
+  id: 281,
+  quote: "One of the advantages of being disorderly is that one is constantly making exciting discoveries.",
+  author: "A. A. Milne"
 }
 ```
 
