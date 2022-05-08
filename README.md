@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1153,
-  quote: "Age does not protect you from love. But love, to some extent, protects you from age.",
-  author: "Anais Nin"
+  id: 1265,
+  quote: "Setting goals is the first step in turning the invisible into the visible.",
+  author: "Tony Robbins"
 }
 ```
 
