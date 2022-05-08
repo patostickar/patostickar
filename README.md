@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1149,
-  quote: "It's not what happens to you, but how you react to it that matters.",
-  author: "Epictetus"
+  id: 448,
+  quote: "There is only one success to be able to spend your life in your own way.",
+  author: "Christopher Morley"
 }
 ```
 
