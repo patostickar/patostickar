@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 901,
-  quote: "We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.",
-  author: "Stephen Covey"
+  id: 1371,
+  quote: "Weve got to have a dream if we are going to make a dream come true.",
+  author: "Walt Disney"
 }
 ```
 
