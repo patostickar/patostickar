@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 521,
-  quote: "Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.",
-  author: "Mother Teresa"
+  id: 1048,
+  quote: "The truth which has made us free will in the end make us glad also.",
+  author: "Felix Adler"
 }
 ```
 
