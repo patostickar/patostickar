@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 796,
-  quote: "A life spent making mistakes is not only more honourable, but more useful than a life spent doing nothing.",
-  author: "George Bernard Shaw"
+  id: 969,
+  quote: "Happiness does not come from having much, but from being attached to little.",
+  author: "Cheng Yen"
 }
 ```
 
