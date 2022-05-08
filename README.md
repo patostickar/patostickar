@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1371,
-  quote: "Weve got to have a dream if we are going to make a dream come true.",
-  author: "Walt Disney"
+  id: 383,
+  quote: "The truth you believe and cling to makes you unavailable to hear anything new.",
+  author: "Pema Chodron"
 }
 ```
 
