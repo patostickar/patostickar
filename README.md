@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 303,
-  quote: "The worst bankrupt in the world is the person who has lost his enthusiasm.",
-  author: "H. W. Arnold"
+  id: 1153,
+  quote: "Age does not protect you from love. But love, to some extent, protects you from age.",
+  author: "Anais Nin"
 }
 ```
 
