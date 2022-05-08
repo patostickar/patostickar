@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1471,
-  quote: "My reputation grows with every failure.",
-  author: "George Shaw"
+  id: 796,
+  quote: "A life spent making mistakes is not only more honourable, but more useful than a life spent doing nothing.",
+  author: "George Bernard Shaw"
 }
 ```
 
