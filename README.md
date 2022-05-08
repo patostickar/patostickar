@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 849,
-  quote: "Courage is the discovery that you may not win, and trying when you know you can lose.",
-  author: "null"
+  id: 1149,
+  quote: "It's not what happens to you, but how you react to it that matters.",
+  author: "Epictetus"
 }
 ```
 
