@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1451,
-  quote: "It all depends on how we look at things, and not how they are in themselves.",
-  author: "Carl Jung"
+  id: 1521,
+  quote: "If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.",
+  author: "Daisaku Ikeda"
 }
 ```
 
