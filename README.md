@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 383,
-  quote: "The truth you believe and cling to makes you unavailable to hear anything new.",
-  author: "Pema Chodron"
+  id: 1582,
+  quote: "Miracles come in moments. Be ready and willing.",
+  author: "Wayne Dyer"
 }
 ```
 
