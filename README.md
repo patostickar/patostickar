@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1582,
-  quote: "Miracles come in moments. Be ready and willing.",
-  author: "Wayne Dyer"
+  id: 303,
+  quote: "The worst bankrupt in the world is the person who has lost his enthusiasm.",
+  author: "H. W. Arnold"
 }
 ```
 
