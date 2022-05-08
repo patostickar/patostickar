@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 303,
-  quote: "The worst bankrupt in the world is the person who has lost his enthusiasm.",
-  author: "H. W. Arnold"
+  id: 513,
+  quote: "We all live with the objective of being happy; our lives are all different and yet the same.",
+  author: "Anne Frank"
 }
 ```
 
