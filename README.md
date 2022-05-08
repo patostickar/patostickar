@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1199,
-  quote: "Transformation does not start with some one else changing you; transformation is an inner self reworking of what you are now to what you will be.",
-  author: "Byron Pulsifer"
+  id: 303,
+  quote: "The worst bankrupt in the world is the person who has lost his enthusiasm.",
+  author: "H. W. Arnold"
 }
 ```
 
