@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 969,
-  quote: "Happiness does not come from having much, but from being attached to little.",
-  author: "Cheng Yen"
+  id: 849,
+  quote: "Courage is the discovery that you may not win, and trying when you know you can lose.",
+  author: "null"
 }
 ```
 
