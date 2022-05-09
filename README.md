@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 802,
-  quote: "Trust your own instinct. Your mistakes might as well be your own, instead of someone elses.",
-  author: "Billy Wilder"
+  id: 251,
+  quote: "Time you enjoy wasting, was not wasted.",
+  author: "John Lennon"
 }
 ```
 
