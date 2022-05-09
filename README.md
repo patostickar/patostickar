@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1351,
-  quote: "All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.",
-  author: "Bruce Lee"
+  id: 802,
+  quote: "Trust your own instinct. Your mistakes might as well be your own, instead of someone elses.",
+  author: "Billy Wilder"
 }
 ```
 
