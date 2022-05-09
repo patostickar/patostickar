@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 856,
-  quote: "Nobody made a greater mistake than he who did nothing because he could do only a little.",
-  author: "Edmund Burke"
+  id: 971,
+  quote: "Go put your creed into the deed. Nor speak with double tongue.",
+  author: "Ralph Emerson"
 }
 ```
 
