@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1422,
-  quote: "Never deny a diagnosis, but do deny the negative verdict that may go with it.",
-  author: "Norman Cousins"
+  id: 476,
+  quote: "Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
