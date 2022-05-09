@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1092,
-  quote: "He who angers you conquers you.",
-  author: "Elizabeth Kenny"
+  id: 1170,
+  quote: "You can't choose up sides on a round world.",
+  author: "Wayne Dyer"
 }
 ```
 
