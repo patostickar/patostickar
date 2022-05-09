@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 476,
-  quote: "Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.",
-  author: "Eleanor Roosevelt"
+  id: 262,
+  quote: "All things change; nothing perishes.",
+  author: "Ovid"
 }
 ```
 
