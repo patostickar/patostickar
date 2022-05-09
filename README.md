@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1211,
-  quote: "Complaining doesn't change a thing only taking action does.",
-  author: "Byron Pulsifer"
+  id: 856,
+  quote: "Nobody made a greater mistake than he who did nothing because he could do only a little.",
+  author: "Edmund Burke"
 }
 ```
 
