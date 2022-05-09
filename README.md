@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1057,
-  quote: "He who knows himself is enlightened.",
-  author: "Lao Tzu"
+  id: 1211,
+  quote: "Complaining doesn't change a thing only taking action does.",
+  author: "Byron Pulsifer"
 }
 ```
 
