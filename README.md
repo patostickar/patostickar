@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 971,
-  quote: "Go put your creed into the deed. Nor speak with double tongue.",
-  author: "Ralph Emerson"
+  id: 584,
+  quote: "All difficult things have their origin in that which is easy, and great things in that which is small.",
+  author: "Lao-Tzu"
 }
 ```
 
