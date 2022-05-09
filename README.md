@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 221,
-  quote: "There never was a good knife made of bad steel.",
-  author: "Benjamin Franklin"
+  id: 77,
+  quote: "Faith in oneself is the best and safest course.",
+  author: "Michelangelo"
 }
 ```
 
