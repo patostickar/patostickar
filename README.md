@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1024,
-  quote: "Kindness is the golden chain by which society is bound together.",
-  author: "Johann Wolfgang von Goethe"
+  id: 23,
+  quote: "Everything in life is luck.",
+  author: "Donald Trump"
 }
 ```
 
