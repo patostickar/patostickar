@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1170,
-  quote: "You can't choose up sides on a round world.",
-  author: "Wayne Dyer"
+  id: 1024,
+  quote: "Kindness is the golden chain by which society is bound together.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
