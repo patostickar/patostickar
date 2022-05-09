@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1161,
-  quote: "Forgiveness is choosing to love. It is the first skill of self-giving love.",
-  author: "Mohandas Gandhi"
+  id: 1057,
+  quote: "He who knows himself is enlightened.",
+  author: "Lao Tzu"
 }
 ```
 
