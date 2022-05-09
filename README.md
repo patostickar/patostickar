@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 59,
-  quote: "You give before you get.",
-  author: "Napoleon Hill"
+  id: 221,
+  quote: "There never was a good knife made of bad steel.",
+  author: "Benjamin Franklin"
 }
 ```
 
