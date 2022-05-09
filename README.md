@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 77,
-  quote: "Faith in oneself is the best and safest course.",
-  author: "Michelangelo"
+  id: 1422,
+  quote: "Never deny a diagnosis, but do deny the negative verdict that may go with it.",
+  author: "Norman Cousins"
 }
 ```
 
