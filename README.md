@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1120,
-  quote: "Our kindness may be the most persuasive argument for that which we believe.",
-  author: "Gordon Hinckley"
+  id: 1296,
+  quote: "Work for something because it is good, not just because it stands a chance to succeed.",
+  author: "Vaclav Havel"
 }
 ```
 
