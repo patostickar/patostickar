@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 18,
-  quote: "To lead people walk behind them.",
-  author: "Lao Tzu"
+  id: 657,
+  quote: "Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.",
+  author: "Blaise Pascal"
 }
 ```
 
