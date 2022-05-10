@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 262,
-  quote: "All things change; nothing perishes.",
-  author: "Ovid"
+  id: 605,
+  quote: "Nothing is predestined: The obstacles of your past can become the gateways that lead to new beginnings.",
+  author: "Ralph Blum"
 }
 ```
 
