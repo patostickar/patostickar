@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 364,
-  quote: "The superior man is satisfied and composed; the mean man is always full of distress.",
-  author: "Confucius"
+  id: 1363,
+  quote: "The foolish man seeks happiness in the distance; the wise grows it under his feet.",
+  author: "James Openheim"
 }
 ```
 
