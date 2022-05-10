@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 628,
-  quote: "Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.",
-  author: "Margaret Cousins"
+  id: 386,
+  quote: "The only limit to our realization of tomorrow will be our doubts of today.",
+  author: "Franklin Roosevelt"
 }
 ```
 
