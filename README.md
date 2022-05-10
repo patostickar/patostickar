@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 121,
-  quote: "No alibi will save you from accepting the responsibility.",
-  author: "Napoleon Hill"
+  id: 995,
+  quote: "We aim above the mark to hit the mark.",
+  author: "Ralph Emerson"
 }
 ```
 
