@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1166,
-  quote: "Experience keeps a dear school, but fools will learn in no other.",
-  author: "Benjamin Franklin"
+  id: 724,
+  quote: "He who lives in harmony with himself lives in harmony with the universe.",
+  author: "Marcus Aurelius"
 }
 ```
 
