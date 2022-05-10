@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 995,
-  quote: "We aim above the mark to hit the mark.",
-  author: "Ralph Emerson"
+  id: 1519,
+  quote: "If someone in your life talked to you the way you talk to yourself, you would have left them long ago.",
+  author: "Carla Gordon"
 }
 ```
 
