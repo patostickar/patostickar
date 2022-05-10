@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 724,
-  quote: "He who lives in harmony with himself lives in harmony with the universe.",
-  author: "Marcus Aurelius"
+  id: 1492,
+  quote: "Love vanquishes time. To lovers, a moment can be eternity, eternity can be the tick of a clock.",
+  author: "Mary Parrish"
 }
 ```
 
