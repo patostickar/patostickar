@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1236,
-  quote: "Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.",
-  author: "Douglas Adams"
+  id: 1166,
+  quote: "Experience keeps a dear school, but fools will learn in no other.",
+  author: "Benjamin Franklin"
 }
 ```
 
