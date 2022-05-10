@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1592,
-  quote: "Everything that irritates us about others can lead us to a better understanding of ourselves.",
-  author: "Carl Jung"
+  id: 1157,
+  quote: "Speak when you are angry and you will make the best speech you will ever regret.",
+  author: "Ambrose Bierce"
 }
 ```
 
