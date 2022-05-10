@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 318,
-  quote: "Love is just a word until someone comes along and gives it meaning.",
-  author: "null"
+  id: 18,
+  quote: "To lead people walk behind them.",
+  author: "Lao Tzu"
 }
 ```
 
