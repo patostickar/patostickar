@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1492,
-  quote: "Love vanquishes time. To lovers, a moment can be eternity, eternity can be the tick of a clock.",
-  author: "Mary Parrish"
+  id: 489,
+  quote: "The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.",
+  author: "Anais Nin"
 }
 ```
 
