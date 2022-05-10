@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 957,
-  quote: "Freedom is not worth having if it does not connote freedom to err.",
-  author: "Mohandas Gandhi"
+  id: 1166,
+  quote: "Experience keeps a dear school, but fools will learn in no other.",
+  author: "Benjamin Franklin"
 }
 ```
 
