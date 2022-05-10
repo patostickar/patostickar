@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1166,
-  quote: "Experience keeps a dear school, but fools will learn in no other.",
-  author: "Benjamin Franklin"
+  id: 318,
+  quote: "Love is just a word until someone comes along and gives it meaning.",
+  author: "null"
 }
 ```
 
