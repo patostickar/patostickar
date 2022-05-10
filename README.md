@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 386,
-  quote: "The only limit to our realization of tomorrow will be our doubts of today.",
-  author: "Franklin Roosevelt"
+  id: 217,
+  quote: "There is no way to prosperity, prosperity is the way.",
+  author: "Wayne Dyer"
 }
 ```
 
