@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 489,
-  quote: "The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.",
-  author: "Anais Nin"
+  id: 957,
+  quote: "Freedom is not worth having if it does not connote freedom to err.",
+  author: "Mohandas Gandhi"
 }
 ```
 
