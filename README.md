@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1195,
-  quote: "The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.",
-  author: "Booker Washington"
+  id: 364,
+  quote: "The superior man is satisfied and composed; the mean man is always full of distress.",
+  author: "Confucius"
 }
 ```
 
