@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 605,
-  quote: "Nothing is predestined: The obstacles of your past can become the gateways that lead to new beginnings.",
-  author: "Ralph Blum"
+  id: 628,
+  quote: "Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.",
+  author: "Margaret Cousins"
 }
 ```
 
