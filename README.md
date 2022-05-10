@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1519,
-  quote: "If someone in your life talked to you the way you talk to yourself, you would have left them long ago.",
-  author: "Carla Gordon"
+  id: 1195,
+  quote: "The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.",
+  author: "Booker Washington"
 }
 ```
 
