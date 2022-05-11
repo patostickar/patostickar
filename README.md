@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 39,
-  quote: "The world is always in movement.",
-  author: "V. Naipaul"
+  id: 1596,
+  quote: "Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.",
+  author: "Thomas Kempis"
 }
 ```
 
