@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 717,
-  quote: "When you realize there is nothing lacking, the whole world belongs to you.",
-  author: "Lao Tzu"
+  id: 39,
+  quote: "The world is always in movement.",
+  author: "V. Naipaul"
 }
 ```
 
