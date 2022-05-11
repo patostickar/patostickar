@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 442,
-  quote: "By nature man hates change; seldom will he quit his old home till it has actually fallen around his ears.",
-  author: "Thomas Carlyle"
+  id: 960,
+  quote: "To dare is to lose ones footing momentarily. To not dare is to lose oneself.",
+  author: "Soren Kierkegaard"
 }
 ```
 
