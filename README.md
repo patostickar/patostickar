@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1112,
-  quote: "Ask yourself the secret of your success. Listen to your answer, and practice it.",
-  author: "Richard Bach"
+  id: 1232,
+  quote: "We are Divine enough to ask and we are important enough to receive.",
+  author: "Wayne Dyer"
 }
 ```
 
