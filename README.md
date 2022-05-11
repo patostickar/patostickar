@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 764,
-  quote: "Time stays long enough for anyone who will use it.",
-  author: "Leonardo da Vinci"
+  id: 255,
+  quote: "Never put off till tomorrow what you can do today.",
+  author: "Thomas Jefferson"
 }
 ```
 
