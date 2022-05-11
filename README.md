@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1101,
-  quote: "Change your words. Change your world.",
-  author: "null"
+  id: 764,
+  quote: "Time stays long enough for anyone who will use it.",
+  author: "Leonardo da Vinci"
 }
 ```
 
