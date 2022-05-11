@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 255,
-  quote: "Never put off till tomorrow what you can do today.",
-  author: "Thomas Jefferson"
+  id: 59,
+  quote: "You give before you get.",
+  author: "Napoleon Hill"
 }
 ```
 
