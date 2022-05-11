@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1363,
-  quote: "The foolish man seeks happiness in the distance; the wise grows it under his feet.",
-  author: "James Openheim"
+  id: 1573,
+  quote: "Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.",
+  author: "William Menninger"
 }
 ```
 
