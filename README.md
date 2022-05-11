@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1525,
-  quote: "The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.",
-  author: "Eckhart Tolle"
+  id: 196,
+  quote: "Keep true to the dreams of thy youth.",
+  author: "Friedrich von Schiller"
 }
 ```
 
