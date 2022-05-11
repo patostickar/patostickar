@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 431,
-  quote: "Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.",
-  author: "William Saroyan"
+  id: 717,
+  quote: "When you realize there is nothing lacking, the whole world belongs to you.",
+  author: "Lao Tzu"
 }
 ```
 
