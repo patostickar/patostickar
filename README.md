@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 59,
-  quote: "You give before you get.",
-  author: "Napoleon Hill"
+  id: 1245,
+  quote: "You do not become good by trying to be good, but by finding the goodness that is already within you.",
+  author: "Eckhart Tolle"
 }
 ```
 
