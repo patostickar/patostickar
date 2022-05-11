@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 726,
-  quote: "When the solution is simple, God is answering.",
-  author: "Albert Einstein"
+  id: 1295,
+  quote: "You can never cross the ocean unless you have the courage to lose sight of the shore.",
+  author: "null"
 }
 ```
 
