@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 88,
-  quote: "Argue for your limitations, and sure enough theyre yours.",
-  author: "Richard Bach"
+  id: 665,
+  quote: "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+  author: "Buddha"
 }
 ```
 
