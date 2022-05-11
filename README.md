@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1328,
-  quote: "You are the only person on earth who can use your ability.",
-  author: "Zig Ziglar"
+  id: 1112,
+  quote: "Ask yourself the secret of your success. Listen to your answer, and practice it.",
+  author: "Richard Bach"
 }
 ```
 
