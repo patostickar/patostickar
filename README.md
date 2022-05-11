@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1596,
-  quote: "Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.",
-  author: "Thomas Kempis"
+  id: 88,
+  quote: "Argue for your limitations, and sure enough theyre yours.",
+  author: "Richard Bach"
 }
 ```
 
