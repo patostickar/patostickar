@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1573,
-  quote: "Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.",
-  author: "William Menninger"
+  id: 442,
+  quote: "By nature man hates change; seldom will he quit his old home till it has actually fallen around his ears.",
+  author: "Thomas Carlyle"
 }
 ```
 
