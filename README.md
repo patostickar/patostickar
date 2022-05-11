@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1130,
-  quote: "If you love life, don't waste time, for time is what life is made up of.",
-  author: "Bruce Lee"
+  id: 1328,
+  quote: "You are the only person on earth who can use your ability.",
+  author: "Zig Ziglar"
 }
 ```
 
