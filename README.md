@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1295,
-  quote: "You can never cross the ocean unless you have the courage to lose sight of the shore.",
-  author: "null"
+  id: 431,
+  quote: "Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.",
+  author: "William Saroyan"
 }
 ```
 
