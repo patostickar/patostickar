@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 196,
-  quote: "Keep true to the dreams of thy youth.",
-  author: "Friedrich von Schiller"
+  id: 1101,
+  quote: "Change your words. Change your world.",
+  author: "null"
 }
 ```
 
