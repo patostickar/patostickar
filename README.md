@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1232,
-  quote: "We are Divine enough to ask and we are important enough to receive.",
-  author: "Wayne Dyer"
+  id: 1295,
+  quote: "You can never cross the ocean unless you have the courage to lose sight of the shore.",
+  author: "null"
 }
 ```
 
