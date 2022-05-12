@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 605,
-  quote: "Nothing is predestined: The obstacles of your past can become the gateways that lead to new beginnings.",
-  author: "Ralph Blum"
+  id: 260,
+  quote: "All seasons are beautiful for the person who carries happiness within.",
+  author: "Horace Friess"
 }
 ```
 
