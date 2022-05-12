@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1249,
-  quote: "The things that one most wants to do are the things that are probably most worth doing.",
-  author: "Winifred Holtby"
+  id: 1581,
+  quote: "Slow down and enjoy life. It's not only the scenery you miss by going too fast you also miss the sense of where you are going and why.",
+  author: "Eddie Cantor"
 }
 ```
 
