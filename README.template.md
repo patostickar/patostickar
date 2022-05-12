@@ -40,7 +40,7 @@ I'm Patricio, a full-stack web developer. I'm into all things about technology, 
 
 ---
 
-Please enjoy an inspirational quote from freeCodeCamp before you go
+Before you leave, here's a random generated quote for you:
 
 ```javascript
 {
@@ -54,6 +54,9 @@ Come back for the next one in one hour 😉
 
 ---
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="pstickar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/pstickar?trk=profile-badge">Patricio Stickar</a></div>
+              
 <p>&nbsp;</p>
 
 <h3 align="center">Made with ❤️ by Patricio Stickar</h3>
