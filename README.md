@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1572,
-  quote: "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
-  author: "Marcus Aurelius"
+  id: 372,
+  quote: "You, yourself, as much as anybody in the entire universe, deserve your love and affection.",
+  author: "Buddha"
 }
 ```
 
