@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 365,
-  quote: "If you spend too much time thinking about a thing, you'll never get it done.",
-  author: "Bruce Lee"
+  id: 1175,
+  quote: "Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.",
+  author: "Carl Jung"
 }
 ```
 
