@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1295,
-  quote: "You can never cross the ocean unless you have the courage to lose sight of the shore.",
-  author: "null"
+  id: 1625,
+  quote: "The truest greatness lies in being kind, the truest wisdom in a happy mind.",
+  author: "Ella Wilcox"
 }
 ```
 
