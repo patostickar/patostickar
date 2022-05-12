@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1363,
-  quote: "The foolish man seeks happiness in the distance; the wise grows it under his feet.",
-  author: "James Openheim"
+  id: 1422,
+  quote: "Never deny a diagnosis, but do deny the negative verdict that may go with it.",
+  author: "Norman Cousins"
 }
 ```
 
