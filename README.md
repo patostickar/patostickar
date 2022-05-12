@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1366,
-  quote: "You cannot have what you do not want.",
-  author: "John Acosta"
+  id: 1176,
+  quote: "You cannot travel the path until you have become the path itself.",
+  author: "Buddha"
 }
 ```
 
