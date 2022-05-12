@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 746,
-  quote: "Action will remove the doubts that theory cannot solve.",
-  author: "Tehyi Hsieh"
+  id: 1127,
+  quote: "The time you think you're missing, misses you too.",
+  author: "Ymber Delecto"
 }
 ```
 
