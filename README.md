@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 361,
-  quote: "There is nothing in a caterpillar that tells you it's going to be a butterfly.",
-  author: "Buckminster Fuller"
+  id: 746,
+  quote: "Action will remove the doubts that theory cannot solve.",
+  author: "Tehyi Hsieh"
 }
 ```
 
