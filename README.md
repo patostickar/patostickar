@@ -44,9 +44,9 @@ Before you leave, here's a random generated quote for you:
 
 ```javascript
 {
-  id: 2,
-  quote: "A house divided against itself cannot stand.",
-  author: "Abraham Lincoln"
+  id: 703,
+  quote: "Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.",
+  author: "Napoleon Hill"
 }
 ```
 
