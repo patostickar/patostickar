@@ -40,7 +40,12 @@ I'm Patricio, a full-stack web developer. I'm into all things about technology, 
 
 ---
 
+<<<<<<< HEAD
 Grab a random quote before you leave:
+=======
+Before you leave, here's a random generated quote for you:
+
+> > > > > > > 9fb83342c82b04bec71e0eed4c46450b04d2c9ca
 
 ```javascript
 {
@@ -55,7 +60,6 @@ Come back for the next one in one hour 😉
 ---
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="pstickar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/pstickar?trk=profile-badge">Patricio Stickar</a></div>
-
 
 <p>&nbsp;</p>
 
