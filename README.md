@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 372,
-  quote: "You, yourself, as much as anybody in the entire universe, deserve your love and affection.",
-  author: "Buddha"
+  id: 361,
+  quote: "There is nothing in a caterpillar that tells you it's going to be a butterfly.",
+  author: "Buckminster Fuller"
 }
 ```
 
