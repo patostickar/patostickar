@@ -1,4 +1,4 @@
-import linkedin from './linkedin';
+const linkedin = require('./linkedin');
 require('isomorphic-unfetch');
 const { promises: fs } = require('fs');
 const path = require('path');
