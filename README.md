@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1625,
-  quote: "The truest greatness lies in being kind, the truest wisdom in a happy mind.",
-  author: "Ella Wilcox"
+  id: 890,
+  quote: "If one advances confidently in the direction of his dream, and endeavours to live the life which he had imagines, he will meet with a success unexpected in common hours.",
+  author: "Henry David Thoreau"
 }
 ```
 
