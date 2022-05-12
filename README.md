@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1422,
-  quote: "Never deny a diagnosis, but do deny the negative verdict that may go with it.",
-  author: "Norman Cousins"
+  id: 1366,
+  quote: "You cannot have what you do not want.",
+  author: "John Acosta"
 }
 ```
 
