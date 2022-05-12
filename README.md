@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 280,
-  quote: "All the great performers I have worked with are fuelled by a personal dream.",
-  author: "John Eliot"
+  id: 1034,
+  quote: "Imagination is not a talent of some men but is the health of every man.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
