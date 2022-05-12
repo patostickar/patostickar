@@ -44,9 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-  id: 1175,
-  quote: "Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.",
-  author: "Carl Jung"
+  id: 1363,
+  quote: "The foolish man seeks happiness in the distance; the wise grows it under his feet.",
+  author: "James Openheim"
 }
 ```
 
