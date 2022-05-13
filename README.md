@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1050,
-  quote: "Whoso loves, believes the impossible.",
-  author: "Elizabeth Browning"
+  id: 1589,
+  quote: "Wise men talk because they have something to say; fools, because they have to say something.",
+  author: "Plato"
 }
 ```
 
