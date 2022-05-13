@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 328,
-  quote: "How we spend our days is, of course, how we spend our lives.",
-  author: "Annie Dillard"
+  id: 706,
+  quote: "The pain passes, but the beauty remains.",
+  author: "Pierre Auguste Renoir"
 }
 ```
 
