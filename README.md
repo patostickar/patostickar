@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1004,
-  quote: "Lose an hour in the morning, and you will spend all day looking for it.",
-  author: "Richard Whately"
+  id: 410,
+  quote: "We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.",
+  author: "Sam Keen"
 }
 ```
 
