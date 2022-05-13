@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 372,
-  quote: "You, yourself, as much as anybody in the entire universe, deserve your love and affection.",
-  author: "Buddha"
+  id: 641,
+  quote: "Wisdom is knowing what to do next; Skill is knowing how ot do it, and Virtue is doing it.",
+  author: "David Jordan"
 }
 ```
 
