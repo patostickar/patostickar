@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 107,
-  quote: "If you cannot be silent be brilliant and thoughtful.",
-  author: "Byron Pulsifer"
+  id: 1133,
+  quote: "Progress always involves risks. You can't steal second base and keep your foot on first.",
+  author: "Frederick Wilcox"
 }
 ```
 
