@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 648,
-  quote: "If we are facing in the right direction, all we have to do is keep on walking.",
-  author: "null"
+  id: 328,
+  quote: "How we spend our days is, of course, how we spend our lives.",
+  author: "Annie Dillard"
 }
 ```
 
