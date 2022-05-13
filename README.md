@@ -44,15 +44,9 @@ Please enjoy an inspirational quote from freeCodeCamp before you go
 
 ```javascript
 {
-<<<<<<< HEAD
   id: 1476,
   quote: "If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception, it is a prevailing attitude.",
   author: "Colin Powell"
-=======
-  id: 1581,
-  quote: "Slow down and enjoy life. It's not only the scenery you miss by going too fast you also miss the sense of where you are going and why.",
-  author: "Eddie Cantor"
->>>>>>> parent of f305dd3 ([Automated] README updated with new quote!)
 }
 ```
 
