@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 100,
-  quote: "No man was ever wise by chance.",
-  author: "Seneca"
+  id: 94,
+  quote: "You can do it if you believe you can!",
+  author: "Napoleon Hill"
 }
 ```
 
