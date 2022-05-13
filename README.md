@@ -40,24 +40,13 @@ I'm Patricio, a full-stack web developer. I'm into all things about technology, 
 
 ---
 
-<<<<<<< HEAD
 Grab a random quote before you leave:
-=======
-Before you leave, here's a random generated quote for you:
-
-> > > > > > > 9fb83342c82b04bec71e0eed4c46450b04d2c9ca
 
 ```javascript
 {
-<<<<<<< HEAD
-  id: 1476,
-  quote: "If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception, it is a prevailing attitude.",
-  author: "Colin Powell"
-=======
-  id: 1428,
-  quote: "Failure will never overtake me if my determination to succeed is strong enough.",
-  author: "Og Mandino"
->>>>>>> fc76f08e4890d42fa3a104d364d52610602ea77d
+  id: 648,
+  quote: "If we are facing in the right direction, all we have to do is keep on walking.",
+  author: "null"
 }
 ```
 
