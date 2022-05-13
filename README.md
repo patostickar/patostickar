@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1114,
-  quote: "Trust your hunches. They're usually based on facts filed away just below the conscious level.",
-  author: "Joyce Brothers"
+  id: 1487,
+  quote: "What the caterpillar calls the end of the world, the master calls a butterfly.",
+  author: "Richard Bach"
 }
 ```
 
