@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 527,
-  quote: "We never understand how little we need in this world until we know the loss of it.",
-  author: "James Barrie"
+  id: 298,
+  quote: "I think somehow we learn who we really are and then live with that decision.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
