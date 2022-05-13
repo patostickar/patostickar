@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 97,
-  quote: "Smile, breathe, and go slowly.",
-  author: "Thich Nhat Hanh"
+  id: 1114,
+  quote: "Trust your hunches. They're usually based on facts filed away just below the conscious level.",
+  author: "Joyce Brothers"
 }
 ```
 
