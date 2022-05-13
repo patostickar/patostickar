@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1589,
-  quote: "Wise men talk because they have something to say; fools, because they have to say something.",
-  author: "Plato"
+  id: 866,
+  quote: "Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared.",
+  author: "Buddha"
 }
 ```
 
