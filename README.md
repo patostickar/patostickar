@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 657,
-  quote: "Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.",
-  author: "Blaise Pascal"
+  id: 372,
+  quote: "You, yourself, as much as anybody in the entire universe, deserve your love and affection.",
+  author: "Buddha"
 }
 ```
 
