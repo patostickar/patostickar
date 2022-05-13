@@ -40,12 +40,7 @@ I'm Patricio, a full-stack web developer. I'm into all things about technology, 
 
 ---
 
-<<<<<<< HEAD
 Grab a random quote before you leave:
-=======
-Before you leave, here's a random generated quote for you:
-
-> > > > > > > 9fb83342c82b04bec71e0eed4c46450b04d2c9ca
 
 ```javascript
 {
