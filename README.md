@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 298,
-  quote: "I think somehow we learn who we really are and then live with that decision.",
-  author: "Eleanor Roosevelt"
+  id: 1004,
+  quote: "Lose an hour in the morning, and you will spend all day looking for it.",
+  author: "Richard Whately"
 }
 ```
 
