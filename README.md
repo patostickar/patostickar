@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 273,
-  quote: "Be thankful when you don't know something for it gives you the opportunity to learn.",
-  author: "null"
+  id: 1201,
+  quote: "Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
