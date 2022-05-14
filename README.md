@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 902,
-  quote: "The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work. When you spend time having fun, you know you're being self-indulgent.",
-  author: "Paul Graham"
+  id: 273,
+  quote: "Be thankful when you don't know something for it gives you the opportunity to learn.",
+  author: "null"
 }
 ```
 
