@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 702,
-  quote: "How far that little candle throws its beams! So shines a good deed in a naughty world.",
-  author: "William Shakespeare"
+  id: 540,
+  quote: "Keeping a little ahead of conditions is one of the secrets of business, the trailer seldom goes far.",
+  author: "Charles Schwab"
 }
 ```
 
