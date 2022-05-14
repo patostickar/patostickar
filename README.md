@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1563,
-  quote: "No one has a finer command of language than the person who keeps his mouth shut.",
-  author: "Sam Rayburn"
+  id: 561,
+  quote: "To give hope to someone occurs when you teach them how to use the tools to do it for themselves.",
+  author: "Byron Pulsifer"
 }
 ```
 
