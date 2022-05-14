@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 540,
-  quote: "Keeping a little ahead of conditions is one of the secrets of business, the trailer seldom goes far.",
-  author: "Charles Schwab"
+  id: 232,
+  quote: "There is no greater harm than that of time wasted.",
+  author: "Michelangelo"
 }
 ```
 
