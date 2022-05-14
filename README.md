@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 357,
-  quote: "You have to do your own growing no matter how tall your grandfather was.",
-  author: "Abraham Lincoln"
+  id: 139,
+  quote: "Wherever you go, go with all your heart.",
+  author: "Confucius"
 }
 ```
 
