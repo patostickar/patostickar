@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1581,
-  quote: "Slow down and enjoy life. It's not only the scenery you miss by going too fast you also miss the sense of where you are going and why.",
-  author: "Eddie Cantor"
+  id: 975,
+  quote: "Nothing ever goes away until it has taught us what we need to know.",
+  author: "Pema Chodron"
 }
 ```
 
