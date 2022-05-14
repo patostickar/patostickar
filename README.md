@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 853,
-  quote: "For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.",
-  author: "Mary Kay Ash"
+  id: 1563,
+  quote: "No one has a finer command of language than the person who keeps his mouth shut.",
+  author: "Sam Rayburn"
 }
 ```
 
