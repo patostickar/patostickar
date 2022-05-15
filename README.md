@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 933,
-  quote: "Believe deep down in your heart that you're destined to do great things.",
-  author: "Joe Paterno"
+  id: 22,
+  quote: "Ideas are the beginning points of all fortunes.",
+  author: "Napoleon Hill"
 }
 ```
 
