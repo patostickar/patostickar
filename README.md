@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1462,
-  quote: "We read the world wrong and say that it deceives us.",
-  author: "Rabindranath Tagore"
+  id: 232,
+  quote: "There is no greater harm than that of time wasted.",
+  author: "Michelangelo"
 }
 ```
 
