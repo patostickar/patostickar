@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1421,
-  quote: "By accepting yourself and being fully what you are, your presence can make others happy.",
-  author: "Jane Roberts"
+  id: 742,
+  quote: "Watch the little things; a small leak will sink a great ship.",
+  author: "Benjamin Franklin"
 }
 ```
 
