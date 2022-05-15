@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1158,
-  quote: "Things do not change, we change.",
-  author: "Henry Thoreau"
+  id: 930,
+  quote: "It is only possible to live happily ever after on a day to day basis.",
+  author: "Margaret Bonnano"
 }
 ```
 
