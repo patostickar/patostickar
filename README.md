@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 22,
-  quote: "Ideas are the beginning points of all fortunes.",
-  author: "Napoleon Hill"
+  id: 1158,
+  quote: "Things do not change, we change.",
+  author: "Henry Thoreau"
 }
 ```
 
