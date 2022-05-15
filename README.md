@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 135,
-  quote: "The greatest remedy for anger is delay.",
-  author: "Seneca"
+  id: 56,
+  quote: "Love is the flower you've got to let grow.",
+  author: "John Lennon"
 }
 ```
 
