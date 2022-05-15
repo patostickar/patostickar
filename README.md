@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1603,
-  quote: "The only Zen you find on the tops of mountains is the Zen you bring up there.",
-  author: "Robert Pirsig"
+  id: 1462,
+  quote: "We read the world wrong and say that it deceives us.",
+  author: "Rabindranath Tagore"
 }
 ```
 
