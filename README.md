@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1336,
-  quote: "I walk slowly, but I never walk backward.",
-  author: "Abraham Lincoln"
+  id: 740,
+  quote: "Silence is the true friend that never betrays.",
+  author: "Confucius"
 }
 ```
 
