@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 582,
-  quote: "I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.",
-  author: "G. K. Chesterton"
+  id: 1421,
+  quote: "By accepting yourself and being fully what you are, your presence can make others happy.",
+  author: "Jane Roberts"
 }
 ```
 
