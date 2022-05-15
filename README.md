@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 56,
-  quote: "Love is the flower you've got to let grow.",
-  author: "John Lennon"
+  id: 1603,
+  quote: "The only Zen you find on the tops of mountains is the Zen you bring up there.",
+  author: "Robert Pirsig"
 }
 ```
 
