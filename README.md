@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1269,
-  quote: "We know from science that nothing in the universe exists as an isolated or independent entity.",
-  author: "Margaret Wheatley"
+  id: 527,
+  quote: "We never understand how little we need in this world until we know the loss of it.",
+  author: "James Barrie"
 }
 ```
 
