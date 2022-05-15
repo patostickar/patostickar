@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 957,
-  quote: "Freedom is not worth having if it does not connote freedom to err.",
-  author: "Mohandas Gandhi"
+  id: 1036,
+  quote: "Don't wait for people to be friendly. Show them how.",
+  author: "null"
 }
 ```
 
