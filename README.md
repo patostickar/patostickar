@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 740,
-  quote: "Silence is the true friend that never betrays.",
-  author: "Confucius"
+  id: 1132,
+  quote: "It is impossible to feel grateful and depressed in the same moment.",
+  author: "Naomi Williams"
 }
 ```
 
