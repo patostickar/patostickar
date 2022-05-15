@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 742,
-  quote: "Watch the little things; a small leak will sink a great ship.",
-  author: "Benjamin Franklin"
+  id: 60,
+  quote: "Wisdom begins in wonder.",
+  author: "Socrates"
 }
 ```
 
