@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1438,
-  quote: "Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.",
-  author: "Aristotle"
+  id: 576,
+  quote: "There are only two mistakes one can make along the road to truth; not going all the way, and not starting.",
+  author: "Buddha"
 }
 ```
 
