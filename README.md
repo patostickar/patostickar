@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 959,
-  quote: "He who obtains has little. He who scatters has much.",
-  author: "Lao Tzu"
+  id: 1041,
+  quote: "Winners have simply formed the habit of doing things losers don't like to do.",
+  author: "Albert Gray"
 }
 ```
 
