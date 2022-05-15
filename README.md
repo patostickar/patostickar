@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 930,
-  quote: "It is only possible to live happily ever after on a day to day basis.",
-  author: "Margaret Bonnano"
+  id: 1336,
+  quote: "I walk slowly, but I never walk backward.",
+  author: "Abraham Lincoln"
 }
 ```
 
