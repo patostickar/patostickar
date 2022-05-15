@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 60,
-  quote: "Wisdom begins in wonder.",
-  author: "Socrates"
+  id: 957,
+  quote: "Freedom is not worth having if it does not connote freedom to err.",
+  author: "Mohandas Gandhi"
 }
 ```
 
