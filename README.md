@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 271,
-  quote: "The future belongs to those who believe in the beauty of their dreams.",
-  author: "Eleanor Roosevelt"
+  id: 1491,
+  quote: "Knowledge has three degrees opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.",
+  author: "Plotinus"
 }
 ```
 
