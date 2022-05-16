@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 926,
-  quote: "Anything you really want, you can attain, if you really go after it.",
-  author: "Wayne Dyer"
+  id: 1049,
+  quote: "He who has imagination without learning has wings but no feet.",
+  author: "Joseph Joubert"
 }
 ```
 
