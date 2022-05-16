@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 934,
-  quote: "Sooner or later, those who win are those who think they can.",
-  author: "Richard Bach"
+  id: 1234,
+  quote: "To see things in the seed, that is genius.",
+  author: "Lao Tzu"
 }
 ```
 
