@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 851,
-  quote: "The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.",
-  author: "Mortimer Adler"
+  id: 1303,
+  quote: "The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world.",
+  author: "Dalai Lama"
 }
 ```
 
