@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1041,
-  quote: "Winners have simply formed the habit of doing things losers don't like to do.",
-  author: "Albert Gray"
+  id: 410,
+  quote: "We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.",
+  author: "Sam Keen"
 }
 ```
 
