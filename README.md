@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1049,
-  quote: "He who has imagination without learning has wings but no feet.",
-  author: "Joseph Joubert"
+  id: 271,
+  quote: "The future belongs to those who believe in the beauty of their dreams.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
