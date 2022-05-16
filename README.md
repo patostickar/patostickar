@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 283,
-  quote: "Begin at once to live and count each separate day as a separate life.",
-  author: "Seneca"
+  id: 1551,
+  quote: "I endeavour to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.",
+  author: "Elizabeth Montagu"
 }
 ```
 
