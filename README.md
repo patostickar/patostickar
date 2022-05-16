@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1141,
-  quote: "Nobody can do everything, but everybody can do something.",
-  author: "null"
+  id: 518,
+  quote: "Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.",
+  author: "Plato"
 }
 ```
 
