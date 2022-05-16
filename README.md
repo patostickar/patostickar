@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 431,
-  quote: "Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.",
-  author: "William Saroyan"
+  id: 1413,
+  quote: "You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.",
+  author: "Anatole France"
 }
 ```
 
