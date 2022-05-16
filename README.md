@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1303,
-  quote: "The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world.",
-  author: "Dalai Lama"
+  id: 431,
+  quote: "Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.",
+  author: "William Saroyan"
 }
 ```
 
