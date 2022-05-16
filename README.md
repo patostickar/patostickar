@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 410,
-  quote: "We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.",
-  author: "Sam Keen"
+  id: 851,
+  quote: "The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.",
+  author: "Mortimer Adler"
 }
 ```
 
