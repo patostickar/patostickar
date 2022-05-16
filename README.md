@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1234,
-  quote: "To see things in the seed, that is genius.",
-  author: "Lao Tzu"
+  id: 1152,
+  quote: "Take rest; a field that has rested gives a bountiful crop.",
+  author: "Ovid"
 }
 ```
 
