@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 872,
-  quote: "The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.",
-  author: "Vincent Lombardi"
+  id: 880,
+  quote: "When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points.",
+  author: "Confucius"
 }
 ```
 
