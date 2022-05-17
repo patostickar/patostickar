@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 440,
-  quote: "I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.",
-  author: "Og Mandino"
+  id: 1199,
+  quote: "Transformation does not start with some one else changing you; transformation is an inner self reworking of what you are now to what you will be.",
+  author: "Byron Pulsifer"
 }
 ```
 
