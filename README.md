@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1199,
-  quote: "Transformation does not start with some one else changing you; transformation is an inner self reworking of what you are now to what you will be.",
-  author: "Byron Pulsifer"
+  id: 1640,
+  quote: "Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.",
+  author: "Tony Robbins"
 }
 ```
 
