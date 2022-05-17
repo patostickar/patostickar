@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 245,
-  quote: "An ant on the move does more than a dozing ox",
-  author: "Lao Tzu"
+  id: 696,
+  quote: "Your work is to discover your world and then with all your heart give yourself to it.",
+  author: "Buddha"
 }
 ```
 
