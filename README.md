@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 196,
-  quote: "Keep true to the dreams of thy youth.",
-  author: "Friedrich von Schiller"
+  id: 942,
+  quote: "When you come to the end of your rope, tie a knot and hang on.",
+  author: "Franklin Roosevelt"
 }
 ```
 
