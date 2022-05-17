@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 972,
-  quote: "The wisest men follow their own direction.",
-  author: "Euripides"
+  id: 98,
+  quote: "Nobody will believe in you unless you believe in yourself.",
+  author: "Liberace"
 }
 ```
 
