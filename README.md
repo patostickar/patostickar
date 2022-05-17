@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 486,
-  quote: "Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.",
-  author: "Sri Chinmoy"
+  id: 1045,
+  quote: "I want you to be everything that's you, deep at the center of your being.",
+  author: "Confucius"
 }
 ```
 
