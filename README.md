@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 986,
-  quote: "We cannot solve our problems with the same thinking we used when we created them.",
-  author: "Albert Einstein"
+  id: 972,
+  quote: "The wisest men follow their own direction.",
+  author: "Euripides"
 }
 ```
 
