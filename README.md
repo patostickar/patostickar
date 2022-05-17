@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 450,
-  quote: "Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.",
-  author: "Alan Cohen"
+  id: 429,
+  quote: "Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.",
+  author: "Ralph Emerson"
 }
 ```
 
