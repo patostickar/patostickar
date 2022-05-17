@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1488,
-  quote: "Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.",
-  author: "Thomas Carlyle"
+  id: 901,
+  quote: "We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.",
+  author: "Stephen Covey"
 }
 ```
 
