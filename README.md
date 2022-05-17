@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 429,
-  quote: "Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.",
-  author: "Ralph Emerson"
+  id: 1536,
+  quote: "Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.",
+  author: "Voltaire"
 }
 ```
 
