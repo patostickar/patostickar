@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1473,
-  quote: "Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.",
-  author: "Dalai Lama"
+  id: 245,
+  quote: "An ant on the move does more than a dozing ox",
+  author: "Lao Tzu"
 }
 ```
 
