@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 942,
-  quote: "When you come to the end of your rope, tie a knot and hang on.",
-  author: "Franklin Roosevelt"
+  id: 867,
+  quote: "I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.",
+  author: "Michel de Montaigne"
 }
 ```
 
