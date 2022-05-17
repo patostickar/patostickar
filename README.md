@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 867,
-  quote: "I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.",
-  author: "Michel de Montaigne"
+  id: 450,
+  quote: "Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.",
+  author: "Alan Cohen"
 }
 ```
 
