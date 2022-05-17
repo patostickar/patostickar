@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 98,
-  quote: "Nobody will believe in you unless you believe in yourself.",
-  author: "Liberace"
+  id: 17,
+  quote: "Every man dies. Not every man really lives.",
+  author: "null"
 }
 ```
 
