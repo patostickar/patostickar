@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1045,
-  quote: "I want you to be everything that's you, deep at the center of your being.",
-  author: "Confucius"
+  id: 440,
+  quote: "I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.",
+  author: "Og Mandino"
 }
 ```
 
