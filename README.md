@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 949,
-  quote: "Truth isn't all about what actually happens but more about how what has happened is interpreted.",
-  author: "Byron Pulsifer"
+  id: 986,
+  quote: "We cannot solve our problems with the same thinking we used when we created them.",
+  author: "Albert Einstein"
 }
 ```
 
