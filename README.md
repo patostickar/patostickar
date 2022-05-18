@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1077,
-  quote: "Most of the shadows of life are caused by standing in our own sunshine.",
-  author: "Ralph Waldo Emerson"
+  id: 1268,
+  quote: "The smallest act of kindness is worth more than the grandest intention.",
+  author: "Oscar Wilde"
 }
 ```
 
