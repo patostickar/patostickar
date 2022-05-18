@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 540,
-  quote: "Keeping a little ahead of conditions is one of the secrets of business, the trailer seldom goes far.",
-  author: "Charles Schwab"
+  id: 701,
+  quote: "Work while you have the light. You are responsible for the talent that has been entrusted to you.",
+  author: "Henri-Frederic Amiel"
 }
 ```
 
