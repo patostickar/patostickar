@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1402,
-  quote: "The important thing is this: to be able at any moment to sacrifice what we are for what we could become.",
-  author: "Charles Dubois"
+  id: 819,
+  quote: "Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.",
+  author: "Babatunde Olatunji"
 }
 ```
 
