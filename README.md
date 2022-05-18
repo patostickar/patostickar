@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 701,
-  quote: "Work while you have the light. You are responsible for the talent that has been entrusted to you.",
-  author: "Henri-Frederic Amiel"
+  id: 842,
+  quote: "It's so simple to be wise. Just think of something stupid to say and then don't say it.",
+  author: "Sam Levenson"
 }
 ```
 
