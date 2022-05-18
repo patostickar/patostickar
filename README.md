@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 842,
-  quote: "It's so simple to be wise. Just think of something stupid to say and then don't say it.",
-  author: "Sam Levenson"
+  id: 1313,
+  quote: "The first duty of a human being is to assume the right functional relationship to society more briefly, to find your real job, and do it.",
+  author: "Charlotte Perkins Gilman"
 }
 ```
 
