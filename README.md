@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1268,
-  quote: "The smallest act of kindness is worth more than the grandest intention.",
-  author: "Oscar Wilde"
+  id: 1402,
+  quote: "The important thing is this: to be able at any moment to sacrifice what we are for what we could become.",
+  author: "Charles Dubois"
 }
 ```
 
