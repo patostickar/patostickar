@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 819,
-  quote: "Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.",
-  author: "Babatunde Olatunji"
+  id: 63,
+  quote: "What you fear is that which requires action to overcome.",
+  author: "Byron Pulsifer"
 }
 ```
 
