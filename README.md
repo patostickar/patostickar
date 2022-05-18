@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 850,
-  quote: "To be thoughtful and kind only takes a few seconds compared to the timeless hurt caused by one rude gesture.",
-  author: "Byron Pulsifer"
+  id: 312,
+  quote: "What you do not want done to yourself, do not do to others.",
+  author: "Confucius"
 }
 ```
 
