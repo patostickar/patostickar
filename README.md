@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 931,
-  quote: "A man sees in the world what he carries in his heart.",
-  author: "Goethe"
+  id: 43,
+  quote: "Goals are the fuel in the furnace of achievement.",
+  author: "Brian Tracy"
 }
 ```
 
