@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1386,
-  quote: "Learn to listen. Opportunity could be knocking at your door very softly.",
-  author: "Frank Tyger"
+  id: 131,
+  quote: "Reality does not conform to the ideal, but confirms it.",
+  author: "Gustave Flaubert"
 }
 ```
 
