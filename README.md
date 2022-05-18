@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 63,
-  quote: "What you fear is that which requires action to overcome.",
-  author: "Byron Pulsifer"
+  id: 622,
+  quote: "It is more important to know where you are going than to get there quickly. Do not mistake activity for achievement.",
+  author: "Mabel Newcomber"
 }
 ```
 
