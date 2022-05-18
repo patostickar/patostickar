@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1233,
-  quote: "If you kick a stone in anger, you'll hurt your own foot.",
-  author: "Korean proverb"
+  id: 1153,
+  quote: "Age does not protect you from love. But love, to some extent, protects you from age.",
+  author: "Anais Nin"
 }
 ```
 
