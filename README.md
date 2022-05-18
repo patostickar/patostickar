@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 342,
-  quote: "Knowledge is a process of piling up facts; wisdom lies in their simplification.",
-  author: "Martin Fischer"
+  id: 1077,
+  quote: "Most of the shadows of life are caused by standing in our own sunshine.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
