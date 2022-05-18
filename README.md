@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1169,
-  quote: "We do not quit playing because we grow old, we grow old because we quit playing.",
-  author: "Oliver Holmes"
+  id: 1233,
+  quote: "If you kick a stone in anger, you'll hurt your own foot.",
+  author: "Korean proverb"
 }
 ```
 
