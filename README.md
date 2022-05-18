@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 131,
-  quote: "Reality does not conform to the ideal, but confirms it.",
-  author: "Gustave Flaubert"
+  id: 931,
+  quote: "A man sees in the world what he carries in his heart.",
+  author: "Goethe"
 }
 ```
 
