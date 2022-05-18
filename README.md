@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 728,
-  quote: "Do not turn back when you are just at the goal.",
-  author: "Publilius Syrus"
+  id: 1169,
+  quote: "We do not quit playing because we grow old, we grow old because we quit playing.",
+  author: "Oliver Holmes"
 }
 ```
 
