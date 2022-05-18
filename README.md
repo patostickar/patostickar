@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 527,
-  quote: "We never understand how little we need in this world until we know the loss of it.",
-  author: "James Barrie"
+  id: 847,
+  quote: "Happiness is when what you think, what you say, and what you do are in harmony.",
+  author: "Mohandas Gandhi"
 }
 ```
 
