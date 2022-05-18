@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1153,
-  quote: "Age does not protect you from love. But love, to some extent, protects you from age.",
-  author: "Anais Nin"
+  id: 342,
+  quote: "Knowledge is a process of piling up facts; wisdom lies in their simplification.",
+  author: "Martin Fischer"
 }
 ```
 
