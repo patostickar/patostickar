@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 847,
-  quote: "Happiness is when what you think, what you say, and what you do are in harmony.",
-  author: "Mohandas Gandhi"
+  id: 850,
+  quote: "To be thoughtful and kind only takes a few seconds compared to the timeless hurt caused by one rude gesture.",
+  author: "Byron Pulsifer"
 }
 ```
 
