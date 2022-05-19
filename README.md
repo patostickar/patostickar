@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 817,
-  quote: "The amount of happiness that you have depends on the amount of freedom you have in your heart.",
-  author: "Thich Nhat Hanh"
+  id: 789,
+  quote: "Not what we have but what we enjoy constitutes our abundance.",
+  author: "John Petit-Senn"
 }
 ```
 
