@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 877,
-  quote: "To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.",
-  author: "Kahlil Gibran"
+  id: 1214,
+  quote: "With every experience, you alone are painting your own canvas, thought by thought, choice by choice.",
+  author: "Oprah Winfrey"
 }
 ```
 
