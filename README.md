@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 705,
-  quote: "An obstacle may be either a stepping stone or a stumbling block.",
-  author: "null"
+  id: 241,
+  quote: "To be wrong is nothing unless you continue to remember it.",
+  author: "Confucius"
 }
 ```
 
