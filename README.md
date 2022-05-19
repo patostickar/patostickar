@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1214,
-  quote: "With every experience, you alone are painting your own canvas, thought by thought, choice by choice.",
-  author: "Oprah Winfrey"
+  id: 350,
+  quote: "When your desires are strong enough you will appear to possess superhuman powers to achieve.",
+  author: "Napoleon Hill"
 }
 ```
 
