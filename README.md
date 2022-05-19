@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 350,
-  quote: "When your desires are strong enough you will appear to possess superhuman powers to achieve.",
-  author: "Napoleon Hill"
+  id: 1352,
+  quote: "I don't believe in failure. It's not failure if you enjoyed the process.",
+  author: "Oprah Winfrey"
 }
 ```
 
