@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1213,
-  quote: "Enjoy the little things, for one day you may look back and realize they were the big things.",
-  author: "Robert Brault"
+  id: 736,
+  quote: "I've never seen a smiling face that was not beautiful.",
+  author: "null"
 }
 ```
 
