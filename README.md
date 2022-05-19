@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 622,
-  quote: "It is more important to know where you are going than to get there quickly. Do not mistake activity for achievement.",
-  author: "Mabel Newcomber"
+  id: 1409,
+  quote: "We are all faced with a series of great opportunities brilliantly disguised as impossible situations.",
+  author: "Charles R. Swindoll"
 }
 ```
 
