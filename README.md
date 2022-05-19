@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1306,
-  quote: "Spring is a time for rebirth and the fulfilment of new life.",
-  author: "Byron Pulsifer"
+  id: 521,
+  quote: "Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.",
+  author: "Mother Teresa"
 }
 ```
 
