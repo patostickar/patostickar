@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1202,
-  quote: "Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.",
-  author: "Buddha"
+  id: 877,
+  quote: "To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.",
+  author: "Kahlil Gibran"
 }
 ```
 
