@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 789,
-  quote: "Not what we have but what we enjoy constitutes our abundance.",
-  author: "John Petit-Senn"
+  id: 1215,
+  quote: "Let the beauty of what you love be what you do.",
+  author: "Rumi"
 }
 ```
 
