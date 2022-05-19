@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 497,
-  quote: "Snowflakes are one of natures most fragile things, but just look what they can do when they stick together.",
-  author: "Vista Kelly"
+  id: 1202,
+  quote: "Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.",
+  author: "Buddha"
 }
 ```
 
