@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1352,
-  quote: "I don't believe in failure. It's not failure if you enjoyed the process.",
-  author: "Oprah Winfrey"
+  id: 886,
+  quote: "In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.",
+  author: "Buddha"
 }
 ```
 
