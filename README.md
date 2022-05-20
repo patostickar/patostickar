@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 241,
-  quote: "To be wrong is nothing unless you continue to remember it.",
-  author: "Confucius"
+  id: 304,
+  quote: "Happiness comes when your work and words are of benefit to yourself and others.",
+  author: "Buddha"
 }
 ```
 
