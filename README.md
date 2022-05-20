@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1599,
-  quote: "The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition.",
-  author: "Abernathy"
+  id: 915,
+  quote: "Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.",
+  author: "Marcus Aurelius"
 }
 ```
 
