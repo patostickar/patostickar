@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 64,
-  quote: "When performance exceeds ambition, the overlap is called success.",
-  author: "Cullen Hightower"
+  id: 86,
+  quote: "Life is movement-we breathe, we eat, we walk, we move!",
+  author: "John Pierrakos"
 }
 ```
 
