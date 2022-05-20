@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 86,
-  quote: "Life is movement-we breathe, we eat, we walk, we move!",
-  author: "John Pierrakos"
+  id: 30,
+  quote: "Bite off more than you can chew, then chew it.",
+  author: "Ella Williams"
 }
 ```
 
