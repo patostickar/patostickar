@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 986,
-  quote: "We cannot solve our problems with the same thinking we used when we created them.",
-  author: "Albert Einstein"
+  id: 440,
+  quote: "I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.",
+  author: "Og Mandino"
 }
 ```
 
