@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 467,
-  quote: "We see things not as they are, but as we are. Our perception is shaped by our previous experiences.",
-  author: "Dennis Kimbro"
+  id: 1058,
+  quote: "Build a better mousetrap and the world will beat a path to your door.",
+  author: "Ralph Emerson"
 }
 ```
 
