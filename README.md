@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 984,
-  quote: "Your mind will answer most questions if you learn to relax and wait for the answer.",
-  author: "William Burroughs"
+  id: 66,
+  quote: "Real magic in relationships means an absence of judgement of others.",
+  author: "Wayne Dyer"
 }
 ```
 
