@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 30,
-  quote: "Bite off more than you can chew, then chew it.",
-  author: "Ella Williams"
+  id: 1213,
+  quote: "Enjoy the little things, for one day you may look back and realize they were the big things.",
+  author: "Robert Brault"
 }
 ```
 
