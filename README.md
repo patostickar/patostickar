@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 703,
-  quote: "Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.",
-  author: "Napoleon Hill"
+  id: 64,
+  quote: "When performance exceeds ambition, the overlap is called success.",
+  author: "Cullen Hightower"
 }
 ```
 
