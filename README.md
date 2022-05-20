@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 166,
-  quote: "Change your thoughts, change your life!",
-  author: "null"
+  id: 853,
+  quote: "For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.",
+  author: "Mary Kay Ash"
 }
 ```
 
