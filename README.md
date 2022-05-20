@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1449,
-  quote: "To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.",
-  author: "Pema Chodron"
+  id: 966,
+  quote: "Your sacred space is where you can find yourself again and again.",
+  author: "Joseph Campbell"
 }
 ```
 
