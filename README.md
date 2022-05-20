@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 66,
-  quote: "Real magic in relationships means an absence of judgement of others.",
-  author: "Wayne Dyer"
+  id: 931,
+  quote: "A man sees in the world what he carries in his heart.",
+  author: "Goethe"
 }
 ```
 
