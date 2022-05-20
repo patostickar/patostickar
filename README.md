@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 440,
-  quote: "I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.",
-  author: "Og Mandino"
+  id: 467,
+  quote: "We see things not as they are, but as we are. Our perception is shaped by our previous experiences.",
+  author: "Dennis Kimbro"
 }
 ```
 
