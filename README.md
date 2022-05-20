@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 153,
-  quote: "To bring anything into your life, imagine that it's already there.",
-  author: "Richard Bach"
+  id: 984,
+  quote: "Your mind will answer most questions if you learn to relax and wait for the answer.",
+  author: "William Burroughs"
 }
 ```
 
