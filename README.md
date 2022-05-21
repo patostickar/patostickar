@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1058,
-  quote: "Build a better mousetrap and the world will beat a path to your door.",
-  author: "Ralph Emerson"
+  id: 765,
+  quote: "You must welcome change as the rule but not as your ruler.",
+  author: "Denis Waitley"
 }
 ```
 
