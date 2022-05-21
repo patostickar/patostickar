@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1509,
-  quote: "Bold is not the act of foolishness but the attribute and inner strength to act when others will not so as to move forward not backward.",
-  author: "Byron Pulsifer"
+  id: 865,
+  quote: "Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.",
+  author: "Thomas Carlyle"
 }
 ```
 
