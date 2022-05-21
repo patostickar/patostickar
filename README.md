@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1323,
-  quote: "To fly as fast as thought, you must begin by knowing that you have already arrived.",
-  author: "Richard Bach"
+  id: 781,
+  quote: "Fear grows in darkness; if you think theres a bogeyman around, turn on the light.",
+  author: "Dorothy Thompson"
 }
 ```
 
