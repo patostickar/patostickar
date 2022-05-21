@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 849,
-  quote: "Courage is the discovery that you may not win, and trying when you know you can lose.",
-  author: "null"
+  id: 700,
+  quote: "All that we are is the result of what we have thought. The mind is everything. What we think we become.",
+  author: "Buddha"
 }
 ```
 
