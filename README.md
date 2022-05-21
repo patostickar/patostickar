@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 137,
-  quote: "You can do what's reasonable or you can decide what's possible.",
-  author: "null"
+  id: 644,
+  quote: "The aim of life is self-development. To realize ones nature perfectly that is what each of us is here for.",
+  author: "Oscar Wilde"
 }
 ```
 
