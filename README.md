@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1325,
-  quote: "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.",
-  author: "Michelangelo"
+  id: 1153,
+  quote: "Age does not protect you from love. But love, to some extent, protects you from age.",
+  author: "Anais Nin"
 }
 ```
 
