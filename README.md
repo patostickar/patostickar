@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1609,
-  quote: "It's not who you are that holds you back, it's who you think you're not.",
-  author: "null"
+  id: 871,
+  quote: "There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.",
+  author: "Dalai Lama"
 }
 ```
 
