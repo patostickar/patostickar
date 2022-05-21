@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 871,
-  quote: "There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.",
-  author: "Dalai Lama"
+  id: 1440,
+  quote: "Love does not consist of gazing at each other, but in looking together in the same direction.",
+  author: "Antoine de Saint-Exupery"
 }
 ```
 
