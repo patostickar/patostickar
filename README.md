@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1587,
-  quote: "Argue for your limitations, and sure enough they're yours.",
-  author: "Richard Bach"
+  id: 960,
+  quote: "To dare is to lose ones footing momentarily. To not dare is to lose oneself.",
+  author: "Soren Kierkegaard"
 }
 ```
 
