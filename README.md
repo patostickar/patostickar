@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1440,
-  quote: "Love does not consist of gazing at each other, but in looking together in the same direction.",
-  author: "Antoine de Saint-Exupery"
+  id: 1353,
+  quote: "The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.",
+  author: "Helen Keller"
 }
 ```
 
