@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1168,
-  quote: "Fine words and an insinuating appearance are seldom associated with true virtue",
-  author: "Confucius"
+  id: 1323,
+  quote: "To fly as fast as thought, you must begin by knowing that you have already arrived.",
+  author: "Richard Bach"
 }
 ```
 
