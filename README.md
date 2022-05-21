@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 644,
-  quote: "The aim of life is self-development. To realize ones nature perfectly that is what each of us is here for.",
-  author: "Oscar Wilde"
+  id: 1509,
+  quote: "Bold is not the act of foolishness but the attribute and inner strength to act when others will not so as to move forward not backward.",
+  author: "Byron Pulsifer"
 }
 ```
 
