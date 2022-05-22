@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1086,
-  quote: "He who has health has hope, and he who has hope has everything.",
-  author: "null"
+  id: 789,
+  quote: "Not what we have but what we enjoy constitutes our abundance.",
+  author: "John Petit-Senn"
 }
 ```
 
