@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 151,
-  quote: "While we stop to think, we often miss our opportunity.",
-  author: "Publilius Syrus"
+  id: 1604,
+  quote: "Gratitude is riches. Complaint is poverty.",
+  author: "Doris Day"
 }
 ```
 
