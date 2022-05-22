@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 329,
-  quote: "It has never been my object to record my dreams, just to realize them.",
-  author: "Man Ray"
+  id: 126,
+  quote: "Our intention creates our reality.",
+  author: "Wayne Dyer"
 }
 ```
 
