@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 334,
-  quote: "Better to have loved and lost, than to have never loved at all.",
-  author: "St. Augustine"
+  id: 1638,
+  quote: "Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.",
+  author: "Napoleon Hill"
 }
 ```
 
