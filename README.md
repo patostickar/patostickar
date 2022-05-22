@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1592,
-  quote: "Everything that irritates us about others can lead us to a better understanding of ourselves.",
-  author: "Carl Jung"
+  id: 1133,
+  quote: "Progress always involves risks. You can't steal second base and keep your foot on first.",
+  author: "Frederick Wilcox"
 }
 ```
 
