@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1482,
-  quote: "Listen to what you know instead of what you fear.",
-  author: "Richard Bach"
+  id: 999,
+  quote: "Where all think alike, no one thinks very much.",
+  author: "Walter Lippmann"
 }
 ```
 
