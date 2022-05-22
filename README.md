@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1403,
-  quote: "Gratitude is not only the greatest of virtues, but the paren't of all the others.",
-  author: "Cicero"
+  id: 123,
+  quote: "It is better to travel well than to arrive.",
+  author: "Buddha"
 }
 ```
 
