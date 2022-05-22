@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 697,
-  quote: "The person who lives life fully, glowing with life's energy, is the person who lives a successful life.",
-  author: "Daisaku Ikeda"
+  id: 151,
+  quote: "While we stop to think, we often miss our opportunity.",
+  author: "Publilius Syrus"
 }
 ```
 
