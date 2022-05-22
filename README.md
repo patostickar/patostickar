@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 100,
-  quote: "No man was ever wise by chance.",
-  author: "Seneca"
+  id: 1592,
+  quote: "Everything that irritates us about others can lead us to a better understanding of ourselves.",
+  author: "Carl Jung"
 }
 ```
 
