@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 542,
-  quote: "Don't wait for your feelings to change to take the action. Take the action and your feelings will change.",
-  author: "Barbara Baron"
+  id: 334,
+  quote: "Better to have loved and lost, than to have never loved at all.",
+  author: "St. Augustine"
 }
 ```
 
