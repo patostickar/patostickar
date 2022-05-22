@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1133,
-  quote: "Progress always involves risks. You can't steal second base and keep your foot on first.",
-  author: "Frederick Wilcox"
+  id: 542,
+  quote: "Don't wait for your feelings to change to take the action. Take the action and your feelings will change.",
+  author: "Barbara Baron"
 }
 ```
 
