@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1121,
-  quote: "Chaos is inherent in all compounded things. Strive on with diligence.",
-  author: "Buddha"
+  id: 1482,
+  quote: "Listen to what you know instead of what you fear.",
+  author: "Richard Bach"
 }
 ```
 
