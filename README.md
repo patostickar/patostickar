@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1638,
-  quote: "Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.",
-  author: "Napoleon Hill"
+  id: 510,
+  quote: "Forget about all the reasons why something may not work. You only need to find one good reason why it will.",
+  author: "Robert Anthony"
 }
 ```
 
