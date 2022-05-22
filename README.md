@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 700,
-  quote: "All that we are is the result of what we have thought. The mind is everything. What we think we become.",
-  author: "Buddha"
+  id: 1403,
+  quote: "Gratitude is not only the greatest of virtues, but the paren't of all the others.",
+  author: "Cicero"
 }
 ```
 
