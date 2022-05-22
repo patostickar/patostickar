@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 123,
-  quote: "It is better to travel well than to arrive.",
-  author: "Buddha"
+  id: 1086,
+  quote: "He who has health has hope, and he who has hope has everything.",
+  author: "null"
 }
 ```
 
