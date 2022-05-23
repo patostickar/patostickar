@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 282,
-  quote: "I never see what has been done; I only see what remains to be done.",
-  author: "Marie Curie"
+  id: 73,
+  quote: "The years teach much which the days never know.",
+  author: "Ralph Emerson"
 }
 ```
 
