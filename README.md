@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1419,
-  quote: "The best cure for the body is a quiet mind.",
-  author: "Napoleon Bonaparte"
+  id: 676,
+  quote: "Everyone has been made for some particular work, and the desire for that work has been put in every heart.",
+  author: "Rumi"
 }
 ```
 
