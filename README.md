@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 148,
-  quote: "A good plan today is better than a perfect plan tomorrow.",
-  author: "null"
+  id: 1414,
+  quote: "To listen well is as powerful a means of communication and influence as to talk well.",
+  author: "John Marshall"
 }
 ```
 
