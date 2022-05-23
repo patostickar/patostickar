@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 844,
-  quote: "Until you make peace with who you are, you will never be content with what you have.",
-  author: "Doris Mortman"
+  id: 1486,
+  quote: "Don't settle for a relationship that won't let you be yourself.",
+  author: "Oprah Winfrey"
 }
 ```
 
