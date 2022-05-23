@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 457,
-  quote: "All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.",
-  author: "Kathleen Norris"
+  id: 105,
+  quote: "We do what we do because we believe.",
+  author: "null"
 }
 ```
 
