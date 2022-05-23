@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 724,
-  quote: "He who lives in harmony with himself lives in harmony with the universe.",
-  author: "Marcus Aurelius"
+  id: 243,
+  quote: "Silence is deep as Eternity, Speech is shallow as Time.",
+  author: "Carlyle"
 }
 ```
 
