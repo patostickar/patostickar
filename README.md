@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1256,
-  quote: "Peace begins with a smile.",
-  author: "Mother Teresa"
+  id: 1419,
+  quote: "The best cure for the body is a quiet mind.",
+  author: "Napoleon Bonaparte"
 }
 ```
 
