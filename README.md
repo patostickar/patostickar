@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 243,
-  quote: "Silence is deep as Eternity, Speech is shallow as Time.",
-  author: "Carlyle"
+  id: 1149,
+  quote: "It's not what happens to you, but how you react to it that matters.",
+  author: "Epictetus"
 }
 ```
 
