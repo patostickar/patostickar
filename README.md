@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 52,
-  quote: "Do, or do not. There is no try.",
-  author: "Yoda"
+  id: 457,
+  quote: "All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.",
+  author: "Kathleen Norris"
 }
 ```
 
