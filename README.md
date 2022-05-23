@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 676,
-  quote: "Everyone has been made for some particular work, and the desire for that work has been put in every heart.",
-  author: "Rumi"
+  id: 1091,
+  quote: "The Superior Man is aware of Righteousness, the inferior man is aware of advantage.",
+  author: "Confucius"
 }
 ```
 
