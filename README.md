@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 458,
-  quote: "Choose a job you love, and you will never have to work a day in your life.",
-  author: "Confucius"
+  id: 282,
+  quote: "I never see what has been done; I only see what remains to be done.",
+  author: "Marie Curie"
 }
 ```
 
