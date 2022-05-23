@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 381,
-  quote: "They say that time changes things, but you actually have to change them yourself.",
-  author: "Andy Warhol"
+  id: 458,
+  quote: "Choose a job you love, and you will never have to work a day in your life.",
+  author: "Confucius"
 }
 ```
 
