@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1091,
-  quote: "The Superior Man is aware of Righteousness, the inferior man is aware of advantage.",
-  author: "Confucius"
+  id: 381,
+  quote: "They say that time changes things, but you actually have to change them yourself.",
+  author: "Andy Warhol"
 }
 ```
 
