@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 73,
-  quote: "The years teach much which the days never know.",
-  author: "Ralph Emerson"
+  id: 20,
+  quote: "Trouble is only opportunity in work clothes.",
+  author: "Henry J. Kaiser"
 }
 ```
 
