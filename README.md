@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1414,
-  quote: "To listen well is as powerful a means of communication and influence as to talk well.",
-  author: "John Marshall"
+  id: 52,
+  quote: "Do, or do not. There is no try.",
+  author: "Yoda"
 }
 ```
 
