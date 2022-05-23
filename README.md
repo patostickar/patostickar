@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 105,
-  quote: "We do what we do because we believe.",
-  author: "null"
+  id: 724,
+  quote: "He who lives in harmony with himself lives in harmony with the universe.",
+  author: "Marcus Aurelius"
 }
 ```
 
