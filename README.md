@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 20,
-  quote: "Trouble is only opportunity in work clothes.",
-  author: "Henry J. Kaiser"
+  id: 66,
+  quote: "Real magic in relationships means an absence of judgement of others.",
+  author: "Wayne Dyer"
 }
 ```
 
