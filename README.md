@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1542,
-  quote: "You are never given a wish without also being given the power to make it come true. You may have to work for it, however.",
-  author: "Richard Bach"
+  id: 1629,
+  quote: "Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.",
+  author: "Wayne Dyer"
 }
 ```
 
