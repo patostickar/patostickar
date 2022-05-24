@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 812,
-  quote: "Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.",
-  author: "Peter Drucker"
+  id: 95,
+  quote: "Set your goals high, and don't stop till you get there.",
+  author: "Bo Jackson"
 }
 ```
 
