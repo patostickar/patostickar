@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 786,
-  quote: "He who obtains has little. He who scatters has much.",
-  author: "Richard Braunstein"
+  id: 1375,
+  quote: "Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.",
+  author: "Harriet Tubman"
 }
 ```
 
