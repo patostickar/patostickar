@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 400,
-  quote: "If you cannot do great things, do small things in a great way.",
-  author: "Napoleon Hill"
+  id: 786,
+  quote: "He who obtains has little. He who scatters has much.",
+  author: "Richard Braunstein"
 }
 ```
 
