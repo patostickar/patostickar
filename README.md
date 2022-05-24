@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 678,
-  quote: "With realization of ones own potential and self-confidence in ones ability, one can build a better world.",
-  author: "Dalai Lama"
+  id: 384,
+  quote: "Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.",
+  author: "Horace"
 }
 ```
 
