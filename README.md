@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 384,
-  quote: "Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.",
-  author: "Horace"
+  id: 228,
+  quote: "The heart has its reasons which reason knows not of.",
+  author: "Blaise Pascal"
 }
 ```
 
