@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 663,
-  quote: "The poor man is not he who is without a cent, but he who is without a dream.",
-  author: "Harry Kemp"
+  id: 549,
+  quote: "Take things as they are. Punch when you have to punch. Kick when you have to kick.",
+  author: "Bruce Lee"
 }
 ```
 
