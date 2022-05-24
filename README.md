@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 515,
-  quote: "To be beautiful means to be yourself. You do not need to be accepted by others. You need to accept yourself.",
-  author: "Thich Nhat Hanh"
+  id: 663,
+  quote: "The poor man is not he who is without a cent, but he who is without a dream.",
+  author: "Harry Kemp"
 }
 ```
 
