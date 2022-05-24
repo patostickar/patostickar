@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 634,
-  quote: "Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.",
-  author: "Margaret Mead"
+  id: 1542,
+  quote: "You are never given a wish without also being given the power to make it come true. You may have to work for it, however.",
+  author: "Richard Bach"
 }
 ```
 
