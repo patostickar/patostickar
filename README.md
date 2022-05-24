@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 977,
-  quote: "Only when we are no longer afraid do we begin to live.",
-  author: "Dorothy Thompson"
+  id: 634,
+  quote: "Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.",
+  author: "Margaret Mead"
 }
 ```
 
