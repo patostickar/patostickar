@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1158,
-  quote: "Things do not change, we change.",
-  author: "Henry Thoreau"
+  id: 1053,
+  quote: "When anger use your energy to do something productive.",
+  author: "C. Pulsifer"
 }
 ```
 
