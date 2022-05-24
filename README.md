@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1116,
-  quote: "Listen to your intuition. It will tell you everything you need to know.",
-  author: "Anthony D'Angelo"
+  id: 515,
+  quote: "To be beautiful means to be yourself. You do not need to be accepted by others. You need to accept yourself.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
