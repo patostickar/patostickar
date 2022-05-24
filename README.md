@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1629,
-  quote: "Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.",
-  author: "Wayne Dyer"
+  id: 400,
+  quote: "If you cannot do great things, do small things in a great way.",
+  author: "Napoleon Hill"
 }
 ```
 
