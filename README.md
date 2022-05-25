@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1464,
-  quote: "You must do the things you think you cannot do.",
-  author: "Eleanor Roosevelt"
+  id: 1079,
+  quote: "I know but one freedom and that is the freedom of the mind.",
+  author: "Antoine de Saint-Exupery"
 }
 ```
 
