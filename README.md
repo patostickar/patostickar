@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 800,
-  quote: "A smile is a light in the window of your face to show your heart is at home.",
-  author: "null"
+  id: 680,
+  quote: "You cannot make yourself feel something you do not feel, but you can make yourself do right in spite of your feelings.",
+  author: "Pearl Buck"
 }
 ```
 
