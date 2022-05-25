@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 500,
-  quote: "Experience is not what happens to a man. It is what a man does with what happens to him.",
-  author: "Aldous Huxley"
+  id: 251,
+  quote: "Time you enjoy wasting, was not wasted.",
+  author: "John Lennon"
 }
 ```
 
