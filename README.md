@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 251,
-  quote: "Time you enjoy wasting, was not wasted.",
-  author: "John Lennon"
+  id: 130,
+  quote: "You can't stop the waves, but you can learn to surf.",
+  author: "Jon Kabat-Zinn"
 }
 ```
 
