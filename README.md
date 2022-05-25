@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 230,
-  quote: "Imagination rules the world.",
-  author: "Napoleon Bonaparte"
+  id: 1195,
+  quote: "The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.",
+  author: "Booker Washington"
 }
 ```
 
