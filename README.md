@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 889,
-  quote: "The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be.",
-  author: "William James"
+  id: 1464,
+  quote: "You must do the things you think you cannot do.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
