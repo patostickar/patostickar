@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1243,
-  quote: "Sometimes the biggest act of courage is a small one.",
-  author: "Lauren Raffo"
+  id: 902,
+  quote: "The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work. When you spend time having fun, you know you're being self-indulgent.",
+  author: "Paul Graham"
 }
 ```
 
