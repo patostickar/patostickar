@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 244,
-  quote: "Don't smother each other. No one can grow in the shade.",
-  author: "Leo F. Buscaglia"
+  id: 390,
+  quote: "Every day may not be good, but there's something good in every day.",
+  author: "null"
 }
 ```
 
