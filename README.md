@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 680,
-  quote: "You cannot make yourself feel something you do not feel, but you can make yourself do right in spite of your feelings.",
-  author: "Pearl Buck"
+  id: 233,
+  quote: "Intuition will tell the thinking mind where to look next.",
+  author: "Jonas Salk"
 }
 ```
 
