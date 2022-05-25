@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1491,
-  quote: "Knowledge has three degrees opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.",
-  author: "Plotinus"
+  id: 894,
+  quote: "Most of our obstacles would melt away if, instead of cowering before them, we should make up our minds to walk boldly through them.",
+  author: "Orison Marden"
 }
 ```
 
