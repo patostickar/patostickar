@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1019,
-  quote: "Always tell the truth. That way, you don't have to remember what you said.",
-  author: "Mark Twain"
+  id: 500,
+  quote: "Experience is not what happens to a man. It is what a man does with what happens to him.",
+  author: "Aldous Huxley"
 }
 ```
 
