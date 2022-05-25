@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1079,
-  quote: "I know but one freedom and that is the freedom of the mind.",
-  author: "Antoine de Saint-Exupery"
+  id: 412,
+  quote: "There are things so deep and complex that only intuition can reach it in our stage of development as human beings.",
+  author: "John Astin"
 }
 ```
 
