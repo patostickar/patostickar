@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 233,
-  quote: "Intuition will tell the thinking mind where to look next.",
-  author: "Jonas Salk"
+  id: 1491,
+  quote: "Knowledge has three degrees opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.",
+  author: "Plotinus"
 }
 ```
 
