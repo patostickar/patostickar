@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 894,
-  quote: "Most of our obstacles would melt away if, instead of cowering before them, we should make up our minds to walk boldly through them.",
-  author: "Orison Marden"
+  id: 1603,
+  quote: "The only Zen you find on the tops of mountains is the Zen you bring up there.",
+  author: "Robert Pirsig"
 }
 ```
 
