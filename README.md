@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 412,
-  quote: "There are things so deep and complex that only intuition can reach it in our stage of development as human beings.",
-  author: "John Astin"
+  id: 1450,
+  quote: "If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.",
+  author: "Jim Rohn"
 }
 ```
 
