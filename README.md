@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 130,
-  quote: "You can't stop the waves, but you can learn to surf.",
-  author: "Jon Kabat-Zinn"
+  id: 1243,
+  quote: "Sometimes the biggest act of courage is a small one.",
+  author: "Lauren Raffo"
 }
 ```
 
