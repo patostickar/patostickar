@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 787,
-  quote: "Myths which are believed in tend to become true.",
-  author: "George Orwell"
+  id: 244,
+  quote: "Don't smother each other. No one can grow in the shade.",
+  author: "Leo F. Buscaglia"
 }
 ```
 
