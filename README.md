@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 721,
-  quote: "Be faithful in small things because it is in them that your strength lies.",
-  author: "Mother Teresa"
+  id: 1264,
+  quote: "Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.",
+  author: "Henry Reed"
 }
 ```
 
