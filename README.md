@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 612,
-  quote: "By living deeply in the present moment we can understand the past better and we can prepare for a better future.",
-  author: "Thich Nhat Hanh"
+  id: 721,
+  quote: "Be faithful in small things because it is in them that your strength lies.",
+  author: "Mother Teresa"
 }
 ```
 
