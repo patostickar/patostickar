@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1264,
-  quote: "Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.",
-  author: "Henry Reed"
+  id: 1289,
+  quote: "I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.",
+  author: "Buddha"
 }
 ```
 
