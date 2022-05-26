@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1049,
-  quote: "He who has imagination without learning has wings but no feet.",
-  author: "Joseph Joubert"
+  id: 358,
+  quote: "Invent your world. Surround yourself with people, color, sounds, and work that nourish you.",
+  author: "null"
 }
 ```
 
