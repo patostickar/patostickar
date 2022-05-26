@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 337,
-  quote: "You have enemies? Good. That means you've stood up for something, sometime in your life.",
-  author: "Winston Churchill"
+  id: 760,
+  quote: "To want to be what one can be is purpose in life.",
+  author: "Cynthia Ozick"
 }
 ```
 
