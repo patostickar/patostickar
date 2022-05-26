@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1173,
-  quote: "I may not know everything, but everything is not known yet anyway.",
-  author: "Byron Pulsifer"
+  id: 787,
+  quote: "Myths which are believed in tend to become true.",
+  author: "George Orwell"
 }
 ```
 
