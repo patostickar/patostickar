@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 358,
-  quote: "Invent your world. Surround yourself with people, color, sounds, and work that nourish you.",
-  author: "null"
+  id: 88,
+  quote: "Argue for your limitations, and sure enough theyre yours.",
+  author: "Richard Bach"
 }
 ```
 
