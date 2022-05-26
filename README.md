@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1092,
-  quote: "He who angers you conquers you.",
-  author: "Elizabeth Kenny"
+  id: 46,
+  quote: "Talk doesn't cook rice.",
+  author: "Chinese proverb"
 }
 ```
 
