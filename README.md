@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 244,
-  quote: "Don't smother each other. No one can grow in the shade.",
-  author: "Leo F. Buscaglia"
+  id: 214,
+  quote: "I allow my intuition to lead my path.",
+  author: "Manuel Puig"
 }
 ```
 
