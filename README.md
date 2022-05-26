@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 258,
-  quote: "The secret of success is constancy to purpose.",
-  author: "Benjamin Disraeli"
+  id: 244,
+  quote: "Don't smother each other. No one can grow in the shade.",
+  author: "Leo F. Buscaglia"
 }
 ```
 
