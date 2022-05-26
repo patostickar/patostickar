@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 214,
-  quote: "I allow my intuition to lead my path.",
-  author: "Manuel Puig"
+  id: 328,
+  quote: "How we spend our days is, of course, how we spend our lives.",
+  author: "Annie Dillard"
 }
 ```
 
