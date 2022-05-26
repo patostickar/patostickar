@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 453,
-  quote: "Everyone can taste success when the going is easy, but few know how to taste victory when times get tough.",
-  author: "Byron Pulsifer"
+  id: 337,
+  quote: "You have enemies? Good. That means you've stood up for something, sometime in your life.",
+  author: "Winston Churchill"
 }
 ```
 
