@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 993,
-  quote: "A jug fills drop by drop.",
-  author: "Buddha"
+  id: 824,
+  quote: "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+  author: "Aristotle"
 }
 ```
 
