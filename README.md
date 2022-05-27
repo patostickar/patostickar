@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1219,
-  quote: "Truth, and goodness, and beauty are but different faces of the same all.",
-  author: "Ralph Emerson"
+  id: 1495,
+  quote: "You can complain because roses have thorns, or you can rejoice because thorns have roses.",
+  author: "Ziggy"
 }
 ```
 
