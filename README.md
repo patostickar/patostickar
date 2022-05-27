@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1594,
-  quote: "The greatest mistake you can make in life is to be continually fearing you will make one.",
-  author: "Elbert Hubbard"
+  id: 630,
+  quote: "This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.",
+  author: "Thomas Carlyle"
 }
 ```
 
