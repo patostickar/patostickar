@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 243,
-  quote: "Silence is deep as Eternity, Speech is shallow as Time.",
-  author: "Carlyle"
+  id: 58,
+  quote: "Time is the wisest counsellor of all.",
+  author: "Pericles"
 }
 ```
 
