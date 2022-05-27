@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 630,
-  quote: "This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.",
-  author: "Thomas Carlyle"
+  id: 1172,
+  quote: "Kindness is the language which the deaf can hear and the blind can see.",
+  author: "Mark Twain"
 }
 ```
 
