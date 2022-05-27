@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 369,
-  quote: "More often than not, anger is actually an indication of weakness rather than of strength.",
-  author: "Dalai Lama"
+  id: 993,
+  quote: "A jug fills drop by drop.",
+  author: "Buddha"
 }
 ```
 
