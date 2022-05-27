@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1033,
-  quote: "Nothing is so strong as gentleness. Nothing is so gentle as real strength.",
-  author: "Frances de Sales"
+  id: 1432,
+  quote: "Let yourself be silently drawn by the stronger pull of what you really love.",
+  author: "Rumi"
 }
 ```
 
