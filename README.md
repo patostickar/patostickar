@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1189,
-  quote: "Stay committed to your decisions, but stay flexible in your approach.",
-  author: "Tony Robbins"
+  id: 793,
+  quote: "Self-trust is the first secret of success.",
+  author: "Ralph Emerson"
 }
 ```
 
