@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 630,
-  quote: "This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.",
-  author: "Thomas Carlyle"
+  id: 1033,
+  quote: "Nothing is so strong as gentleness. Nothing is so gentle as real strength.",
+  author: "Frances de Sales"
 }
 ```
 
