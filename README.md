@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 921,
-  quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
-  author: "Albert Schweitzer"
+  id: 567,
+  quote: "I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.",
+  author: "Dalai Lama"
 }
 ```
 
