@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 58,
-  quote: "Time is the wisest counsellor of all.",
-  author: "Pericles"
+  id: 1219,
+  quote: "Truth, and goodness, and beauty are but different faces of the same all.",
+  author: "Ralph Emerson"
 }
 ```
 
