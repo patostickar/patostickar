@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1172,
-  quote: "Kindness is the language which the deaf can hear and the blind can see.",
-  author: "Mark Twain"
+  id: 1189,
+  quote: "Stay committed to your decisions, but stay flexible in your approach.",
+  author: "Tony Robbins"
 }
 ```
 
