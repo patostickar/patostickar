@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 663,
-  quote: "The poor man is not he who is without a cent, but he who is without a dream.",
-  author: "Harry Kemp"
+  id: 798,
+  quote: "Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.",
+  author: "Blaise Pascal"
 }
 ```
 
