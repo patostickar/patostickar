@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 121,
-  quote: "No alibi will save you from accepting the responsibility.",
-  author: "Napoleon Hill"
+  id: 937,
+  quote: "Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.",
+  author: "William Arthur Ward"
 }
 ```
 
