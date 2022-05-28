@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 760,
-  quote: "To want to be what one can be is purpose in life.",
-  author: "Cynthia Ozick"
+  id: 663,
+  quote: "The poor man is not he who is without a cent, but he who is without a dream.",
+  author: "Harry Kemp"
 }
 ```
 
