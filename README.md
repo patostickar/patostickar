@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 946,
-  quote: "The weak can never forgive. Forgiveness is the attribute of the strong.",
-  author: "Mohandas Gandhi"
+  id: 1020,
+  quote: "From wonder into wonder existence opens.",
+  author: "Lao Tzu"
 }
 ```
 
