@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1005,
-  quote: "Mistakes are always forgivable, if one has the courage to admit them.",
-  author: "Bruce Lee"
+  id: 760,
+  quote: "To want to be what one can be is purpose in life.",
+  author: "Cynthia Ozick"
 }
 ```
 
