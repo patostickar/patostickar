@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 115,
-  quote: "Light tomorrow with today!",
-  author: "Elizabeth Browning"
+  id: 818,
+  quote: "Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.",
+  author: "Carl Jung"
 }
 ```
 
