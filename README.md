@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1146,
-  quote: "I begin with an idea and then it becomes something else.",
-  author: "Pablo Picasso"
+  id: 1129,
+  quote: "Much wisdom often goes with fewer words.",
+  author: "Sophocles"
 }
 ```
 
