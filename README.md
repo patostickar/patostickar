@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 937,
-  quote: "Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.",
-  author: "William Arthur Ward"
+  id: 1026,
+  quote: "It can't be spring if your heart is filled with past failures.",
+  author: "Byron Pulsifer"
 }
 ```
 
