@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 441,
-  quote: "Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.",
-  author: "Jane Addams"
+  id: 115,
+  quote: "Light tomorrow with today!",
+  author: "Elizabeth Browning"
 }
 ```
 
