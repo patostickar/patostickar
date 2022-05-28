@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1129,
-  quote: "Much wisdom often goes with fewer words.",
-  author: "Sophocles"
+  id: 1005,
+  quote: "Mistakes are always forgivable, if one has the courage to admit them.",
+  author: "Bruce Lee"
 }
 ```
 
