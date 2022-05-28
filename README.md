@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 688,
-  quote: "I can't change the direction of the wind, but I can adjust my sails to always reach my destination.",
-  author: "Jimmy Dean"
+  id: 1149,
+  quote: "It's not what happens to you, but how you react to it that matters.",
+  author: "Epictetus"
 }
 ```
 
