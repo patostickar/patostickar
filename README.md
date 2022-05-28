@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 798,
-  quote: "Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.",
-  author: "Blaise Pascal"
+  id: 693,
+  quote: "To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.",
+  author: "Henri Bergson"
 }
 ```
 
