@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1375,
-  quote: "Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.",
-  author: "Harriet Tubman"
+  id: 441,
+  quote: "Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.",
+  author: "Jane Addams"
 }
 ```
 
