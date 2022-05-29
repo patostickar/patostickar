@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 652,
-  quote: "Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.",
-  author: "Eknath Easwaran"
+  id: 325,
+  quote: "So long as a person is capable of self-renewal they are a living being.",
+  author: "Henri-Frederic Amiel"
 }
 ```
 
