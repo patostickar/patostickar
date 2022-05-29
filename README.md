@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 862,
-  quote: "Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.",
-  author: "Alphonse Karr"
+  id: 1488,
+  quote: "Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.",
+  author: "Thomas Carlyle"
 }
 ```
 
