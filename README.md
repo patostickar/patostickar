@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 729,
-  quote: "You can't trust without risk but neither can you live in a cocoon.",
-  author: "Byron Pulsifer"
+  id: 688,
+  quote: "I can't change the direction of the wind, but I can adjust my sails to always reach my destination.",
+  author: "Jimmy Dean"
 }
 ```
 
