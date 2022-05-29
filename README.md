@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 818,
-  quote: "Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.",
-  author: "Carl Jung"
+  id: 150,
+  quote: "Each day provides its own gifts.",
+  author: "Marcus Aurelius"
 }
 ```
 
