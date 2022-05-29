@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1451,
-  quote: "It all depends on how we look at things, and not how they are in themselves.",
-  author: "Carl Jung"
+  id: 266,
+  quote: "Love doesn't make the world go round, love is what makes the ride worthwhile.",
+  author: "Elizabeth Browning"
 }
 ```
 
