@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 252,
-  quote: "Every problem has a gift for you in its hands.",
-  author: "Richard Bach"
+  id: 589,
+  quote: "When one tugs at a single thing in nature, he finds it attached to the rest of the world.",
+  author: "John Muir"
 }
 ```
 
