@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 144,
-  quote: "Time is the most valuable thing a man can spend.",
-  author: "Theophrastus"
+  id: 1568,
+  quote: "It is impossible for a man to learn what he thinks he already knows.",
+  author: "Epictetus"
 }
 ```
 
