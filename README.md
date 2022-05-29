@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1305,
-  quote: "In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.",
-  author: "Leonardo da Vinci"
+  id: 1346,
+  quote: "It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.",
+  author: "Franklin D. Roosevelt"
 }
 ```
 
