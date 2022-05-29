@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1620,
-  quote: "Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.",
-  author: "Gordon Hinckley"
+  id: 1305,
+  quote: "In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.",
+  author: "Leonardo da Vinci"
 }
 ```
 
