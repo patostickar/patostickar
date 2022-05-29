@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 3,
-  quote: "Difficulties increase the nearer we get to the goal.",
-  author: "Johann Wolfgang von Goethe"
+  id: 862,
+  quote: "Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.",
+  author: "Alphonse Karr"
 }
 ```
 
