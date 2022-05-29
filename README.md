@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 266,
-  quote: "Love doesn't make the world go round, love is what makes the ride worthwhile.",
-  author: "Elizabeth Browning"
+  id: 377,
+  quote: "If you change the way you look at things, the things you look at change.",
+  author: "Wayne Dyer"
 }
 ```
 
