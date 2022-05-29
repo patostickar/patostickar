@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 377,
-  quote: "If you change the way you look at things, the things you look at change.",
-  author: "Wayne Dyer"
+  id: 1620,
+  quote: "Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.",
+  author: "Gordon Hinckley"
 }
 ```
 
