@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1488,
-  quote: "Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.",
-  author: "Thomas Carlyle"
+  id: 729,
+  quote: "You can't trust without risk but neither can you live in a cocoon.",
+  author: "Byron Pulsifer"
 }
 ```
 
