@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 360,
-  quote: "Be what you are. This is the first step toward becoming better than you are.",
-  author: "Julius Charles Hare"
+  id: 1246,
+  quote: "Waste no more time arguing about what a good man should be. Be one.",
+  author: "Marcus Aurelius"
 }
 ```
 
