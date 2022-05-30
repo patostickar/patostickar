@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 84,
-  quote: "A beautiful thing is never perfect.",
-  author: "null"
+  id: 253,
+  quote: "Sadness flies away on the wings of time.",
+  author: "Jean de la Fontaine"
 }
 ```
 
