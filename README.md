@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1459,
-  quote: "What is a weed? A plant whose virtues have not yet been discovered.",
-  author: "Ralph Emerson"
+  id: 360,
+  quote: "Be what you are. This is the first step toward becoming better than you are.",
+  author: "Julius Charles Hare"
 }
 ```
 
