@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 563,
-  quote: "The past has no power to stop you from being present now. Only your grievance about the past can do that.",
-  author: "Eckhart Tolle"
+  id: 342,
+  quote: "Knowledge is a process of piling up facts; wisdom lies in their simplification.",
+  author: "Martin Fischer"
 }
 ```
 
