@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1175,
-  quote: "Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.",
-  author: "Carl Jung"
+  id: 50,
+  quote: "Learn from yesterday, live for today, hope for tomorrow.",
+  author: "Albert Einstein"
 }
 ```
 
