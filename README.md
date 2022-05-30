@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1489,
-  quote: "If you do what you've always done, you'll get what youve always gotten.",
-  author: "Tony Robbins"
+  id: 682,
+  quote: "Try not to become a man of success, but rather try to become a man of value.",
+  author: "Albert Einstein"
 }
 ```
 
