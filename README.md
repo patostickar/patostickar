@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 595,
-  quote: "If you accept the expectations of others, especially negative ones, then you never will change the outcome.",
-  author: "Michael Jordan"
+  id: 1518,
+  quote: "Don't be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.",
+  author: "Richard Bach"
 }
 ```
 
