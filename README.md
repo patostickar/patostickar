@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 769,
-  quote: "The eye sees only what the mind is prepared to comprehend.",
-  author: "Henri Bergson"
+  id: 137,
+  quote: "You can do what's reasonable or you can decide what's possible.",
+  author: "null"
 }
 ```
 
