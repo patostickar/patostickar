@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 420,
-  quote: "Do you want to know who you are? Don't ask. Act! Action will delineate and define you.",
-  author: "Thomas Jefferson"
+  id: 1038,
+  quote: "Each day can be one of triumph if you keep up your interests.",
+  author: "George Matthew Adams"
 }
 ```
 
