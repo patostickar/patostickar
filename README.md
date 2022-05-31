@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 456,
-  quote: "Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven.",
-  author: "Lao Tzu"
+  id: 475,
+  quote: "Money was never a big motivation for me, except as a way to keep score. The real excitement is playing the game.",
+  author: "Donald Trump"
 }
 ```
 
