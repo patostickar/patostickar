@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 466,
-  quote: "We must never forget that it is through our actions, words, and thoughts that we have a choice.",
-  author: "Sogyal Rinpoche"
+  id: 540,
+  quote: "Keeping a little ahead of conditions is one of the secrets of business, the trailer seldom goes far.",
+  author: "Charles Schwab"
 }
 ```
 
