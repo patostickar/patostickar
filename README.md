@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 621,
-  quote: "To free us from the expectations of others, to give us back to ourselves there lies the great, singular power of self-respect.",
-  author: "Joan Didion"
+  id: 516,
+  quote: "Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind.",
+  author: "Buddha"
 }
 ```
 
