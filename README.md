@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 456,
-  quote: "Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven.",
-  author: "Lao Tzu"
+  id: 685,
+  quote: "It is not enough to have a good mind; the main thing is to use it well.",
+  author: "Rene Descartes"
 }
 ```
 
