@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 555,
-  quote: "It is one of the blessings of old friends that you can afford to be stupid with them.",
-  author: "Ralph Emerson"
+  id: 420,
+  quote: "Do you want to know who you are? Don't ask. Act! Action will delineate and define you.",
+  author: "Thomas Jefferson"
 }
 ```
 
