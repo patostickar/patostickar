@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1361,
-  quote: "Be like the flower, turn your face to the sun.",
-  author: "Kahlil Gibran"
+  id: 30,
+  quote: "Bite off more than you can chew, then chew it.",
+  author: "Ella Williams"
 }
 ```
 
