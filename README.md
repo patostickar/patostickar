@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 685,
-  quote: "It is not enough to have a good mind; the main thing is to use it well.",
-  author: "Rene Descartes"
+  id: 1424,
+  quote: "You cannot be lonely if you like the person you're alone with.",
+  author: "Wayne Dyer"
 }
 ```
 
