@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 516,
-  quote: "Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind.",
-  author: "Buddha"
+  id: 456,
+  quote: "Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven.",
+  author: "Lao Tzu"
 }
 ```
 
