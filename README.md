@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 342,
-  quote: "Knowledge is a process of piling up facts; wisdom lies in their simplification.",
-  author: "Martin Fischer"
+  id: 325,
+  quote: "So long as a person is capable of self-renewal they are a living being.",
+  author: "Henri-Frederic Amiel"
 }
 ```
 
