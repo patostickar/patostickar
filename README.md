@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 325,
-  quote: "So long as a person is capable of self-renewal they are a living being.",
-  author: "Henri-Frederic Amiel"
+  id: 413,
+  quote: "A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.",
+  author: "Elbert Hubbard"
 }
 ```
 
