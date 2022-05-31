@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 413,
-  quote: "A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.",
-  author: "Elbert Hubbard"
+  id: 1145,
+  quote: "No matter how hard the past, you can always begin again.",
+  author: "Buddha"
 }
 ```
 
