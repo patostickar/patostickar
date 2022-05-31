@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1145,
-  quote: "No matter how hard the past, you can always begin again.",
-  author: "Buddha"
+  id: 555,
+  quote: "It is one of the blessings of old friends that you can afford to be stupid with them.",
+  author: "Ralph Emerson"
 }
 ```
 
