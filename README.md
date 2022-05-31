@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1153,
-  quote: "Age does not protect you from love. But love, to some extent, protects you from age.",
-  author: "Anais Nin"
+  id: 482,
+  quote: "Genuine love should first be directed at oneself if we do not love ourselves, how can we love others?",
+  author: "Dalai Lama"
 }
 ```
 
