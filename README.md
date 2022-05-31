@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1038,
-  quote: "Each day can be one of triumph if you keep up your interests.",
-  author: "George Matthew Adams"
+  id: 466,
+  quote: "We must never forget that it is through our actions, words, and thoughts that we have a choice.",
+  author: "Sogyal Rinpoche"
 }
 ```
 
