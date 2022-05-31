@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 540,
-  quote: "Keeping a little ahead of conditions is one of the secrets of business, the trailer seldom goes far.",
-  author: "Charles Schwab"
+  id: 456,
+  quote: "Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven.",
+  author: "Lao Tzu"
 }
 ```
 
