@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 475,
-  quote: "Money was never a big motivation for me, except as a way to keep score. The real excitement is playing the game.",
-  author: "Donald Trump"
+  id: 1174,
+  quote: "If we could see the miracle of a single flower clearly, our whole life would change.",
+  author: "Buddha"
 }
 ```
 
