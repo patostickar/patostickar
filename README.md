@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1480,
-  quote: "Almost everything comes from nothing.",
-  author: "Henri Amiel"
+  id: 1141,
+  quote: "Nobody can do everything, but everybody can do something.",
+  author: "null"
 }
 ```
 
