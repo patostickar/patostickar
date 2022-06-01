@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1418,
-  quote: "Reason and free inquiry are the only effectual agents against error.",
-  author: "Thomas Jefferson"
+  id: 747,
+  quote: "Don't miss all the beautiful colors of the rainbow looking for that pot of gold.",
+  author: "null"
 }
 ```
 
