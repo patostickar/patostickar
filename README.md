@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 402,
-  quote: "Transformation doesn't take place with a vacuum; instead, it occurs when we are indirectly and directly connected to all those around us.",
-  author: "Byron Pulsifer"
+  id: 1433,
+  quote: "I gave my life to become the person I am right now. Was it worth it?",
+  author: "Richard Bach"
 }
 ```
 
