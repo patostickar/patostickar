@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 225,
-  quote: "To enjoy life, we must touch much of it lightly.",
-  author: "Voltaire"
+  id: 1608,
+  quote: "Bad times have a scientific value. These are occasions a good learner would not miss.",
+  author: "Ralph Emerson"
 }
 ```
 
