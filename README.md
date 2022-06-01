@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 647,
-  quote: "If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.",
-  author: "John Steinbeck"
+  id: 598,
+  quote: "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.",
+  author: "Epictetus"
 }
 ```
 
