@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1141,
-  quote: "Nobody can do everything, but everybody can do something.",
-  author: "null"
+  id: 825,
+  quote: "Living at risk is jumping off the cliff and building your wings on the way down.",
+  author: "Ray Bradbury"
 }
 ```
 
