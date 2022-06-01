@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1608,
-  quote: "Bad times have a scientific value. These are occasions a good learner would not miss.",
-  author: "Ralph Emerson"
+  id: 988,
+  quote: "Learning is finding out what you already know.",
+  author: "Richard Bach"
 }
 ```
 
