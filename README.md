@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1318,
-  quote: "I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.",
-  author: "Leonardo da Vinci"
+  id: 647,
+  quote: "If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.",
+  author: "John Steinbeck"
 }
 ```
 
