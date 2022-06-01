@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1174,
-  quote: "If we could see the miracle of a single flower clearly, our whole life would change.",
-  author: "Buddha"
+  id: 1318,
+  quote: "I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.",
+  author: "Leonardo da Vinci"
 }
 ```
 
