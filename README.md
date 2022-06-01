@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1366,
-  quote: "You cannot have what you do not want.",
-  author: "John Acosta"
+  id: 957,
+  quote: "Freedom is not worth having if it does not connote freedom to err.",
+  author: "Mohandas Gandhi"
 }
 ```
 
