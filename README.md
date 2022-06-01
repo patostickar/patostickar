@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 957,
-  quote: "Freedom is not worth having if it does not connote freedom to err.",
-  author: "Mohandas Gandhi"
+  id: 1114,
+  quote: "Trust your hunches. They're usually based on facts filed away just below the conscious level.",
+  author: "Joyce Brothers"
 }
 ```
 
