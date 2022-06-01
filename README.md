@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 825,
-  quote: "Living at risk is jumping off the cliff and building your wings on the way down.",
-  author: "Ray Bradbury"
+  id: 1192,
+  quote: "Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.",
+  author: "Ralph Emerson"
 }
 ```
 
