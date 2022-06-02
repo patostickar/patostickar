@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 548,
-  quote: "The road leading to a goal does not separate you from the destination; it is essentially a part of it.",
-  author: "Charles DeLint"
+  id: 78,
+  quote: "Courage is going from failure to failure without losing enthusiasm.",
+  author: "Winston Churchill"
 }
 ```
 
