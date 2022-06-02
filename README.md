@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 790,
-  quote: "It is never too late to be what you might have been.",
-  author: "George Eliot"
+  id: 1359,
+  quote: "The cure for boredom is curiosity. There is no cure for curiosity.",
+  author: "Ellen Parr"
 }
 ```
 
