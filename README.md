@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1359,
-  quote: "The cure for boredom is curiosity. There is no cure for curiosity.",
-  author: "Ellen Parr"
+  id: 665,
+  quote: "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+  author: "Buddha"
 }
 ```
 
