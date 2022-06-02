@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1332,
-  quote: "Though no one can go back and make a brand new start, anyone can start from not and make a brand new ending.",
-  author: "Carl Bard"
+  id: 504,
+  quote: "The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.",
+  author: "Honore de Balzac"
 }
 ```
 
