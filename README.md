@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1357,
-  quote: "We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.",
-  author: "Ralph Emerson"
+  id: 1147,
+  quote: "Whoever is happy will make others happy, too.",
+  author: "Mark Twain"
 }
 ```
 
