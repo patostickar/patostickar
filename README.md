@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 60,
-  quote: "Wisdom begins in wonder.",
-  author: "Socrates"
+  id: 1368,
+  quote: "It is not fair to ask of others what you are unwilling to do yourself.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
