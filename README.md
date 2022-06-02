@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 6,
-  quote: "Nothing happens unless first we dream.",
-  author: "Carl Sandburg"
+  id: 60,
+  quote: "Wisdom begins in wonder.",
+  author: "Socrates"
 }
 ```
 
