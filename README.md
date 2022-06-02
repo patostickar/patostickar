@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 972,
-  quote: "The wisest men follow their own direction.",
-  author: "Euripides"
+  id: 790,
+  quote: "It is never too late to be what you might have been.",
+  author: "George Eliot"
 }
 ```
 
