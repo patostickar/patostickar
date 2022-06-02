@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1006,
-  quote: "Go to your bosom: Knock there, and ask your heart what it doth know.",
-  author: "William Shakespeare"
+  id: 6,
+  quote: "Nothing happens unless first we dream.",
+  author: "Carl Sandburg"
 }
 ```
 
