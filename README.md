@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 857,
-  quote: "Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.",
-  author: "Albert Schweitzer"
+  id: 1357,
+  quote: "We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.",
+  author: "Ralph Emerson"
 }
 ```
 
