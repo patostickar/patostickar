@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1526,
-  quote: "Take it easy but take it.",
-  author: "Woody Guthrie"
+  id: 857,
+  quote: "Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.",
+  author: "Albert Schweitzer"
 }
 ```
 
