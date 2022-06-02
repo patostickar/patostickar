@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1393,
-  quote: "How many cares one loses when one decides not to be something but to be someone.",
-  author: "Coco Chanel"
+  id: 794,
+  quote: "Don't look back. Something might be gaining on you.",
+  author: "Satchel Paige"
 }
 ```
 
