@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 78,
-  quote: "Courage is going from failure to failure without losing enthusiasm.",
-  author: "Winston Churchill"
+  id: 1552,
+  quote: "The height of your accomplishments will equal the depth of your convictions.",
+  author: "William Scolavino"
 }
 ```
 
