@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 242,
-  quote: "Yesterdays home runs don't win today's games.",
-  author: "Babe Ruth"
+  id: 1526,
+  quote: "Take it easy but take it.",
+  author: "Woody Guthrie"
 }
 ```
 
