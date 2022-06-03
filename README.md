@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 484,
-  quote: "Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.",
-  author: "Bruce Lee"
+  id: 1003,
+  quote: "Only those who dare to fail greatly can ever achieve greatly.",
+  author: "Robert Kennedy"
 }
 ```
 
