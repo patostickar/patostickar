@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 317,
-  quote: "Give thanks for the rain of life that propels us to reach new horizons.",
-  author: "Byron Pulsifer"
+  id: 819,
+  quote: "Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.",
+  author: "Babatunde Olatunji"
 }
 ```
 
