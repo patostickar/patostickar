@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 598,
-  quote: "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.",
-  author: "Epictetus"
+  id: 839,
+  quote: "While we try to teach our children all about life, our children teach us what life is all about.",
+  author: "Angela Schwindt"
 }
 ```
 
