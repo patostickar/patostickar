@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 908,
-  quote: "The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.",
-  author: "Margaret Smith"
+  id: 7,
+  quote: "Well begun is half done.",
+  author: "Aristotle"
 }
 ```
 
