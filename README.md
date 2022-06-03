@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 764,
-  quote: "Time stays long enough for anyone who will use it.",
-  author: "Leonardo da Vinci"
+  id: 164,
+  quote: "Life is the flower for which love is the honey.",
+  author: "Victor Hugo"
 }
 ```
 
