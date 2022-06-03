@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1180,
-  quote: "When you lose, don't lose the lesson.",
-  author: "null"
+  id: 484,
+  quote: "Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.",
+  author: "Bruce Lee"
 }
 ```
 
