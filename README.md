@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 164,
-  quote: "Life is the flower for which love is the honey.",
-  author: "Victor Hugo"
+  id: 317,
+  quote: "Give thanks for the rain of life that propels us to reach new horizons.",
+  author: "Byron Pulsifer"
 }
 ```
 
