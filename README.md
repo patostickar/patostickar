@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 595,
-  quote: "If you accept the expectations of others, especially negative ones, then you never will change the outcome.",
-  author: "Michael Jordan"
+  id: 103,
+  quote: "Don't ruin the present with the ruined past.",
+  author: "Ellen Gilchrist"
 }
 ```
 
