@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 510,
-  quote: "Forget about all the reasons why something may not work. You only need to find one good reason why it will.",
-  author: "Robert Anthony"
+  id: 598,
+  quote: "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.",
+  author: "Epictetus"
 }
 ```
 
