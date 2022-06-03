@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1150,
-  quote: "Take it easy, but take it.",
-  author: "Woody Guthrie"
+  id: 1180,
+  quote: "When you lose, don't lose the lesson.",
+  author: "null"
 }
 ```
 
