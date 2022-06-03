@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1239,
-  quote: "Respect should be earned by actions, and not acquired by years.",
-  author: "Frank Wright"
+  id: 1150,
+  quote: "Take it easy, but take it.",
+  author: "Woody Guthrie"
 }
 ```
 
