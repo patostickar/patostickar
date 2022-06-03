@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 340,
-  quote: "I always wanted to be somebody, but I should have been more specific.",
-  author: "Lily Tomlin"
+  id: 932,
+  quote: "Action may not always bring happiness, but there is no happiness without action.",
+  author: "Benjamin Disraeli"
 }
 ```
 
