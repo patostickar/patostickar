@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1003,
-  quote: "Only those who dare to fail greatly can ever achieve greatly.",
-  author: "Robert Kennedy"
+  id: 450,
+  quote: "Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.",
+  author: "Alan Cohen"
 }
 ```
 
