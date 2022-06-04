@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1519,
-  quote: "If someone in your life talked to you the way you talk to yourself, you would have left them long ago.",
-  author: "Carla Gordon"
+  id: 474,
+  quote: "If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.",
+  author: "Ralph Emerson"
 }
 ```
 
