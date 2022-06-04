@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1583,
-  quote: "Numberless are the worlds wonders, but none more wonderful than man.",
-  author: "Sophocles"
+  id: 594,
+  quote: "When we seek to discover the best in others, we somehow bring out the best in ourselves.",
+  author: "William Ward"
 }
 ```
 
