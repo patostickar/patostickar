@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 342,
-  quote: "Knowledge is a process of piling up facts; wisdom lies in their simplification.",
-  author: "Martin Fischer"
+  id: 1097,
+  quote: "No act of kindness, no matter how small, is ever wasted.",
+  author: "Aesop"
 }
 ```
 
