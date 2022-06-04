@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1481,
-  quote: "Sometimes by losing a battle you find a new way to win the war.",
-  author: "Donald Trump"
+  id: 292,
+  quote: "To be upset over what you don't have is to waste what you do have.",
+  author: "Ken S. Keyes"
 }
 ```
 
