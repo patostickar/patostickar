@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 594,
-  quote: "When we seek to discover the best in others, we somehow bring out the best in ourselves.",
-  author: "William Ward"
+  id: 632,
+  quote: "You can adopt the attitude there is nothing you can do, or you can see the challenge as your call to action.",
+  author: "Catherine Pulsifer"
 }
 ```
 
