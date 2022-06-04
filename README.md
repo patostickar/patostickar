@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1436,
-  quote: "Forgiveness does not change the past, but it does enlarge the future.",
-  author: "Paul Boese"
+  id: 730,
+  quote: "All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.",
+  author: "Rudolf Arnheim"
 }
 ```
 
