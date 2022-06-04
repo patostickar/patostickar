@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 738,
-  quote: "The universe is transformation; our life is what our thoughts make it.",
-  author: "Marcus Aurelius"
+  id: 398,
+  quote: "Time changes everything except something within us which is always surprised by change.",
+  author: "Thomas Hardy"
 }
 ```
 
