@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 632,
-  quote: "You can adopt the attitude there is nothing you can do, or you can see the challenge as your call to action.",
-  author: "Catherine Pulsifer"
+  id: 570,
+  quote: "Blessed is the person who is too busy to worry in the daytime, and too sleepy to worry at night.",
+  author: "Leo Aikman"
 }
 ```
 
