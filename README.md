@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 730,
-  quote: "All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.",
-  author: "Rudolf Arnheim"
+  id: 1519,
+  quote: "If someone in your life talked to you the way you talk to yourself, you would have left them long ago.",
+  author: "Carla Gordon"
 }
 ```
 
