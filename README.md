@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1286,
-  quote: "It takes courage to grow up and become who you really are.",
-  author: "E. E. Cummings"
+  id: 143,
+  quote: "Friendship isn't a big thing. It's a million little things.",
+  author: "null"
 }
 ```
 
