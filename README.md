@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 398,
-  quote: "Time changes everything except something within us which is always surprised by change.",
-  author: "Thomas Hardy"
+  id: 1436,
+  quote: "Forgiveness does not change the past, but it does enlarge the future.",
+  author: "Paul Boese"
 }
 ```
 
