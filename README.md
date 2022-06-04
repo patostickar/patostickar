@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1483,
-  quote: "It is easier to live through someone else than to become complete yourself.",
-  author: "Betty Friedan"
+  id: 774,
+  quote: "Everything that irritates us about others can lead us to an understanding about ourselves.",
+  author: "Carl Jung"
 }
 ```
 
