@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 292,
-  quote: "To be upset over what you don't have is to waste what you do have.",
-  author: "Ken S. Keyes"
+  id: 738,
+  quote: "The universe is transformation; our life is what our thoughts make it.",
+  author: "Marcus Aurelius"
 }
 ```
 
