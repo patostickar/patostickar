@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1330,
-  quote: "The least of things with a meaning is worth more in life than the greatest of things without it.",
-  author: "Carl Jung"
+  id: 1011,
+  quote: "Act as if what you do makes a difference. It does.",
+  author: "William James"
 }
 ```
 
