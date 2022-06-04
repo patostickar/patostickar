@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1127,
-  quote: "The time you think you're missing, misses you too.",
-  author: "Ymber Delecto"
+  id: 1330,
+  quote: "The least of things with a meaning is worth more in life than the greatest of things without it.",
+  author: "Carl Jung"
 }
 ```
 
