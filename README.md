@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 249,
-  quote: "If there is no struggle, there is no progress.",
-  author: "Frederick Douglass"
+  id: 1583,
+  quote: "Numberless are the worlds wonders, but none more wonderful than man.",
+  author: "Sophocles"
 }
 ```
 
