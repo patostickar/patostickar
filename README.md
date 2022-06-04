@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1011,
-  quote: "Act as if what you do makes a difference. It does.",
-  author: "William James"
+  id: 1483,
+  quote: "It is easier to live through someone else than to become complete yourself.",
+  author: "Betty Friedan"
 }
 ```
 
