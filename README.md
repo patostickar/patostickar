@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 127,
-  quote: "Silence is a true friend who never betrays.",
-  author: "Confucius"
+  id: 1277,
+  quote: "The world is but a canvas to the imagination.",
+  author: "Henry Thoreau"
 }
 ```
 
