@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 383,
-  quote: "The truth you believe and cling to makes you unavailable to hear anything new.",
-  author: "Pema Chodron"
+  id: 893,
+  quote: "We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.",
+  author: "Uta Hagen"
 }
 ```
 
