@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 54,
-  quote: "The best teacher is experience learned from failures.",
-  author: "Byron Pulsifer"
+  id: 1135,
+  quote: "A thing well said will be wit in all languages.",
+  author: "John Dryden"
 }
 ```
 
