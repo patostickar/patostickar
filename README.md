@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 893,
-  quote: "We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.",
-  author: "Uta Hagen"
+  id: 692,
+  quote: "The greatest way to live with honour in this world is to be what we pretend to be.",
+  author: "Socrates"
 }
 ```
 
