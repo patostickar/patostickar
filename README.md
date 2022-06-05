@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 107,
-  quote: "If you cannot be silent be brilliant and thoughtful.",
-  author: "Byron Pulsifer"
+  id: 1401,
+  quote: "To dream of the person you would like to be is to waste the person you are.",
+  author: "Tim Menchen"
 }
 ```
 
