@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1088,
-  quote: "No person is your friend who demands your silence, or denies your right to grow.",
-  author: "Alice Walker"
+  id: 968,
+  quote: "In seed time learn, in harvest teach, in winter enjoy.",
+  author: "William Blake"
 }
 ```
 
