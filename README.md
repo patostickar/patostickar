@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 968,
-  quote: "In seed time learn, in harvest teach, in winter enjoy.",
-  author: "William Blake"
+  id: 1524,
+  quote: "I cannot say whether things will get better if we change; what I can say is they must change if they are to get better.",
+  author: "Georg Lichtenberg"
 }
 ```
 
