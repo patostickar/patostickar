@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 692,
-  quote: "The greatest way to live with honour in this world is to be what we pretend to be.",
-  author: "Socrates"
+  id: 429,
+  quote: "Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.",
+  author: "Ralph Emerson"
 }
 ```
 
