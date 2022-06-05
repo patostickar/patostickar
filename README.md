@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1398,
-  quote: "Our greatness lies not so much in being able to remake the world as being able to remake ourselves.",
-  author: "Mahatma Gandhi"
+  id: 1366,
+  quote: "You cannot have what you do not want.",
+  author: "John Acosta"
 }
 ```
 
