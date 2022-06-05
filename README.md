@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 761,
-  quote: "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
-  author: "Dalai Lama"
+  id: 1398,
+  quote: "Our greatness lies not so much in being able to remake the world as being able to remake ourselves.",
+  author: "Mahatma Gandhi"
 }
 ```
 
