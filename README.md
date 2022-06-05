@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1401,
-  quote: "To dream of the person you would like to be is to waste the person you are.",
-  author: "Tim Menchen"
+  id: 1088,
+  quote: "No person is your friend who demands your silence, or denies your right to grow.",
+  author: "Alice Walker"
 }
 ```
 
