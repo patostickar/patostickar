@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1277,
-  quote: "The world is but a canvas to the imagination.",
-  author: "Henry Thoreau"
+  id: 1218,
+  quote: "A day of worry is more exhausting than a day of work.",
+  author: "John Lubbock"
 }
 ```
 
