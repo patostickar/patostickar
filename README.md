@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 159,
-  quote: "Don't be pushed by your problems; be led by your dreams.",
-  author: "null"
+  id: 129,
+  quote: "From little acorns mighty oaks do grow.",
+  author: "American proverb"
 }
 ```
 
