@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1025,
-  quote: "You need chaos in your soul to give birth to a dancing star.",
-  author: "Nietzsche"
+  id: 306,
+  quote: "Everything is perfect in the universe even your desire to improve it.",
+  author: "Wayne Dyer"
 }
 ```
 
