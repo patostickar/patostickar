@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 141,
-  quote: "Good luck is another name for tenacity of purpose.",
-  author: "Ralph Emerson"
+  id: 166,
+  quote: "Change your thoughts, change your life!",
+  author: "null"
 }
 ```
 
