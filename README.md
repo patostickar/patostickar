@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1179,
-  quote: "Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.",
-  author: "Jamie Paolinetti"
+  id: 1450,
+  quote: "If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.",
+  author: "Jim Rohn"
 }
 ```
 
