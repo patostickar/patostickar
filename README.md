@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1194,
-  quote: "As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.",
-  author: "John F. Kennedy"
+  id: 1067,
+  quote: "The final proof of greatness lies in being able to endure criticism without resentment.",
+  author: "Elbert Hubbard"
 }
 ```
 
