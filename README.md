@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1135,
-  quote: "A thing well said will be wit in all languages.",
-  author: "John Dryden"
+  id: 250,
+  quote: "Where there is great love, there are always miracles.",
+  author: "Willa Cather"
 }
 ```
 
