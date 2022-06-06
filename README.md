@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 250,
-  quote: "Where there is great love, there are always miracles.",
-  author: "Willa Cather"
+  id: 566,
+  quote: "I'm not interested in age. People who tell me their age are silly. You're as old as you feel.",
+  author: "Elizabeth Arden"
 }
 ```
 
