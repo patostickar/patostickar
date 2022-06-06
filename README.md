@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 358,
-  quote: "Invent your world. Surround yourself with people, color, sounds, and work that nourish you.",
-  author: "null"
+  id: 1025,
+  quote: "You need chaos in your soul to give birth to a dancing star.",
+  author: "Nietzsche"
 }
 ```
 
