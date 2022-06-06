@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1067,
-  quote: "The final proof of greatness lies in being able to endure criticism without resentment.",
-  author: "Elbert Hubbard"
+  id: 1179,
+  quote: "Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.",
+  author: "Jamie Paolinetti"
 }
 ```
 
