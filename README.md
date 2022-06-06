@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 930,
-  quote: "It is only possible to live happily ever after on a day to day basis.",
-  author: "Margaret Bonnano"
+  id: 141,
+  quote: "Good luck is another name for tenacity of purpose.",
+  author: "Ralph Emerson"
 }
 ```
 
