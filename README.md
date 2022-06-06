@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 566,
-  quote: "I'm not interested in age. People who tell me their age are silly. You're as old as you feel.",
-  author: "Elizabeth Arden"
+  id: 1471,
+  quote: "My reputation grows with every failure.",
+  author: "George Shaw"
 }
 ```
 
