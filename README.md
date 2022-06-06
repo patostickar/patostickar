@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 166,
-  quote: "Change your thoughts, change your life!",
-  author: "null"
+  id: 938,
+  quote: "To know oneself is to study oneself in action with another person.",
+  author: "Bruce Lee"
 }
 ```
 
