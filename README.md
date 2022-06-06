@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 440,
-  quote: "I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.",
-  author: "Og Mandino"
+  id: 930,
+  quote: "It is only possible to live happily ever after on a day to day basis.",
+  author: "Margaret Bonnano"
 }
 ```
 
