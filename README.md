@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 134,
-  quote: "Reality leaves a lot to the imagination.",
-  author: "John Lennon"
+  id: 752,
+  quote: "Accept challenges, so that you may feel the exhilaration of victory.",
+  author: "George Patton"
 }
 ```
 
