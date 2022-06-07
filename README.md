@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 54,
-  quote: "The best teacher is experience learned from failures.",
-  author: "Byron Pulsifer"
+  id: 134,
+  quote: "Reality leaves a lot to the imagination.",
+  author: "John Lennon"
 }
 ```
 
