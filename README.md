@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1392,
-  quote: "Prosperity depends more on wanting what you have than having what you want.",
-  author: "Geoffrey F. Abert"
+  id: 54,
+  quote: "The best teacher is experience learned from failures.",
+  author: "Byron Pulsifer"
 }
 ```
 
