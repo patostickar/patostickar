@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 316,
-  quote: "Through perseverance many people win success out of what seemed destined to be certain failure.",
-  author: "Benjamin Disraeli"
+  id: 1103,
+  quote: "The odds of hitting your target go up dramatically when you aim at it.",
+  author: "Mal Pancoast"
 }
 ```
 
