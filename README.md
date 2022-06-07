@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 627,
-  quote: "There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.",
-  author: "Epictetus"
+  id: 292,
+  quote: "To be upset over what you don't have is to waste what you do have.",
+  author: "Ken S. Keyes"
 }
 ```
 
