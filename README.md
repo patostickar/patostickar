@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 702,
-  quote: "How far that little candle throws its beams! So shines a good deed in a naughty world.",
-  author: "William Shakespeare"
+  id: 627,
+  quote: "There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.",
+  author: "Epictetus"
 }
 ```
 
