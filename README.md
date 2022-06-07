@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 30,
-  quote: "Bite off more than you can chew, then chew it.",
-  author: "Ella Williams"
+  id: 851,
+  quote: "The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.",
+  author: "Mortimer Adler"
 }
 ```
 
