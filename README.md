@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 124,
-  quote: "Life shrinks or expands in proportion to one's courage.",
-  author: "Anais Nin"
+  id: 1036,
+  quote: "Don't wait for people to be friendly. Show them how.",
+  author: "null"
 }
 ```
 
