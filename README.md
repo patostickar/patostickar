@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 764,
-  quote: "Time stays long enough for anyone who will use it.",
-  author: "Leonardo da Vinci"
+  id: 124,
+  quote: "Life shrinks or expands in proportion to one's courage.",
+  author: "Anais Nin"
 }
 ```
 
