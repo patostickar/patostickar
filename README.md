@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1240,
-  quote: "I hear and I forget. I see and I remember. I do and I understand.",
-  author: "Confucius"
+  id: 764,
+  quote: "Time stays long enough for anyone who will use it.",
+  author: "Leonardo da Vinci"
 }
 ```
 
