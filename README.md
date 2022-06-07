@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 882,
-  quote: "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.",
-  author: "Dale Carnegie"
+  id: 316,
+  quote: "Through perseverance many people win success out of what seemed destined to be certain failure.",
+  author: "Benjamin Disraeli"
 }
 ```
 
