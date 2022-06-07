@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 677,
-  quote: "Take time to deliberate, but when the time for action has arrived, stop thinking and go in.",
-  author: "Napoleon Bonaparte"
+  id: 1392,
+  quote: "Prosperity depends more on wanting what you have than having what you want.",
+  author: "Geoffrey F. Abert"
 }
 ```
 
