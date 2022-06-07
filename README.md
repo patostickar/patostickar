@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 752,
-  quote: "Accept challenges, so that you may feel the exhilaration of victory.",
-  author: "George Patton"
+  id: 368,
+  quote: "Three things cannot be long hidden: the sun, the moon, and the truth.",
+  author: "Buddha"
 }
 ```
 
