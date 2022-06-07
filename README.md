@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 521,
-  quote: "Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.",
-  author: "Mother Teresa"
+  id: 702,
+  quote: "How far that little candle throws its beams! So shines a good deed in a naughty world.",
+  author: "William Shakespeare"
 }
 ```
 
