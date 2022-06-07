@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 368,
-  quote: "Three things cannot be long hidden: the sun, the moon, and the truth.",
-  author: "Buddha"
+  id: 521,
+  quote: "Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.",
+  author: "Mother Teresa"
 }
 ```
 
