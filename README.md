@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 228,
-  quote: "The heart has its reasons which reason knows not of.",
-  author: "Blaise Pascal"
+  id: 949,
+  quote: "Truth isn't all about what actually happens but more about how what has happened is interpreted.",
+  author: "Byron Pulsifer"
 }
 ```
 
