@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1408,
-  quote: "Learn wisdom from the ways of a seedling. A seedling which is never hardened off through stressful situations will never become a strong productive plant.",
-  author: "Stephen Sigmund"
+  id: 1231,
+  quote: "Fear not for the future, weep not for the past.",
+  author: "Percy Shelley"
 }
 ```
 
