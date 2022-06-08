@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1537,
-  quote: "The reasonable man adapts himself to the world; the unreasonable man persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.",
-  author: "George Shaw"
+  id: 413,
+  quote: "A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.",
+  author: "Elbert Hubbard"
 }
 ```
 
