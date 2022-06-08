@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1420,
-  quote: "See the positive side, the potential, and make an effort.",
-  author: "Dalai Lama"
+  id: 705,
+  quote: "An obstacle may be either a stepping stone or a stumbling block.",
+  author: "null"
 }
 ```
 
