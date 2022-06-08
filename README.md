@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 705,
-  quote: "An obstacle may be either a stepping stone or a stumbling block.",
-  author: "null"
+  id: 898,
+  quote: "By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.",
+  author: "Lao Tzu"
 }
 ```
 
