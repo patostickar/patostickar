@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1021,
-  quote: "He who fears being conquered is sure of defeat.",
-  author: "Napoleon Bonaparte"
+  id: 199,
+  quote: "Knowing is not enough; we must apply!",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
