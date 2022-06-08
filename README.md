@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 354,
-  quote: "Never bend your head. Always hold it high. Look the world right in the eye.",
-  author: "Helen Keller"
+  id: 772,
+  quote: "Nothing diminishes anxiety faster than action.",
+  author: "Walter Anderson"
 }
 ```
 
