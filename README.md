@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 772,
-  quote: "Nothing diminishes anxiety faster than action.",
-  author: "Walter Anderson"
+  id: 480,
+  quote: "One does not discover new lands without consenting to lose sight of the shore for a very long time.",
+  author: "Andre Gide"
 }
 ```
 
