@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 856,
-  quote: "Nobody made a greater mistake than he who did nothing because he could do only a little.",
-  author: "Edmund Burke"
+  id: 1420,
+  quote: "See the positive side, the potential, and make an effort.",
+  author: "Dalai Lama"
 }
 ```
 
