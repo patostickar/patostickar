@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 873,
-  quote: "Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.",
-  author: "Jean-Paul Sartre"
+  id: 856,
+  quote: "Nobody made a greater mistake than he who did nothing because he could do only a little.",
+  author: "Edmund Burke"
 }
 ```
 
