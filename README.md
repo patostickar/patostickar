@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1640,
-  quote: "Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.",
-  author: "Tony Robbins"
+  id: 1545,
+  quote: "Dreams come true. Without that possibility, nature would not incite us to have them.",
+  author: "John Updike"
 }
 ```
 
