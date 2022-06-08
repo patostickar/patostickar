@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 199,
-  quote: "Knowing is not enough; we must apply!",
-  author: "Johann Wolfgang von Goethe"
+  id: 819,
+  quote: "Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.",
+  author: "Babatunde Olatunji"
 }
 ```
 
