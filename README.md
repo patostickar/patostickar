@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 413,
-  quote: "A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.",
-  author: "Elbert Hubbard"
+  id: 68,
+  quote: "Skill to do comes of doing.",
+  author: "Ralph Emerson"
 }
 ```
 
