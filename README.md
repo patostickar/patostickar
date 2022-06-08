@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 68,
-  quote: "Skill to do comes of doing.",
-  author: "Ralph Emerson"
+  id: 1021,
+  quote: "He who fears being conquered is sure of defeat.",
+  author: "Napoleon Bonaparte"
 }
 ```
 
