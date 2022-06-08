@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 480,
-  quote: "One does not discover new lands without consenting to lose sight of the shore for a very long time.",
-  author: "Andre Gide"
+  id: 1640,
+  quote: "Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.",
+  author: "Tony Robbins"
 }
 ```
 
