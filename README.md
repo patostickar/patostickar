@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 819,
-  quote: "Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.",
-  author: "Babatunde Olatunji"
+  id: 606,
+  quote: "I'm not in this world to live up to your expectations and you're not in this world to live up to mine.",
+  author: "Bruce Lee"
 }
 ```
 
