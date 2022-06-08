@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 606,
-  quote: "I'm not in this world to live up to your expectations and you're not in this world to live up to mine.",
-  author: "Bruce Lee"
+  id: 1547,
+  quote: "Imagination will often carry us to worlds that never were. But without it we go nowhere.",
+  author: "Carl Sagan"
 }
 ```
 
