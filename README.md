@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 851,
-  quote: "The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.",
-  author: "Mortimer Adler"
+  id: 354,
+  quote: "Never bend your head. Always hold it high. Look the world right in the eye.",
+  author: "Helen Keller"
 }
 ```
 
