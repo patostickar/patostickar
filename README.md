@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1147,
-  quote: "Whoever is happy will make others happy, too.",
-  author: "Mark Twain"
+  id: 1469,
+  quote: "Love is the master key that opens the gates of happiness.",
+  author: "Oliver Holmes"
 }
 ```
 
