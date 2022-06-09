@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 72,
-  quote: "The undertaking of a new action brings new strength.",
-  author: "Richard Evans"
+  id: 1345,
+  quote: "Compassion and happiness are not a sign of weakness but a sign of strength.",
+  author: "Dalai Lama"
 }
 ```
 
