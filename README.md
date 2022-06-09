@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1229,
-  quote: "Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, Something is out of tune.",
-  author: "Carl Jung"
+  id: 1301,
+  quote: "Kind words can be short and easy to speak but their echoes are truly endless.",
+  author: "Mother Teresa"
 }
 ```
 
