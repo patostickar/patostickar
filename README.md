@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1489,
-  quote: "If you do what you've always done, you'll get what youve always gotten.",
-  author: "Tony Robbins"
+  id: 16,
+  quote: "It's easier to see the mistakes on someone else's paper.",
+  author: "null"
 }
 ```
 
