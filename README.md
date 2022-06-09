@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 345,
-  quote: "Opportunity is missed by most because it is dressed in overalls and looks like work.",
-  author: "Thomas Edison"
+  id: 649,
+  quote: "Remember always that you not only have the right to be an individual, you have an obligation to be one.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
