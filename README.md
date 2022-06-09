@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1433,
-  quote: "I gave my life to become the person I am right now. Was it worth it?",
-  author: "Richard Bach"
+  id: 626,
+  quote: "A true friend is the most precious of all possessions and the one we take the least thought about acquiring.",
+  author: "Francois de La Rochefoucauld"
 }
 ```
 
