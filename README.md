@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 140,
-  quote: "The only real valuable thing is intuition.",
-  author: "Albert Einstein"
+  id: 345,
+  quote: "Opportunity is missed by most because it is dressed in overalls and looks like work.",
+  author: "Thomas Edison"
 }
 ```
 
