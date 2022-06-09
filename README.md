@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 968,
-  quote: "In seed time learn, in harvest teach, in winter enjoy.",
-  author: "William Blake"
+  id: 1069,
+  quote: "Never let lack of money interfere with having fun.",
+  author: "null"
 }
 ```
 
