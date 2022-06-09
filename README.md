@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1040,
-  quote: "The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.",
-  author: "Winston Churchill"
+  id: 1489,
+  quote: "If you do what you've always done, you'll get what youve always gotten.",
+  author: "Tony Robbins"
 }
 ```
 
