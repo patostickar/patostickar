@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1345,
-  quote: "Compassion and happiness are not a sign of weakness but a sign of strength.",
-  author: "Dalai Lama"
+  id: 9,
+  quote: "Self-complacency is fatal to progress.",
+  author: "Margaret Sangster"
 }
 ```
 
