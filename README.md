@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 991,
-  quote: "Joy is the best makeup.",
-  author: "Anne Lamott"
+  id: 1451,
+  quote: "It all depends on how we look at things, and not how they are in themselves.",
+  author: "Carl Jung"
 }
 ```
 
