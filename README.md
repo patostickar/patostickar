@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 821,
-  quote: "Sometimes it is better to lose and do the right thing than to win and do the wrong thing.",
-  author: "Tony Blair"
+  id: 1061,
+  quote: "In three words I can sum up everything Ive learned about life: it goes on.",
+  author: "Robert Frost"
 }
 ```
 
