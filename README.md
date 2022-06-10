@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 140,
-  quote: "The only real valuable thing is intuition.",
-  author: "Albert Einstein"
+  id: 495,
+  quote: "Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that so it goes on flying anyway.",
+  author: "Mary Kay Ash"
 }
 ```
 
