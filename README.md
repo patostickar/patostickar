@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1061,
-  quote: "In three words I can sum up everything Ive learned about life: it goes on.",
-  author: "Robert Frost"
+  id: 911,
+  quote: "When you arise in the morning, think of what a precious privilege it is to be alive to breathe, to think, to enjoy, to love.",
+  author: "Marcus Aurelius"
 }
 ```
 
