@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 559,
-  quote: "We cannot change our memories, but we can change their meaning and the power they have over us.",
-  author: "David Seamans"
+  id: 725,
+  quote: "Ignorant men don't know what good they hold in their hands until they've flung it away.",
+  author: "Sophocles"
 }
 ```
 
