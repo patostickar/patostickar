@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 725,
-  quote: "Ignorant men don't know what good they hold in their hands until they've flung it away.",
-  author: "Sophocles"
+  id: 140,
+  quote: "The only real valuable thing is intuition.",
+  author: "Albert Einstein"
 }
 ```
 
