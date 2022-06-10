@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 71,
-  quote: "Important principles may, and must, be inflexible.",
-  author: "Abraham Lincoln"
+  id: 821,
+  quote: "Sometimes it is better to lose and do the right thing than to win and do the wrong thing.",
+  author: "Tony Blair"
 }
 ```
 
