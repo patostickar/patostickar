@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 911,
-  quote: "When you arise in the morning, think of what a precious privilege it is to be alive to breathe, to think, to enjoy, to love.",
-  author: "Marcus Aurelius"
+  id: 776,
+  quote: "Ignorance never settle a question.",
+  author: "Benjamin Disraeli"
 }
 ```
 
