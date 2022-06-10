@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1513,
-  quote: "Never promise more than you can perform.",
-  author: "Publilius Syrus"
+  id: 1588,
+  quote: "He who wishes to secure the good of others, has already secured his own.",
+  author: "Confucius"
 }
 ```
 
