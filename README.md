@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 140,
-  quote: "The only real valuable thing is intuition.",
-  author: "Albert Einstein"
+  id: 559,
+  quote: "We cannot change our memories, but we can change their meaning and the power they have over us.",
+  author: "David Seamans"
 }
 ```
 
