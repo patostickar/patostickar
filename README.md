@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1203,
-  quote: "When there is no enemy within, the enemies outside cannot hurt you.",
-  author: "African proverb"
+  id: 66,
+  quote: "Real magic in relationships means an absence of judgement of others.",
+  author: "Wayne Dyer"
 }
 ```
 
