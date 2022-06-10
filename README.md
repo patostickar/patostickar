@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 66,
-  quote: "Real magic in relationships means an absence of judgement of others.",
-  author: "Wayne Dyer"
+  id: 1217,
+  quote: "Beauty is not in the face; beauty is a light in the heart.",
+  author: "Kahlil Gibran"
 }
 ```
 
