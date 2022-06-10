@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1196,
-  quote: "The steeper the mountain the harder the climb the better the view from the finishing line",
-  author: "null"
+  id: 589,
+  quote: "When one tugs at a single thing in nature, he finds it attached to the rest of the world.",
+  author: "John Muir"
 }
 ```
 
