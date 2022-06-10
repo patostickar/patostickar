@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 839,
-  quote: "While we try to teach our children all about life, our children teach us what life is all about.",
-  author: "Angela Schwindt"
+  id: 1203,
+  quote: "When there is no enemy within, the enemies outside cannot hurt you.",
+  author: "African proverb"
 }
 ```
 
