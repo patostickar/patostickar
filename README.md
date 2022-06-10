@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1217,
-  quote: "Beauty is not in the face; beauty is a light in the heart.",
-  author: "Kahlil Gibran"
+  id: 379,
+  quote: "You will not be punished for your anger, you will be punished by your anger.",
+  author: "Buddha"
 }
 ```
 
