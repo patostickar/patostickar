@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1588,
-  quote: "He who wishes to secure the good of others, has already secured his own.",
-  author: "Confucius"
+  id: 1196,
+  quote: "The steeper the mountain the harder the climb the better the view from the finishing line",
+  author: "null"
 }
 ```
 
