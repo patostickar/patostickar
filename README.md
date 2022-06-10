@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 495,
-  quote: "Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that so it goes on flying anyway.",
-  author: "Mary Kay Ash"
+  id: 71,
+  quote: "Important principles may, and must, be inflexible.",
+  author: "Abraham Lincoln"
 }
 ```
 
