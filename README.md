@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 776,
-  quote: "Ignorance never settle a question.",
-  author: "Benjamin Disraeli"
+  id: 991,
+  quote: "Joy is the best makeup.",
+  author: "Anne Lamott"
 }
 ```
 
