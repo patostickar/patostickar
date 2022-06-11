@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 738,
-  quote: "The universe is transformation; our life is what our thoughts make it.",
-  author: "Marcus Aurelius"
+  id: 1150,
+  quote: "Take it easy, but take it.",
+  author: "Woody Guthrie"
 }
 ```
 
