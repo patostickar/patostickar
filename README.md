@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1026,
-  quote: "It can't be spring if your heart is filled with past failures.",
-  author: "Byron Pulsifer"
+  id: 1559,
+  quote: "Success is determined by those whom prove the impossible, possible.",
+  author: "James Pence"
 }
 ```
 
