@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1402,
-  quote: "The important thing is this: to be able at any moment to sacrifice what we are for what we could become.",
-  author: "Charles Dubois"
+  id: 1432,
+  quote: "Let yourself be silently drawn by the stronger pull of what you really love.",
+  author: "Rumi"
 }
 ```
 
