@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 953,
-  quote: "To be tested is good. The challenged life may be the best therapist.",
-  author: "Gail Sheehy"
+  id: 1168,
+  quote: "Fine words and an insinuating appearance are seldom associated with true virtue",
+  author: "Confucius"
 }
 ```
 
