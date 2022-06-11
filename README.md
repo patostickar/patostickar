@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1150,
-  quote: "Take it easy, but take it.",
-  author: "Woody Guthrie"
+  id: 271,
+  quote: "The future belongs to those who believe in the beauty of their dreams.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
