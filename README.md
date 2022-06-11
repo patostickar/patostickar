@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 251,
-  quote: "Time you enjoy wasting, was not wasted.",
-  author: "John Lennon"
+  id: 40,
+  quote: "Never mistake activity for achievement.",
+  author: "John Wooden"
 }
 ```
 
