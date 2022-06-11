@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1062,
-  quote: "Don't let today's disappointments cast a shadow on tomorrow's dreams.",
-  author: "null"
+  id: 482,
+  quote: "Genuine love should first be directed at oneself if we do not love ourselves, how can we love others?",
+  author: "Dalai Lama"
 }
 ```
 
