@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 482,
-  quote: "Genuine love should first be directed at oneself if we do not love ourselves, how can we love others?",
-  author: "Dalai Lama"
+  id: 1026,
+  quote: "It can't be spring if your heart is filled with past failures.",
+  author: "Byron Pulsifer"
 }
 ```
 
