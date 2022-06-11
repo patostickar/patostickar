@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 384,
-  quote: "Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.",
-  author: "Horace"
+  id: 965,
+  quote: "All the flowers of all the tomorrows are in the seeds of today.",
+  author: "null"
 }
 ```
 
