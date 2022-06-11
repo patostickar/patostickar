@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 613,
-  quote: "Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.",
-  author: "Ralph Emerson"
+  id: 1402,
+  quote: "The important thing is this: to be able at any moment to sacrifice what we are for what we could become.",
+  author: "Charles Dubois"
 }
 ```
 
