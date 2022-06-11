@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 657,
-  quote: "Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.",
-  author: "Blaise Pascal"
+  id: 251,
+  quote: "Time you enjoy wasting, was not wasted.",
+  author: "John Lennon"
 }
 ```
 
