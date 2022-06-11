@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1559,
-  quote: "Success is determined by those whom prove the impossible, possible.",
-  author: "James Pence"
+  id: 1258,
+  quote: "Turn your face toward the sun and the shadows will fall behind you.",
+  author: "Maori proverb"
 }
 ```
 
