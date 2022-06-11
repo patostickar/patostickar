@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1521,
-  quote: "If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.",
-  author: "Daisaku Ikeda"
+  id: 1625,
+  quote: "The truest greatness lies in being kind, the truest wisdom in a happy mind.",
+  author: "Ella Wilcox"
 }
 ```
 
