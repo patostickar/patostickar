@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 502,
-  quote: "The only thing to do with good advice is to pass it on. It is never of any use to oneself.",
-  author: "Oscar Wilde"
+  id: 613,
+  quote: "Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.",
+  author: "Ralph Emerson"
 }
 ```
 
