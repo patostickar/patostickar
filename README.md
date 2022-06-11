@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1168,
-  quote: "Fine words and an insinuating appearance are seldom associated with true virtue",
-  author: "Confucius"
+  id: 384,
+  quote: "Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.",
+  author: "Horace"
 }
 ```
 
