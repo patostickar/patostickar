@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 589,
-  quote: "When one tugs at a single thing in nature, he finds it attached to the rest of the world.",
-  author: "John Muir"
+  id: 484,
+  quote: "Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.",
+  author: "Bruce Lee"
 }
 ```
 
