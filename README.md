@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1089,
-  quote: "Impossibilities are merely things which we have not yet learned.",
-  author: "Charles Chesnutt"
+  id: 657,
+  quote: "Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.",
+  author: "Blaise Pascal"
 }
 ```
 
