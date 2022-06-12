@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1091,
-  quote: "The Superior Man is aware of Righteousness, the inferior man is aware of advantage.",
-  author: "Confucius"
+  id: 1248,
+  quote: "There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.",
+  author: "Mark Twain"
 }
 ```
 
