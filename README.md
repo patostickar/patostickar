@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1248,
-  quote: "There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.",
-  author: "Mark Twain"
+  id: 806,
+  quote: "You may only be someone in the world, but to someone else, you may be the world.",
+  author: "null"
 }
 ```
 
