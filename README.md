@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1336,
-  quote: "I walk slowly, but I never walk backward.",
-  author: "Abraham Lincoln"
+  id: 862,
+  quote: "Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.",
+  author: "Alphonse Karr"
 }
 ```
 
