@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 862,
-  quote: "Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.",
-  author: "Alphonse Karr"
+  id: 608,
+  quote: "I can't imagine a person becoming a success who doesn't give this game of life everything hes got.",
+  author: "Walter Cronkite"
 }
 ```
 
