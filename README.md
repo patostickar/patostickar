@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 724,
-  quote: "He who lives in harmony with himself lives in harmony with the universe.",
-  author: "Marcus Aurelius"
+  id: 679,
+  quote: "Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.",
+  author: "Franklin Roosevelt"
 }
 ```
 
