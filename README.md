@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 700,
-  quote: "All that we are is the result of what we have thought. The mind is everything. What we think we become.",
-  author: "Buddha"
+  id: 1005,
+  quote: "Mistakes are always forgivable, if one has the courage to admit them.",
+  author: "Bruce Lee"
 }
 ```
 
