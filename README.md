@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 22,
-  quote: "Ideas are the beginning points of all fortunes.",
-  author: "Napoleon Hill"
+  id: 462,
+  quote: "The fox has many tricks. The hedgehog has but one. But that is the best of all.",
+  author: "Desiderius Erasmus"
 }
 ```
 
