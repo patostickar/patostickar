@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 555,
-  quote: "It is one of the blessings of old friends that you can afford to be stupid with them.",
-  author: "Ralph Emerson"
+  id: 724,
+  quote: "He who lives in harmony with himself lives in harmony with the universe.",
+  author: "Marcus Aurelius"
 }
 ```
 
