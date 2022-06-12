@@ -44,8 +44,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 806,
-  quote: "You may only be someone in the world, but to someone else, you may be the world.",
+  id: 1187,
+  quote: "If I could reach up and hold a star for every time you've made me smile, the entire evening sky would be in the palm of my hand.",
   author: "null"
 }
 ```
