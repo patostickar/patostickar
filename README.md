@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1581,
-  quote: "Slow down and enjoy life. It's not only the scenery you miss by going too fast you also miss the sense of where you are going and why.",
-  author: "Eddie Cantor"
+  id: 1192,
+  quote: "Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.",
+  author: "Ralph Emerson"
 }
 ```
 
