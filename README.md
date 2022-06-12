@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1344,
-  quote: "Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.",
-  author: "Barack Obama"
+  id: 555,
+  quote: "It is one of the blessings of old friends that you can afford to be stupid with them.",
+  author: "Ralph Emerson"
 }
 ```
 
