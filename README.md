@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 608,
-  quote: "I can't imagine a person becoming a success who doesn't give this game of life everything hes got.",
-  author: "Walter Cronkite"
+  id: 1581,
+  quote: "Slow down and enjoy life. It's not only the scenery you miss by going too fast you also miss the sense of where you are going and why.",
+  author: "Eddie Cantor"
 }
 ```
 
