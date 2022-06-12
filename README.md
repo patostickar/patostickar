@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 307,
-  quote: "The universe is full of magical things, patiently waiting for our wits to grow sharper.",
-  author: "Eden Phillpotts"
+  id: 700,
+  quote: "All that we are is the result of what we have thought. The mind is everything. What we think we become.",
+  author: "Buddha"
 }
 ```
 
