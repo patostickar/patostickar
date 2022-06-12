@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1005,
-  quote: "Mistakes are always forgivable, if one has the courage to admit them.",
-  author: "Bruce Lee"
+  id: 1394,
+  quote: "He who knows, does not speak. He who speaks, does not know.",
+  author: "Lao Tzu"
 }
 ```
 
