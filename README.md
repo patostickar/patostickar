@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 679,
-  quote: "Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.",
-  author: "Franklin Roosevelt"
+  id: 22,
+  quote: "Ideas are the beginning points of all fortunes.",
+  author: "Napoleon Hill"
 }
 ```
 
