@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1394,
-  quote: "He who knows, does not speak. He who speaks, does not know.",
-  author: "Lao Tzu"
+  id: 1117,
+  quote: "The personal life deeply lived always expands into truths beyond itself.",
+  author: "Anais Nin"
 }
 ```
 
