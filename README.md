@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1014,
-  quote: "Opportunity often comes disguised in the form of misfortune, or temporary defeat.",
-  author: "Napoleon Hill"
+  id: 1336,
+  quote: "I walk slowly, but I never walk backward.",
+  author: "Abraham Lincoln"
 }
 ```
 
