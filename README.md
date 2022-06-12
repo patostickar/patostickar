@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1187,
-  quote: "If I could reach up and hold a star for every time you've made me smile, the entire evening sky would be in the palm of my hand.",
-  author: "null"
+  id: 100,
+  quote: "No man was ever wise by chance.",
+  author: "Seneca"
 }
 ```
 
