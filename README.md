@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 763,
-  quote: "Our lives are a sum total of the choices we have made.",
-  author: "Wayne Dyer"
+  id: 976,
+  quote: "When you learn, teach. When you get, give.",
+  author: "Maya Angelou"
 }
 ```
 
