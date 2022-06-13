@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 771,
-  quote: "The more light you allow within you, the brighter the world you live in will be.",
-  author: "Shakti Gawain"
+  id: 116,
+  quote: "Silence is a fence around wisdom.",
+  author: "German proverb"
 }
 ```
 
