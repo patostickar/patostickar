@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 976,
-  quote: "When you learn, teach. When you get, give.",
-  author: "Maya Angelou"
+  id: 566,
+  quote: "I'm not interested in age. People who tell me their age are silly. You're as old as you feel.",
+  author: "Elizabeth Arden"
 }
 ```
 
