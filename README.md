@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1254,
-  quote: "Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others.",
-  author: "Harriet Lerner"
+  id: 1040,
+  quote: "The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.",
+  author: "Winston Churchill"
 }
 ```
 
