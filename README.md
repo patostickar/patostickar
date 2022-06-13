@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1498,
-  quote: "Time you enjoyed wasting was not wasted.",
-  author: "John Lennon"
+  id: 1401,
+  quote: "To dream of the person you would like to be is to waste the person you are.",
+  author: "Tim Menchen"
 }
 ```
 
