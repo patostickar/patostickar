@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1299,
-  quote: "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
-  author: "Victoria Holt"
+  id: 962,
+  quote: "Peace cannot be kept by force. It can only be achieved by understanding.",
+  author: "Albert Einstein"
 }
 ```
 
