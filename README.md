@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 116,
-  quote: "Silence is a fence around wisdom.",
-  author: "German proverb"
+  id: 617,
+  quote: "Yesterday is history. Tomorrow is a mystery. And today? Today is a gift that's why they call it the present.",
+  author: "null"
 }
 ```
 
