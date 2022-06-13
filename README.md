@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1525,
-  quote: "The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.",
-  author: "Eckhart Tolle"
+  id: 1003,
+  quote: "Only those who dare to fail greatly can ever achieve greatly.",
+  author: "Robert Kennedy"
 }
 ```
 
