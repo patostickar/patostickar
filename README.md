@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1040,
-  quote: "The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.",
-  author: "Winston Churchill"
+  id: 1498,
+  quote: "Time you enjoyed wasting was not wasted.",
+  author: "John Lennon"
 }
 ```
 
