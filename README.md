@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 462,
-  quote: "The fox has many tricks. The hedgehog has but one. But that is the best of all.",
-  author: "Desiderius Erasmus"
+  id: 877,
+  quote: "To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.",
+  author: "Kahlil Gibran"
 }
 ```
 
