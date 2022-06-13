@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 962,
-  quote: "Peace cannot be kept by force. It can only be achieved by understanding.",
-  author: "Albert Einstein"
+  id: 1525,
+  quote: "The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.",
+  author: "Eckhart Tolle"
 }
 ```
 
