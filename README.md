@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 949,
-  quote: "Truth isn't all about what actually happens but more about how what has happened is interpreted.",
-  author: "Byron Pulsifer"
+  id: 413,
+  quote: "A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.",
+  author: "Elbert Hubbard"
 }
 ```
 
