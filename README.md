@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1401,
-  quote: "To dream of the person you would like to be is to waste the person you are.",
-  author: "Tim Menchen"
+  id: 1355,
+  quote: "The man who trusts men will make fewer mistakes than he who distrusts them.",
+  author: "Cavour"
 }
 ```
 
