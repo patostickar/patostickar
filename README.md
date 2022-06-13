@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 595,
-  quote: "If you accept the expectations of others, especially negative ones, then you never will change the outcome.",
-  author: "Michael Jordan"
+  id: 1299,
+  quote: "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
+  author: "Victoria Holt"
 }
 ```
 
