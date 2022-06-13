@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 552,
-  quote: "Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.",
-  author: "Paavo Nurmi"
+  id: 606,
+  quote: "I'm not in this world to live up to your expectations and you're not in this world to live up to mine.",
+  author: "Bruce Lee"
 }
 ```
 
