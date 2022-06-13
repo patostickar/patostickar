@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1355,
-  quote: "The man who trusts men will make fewer mistakes than he who distrusts them.",
-  author: "Cavour"
+  id: 949,
+  quote: "Truth isn't all about what actually happens but more about how what has happened is interpreted.",
+  author: "Byron Pulsifer"
 }
 ```
 
