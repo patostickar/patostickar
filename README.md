@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1048,
-  quote: "The truth which has made us free will in the end make us glad also.",
-  author: "Felix Adler"
+  id: 1049,
+  quote: "He who has imagination without learning has wings but no feet.",
+  author: "Joseph Joubert"
 }
 ```
 
