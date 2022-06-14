@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1160,
-  quote: "Sometimes the most important thing in a whole day is the rest we take between two deep breaths.",
-  author: "Etty Hillesum"
+  id: 977,
+  quote: "Only when we are no longer afraid do we begin to live.",
+  author: "Dorothy Thompson"
 }
 ```
 
