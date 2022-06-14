@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1217,
-  quote: "Beauty is not in the face; beauty is a light in the heart.",
-  author: "Kahlil Gibran"
+  id: 761,
+  quote: "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
+  author: "Dalai Lama"
 }
 ```
 
