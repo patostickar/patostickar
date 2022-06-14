@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 171,
-  quote: "There is no way to happiness, happiness is the way.",
-  author: "Thich Nhat Hanh"
+  id: 1275,
+  quote: "Logic will get you from A to B. Imagination will take you everywhere.",
+  author: "Albert Einstein"
 }
 ```
 
