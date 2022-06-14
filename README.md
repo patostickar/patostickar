@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1275,
-  quote: "Logic will get you from A to B. Imagination will take you everywhere.",
-  author: "Albert Einstein"
+  id: 578,
+  quote: "Giving up doesn't always mean you are weak. Sometimes it means that you are strong enough to let go.",
+  author: "null"
 }
 ```
 
