@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 578,
-  quote: "Giving up doesn't always mean you are weak. Sometimes it means that you are strong enough to let go.",
-  author: "null"
+  id: 1535,
+  quote: "Translation is the paradigm, the exemplar of all writing. It is translation that demonstrates most vividly the yearning for transformation that underlies every act involving speech, that supremely human gift.",
+  author: "Harry Burchell Mathews"
 }
 ```
 
