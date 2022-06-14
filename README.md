@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 512,
-  quote: "Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.",
-  author: "Washington Irving"
+  id: 1622,
+  quote: "Music in the soul can be heard by the universe.",
+  author: "Lao Tzu"
 }
 ```
 
