@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1,
-  quote: "You can observe a lot just by watching.",
-  author: "Yogi Berra"
+  id: 1055,
+  quote: "If you can't explain it simply, you don't understand it well enough.",
+  author: "Albert Einstein"
 }
 ```
 
