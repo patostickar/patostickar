@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1213,
-  quote: "Enjoy the little things, for one day you may look back and realize they were the big things.",
-  author: "Robert Brault"
+  id: 240,
+  quote: "No is easier to do. Yes is easier to say.",
+  author: "Jason Fried"
 }
 ```
 
