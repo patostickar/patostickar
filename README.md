@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 557,
-  quote: "Give me six hours to chop down a tree and I will spend the first four sharpening the axe.",
-  author: "Abraham Lincoln"
+  id: 163,
+  quote: "The truest wisdom is a resolute determination.",
+  author: "Napoleon Bonaparte"
 }
 ```
 
