@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 240,
-  quote: "No is easier to do. Yes is easier to say.",
-  author: "Jason Fried"
+  id: 1409,
+  quote: "We are all faced with a series of great opportunities brilliantly disguised as impossible situations.",
+  author: "Charles R. Swindoll"
 }
 ```
 
