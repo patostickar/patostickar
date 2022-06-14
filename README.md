@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 163,
-  quote: "The truest wisdom is a resolute determination.",
-  author: "Napoleon Bonaparte"
+  id: 1449,
+  quote: "To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.",
+  author: "Pema Chodron"
 }
 ```
 
