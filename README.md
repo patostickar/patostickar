@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1449,
-  quote: "To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.",
-  author: "Pema Chodron"
+  id: 1213,
+  quote: "Enjoy the little things, for one day you may look back and realize they were the big things.",
+  author: "Robert Brault"
 }
 ```
 
