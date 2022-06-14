@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 977,
-  quote: "Only when we are no longer afraid do we begin to live.",
-  author: "Dorothy Thompson"
+  id: 512,
+  quote: "Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.",
+  author: "Washington Irving"
 }
 ```
 
