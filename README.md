@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1559,
-  quote: "Success is determined by those whom prove the impossible, possible.",
-  author: "James Pence"
+  id: 169,
+  quote: "Someone is special only if you tell them.",
+  author: "Byron Pulsifer"
 }
 ```
 
