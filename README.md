@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 789,
-  quote: "Not what we have but what we enjoy constitutes our abundance.",
-  author: "John Petit-Senn"
+  id: 342,
+  quote: "Knowledge is a process of piling up facts; wisdom lies in their simplification.",
+  author: "Martin Fischer"
 }
 ```
 
