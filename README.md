@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 18,
-  quote: "To lead people walk behind them.",
-  author: "Lao Tzu"
+  id: 151,
+  quote: "While we stop to think, we often miss our opportunity.",
+  author: "Publilius Syrus"
 }
 ```
 
