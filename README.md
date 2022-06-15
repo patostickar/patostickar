@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 719,
-  quote: "Meaning is not what you start with but what you end up with.",
-  author: "Peter Elbow"
+  id: 1182,
+  quote: "The greatest barrier to success is the fear of failure.",
+  author: "Eriksson"
 }
 ```
 
