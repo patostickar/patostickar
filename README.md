@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 342,
-  quote: "Knowledge is a process of piling up facts; wisdom lies in their simplification.",
-  author: "Martin Fischer"
+  id: 1143,
+  quote: "You cannot step twice into the same river, for other waters are continually flowing in.",
+  author: "Heraclitus"
 }
 ```
 
