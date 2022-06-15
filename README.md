@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 152,
-  quote: "Life isn't about finding yourself. Life is about creating yourself.",
-  author: "Bernard Shaw"
+  id: 728,
+  quote: "Do not turn back when you are just at the goal.",
+  author: "Publilius Syrus"
 }
 ```
 
