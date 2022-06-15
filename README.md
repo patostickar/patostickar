@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1505,
-  quote: "Continuous effort, not strength or intelligence is the key to unlocking our potential.",
-  author: "Winston Churchill"
+  id: 719,
+  quote: "Meaning is not what you start with but what you end up with.",
+  author: "Peter Elbow"
 }
 ```
 
