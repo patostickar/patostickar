@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 196,
-  quote: "Keep true to the dreams of thy youth.",
-  author: "Friedrich von Schiller"
+  id: 1581,
+  quote: "Slow down and enjoy life. It's not only the scenery you miss by going too fast you also miss the sense of where you are going and why.",
+  author: "Eddie Cantor"
 }
 ```
 
