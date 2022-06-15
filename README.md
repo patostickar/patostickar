@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1182,
-  quote: "The greatest barrier to success is the fear of failure.",
-  author: "Eriksson"
+  id: 564,
+  quote: "If the stars should appear but one night every thousand years how man would marvel and adore.",
+  author: "Ralph Emerson"
 }
 ```
 
