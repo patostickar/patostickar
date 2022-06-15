@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1143,
-  quote: "You cannot step twice into the same river, for other waters are continually flowing in.",
-  author: "Heraclitus"
+  id: 1505,
+  quote: "Continuous effort, not strength or intelligence is the key to unlocking our potential.",
+  author: "Winston Churchill"
 }
 ```
 
