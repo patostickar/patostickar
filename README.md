@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 564,
-  quote: "If the stars should appear but one night every thousand years how man would marvel and adore.",
-  author: "Ralph Emerson"
+  id: 1050,
+  quote: "Whoso loves, believes the impossible.",
+  author: "Elizabeth Browning"
 }
 ```
 
