@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 295,
-  quote: "Successful people ask better questions, and as a result, they get better answers.",
-  author: "Tony Robbins"
+  id: 422,
+  quote: "Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.",
+  author: "Marcel Proust"
 }
 ```
 
