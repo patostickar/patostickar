@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1086,
-  quote: "He who has health has hope, and he who has hope has everything.",
-  author: "null"
+  id: 1349,
+  quote: "Learning without reflection is a waste, reflection without learning is dangerous.",
+  author: "Confucius"
 }
 ```
 
