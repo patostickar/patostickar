@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 979,
-  quote: "Love is the only force capable of transforming an enemy into friend.",
-  author: "Martin Luther King, Jr."
+  id: 1086,
+  quote: "He who has health has hope, and he who has hope has everything.",
+  author: "null"
 }
 ```
 
