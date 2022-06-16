@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1572,
-  quote: "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
-  author: "Marcus Aurelius"
+  id: 145,
+  quote: "Whatever happens, take responsibility.",
+  author: "Tony Robbins"
 }
 ```
 
