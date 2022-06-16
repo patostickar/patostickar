@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 217,
-  quote: "There is no way to prosperity, prosperity is the way.",
-  author: "Wayne Dyer"
+  id: 1220,
+  quote: "To be great is to be misunderstood.",
+  author: "Ralph Emerson"
 }
 ```
 
