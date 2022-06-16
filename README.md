@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 925,
-  quote: "He who conquers others is strong; He who conquers himself is mighty.",
-  author: "Lao Tzu"
+  id: 358,
+  quote: "Invent your world. Surround yourself with people, color, sounds, and work that nourish you.",
+  author: "null"
 }
 ```
 
