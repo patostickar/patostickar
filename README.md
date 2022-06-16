@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 828,
-  quote: "A failure is a man who has blundered but is not capable of cashing in on the experience.",
-  author: "Elbert Hubbard"
+  id: 823,
+  quote: "A bend in the road is not the end of the road...unless you fail to make the turn.",
+  author: "null"
 }
 ```
 
