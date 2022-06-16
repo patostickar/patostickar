@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1418,
-  quote: "Reason and free inquiry are the only effectual agents against error.",
-  author: "Thomas Jefferson"
+  id: 925,
+  quote: "He who conquers others is strong; He who conquers himself is mighty.",
+  author: "Lao Tzu"
 }
 ```
 
