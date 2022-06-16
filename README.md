@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 647,
-  quote: "If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.",
-  author: "John Steinbeck"
+  id: 979,
+  quote: "Love is the only force capable of transforming an enemy into friend.",
+  author: "Martin Luther King, Jr."
 }
 ```
 
