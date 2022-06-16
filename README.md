@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 151,
-  quote: "While we stop to think, we often miss our opportunity.",
-  author: "Publilius Syrus"
+  id: 647,
+  quote: "If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.",
+  author: "John Steinbeck"
 }
 ```
 
