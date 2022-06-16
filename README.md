@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 422,
-  quote: "Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.",
-  author: "Marcel Proust"
+  id: 1179,
+  quote: "Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.",
+  author: "Jamie Paolinetti"
 }
 ```
 
