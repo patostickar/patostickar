@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 823,
-  quote: "A bend in the road is not the end of the road...unless you fail to make the turn.",
-  author: "null"
+  id: 424,
+  quote: "The thoughts we choose to think are the tools we use to paint the canvas of our lives.",
+  author: "Louise Hay"
 }
 ```
 
