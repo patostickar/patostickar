@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 883,
-  quote: "You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.",
-  author: "John Lennon"
+  id: 1125,
+  quote: "Know how to listen, and you will profit even from those who talk badly.",
+  author: "Plutarch"
 }
 ```
 
