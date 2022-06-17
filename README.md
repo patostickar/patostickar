@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 988,
-  quote: "Learning is finding out what you already know.",
-  author: "Richard Bach"
+  id: 756,
+  quote: "Correction does much, but encouragement does more.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
