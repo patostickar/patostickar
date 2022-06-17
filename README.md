@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 835,
-  quote: "Friends are those rare people who ask how we are and then wait to hear the answer.",
-  author: "Ed Cunningham"
+  id: 1364,
+  quote: "Gratitude is the fairest blossom which springs from the soul.",
+  author: "Henry Beecher"
 }
 ```
 
