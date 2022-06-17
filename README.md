@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 301,
-  quote: "If you get up one more time than you fall, you will make it through.",
-  author: "null"
+  id: 75,
+  quote: "All know the way; few actually walk it.",
+  author: "Bodhidharma"
 }
 ```
 
