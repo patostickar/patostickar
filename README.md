@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 75,
-  quote: "All know the way; few actually walk it.",
-  author: "Bodhidharma"
+  id: 130,
+  quote: "You can't stop the waves, but you can learn to surf.",
+  author: "Jon Kabat-Zinn"
 }
 ```
 
