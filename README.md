@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1513,
-  quote: "Never promise more than you can perform.",
-  author: "Publilius Syrus"
+  id: 567,
+  quote: "I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.",
+  author: "Dalai Lama"
 }
 ```
 
