@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 693,
-  quote: "To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.",
-  author: "Henri Bergson"
+  id: 1200,
+  quote: "Time is not a measure the length of a day or month or year but more a measure of what you have accomplished.",
+  author: "Byron Pulsifer"
 }
 ```
 
