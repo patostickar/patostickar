@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1125,
-  quote: "Know how to listen, and you will profit even from those who talk badly.",
-  author: "Plutarch"
+  id: 303,
+  quote: "The worst bankrupt in the world is the person who has lost his enthusiasm.",
+  author: "H. W. Arnold"
 }
 ```
 
