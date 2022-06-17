@@ -22,7 +22,6 @@ I'm Patricio, a full-stack web developer. I'm into all things about technology, 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
@@ -44,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 815,
-  quote: "Happiness is a perfume you cannot pour on others without getting a few drops on yourself.",
-  author: "Ralph Waldo Emerson"
+  id: 78,
+  quote: "Courage is going from failure to failure without losing enthusiasm.",
+  author: "Winston Churchill"
 }
 ```
 
