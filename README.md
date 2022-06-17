@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 298,
-  quote: "I think somehow we learn who we really are and then live with that decision.",
-  author: "Eleanor Roosevelt"
+  id: 883,
+  quote: "You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.",
+  author: "John Lennon"
 }
 ```
 
