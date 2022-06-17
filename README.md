@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1364,
-  quote: "Gratitude is the fairest blossom which springs from the soul.",
-  author: "Henry Beecher"
+  id: 1513,
+  quote: "Never promise more than you can perform.",
+  author: "Publilius Syrus"
 }
 ```
 
