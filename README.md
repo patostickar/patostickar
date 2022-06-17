@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 78,
-  quote: "Courage is going from failure to failure without losing enthusiasm.",
-  author: "Winston Churchill"
+  id: 31,
+  quote: "Work out your own salvation. Do not depend on others.",
+  author: "Buddha"
 }
 ```
 
