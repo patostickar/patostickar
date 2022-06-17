@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 756,
-  quote: "Correction does much, but encouragement does more.",
-  author: "Johann Wolfgang von Goethe"
+  id: 835,
+  quote: "Friends are those rare people who ask how we are and then wait to hear the answer.",
+  author: "Ed Cunningham"
 }
 ```
 
