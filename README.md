@@ -44,9 +44,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1200,
-  quote: "Time is not a measure the length of a day or month or year but more a measure of what you have accomplished.",
-  author: "Byron Pulsifer"
+  id: 298,
+  quote: "I think somehow we learn who we really are and then live with that decision.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
