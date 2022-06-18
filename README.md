@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1312,
-  quote: "Maxim for life: You get treated in life the way you teach people to treat you.",
-  author: "Wayne Dyer"
+  id: 1608,
+  quote: "Bad times have a scientific value. These are occasions a good learner would not miss.",
+  author: "Ralph Emerson"
 }
 ```
 
