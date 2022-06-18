@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1583,
-  quote: "Numberless are the worlds wonders, but none more wonderful than man.",
-  author: "Sophocles"
+  id: 1243,
+  quote: "Sometimes the biggest act of courage is a small one.",
+  author: "Lauren Raffo"
 }
 ```
 
