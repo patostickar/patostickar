@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 781,
-  quote: "Fear grows in darkness; if you think theres a bogeyman around, turn on the light.",
-  author: "Dorothy Thompson"
+  id: 1177,
+  quote: "Keep your eyes on the stars and your feet on the ground.",
+  author: "Theodore Roosevelt"
 }
 ```
 
