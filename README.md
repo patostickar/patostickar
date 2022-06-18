@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1603,
-  quote: "The only Zen you find on the tops of mountains is the Zen you bring up there.",
-  author: "Robert Pirsig"
+  id: 1351,
+  quote: "All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.",
+  author: "Bruce Lee"
 }
 ```
 
