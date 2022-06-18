@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 143,
-  quote: "Friendship isn't a big thing. It's a million little things.",
-  author: "null"
+  id: 619,
+  quote: "The greatest good you can do for another is not just to share your riches but to reveal to him his own.",
+  author: "Benjamin Disraeli"
 }
 ```
 
