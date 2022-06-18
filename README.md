@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 643,
-  quote: "No valid plans for the future can be made by those who have no capacity for living now.",
-  author: "Alan Watts"
+  id: 1603,
+  quote: "The only Zen you find on the tops of mountains is the Zen you bring up there.",
+  author: "Robert Pirsig"
 }
 ```
 
