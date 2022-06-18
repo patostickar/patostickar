@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1243,
-  quote: "Sometimes the biggest act of courage is a small one.",
-  author: "Lauren Raffo"
+  id: 781,
+  quote: "Fear grows in darkness; if you think theres a bogeyman around, turn on the light.",
+  author: "Dorothy Thompson"
 }
 ```
 
