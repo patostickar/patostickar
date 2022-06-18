@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1542,
-  quote: "You are never given a wish without also being given the power to make it come true. You may have to work for it, however.",
-  author: "Richard Bach"
+  id: 122,
+  quote: "If you can dream it, you can do it.",
+  author: "Walt Disney"
 }
 ```
 
