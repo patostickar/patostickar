@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 376,
-  quote: "Life is so constructed that an event does not, cannot, will not, match the expectation.",
-  author: "Charlotte Bronte"
+  id: 766,
+  quote: "Give whatever you are doing and whoever you are with the gift of your attention.",
+  author: "Jim Rohn"
 }
 ```
 
