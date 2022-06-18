@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 122,
-  quote: "If you can dream it, you can do it.",
-  author: "Walt Disney"
+  id: 1263,
+  quote: "Never say there is nothing beautiful in the world any more. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.",
+  author: "Albert Schweitzer"
 }
 ```
 
