@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1177,
-  quote: "Keep your eyes on the stars and your feet on the ground.",
-  author: "Theodore Roosevelt"
+  id: 143,
+  quote: "Friendship isn't a big thing. It's a million little things.",
+  author: "null"
 }
 ```
 
