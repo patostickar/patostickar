@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 399,
-  quote: "You are important enough to ask and you are blessed enough to receive back.",
+  id: 1312,
+  quote: "Maxim for life: You get treated in life the way you teach people to treat you.",
   author: "Wayne Dyer"
 }
 ```
