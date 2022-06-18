@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1608,
-  quote: "Bad times have a scientific value. These are occasions a good learner would not miss.",
-  author: "Ralph Emerson"
+  id: 643,
+  quote: "No valid plans for the future can be made by those who have no capacity for living now.",
+  author: "Alan Watts"
 }
 ```
 
