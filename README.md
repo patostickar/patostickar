@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 619,
-  quote: "The greatest good you can do for another is not just to share your riches but to reveal to him his own.",
-  author: "Benjamin Disraeli"
+  id: 1542,
+  quote: "You are never given a wish without also being given the power to make it come true. You may have to work for it, however.",
+  author: "Richard Bach"
 }
 ```
 
