@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 857,
-  quote: "Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.",
-  author: "Albert Schweitzer"
+  id: 1309,
+  quote: "The art of progress is to preserve order amid change, and to preserve change amid order.",
+  author: "Alfred Whitehead"
 }
 ```
 
