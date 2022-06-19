@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 978,
-  quote: "If you smile when no one else is around, you really mean it.",
-  author: "Andy Rooney"
+  id: 1408,
+  quote: "Learn wisdom from the ways of a seedling. A seedling which is never hardened off through stressful situations will never become a strong productive plant.",
+  author: "Stephen Sigmund"
 }
 ```
 
