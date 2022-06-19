@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 651,
-  quote: "If you seek truth you will not seek victory by dishonourable means, and if you find truth you will become invincible.",
-  author: "Epictetus"
+  id: 831,
+  quote: "The power of intuitive understanding will protect you from harm until the end of your days.",
+  author: "Laozi"
 }
 ```
 
