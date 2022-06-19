@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1565,
-  quote: "Life is what happens to you while you're busy making other plans.",
-  author: "John Lennon"
+  id: 276,
+  quote: "To forgive is to set a prisoner free and realize that prisoner was you.",
+  author: "Lewis B. Smedes"
 }
 ```
 
