@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 174,
-  quote: "He who talks more is sooner exhausted.",
-  author: "Lao Tzu"
+  id: 17,
+  quote: "Every man dies. Not every man really lives.",
+  author: "null"
 }
 ```
 
