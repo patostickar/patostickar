@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 17,
-  quote: "Every man dies. Not every man really lives.",
-  author: "null"
+  id: 978,
+  quote: "If you smile when no one else is around, you really mean it.",
+  author: "Andy Rooney"
 }
 ```
 
