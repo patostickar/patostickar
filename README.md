@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1408,
-  quote: "Learn wisdom from the ways of a seedling. A seedling which is never hardened off through stressful situations will never become a strong productive plant.",
-  author: "Stephen Sigmund"
+  id: 606,
+  quote: "I'm not in this world to live up to your expectations and you're not in this world to live up to mine.",
+  author: "Bruce Lee"
 }
 ```
 
