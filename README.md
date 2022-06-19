@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 831,
-  quote: "The power of intuitive understanding will protect you from harm until the end of your days.",
-  author: "Laozi"
+  id: 1565,
+  quote: "Life is what happens to you while you're busy making other plans.",
+  author: "John Lennon"
 }
 ```
 
