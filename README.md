@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1309,
-  quote: "The art of progress is to preserve order amid change, and to preserve change amid order.",
-  author: "Alfred Whitehead"
+  id: 1477,
+  quote: "A person who never made a mistake never tried anything new.",
+  author: "Albert Einstein"
 }
 ```
 
