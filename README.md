@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 305,
-  quote: "Don't focus on making the right decision, focus on making the decision the right one.",
-  author: "null"
+  id: 369,
+  quote: "More often than not, anger is actually an indication of weakness rather than of strength.",
+  author: "Dalai Lama"
 }
 ```
 
