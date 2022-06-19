@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 33,
-  quote: "Once you choose hope, anythings possible.",
-  author: "Christopher Reeve"
+  id: 174,
+  quote: "He who talks more is sooner exhausted.",
+  author: "Lao Tzu"
 }
 ```
 
