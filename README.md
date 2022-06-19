@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 276,
-  quote: "To forgive is to set a prisoner free and realize that prisoner was you.",
-  author: "Lewis B. Smedes"
+  id: 33,
+  quote: "Once you choose hope, anythings possible.",
+  author: "Christopher Reeve"
 }
 ```
 
