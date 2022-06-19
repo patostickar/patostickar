@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 920,
-  quote: "If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.",
-  author: "Robert Fulghum"
+  id: 1553,
+  quote: "If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?",
+  author: "Rabbi Hillel"
 }
 ```
 
