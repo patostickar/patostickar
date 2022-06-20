@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1136,
-  quote: "Always do your best. What you plant now, you will harvest later.",
-  author: "Og Mandino"
+  id: 1417,
+  quote: "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.",
+  author: "Lao Tzu"
 }
 ```
 
