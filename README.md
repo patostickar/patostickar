@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1189,
-  quote: "Stay committed to your decisions, but stay flexible in your approach.",
-  author: "Tony Robbins"
+  id: 328,
+  quote: "How we spend our days is, of course, how we spend our lives.",
+  author: "Annie Dillard"
 }
 ```
 
