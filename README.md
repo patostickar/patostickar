@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 328,
-  quote: "How we spend our days is, of course, how we spend our lives.",
-  author: "Annie Dillard"
+  id: 592,
+  quote: "To live a pure unselfish life, one must count nothing as ones own in the midst of abundance.",
+  author: "Buddha"
 }
 ```
 
