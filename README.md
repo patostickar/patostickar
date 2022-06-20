@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 246,
-  quote: "You can't shake hands with a clenched fist.",
-  author: "Indira Gandhi"
+  id: 1157,
+  quote: "Speak when you are angry and you will make the best speech you will ever regret.",
+  author: "Ambrose Bierce"
 }
 ```
 
