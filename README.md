@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 592,
-  quote: "To live a pure unselfish life, one must count nothing as ones own in the midst of abundance.",
-  author: "Buddha"
+  id: 1191,
+  quote: "What separates the winners from the losers is how a person reacts to each new twist of fate.",
+  author: "Donald Trump"
 }
 ```
 
