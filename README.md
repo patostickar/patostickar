@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1157,
-  quote: "Speak when you are angry and you will make the best speech you will ever regret.",
-  author: "Ambrose Bierce"
+  id: 242,
+  quote: "Yesterdays home runs don't win today's games.",
+  author: "Babe Ruth"
 }
 ```
 
