@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 213,
-  quote: "The path to success is to take massive, determined action.",
-  author: "Tony Robbins"
+  id: 1330,
+  quote: "The least of things with a meaning is worth more in life than the greatest of things without it.",
+  author: "Carl Jung"
 }
 ```
 
