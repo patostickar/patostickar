@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 8,
-  quote: "Life is a learning experience, only if you learn.",
-  author: "Yogi Berra"
+  id: 246,
+  quote: "You can't shake hands with a clenched fist.",
+  author: "Indira Gandhi"
 }
 ```
 
