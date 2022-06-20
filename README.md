@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 722,
-  quote: "All is flux; nothing stays still.",
-  author: "Heraclitus"
+  id: 134,
+  quote: "Reality leaves a lot to the imagination.",
+  author: "John Lennon"
 }
 ```
 
