@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1507,
-  quote: "Go for it now. The future is promised to no one.",
-  author: "Wayne Dyer"
+  id: 419,
+  quote: "Success means having the courage, the determination, and the will to become the person you believe you were meant to be.",
+  author: "George Sheehan"
 }
 ```
 
