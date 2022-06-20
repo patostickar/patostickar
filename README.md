@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1178,
-  quote: "I am not afraid of tomorrow, for I have seen yesterday and I love today.",
-  author: "William White"
+  id: 1136,
+  quote: "Always do your best. What you plant now, you will harvest later.",
+  author: "Og Mandino"
 }
 ```
 
