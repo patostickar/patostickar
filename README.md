@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 884,
-  quote: "Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you.",
-  author: "Nathaniel Hawthorne"
+  id: 1543,
+  quote: "Kind words can be short and easy to speak, but their echoes are truly endless.",
+  author: "Mother Teresa"
 }
 ```
 
