@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 230,
-  quote: "Imagination rules the world.",
-  author: "Napoleon Bonaparte"
+  id: 213,
+  quote: "The path to success is to take massive, determined action.",
+  author: "Tony Robbins"
 }
 ```
 
