@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 26,
-  quote: "Study the past, if you would divine the future.",
-  author: "Confucius"
+  id: 1355,
+  quote: "The man who trusts men will make fewer mistakes than he who distrusts them.",
+  author: "Cavour"
 }
 ```
 
