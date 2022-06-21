@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1558,
-  quote: "We lost because we told ourselves we lost.",
-  author: "Leo Tolstoy"
+  id: 133,
+  quote: "A really great talent finds its happiness in execution.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
