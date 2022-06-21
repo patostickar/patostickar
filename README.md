@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 128,
-  quote: "Character develops itself in the stream of life.",
-  author: "Johann Wolfgang von Goethe"
+  id: 1558,
+  quote: "We lost because we told ourselves we lost.",
+  author: "Leo Tolstoy"
 }
 ```
 
