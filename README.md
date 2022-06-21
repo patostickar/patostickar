@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1560,
-  quote: "Good advice is always certain to be ignored, but that's no reason not to give it.",
-  author: "Agatha Christie"
+  id: 17,
+  quote: "Every man dies. Not every man really lives.",
+  author: "null"
 }
 ```
 
