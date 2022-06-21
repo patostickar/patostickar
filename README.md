@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1338,
-  quote: "The best place to find a helping hand is at the end of your own arm.",
-  author: "null"
+  id: 128,
+  quote: "Character develops itself in the stream of life.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
