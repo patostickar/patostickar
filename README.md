@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1187,
-  quote: "If I could reach up and hold a star for every time you've made me smile, the entire evening sky would be in the palm of my hand.",
-  author: "null"
+  id: 1577,
+  quote: "The energy of the mind is the essence of life.",
+  author: "Aristotle"
 }
 ```
 
