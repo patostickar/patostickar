@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1355,
-  quote: "The man who trusts men will make fewer mistakes than he who distrusts them.",
-  author: "Cavour"
+  id: 605,
+  quote: "Nothing is predestined: The obstacles of your past can become the gateways that lead to new beginnings.",
+  author: "Ralph Blum"
 }
 ```
 
