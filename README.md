@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 55,
-  quote: "Think how hard physics would be if particles could think.",
-  author: "Murray Gell-Mann"
+  id: 641,
+  quote: "Wisdom is knowing what to do next; Skill is knowing how ot do it, and Virtue is doing it.",
+  author: "David Jordan"
 }
 ```
 
