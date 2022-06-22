@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1110,
-  quote: "The future is completely open, and we are writing it moment to moment.",
-  author: "Pema Chodron"
+  id: 648,
+  quote: "If we are facing in the right direction, all we have to do is keep on walking.",
+  author: "null"
 }
 ```
 
