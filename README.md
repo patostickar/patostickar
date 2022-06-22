@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 648,
-  quote: "If we are facing in the right direction, all we have to do is keep on walking.",
-  author: "null"
+  id: 472,
+  quote: "Patience is a virtue but you will never ever accomplish anything if you don't exercise action over patience.",
+  author: "Byron Pulsifer"
 }
 ```
 
