@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 151,
-  quote: "While we stop to think, we often miss our opportunity.",
-  author: "Publilius Syrus"
+  id: 300,
+  quote: "A little knowledge that acts is worth infinitely more than much knowledge that is idle.",
+  author: "Kahlil Gibran"
 }
 ```
 
