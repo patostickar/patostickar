@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1405,
-  quote: "Respect is not something that you can ask for, buy or borrow. Respect is what you earn from each person no matter their background or status.",
-  author: "Byron Pulsifer"
+  id: 1110,
+  quote: "The future is completely open, and we are writing it moment to moment.",
+  author: "Pema Chodron"
 }
 ```
 
