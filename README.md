@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1454,
-  quote: "An idea that is developed and put into action is more important than an idea that exists only as an idea.",
-  author: "Buddha"
+  id: 1405,
+  quote: "Respect is not something that you can ask for, buy or borrow. Respect is what you earn from each person no matter their background or status.",
+  author: "Byron Pulsifer"
 }
 ```
 
