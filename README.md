@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 641,
-  quote: "Wisdom is knowing what to do next; Skill is knowing how ot do it, and Virtue is doing it.",
-  author: "David Jordan"
+  id: 1322,
+  quote: "Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.",
+  author: "Aristotle"
 }
 ```
 
