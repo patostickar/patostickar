@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 554,
-  quote: "A friend is someone who understands your past, believes in your future, and accepts you just the way you are.",
-  author: "null"
+  id: 151,
+  quote: "While we stop to think, we often miss our opportunity.",
+  author: "Publilius Syrus"
 }
 ```
 
