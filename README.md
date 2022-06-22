@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1393,
-  quote: "How many cares one loses when one decides not to be something but to be someone.",
-  author: "Coco Chanel"
+  id: 168,
+  quote: "Loss is nothing else but change,and change is Natures delight.",
+  author: "Marcus Aurelius"
 }
 ```
 
