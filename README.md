@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 472,
-  quote: "Patience is a virtue but you will never ever accomplish anything if you don't exercise action over patience.",
-  author: "Byron Pulsifer"
+  id: 1490,
+  quote: "Do not wait for leaders; do it alone, person to person.",
+  author: "Mother Teresa"
 }
 ```
 
