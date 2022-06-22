@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1490,
-  quote: "Do not wait for leaders; do it alone, person to person.",
-  author: "Mother Teresa"
+  id: 375,
+  quote: "Wicked people are always surprised to find ability in those that are good.",
+  author: "Marquis Vauvenargues"
 }
 ```
 
