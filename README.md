@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1552,
-  quote: "The height of your accomplishments will equal the depth of your convictions.",
-  author: "William Scolavino"
+  id: 1386,
+  quote: "Learn to listen. Opportunity could be knocking at your door very softly.",
+  author: "Frank Tyger"
 }
 ```
 
