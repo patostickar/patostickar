@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1386,
-  quote: "Learn to listen. Opportunity could be knocking at your door very softly.",
-  author: "Frank Tyger"
+  id: 55,
+  quote: "Think how hard physics would be if particles could think.",
+  author: "Murray Gell-Mann"
 }
 ```
 
