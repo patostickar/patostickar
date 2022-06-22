@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 870,
-  quote: "If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace.",
-  author: "Ajahn Chah"
+  id: 1317,
+  quote: "There is nothing so useless as doing efficiently that which should not be done at all.",
+  author: "Peter Drucker"
 }
 ```
 
