@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 439,
-  quote: "You can't let praise or criticism get to you. It's a weakness to get caught up in either one.",
-  author: "John Wooden"
+  id: 307,
+  quote: "The universe is full of magical things, patiently waiting for our wits to grow sharper.",
+  author: "Eden Phillpotts"
 }
 ```
 
