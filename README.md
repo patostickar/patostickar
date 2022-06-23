@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 101,
-  quote: "Some pursue happiness, others create it.",
-  author: "null"
+  id: 484,
+  quote: "Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.",
+  author: "Bruce Lee"
 }
 ```
 
