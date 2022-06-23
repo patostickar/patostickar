@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 506,
-  quote: "If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.",
-  author: "Vince Lombardi"
+  id: 691,
+  quote: "Life's challenges are not supposed to paralyse you, they're supposed to help you discover who you are.",
+  author: "Bernice Reagon"
 }
 ```
 
