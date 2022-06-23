@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 526,
-  quote: "I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.",
-  author: "Og Mandino"
+  id: 187,
+  quote: "I destroy my enemies when I make them my friends.",
+  author: "Abraham Lincoln"
 }
 ```
 
