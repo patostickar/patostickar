@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 187,
-  quote: "I destroy my enemies when I make them my friends.",
-  author: "Abraham Lincoln"
+  id: 506,
+  quote: "If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.",
+  author: "Vince Lombardi"
 }
 ```
 
