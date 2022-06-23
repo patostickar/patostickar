@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 484,
-  quote: "Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.",
-  author: "Bruce Lee"
+  id: 877,
+  quote: "To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.",
+  author: "Kahlil Gibran"
 }
 ```
 
