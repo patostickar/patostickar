@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 918,
-  quote: "Parents can only give good advice or put them on the right paths, but the final forming of a persons character lies in their own hands.",
-  author: "Anne Frank"
+  id: 1173,
+  quote: "I may not know everything, but everything is not known yet anyway.",
+  author: "Byron Pulsifer"
 }
 ```
 
