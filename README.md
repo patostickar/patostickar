@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 691,
-  quote: "Life's challenges are not supposed to paralyse you, they're supposed to help you discover who you are.",
-  author: "Bernice Reagon"
+  id: 1267,
+  quote: "All truths are easy to understand once they are discovered; the point is to discover them.",
+  author: "Galileo Galilei"
 }
 ```
 
