@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1442,
-  quote: "It is with words as with sunbeams. The more they are condensed, the deeper they burn.",
-  author: "Robert Southey"
+  id: 570,
+  quote: "Blessed is the person who is too busy to worry in the daytime, and too sleepy to worry at night.",
+  author: "Leo Aikman"
 }
 ```
 
