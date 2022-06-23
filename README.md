@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 49,
-  quote: "To succeed, we must first believe that we can.",
-  author: "Michael Korda"
+  id: 1247,
+  quote: "Happiness often sneaks in through a door you didn't know you left open.",
+  author: "John Barrymore"
 }
 ```
 
