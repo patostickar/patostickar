@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 877,
-  quote: "To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.",
-  author: "Kahlil Gibran"
+  id: 1388,
+  quote: "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
+  author: "Albert Einstein"
 }
 ```
 
