@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 149,
-  quote: "If the shoe doesn't fit, must we change the foot?",
-  author: "Gloria Steinem"
+  id: 1543,
+  quote: "Kind words can be short and easy to speak, but their echoes are truly endless.",
+  author: "Mother Teresa"
 }
 ```
 
