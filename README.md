@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1427,
-  quote: "Risk more than others think is safe. Care more than others think is wise. Dream more than others think is practical.Expect more than others think is possible.",
-  author: "Cadet Maxim"
+  id: 616,
+  quote: "Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.",
+  author: "Napoleon Hill"
 }
 ```
 
