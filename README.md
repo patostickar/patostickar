@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 325,
-  quote: "So long as a person is capable of self-renewal they are a living being.",
-  author: "Henri-Frederic Amiel"
+  id: 1621,
+  quote: "There surely is in human nature an inherent propensity to extract all the good out of all the evil.",
+  author: "Benjamin Haydon"
 }
 ```
 
