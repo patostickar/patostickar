@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1177,
-  quote: "Keep your eyes on the stars and your feet on the ground.",
-  author: "Theodore Roosevelt"
+  id: 370,
+  quote: "Before you put on a frown, make absolutely sure there are no smiles available.",
+  author: "Jim Beggs"
 }
 ```
 
