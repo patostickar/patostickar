@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 861,
-  quote: "If you have no respect for your own values how can you be worthy of respect from others.",
-  author: "Byron Pulsifer"
+  id: 657,
+  quote: "Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.",
+  author: "Blaise Pascal"
 }
 ```
 
