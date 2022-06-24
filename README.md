@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 533,
-  quote: "The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
-  author: "Henry Miller"
+  id: 325,
+  quote: "So long as a person is capable of self-renewal they are a living being.",
+  author: "Henri-Frederic Amiel"
 }
 ```
 
