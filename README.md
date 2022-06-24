@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1127,
-  quote: "The time you think you're missing, misses you too.",
-  author: "Ymber Delecto"
+  id: 476,
+  quote: "Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
