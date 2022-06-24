@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1543,
-  quote: "Kind words can be short and easy to speak, but their echoes are truly endless.",
-  author: "Mother Teresa"
+  id: 251,
+  quote: "Time you enjoy wasting, was not wasted.",
+  author: "John Lennon"
 }
 ```
 
