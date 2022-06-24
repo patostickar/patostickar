@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 616,
-  quote: "Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.",
-  author: "Napoleon Hill"
+  id: 1544,
+  quote: "Count your joys instead of your woes. Count your friends instead of your foes.",
+  author: "null"
 }
 ```
 
