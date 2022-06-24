@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1366,
-  quote: "You cannot have what you do not want.",
-  author: "John Acosta"
+  id: 1177,
+  quote: "Keep your eyes on the stars and your feet on the ground.",
+  author: "Theodore Roosevelt"
 }
 ```
 
