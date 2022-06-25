@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 432,
-  quote: "Your destiny isn't just fate; it is how you use your own developed abilities to get what you want.",
-  author: "Byron Pulsifer"
+  id: 1300,
+  quote: "When deeds and words are in accord, the whole world is transformed.",
+  author: "Chuang Tzu"
 }
 ```
 
