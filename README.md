@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 751,
-  quote: "We must not say every mistake is a foolish one.",
-  author: "Cicero"
+  id: 900,
+  quote: "Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.",
+  author: "Epictetus"
 }
 ```
 
