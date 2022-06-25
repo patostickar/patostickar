@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 148,
-  quote: "A good plan today is better than a perfect plan tomorrow.",
-  author: "null"
+  id: 1435,
+  quote: "Your ability to learn faster than your competition is your only sustainable competitive advantage.",
+  author: "Arie de Gues"
 }
 ```
 
