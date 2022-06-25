@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1362,
-  quote: "Remembering a wrong is like carrying a burden on the mind.",
-  author: "Buddha"
+  id: 912,
+  quote: "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.",
+  author: "Helen Keller"
 }
 ```
 
