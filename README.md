@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 541,
-  quote: "Nature gave us one tongue and two ears so we could hear twice as much as we speak.",
-  author: "Epictetus"
+  id: 420,
+  quote: "Do you want to know who you are? Don't ask. Act! Action will delineate and define you.",
+  author: "Thomas Jefferson"
 }
 ```
 
