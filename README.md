@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 369,
-  quote: "More often than not, anger is actually an indication of weakness rather than of strength.",
-  author: "Dalai Lama"
+  id: 624,
+  quote: "Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.",
+  author: "Robert Graves"
 }
 ```
 
