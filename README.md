@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 387,
-  quote: "Every action of our lives touches on some chord that will vibrate in eternity.",
-  author: "Edwin Chapin"
+  id: 1324,
+  quote: "Obstacles are those things you see when you take your eyes off the goal.",
+  author: "Hannah More"
 }
 ```
 
