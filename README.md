@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1435,
-  quote: "Your ability to learn faster than your competition is your only sustainable competitive advantage.",
-  author: "Arie de Gues"
+  id: 387,
+  quote: "Every action of our lives touches on some chord that will vibrate in eternity.",
+  author: "Edwin Chapin"
 }
 ```
 
