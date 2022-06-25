@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 927,
-  quote: "Arriving at one point is the starting point to another.",
-  author: "John Dewey"
+  id: 148,
+  quote: "A good plan today is better than a perfect plan tomorrow.",
+  author: "null"
 }
 ```
 
