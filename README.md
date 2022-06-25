@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 70,
-  quote: "I believe that every person is born with talent.",
-  author: "Maya Angelou"
+  id: 111,
+  quote: "All our knowledge has its origins in our perceptions.",
+  author: "Leonardo da Vinci"
 }
 ```
 
