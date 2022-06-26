@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1022,
-  quote: "Life is what happens while you are making other plans.",
-  author: "John Lennon"
+  id: 1119,
+  quote: "What is not started today is never finished tomorrow.",
+  author: "Goethe"
 }
 ```
 
