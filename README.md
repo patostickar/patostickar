@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 709,
-  quote: "Your outlook on life is a direct reflection on how much you like yourself.",
-  author: "Lululemon"
+  id: 197,
+  quote: "You're never a loser until you quit trying.",
+  author: "Mike Ditka"
 }
 ```
 
