@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1060,
-  quote: "If you can't feed a hundred people, then feed just one.",
-  author: "Mother Teresa"
+  id: 1022,
+  quote: "Life is what happens while you are making other plans.",
+  author: "John Lennon"
 }
 ```
 
