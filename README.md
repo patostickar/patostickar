@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1096,
-  quote: "If we are not fully ourselves, truly in the present moment, we miss everything.",
-  author: "Thich Nhat Hanh"
+  id: 1113,
+  quote: "Don't frown because you never know who is falling in love with your smile.",
+  author: "Sinvyest Tan"
 }
 ```
 
