@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 296,
-  quote: "Love is not blind; it simply enables one to see things others fail to see.",
-  author: "null"
+  id: 1096,
+  quote: "If we are not fully ourselves, truly in the present moment, we miss everything.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
