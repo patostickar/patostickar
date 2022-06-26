@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 526,
-  quote: "I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.",
-  author: "Og Mandino"
+  id: 589,
+  quote: "When one tugs at a single thing in nature, he finds it attached to the rest of the world.",
+  author: "John Muir"
 }
 ```
 
