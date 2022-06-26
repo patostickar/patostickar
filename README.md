@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 487,
-  quote: "People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.",
-  author: "Johann Wolfgang von Goethe"
+  id: 1050,
+  quote: "Whoso loves, believes the impossible.",
+  author: "Elizabeth Browning"
 }
 ```
 
