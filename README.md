@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1050,
-  quote: "Whoso loves, believes the impossible.",
-  author: "Elizabeth Browning"
+  id: 503,
+  quote: "Life is not measured by the breaths we take, but by the moments that take our breath.",
+  author: "null"
 }
 ```
 
