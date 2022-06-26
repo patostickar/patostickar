@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 589,
-  quote: "When one tugs at a single thing in nature, he finds it attached to the rest of the world.",
-  author: "John Muir"
+  id: 1207,
+  quote: "The happy and efficient people in this world are those who accept trouble as a normal detail of human life and resolve to capitalize it when it comes along.",
+  author: "H. Bertram Lewis"
 }
 ```
 
