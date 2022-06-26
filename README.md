@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 900,
-  quote: "Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.",
-  author: "Epictetus"
+  id: 994,
+  quote: "Until you make peace with who you are, you'll never be content with what you have.",
+  author: "Doris Mortman"
 }
 ```
 
