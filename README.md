@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1252,
-  quote: "Chaos and Order are not enemies, only opposites.",
-  author: "Richard Garriott"
+  id: 709,
+  quote: "Your outlook on life is a direct reflection on how much you like yourself.",
+  author: "Lululemon"
 }
 ```
 
