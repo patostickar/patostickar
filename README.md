@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1431,
-  quote: "Your attitude, not your aptitude, will determine your altitude.",
-  author: "Zig Ziglar"
+  id: 296,
+  quote: "Love is not blind; it simply enables one to see things others fail to see.",
+  author: "null"
 }
 ```
 
