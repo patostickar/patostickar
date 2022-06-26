@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1549,
-  quote: "A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.",
-  author: "Jawaharlal Nehru"
+  id: 900,
+  quote: "Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.",
+  author: "Epictetus"
 }
 ```
 
