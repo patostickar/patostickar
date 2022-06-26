@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 52,
-  quote: "Do, or do not. There is no try.",
-  author: "Yoda"
+  id: 526,
+  quote: "I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.",
+  author: "Og Mandino"
 }
 ```
 
