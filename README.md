@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1119,
-  quote: "What is not started today is never finished tomorrow.",
-  author: "Goethe"
+  id: 907,
+  quote: "With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble. Courage is the foundation of integrity.",
+  author: "Keshavan Nair"
 }
 ```
 
