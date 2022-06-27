@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 61,
-  quote: "Without courage, wisdom bears no fruit.",
-  author: "Baltasar Gracian"
+  id: 1027,
+  quote: "No yesterdays are ever wasted for those who give themselves to today.",
+  author: "Brendan Francis"
 }
 ```
 
