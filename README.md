@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 400,
-  quote: "If you cannot do great things, do small things in a great way.",
-  author: "Napoleon Hill"
+  id: 488,
+  quote: "We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.",
+  author: "James Freeman Clarke"
 }
 ```
 
