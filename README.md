@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 986,
-  quote: "We cannot solve our problems with the same thinking we used when we created them.",
-  author: "Albert Einstein"
+  id: 1192,
+  quote: "Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.",
+  author: "Ralph Emerson"
 }
 ```
 
