@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 149,
-  quote: "If the shoe doesn't fit, must we change the foot?",
-  author: "Gloria Steinem"
+  id: 61,
+  quote: "Without courage, wisdom bears no fruit.",
+  author: "Baltasar Gracian"
 }
 ```
 
