@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1082,
-  quote: "When in doubt, tell the truth.",
-  author: "Mark Twain"
+  id: 1114,
+  quote: "Trust your hunches. They're usually based on facts filed away just below the conscious level.",
+  author: "Joyce Brothers"
 }
 ```
 
