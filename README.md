@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 877,
-  quote: "To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.",
-  author: "Kahlil Gibran"
+  id: 333,
+  quote: "If you think you can, you can. And if you think you can't, you're right.",
+  author: "Henry Ford"
 }
 ```
 
