@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1292,
-  quote: "The superior man acts before he speaks, and afterwards speaks according to his action.",
-  author: "Confucius"
+  id: 474,
+  quote: "If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.",
+  author: "Ralph Emerson"
 }
 ```
 
