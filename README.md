@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 488,
-  quote: "We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.",
-  author: "James Freeman Clarke"
+  id: 1523,
+  quote: "Never tell me the sky is the limit when there are footprints on the moon.",
+  author: "null"
 }
 ```
 
