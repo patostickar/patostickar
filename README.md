@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1027,
-  quote: "No yesterdays are ever wasted for those who give themselves to today.",
-  author: "Brendan Francis"
+  id: 400,
+  quote: "If you cannot do great things, do small things in a great way.",
+  author: "Napoleon Hill"
 }
 ```
 
