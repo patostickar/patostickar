@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1342,
-  quote: "If I know what love is, it is because of you.",
-  author: "Hermann Hesse"
+  id: 1631,
+  quote: "Our ability to achieve happiness and success depends on the strength of our wings.",
+  author: "Catherine Pulsifer"
 }
 ```
 
