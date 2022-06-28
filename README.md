@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1042,
-  quote: "Nature is a mutable cloud which is always and never the same.",
-  author: "Ralph Emerson"
+  id: 788,
+  quote: "The foot feels the foot when it feels the ground.",
+  author: "Buddha"
 }
 ```
 
