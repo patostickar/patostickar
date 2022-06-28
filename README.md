@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1265,
-  quote: "Setting goals is the first step in turning the invisible into the visible.",
-  author: "Tony Robbins"
+  id: 942,
+  quote: "When you come to the end of your rope, tie a knot and hang on.",
+  author: "Franklin Roosevelt"
 }
 ```
 
