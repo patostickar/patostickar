@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1066,
-  quote: "Who we are never changes. Who we think we are does.",
-  author: "Mary Almanac"
+  id: 800,
+  quote: "A smile is a light in the window of your face to show your heart is at home.",
+  author: "null"
 }
 ```
 
