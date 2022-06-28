@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1631,
-  quote: "Our ability to achieve happiness and success depends on the strength of our wings.",
-  author: "Catherine Pulsifer"
+  id: 1239,
+  quote: "Respect should be earned by actions, and not acquired by years.",
+  author: "Frank Wright"
 }
 ```
 
