@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 800,
-  quote: "A smile is a light in the window of your face to show your heart is at home.",
-  author: "null"
+  id: 1265,
+  quote: "Setting goals is the first step in turning the invisible into the visible.",
+  author: "Tony Robbins"
 }
 ```
 
