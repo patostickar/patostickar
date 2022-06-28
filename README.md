@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 788,
-  quote: "The foot feels the foot when it feels the ground.",
-  author: "Buddha"
+  id: 1020,
+  quote: "From wonder into wonder existence opens.",
+  author: "Lao Tzu"
 }
 ```
 
