@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 486,
-  quote: "Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.",
-  author: "Sri Chinmoy"
+  id: 1066,
+  quote: "Who we are never changes. Who we think we are does.",
+  author: "Mary Almanac"
 }
 ```
 
