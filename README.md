@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1305,
-  quote: "In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.",
-  author: "Leonardo da Vinci"
+  id: 486,
+  quote: "Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.",
+  author: "Sri Chinmoy"
 }
 ```
 
