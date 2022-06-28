@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 942,
-  quote: "When you come to the end of your rope, tie a knot and hang on.",
-  author: "Franklin Roosevelt"
+  id: 1342,
+  quote: "If I know what love is, it is because of you.",
+  author: "Hermann Hesse"
 }
 ```
 
