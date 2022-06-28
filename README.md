@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1239,
-  quote: "Respect should be earned by actions, and not acquired by years.",
-  author: "Frank Wright"
+  id: 1621,
+  quote: "There surely is in human nature an inherent propensity to extract all the good out of all the evil.",
+  author: "Benjamin Haydon"
 }
 ```
 
