@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 788,
-  quote: "The foot feels the foot when it feels the ground.",
+  id: 339,
+  quote: "Your worst enemy cannot harm you as much as your own unguarded thoughts.",
   author: "Buddha"
 }
 ```
