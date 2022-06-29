@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1446,
-  quote: "The more you care, the stronger you can be.",
-  author: "Jim Rohn"
+  id: 279,
+  quote: "Letting go is not the end of the world; it is the beginning of a new life.",
+  author: "null"
 }
 ```
 
