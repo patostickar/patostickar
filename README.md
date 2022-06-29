@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 213,
-  quote: "The path to success is to take massive, determined action.",
-  author: "Tony Robbins"
+  id: 1292,
+  quote: "The superior man acts before he speaks, and afterwards speaks according to his action.",
+  author: "Confucius"
 }
 ```
 
