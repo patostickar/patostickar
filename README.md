@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1566,
-  quote: "Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.",
-  author: "Jonathan Swift"
+  id: 890,
+  quote: "If one advances confidently in the direction of his dream, and endeavours to live the life which he had imagines, he will meet with a success unexpected in common hours.",
+  author: "Henry David Thoreau"
 }
 ```
 
