@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 279,
-  quote: "Letting go is not the end of the world; it is the beginning of a new life.",
-  author: "null"
+  id: 297,
+  quote: "Life is a process. We are a process. The universe is a process.",
+  author: "Anne Schaef"
 }
 ```
 
