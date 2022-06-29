@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 70,
-  quote: "I believe that every person is born with talent.",
-  author: "Maya Angelou"
+  id: 1565,
+  quote: "Life is what happens to you while you're busy making other plans.",
+  author: "John Lennon"
 }
 ```
 
