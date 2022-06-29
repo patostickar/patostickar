@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1565,
-  quote: "Life is what happens to you while you're busy making other plans.",
-  author: "John Lennon"
+  id: 1566,
+  quote: "Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.",
+  author: "Jonathan Swift"
 }
 ```
 
