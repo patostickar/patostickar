@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 339,
-  quote: "Your worst enemy cannot harm you as much as your own unguarded thoughts.",
-  author: "Buddha"
+  id: 798,
+  quote: "Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.",
+  author: "Blaise Pascal"
 }
 ```
 
