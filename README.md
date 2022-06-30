@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 4,
-  quote: "Fate is in your hands and no one elses",
-  author: "Byron Pulsifer"
+  id: 1196,
+  quote: "The steeper the mountain the harder the climb the better the view from the finishing line",
+  author: "null"
 }
 ```
 
