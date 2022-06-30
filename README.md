@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1334,
-  quote: "Don't think of it as failure. Think of it as time-released success.",
-  author: "Robert Orben"
+  id: 1130,
+  quote: "If you love life, don't waste time, for time is what life is made up of.",
+  author: "Bruce Lee"
 }
 ```
 
