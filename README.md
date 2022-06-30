@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1051,
-  quote: "It isn't where you come from, it's where you're going that counts.",
-  author: "Ella Fitzgerald"
+  id: 563,
+  quote: "The past has no power to stop you from being present now. Only your grievance about the past can do that.",
+  author: "Eckhart Tolle"
 }
 ```
 
