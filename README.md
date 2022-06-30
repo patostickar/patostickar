@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1130,
-  quote: "If you love life, don't waste time, for time is what life is made up of.",
-  author: "Bruce Lee"
+  id: 886,
+  quote: "In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.",
+  author: "Buddha"
 }
 ```
 
