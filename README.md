@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1184,
-  quote: "If you aren't going all the way, why go at all?",
-  author: "Joe Namath"
+  id: 1281,
+  quote: "Make the most of yourself for that is all there is of you.",
+  author: "Ralph Emerson"
 }
 ```
 
