@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 288,
-  quote: "Practice yourself, for heavens sake in little things, and then proceed to greater.",
-  author: "Epictetus"
+  id: 559,
+  quote: "We cannot change our memories, but we can change their meaning and the power they have over us.",
+  author: "David Seamans"
 }
 ```
 
