@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 886,
-  quote: "In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.",
-  author: "Buddha"
+  id: 1184,
+  quote: "If you aren't going all the way, why go at all?",
+  author: "Joe Namath"
 }
 ```
 
