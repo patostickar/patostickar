@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 563,
-  quote: "The past has no power to stop you from being present now. Only your grievance about the past can do that.",
-  author: "Eckhart Tolle"
+  id: 1193,
+  quote: "To change ones life, start immediately, do it flamboyantly, no exceptions.",
+  author: "William James"
 }
 ```
 
