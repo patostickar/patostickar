@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1184,
-  quote: "If you aren't going all the way, why go at all?",
-  author: "Joe Namath"
+  id: 1023,
+  quote: "Doing what you love is the cornerstone of having abundance in your life.",
+  author: "Wayne Dyer"
 }
 ```
 
