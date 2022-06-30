@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1023,
-  quote: "Doing what you love is the cornerstone of having abundance in your life.",
-  author: "Wayne Dyer"
+  id: 534,
+  quote: "At the center of your being you have the answer; you know who you are and you know what you want.",
+  author: "Lao Tzu"
 }
 ```
 
