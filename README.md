@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1281,
-  quote: "Make the most of yourself for that is all there is of you.",
-  author: "Ralph Emerson"
+  id: 79,
+  quote: "The two most powerful warriors are patience and time.",
+  author: "Leo Tolstoy"
 }
 ```
 
