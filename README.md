@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1473,
-  quote: "Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.",
-  author: "Dalai Lama"
+  id: 304,
+  quote: "Happiness comes when your work and words are of benefit to yourself and others.",
+  author: "Buddha"
 }
 ```
 
