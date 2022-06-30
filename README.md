@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 79,
-  quote: "The two most powerful warriors are patience and time.",
-  author: "Leo Tolstoy"
+  id: 4,
+  quote: "Fate is in your hands and no one elses",
+  author: "Byron Pulsifer"
 }
 ```
 
