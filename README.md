@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1309,
-  quote: "The art of progress is to preserve order amid change, and to preserve change amid order.",
-  author: "Alfred Whitehead"
+  id: 1051,
+  quote: "It isn't where you come from, it's where you're going that counts.",
+  author: "Ella Fitzgerald"
 }
 ```
 
