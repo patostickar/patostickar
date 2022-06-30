@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 559,
-  quote: "We cannot change our memories, but we can change their meaning and the power they have over us.",
-  author: "David Seamans"
+  id: 326,
+  quote: "I'm not afraid of storms, for I'm learning how to sail my ship.",
+  author: "Louisa Alcott"
 }
 ```
 
