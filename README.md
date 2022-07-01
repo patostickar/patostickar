@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 556,
-  quote: "He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.",
-  author: "Tryon Edwards"
+  id: 810,
+  quote: "Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength.",
+  author: "Hasidic saying"
 }
 ```
 
