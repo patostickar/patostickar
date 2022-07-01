@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1089,
-  quote: "Impossibilities are merely things which we have not yet learned.",
-  author: "Charles Chesnutt"
+  id: 921,
+  quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+  author: "Albert Schweitzer"
 }
 ```
 
