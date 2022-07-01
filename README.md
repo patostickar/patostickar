@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 699,
-  quote: "A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.",
-  author: "David Brinkley"
+  id: 198,
+  quote: "Science is organized knowledge. Wisdom is organized life.",
+  author: "Immanuel Kant"
 }
 ```
 
