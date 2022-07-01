@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1603,
-  quote: "The only Zen you find on the tops of mountains is the Zen you bring up there.",
-  author: "Robert Pirsig"
+  id: 1085,
+  quote: "The ladder of success is never crowded at the top.",
+  author: "Napoleon Hill"
 }
 ```
 
