@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 767,
-  quote: "Always be smarter than the people who hire you.",
-  author: "Lena Horne"
+  id: 82,
+  quote: "A short saying often contains much wisdom.",
+  author: "Sophocles"
 }
 ```
 
