@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 634,
-  quote: "Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.",
-  author: "Margaret Mead"
+  id: 699,
+  quote: "A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.",
+  author: "David Brinkley"
 }
 ```
 
