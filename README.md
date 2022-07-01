@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 321,
-  quote: "It is only when the mind and character slumber that the dress can be seen.",
-  author: "Ralph Waldo Emerson"
+  id: 517,
+  quote: "It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.",
+  author: "Jessamyn West"
 }
 ```
 
