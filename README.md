@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 198,
-  quote: "Science is organized knowledge. Wisdom is organized life.",
-  author: "Immanuel Kant"
+  id: 321,
+  quote: "It is only when the mind and character slumber that the dress can be seen.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
