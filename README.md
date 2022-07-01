@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 278,
-  quote: "By believing passionately in something that does not yet exist, we create it.",
-  author: "Nikos Kazantzakis"
+  id: 634,
+  quote: "Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.",
+  author: "Margaret Mead"
 }
 ```
 
