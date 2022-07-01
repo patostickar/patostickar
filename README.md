@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 530,
-  quote: "Take no thought of who is right or wrong or who is better than. Be not for or against.",
-  author: "Bruce Lee"
+  id: 556,
+  quote: "He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.",
+  author: "Tryon Edwards"
 }
 ```
 
