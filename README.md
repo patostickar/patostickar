@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 921,
-  quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
-  author: "Albert Schweitzer"
+  id: 1446,
+  quote: "The more you care, the stronger you can be.",
+  author: "Jim Rohn"
 }
 ```
 
