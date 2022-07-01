@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 157,
-  quote: "Without faith, nothing is possible. With it, nothing is impossible.",
-  author: "Mary Bethune"
+  id: 1089,
+  quote: "Impossibilities are merely things which we have not yet learned.",
+  author: "Charles Chesnutt"
 }
 ```
 
