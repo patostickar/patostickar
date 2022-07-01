@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 423,
-  quote: "Make the best use of what is in your power, and take the rest as it happens.",
-  author: "Epictetus"
+  id: 157,
+  quote: "Without faith, nothing is possible. With it, nothing is impossible.",
+  author: "Mary Bethune"
 }
 ```
 
