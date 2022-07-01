@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 931,
-  quote: "A man sees in the world what he carries in his heart.",
-  author: "Goethe"
+  id: 278,
+  quote: "By believing passionately in something that does not yet exist, we create it.",
+  author: "Nikos Kazantzakis"
 }
 ```
 
