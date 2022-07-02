@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1116,
-  quote: "Listen to your intuition. It will tell you everything you need to know.",
-  author: "Anthony D'Angelo"
+  id: 1589,
+  quote: "Wise men talk because they have something to say; fools, because they have to say something.",
+  author: "Plato"
 }
 ```
 
