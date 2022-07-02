@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 904,
-  quote: "A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.",
-  author: "Chuck Norris"
+  id: 838,
+  quote: "A hero is no braver than an ordinary man, but he is braver five minutes longer.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
