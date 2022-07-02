@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1051,
-  quote: "It isn't where you come from, it's where you're going that counts.",
-  author: "Ella Fitzgerald"
+  id: 904,
+  quote: "A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.",
+  author: "Chuck Norris"
 }
 ```
 
