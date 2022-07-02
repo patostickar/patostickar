@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1566,
-  quote: "Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.",
-  author: "Jonathan Swift"
+  id: 1140,
+  quote: "It is not only for what we do that we are held responsible, but also for what we do not do.",
+  author: "Moliere"
 }
 ```
 
