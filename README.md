@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1480,
-  quote: "Almost everything comes from nothing.",
-  author: "Henri Amiel"
+  id: 1240,
+  quote: "I hear and I forget. I see and I remember. I do and I understand.",
+  author: "Confucius"
 }
 ```
 
