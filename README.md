@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1172,
-  quote: "Kindness is the language which the deaf can hear and the blind can see.",
-  author: "Mark Twain"
+  id: 1480,
+  quote: "Almost everything comes from nothing.",
+  author: "Henri Amiel"
 }
 ```
 
