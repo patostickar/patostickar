@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 79,
-  quote: "The two most powerful warriors are patience and time.",
-  author: "Leo Tolstoy"
+  id: 1116,
+  quote: "Listen to your intuition. It will tell you everything you need to know.",
+  author: "Anthony D'Angelo"
 }
 ```
 
