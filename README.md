@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1222,
-  quote: "Never, never, never give up.",
-  author: "Winston Churchill"
+  id: 1578,
+  quote: "Begin, be bold, and venture to be wise.",
+  author: "Horace"
 }
 ```
 
