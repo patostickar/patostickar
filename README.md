@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1589,
-  quote: "Wise men talk because they have something to say; fools, because they have to say something.",
-  author: "Plato"
+  id: 1490,
+  quote: "Do not wait for leaders; do it alone, person to person.",
+  author: "Mother Teresa"
 }
 ```
 
