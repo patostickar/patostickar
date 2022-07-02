@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 102,
-  quote: "He that is giddy thinks the world turns round.",
-  author: "William Shakespeare"
+  id: 164,
+  quote: "Life is the flower for which love is the honey.",
+  author: "Victor Hugo"
 }
 ```
 
