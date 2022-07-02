@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 665,
-  quote: "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
-  author: "Buddha"
+  id: 1051,
+  quote: "It isn't where you come from, it's where you're going that counts.",
+  author: "Ella Fitzgerald"
 }
 ```
 
