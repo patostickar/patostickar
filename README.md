@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 639,
-  quote: "When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.",
-  author: "Pema Chodron"
+  id: 333,
+  quote: "If you think you can, you can. And if you think you can't, you're right.",
+  author: "Henry Ford"
 }
 ```
 
