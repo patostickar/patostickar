@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1497,
-  quote: "A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.",
-  author: "Lao Tzu"
+  id: 1552,
+  quote: "The height of your accomplishments will equal the depth of your convictions.",
+  author: "William Scolavino"
 }
 ```
 
