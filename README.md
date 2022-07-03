@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1241,
-  quote: "The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.",
-  author: "Will Durant"
+  id: 539,
+  quote: "Sadness may be part of life but there is no need to let it dominate your entire life.",
+  author: "Byron Pulsifer"
 }
 ```
 
