@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 333,
-  quote: "If you think you can, you can. And if you think you can't, you're right.",
-  author: "Henry Ford"
+  id: 1206,
+  quote: "Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.",
+  author: "Wolfgang Amadeus Mozart"
 }
 ```
 
