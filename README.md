@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1053,
-  quote: "When anger use your energy to do something productive.",
-  author: "C. Pulsifer"
+  id: 1415,
+  quote: "There is only one happiness in life, to love and be loved.",
+  author: "George Sand"
 }
 ```
 
