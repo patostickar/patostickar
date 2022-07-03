@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 539,
-  quote: "Sadness may be part of life but there is no need to let it dominate your entire life.",
-  author: "Byron Pulsifer"
+  id: 1411,
+  quote: "Be a good listener. Your ears will never get you in trouble.",
+  author: "Frank Tyger"
 }
 ```
 
