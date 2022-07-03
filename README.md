@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 236,
-  quote: "The journey of a thousand miles begins with one step.",
-  author: "Lao Tzu"
+  id: 1567,
+  quote: "If you have knowledge, let others light their candles in it.",
+  author: "Margaret Fuller"
 }
 ```
 
