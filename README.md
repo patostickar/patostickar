@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 444,
-  quote: "The minute you settle for less than you deserve, you get even less than you settled for.",
-  author: "Maureen Dowd"
+  id: 236,
+  quote: "The journey of a thousand miles begins with one step.",
+  author: "Lao Tzu"
 }
 ```
 
