@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1411,
-  quote: "Be a good listener. Your ears will never get you in trouble.",
-  author: "Frank Tyger"
+  id: 444,
+  quote: "The minute you settle for less than you deserve, you get even less than you settled for.",
+  author: "Maureen Dowd"
 }
 ```
 
