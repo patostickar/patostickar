@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1206,
-  quote: "Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.",
-  author: "Wolfgang Amadeus Mozart"
+  id: 868,
+  quote: "Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.",
+  author: "Margaret Laurence"
 }
 ```
 
