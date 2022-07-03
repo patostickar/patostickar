@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1355,
-  quote: "The man who trusts men will make fewer mistakes than he who distrusts them.",
-  author: "Cavour"
+  id: 1150,
+  quote: "Take it easy, but take it.",
+  author: "Woody Guthrie"
 }
 ```
 
