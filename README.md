@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1552,
-  quote: "The height of your accomplishments will equal the depth of your convictions.",
-  author: "William Scolavino"
+  id: 150,
+  quote: "Each day provides its own gifts.",
+  author: "Marcus Aurelius"
 }
 ```
 
