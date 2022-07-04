@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 959,
-  quote: "He who obtains has little. He who scatters has much.",
-  author: "Lao Tzu"
+  id: 1024,
+  quote: "Kindness is the golden chain by which society is bound together.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
