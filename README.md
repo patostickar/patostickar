@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1636,
-  quote: "Nothing is a waste of time if you use the experience wisely.",
-  author: "Rodin"
+  id: 285,
+  quote: "It is not so important to know everything as to appreciate what we learn.",
+  author: "Hannah More"
 }
 ```
 
