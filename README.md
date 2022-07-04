@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 486,
-  quote: "Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.",
-  author: "Sri Chinmoy"
+  id: 514,
+  quote: "Many people think of prosperity that concerns money only to forget that true prosperity is of the mind.",
+  author: "Byron Pulsifer"
 }
 ```
 
