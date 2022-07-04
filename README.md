@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1465,
-  quote: "Be yourself; everyone else is already taken.",
-  author: "Oscar Wilde"
+  id: 1636,
+  quote: "Nothing is a waste of time if you use the experience wisely.",
+  author: "Rodin"
 }
 ```
 
