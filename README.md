@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1187,
-  quote: "If I could reach up and hold a star for every time you've made me smile, the entire evening sky would be in the palm of my hand.",
-  author: "null"
+  id: 369,
+  quote: "More often than not, anger is actually an indication of weakness rather than of strength.",
+  author: "Dalai Lama"
 }
 ```
 
