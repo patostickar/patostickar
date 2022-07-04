@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 650,
-  quote: "There are two primary choices in life: to accept conditions as they exist, or accept responsibility for changing them.",
-  author: "Denis Waitley"
+  id: 857,
+  quote: "Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.",
+  author: "Albert Schweitzer"
 }
 ```
 
