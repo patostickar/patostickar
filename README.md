@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 954,
-  quote: "Take heed: you do not find what you do not seek.",
-  author: "English proverb"
+  id: 1581,
+  quote: "Slow down and enjoy life. It's not only the scenery you miss by going too fast you also miss the sense of where you are going and why.",
+  author: "Eddie Cantor"
 }
 ```
 
