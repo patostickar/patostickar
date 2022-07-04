@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 733,
-  quote: "The superior man is modest in his speech, but exceeds in his actions.",
-  author: "Confucius"
+  id: 486,
+  quote: "Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.",
+  author: "Sri Chinmoy"
 }
 ```
 
