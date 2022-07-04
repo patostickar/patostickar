@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 144,
-  quote: "Time is the most valuable thing a man can spend.",
-  author: "Theophrastus"
+  id: 691,
+  quote: "Life's challenges are not supposed to paralyse you, they're supposed to help you discover who you are.",
+  author: "Bernice Reagon"
 }
 ```
 
