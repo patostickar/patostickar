@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1065,
-  quote: "As we risk ourselves, we grow. Each new experience is a risk.",
-  author: "Fran Watson"
+  id: 733,
+  quote: "The superior man is modest in his speech, but exceeds in his actions.",
+  author: "Confucius"
 }
 ```
 
