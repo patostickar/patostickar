@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 960,
-  quote: "To dare is to lose ones footing momentarily. To not dare is to lose oneself.",
-  author: "Soren Kierkegaard"
+  id: 1443,
+  quote: "When people are like each other they tend to like each other.",
+  author: "Tony Robbins"
 }
 ```
 
