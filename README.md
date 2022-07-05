@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1024,
-  quote: "Kindness is the golden chain by which society is bound together.",
-  author: "Johann Wolfgang von Goethe"
+  id: 1562,
+  quote: "Spirituality can be severed from both vicious sectarianism and thoughtless banalities. Spirituality, I have come to see, is nothing less than the thoughtful love of life.",
+  author: "Robert C. Solomon"
 }
 ```
 
