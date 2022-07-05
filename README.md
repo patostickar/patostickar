@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1204,
-  quote: "He who controls others may be powerful, but he who has mastered himself is mightier still.",
-  author: "Lao Tzu"
+  id: 732,
+  quote: "The truth is always exciting. Speak it, then. Life is dull without it.",
+  author: "Pearl Buck"
 }
 ```
 
