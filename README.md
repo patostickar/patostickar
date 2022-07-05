@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1062,
-  quote: "Don't let today's disappointments cast a shadow on tomorrow's dreams.",
-  author: "null"
+  id: 815,
+  quote: "Happiness is a perfume you cannot pour on others without getting a few drops on yourself.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
