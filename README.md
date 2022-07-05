@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 672,
-  quote: "He that respects himself is safe from others; he wears a coat of mail that none can pierce.",
-  author: "Henry Longfellow"
+  id: 1103,
+  quote: "The odds of hitting your target go up dramatically when you aim at it.",
+  author: "Mal Pancoast"
 }
 ```
 
