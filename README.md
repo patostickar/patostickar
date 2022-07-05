@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 998,
-  quote: "Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.",
-  author: "Arthur Conan Doyle"
+  id: 502,
+  quote: "The only thing to do with good advice is to pass it on. It is never of any use to oneself.",
+  author: "Oscar Wilde"
 }
 ```
 
