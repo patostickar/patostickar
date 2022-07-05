@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 502,
-  quote: "The only thing to do with good advice is to pass it on. It is never of any use to oneself.",
-  author: "Oscar Wilde"
+  id: 775,
+  quote: "Can you imagine what I would do if I could do all I can?",
+  author: "Sun Tzu"
 }
 ```
 
