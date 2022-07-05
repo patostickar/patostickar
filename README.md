@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1105,
-  quote: "They can do all because they think they can.",
-  author: "Virgil"
+  id: 1204,
+  quote: "He who controls others may be powerful, but he who has mastered himself is mightier still.",
+  author: "Lao Tzu"
 }
 ```
 
