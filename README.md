@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1562,
-  quote: "Spirituality can be severed from both vicious sectarianism and thoughtless banalities. Spirituality, I have come to see, is nothing less than the thoughtful love of life.",
-  author: "Robert C. Solomon"
+  id: 672,
+  quote: "He that respects himself is safe from others; he wears a coat of mail that none can pierce.",
+  author: "Henry Longfellow"
 }
 ```
 
