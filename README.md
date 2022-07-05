@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1103,
-  quote: "The odds of hitting your target go up dramatically when you aim at it.",
-  author: "Mal Pancoast"
+  id: 924,
+  quote: "Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving.",
+  author: "John Dewey"
 }
 ```
 
