@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1443,
-  quote: "When people are like each other they tend to like each other.",
-  author: "Tony Robbins"
+  id: 1062,
+  quote: "Don't let today's disappointments cast a shadow on tomorrow's dreams.",
+  author: "null"
 }
 ```
 
