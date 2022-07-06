@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 485,
-  quote: "Learn all you can from the mistakes of others. You won't have time to make them all yourself.",
-  author: "Alfred Sheinwold"
+  id: 921,
+  quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+  author: "Albert Schweitzer"
 }
 ```
 
