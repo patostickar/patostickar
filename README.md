@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1264,
-  quote: "Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.",
-  author: "Henry Reed"
+  id: 1312,
+  quote: "Maxim for life: You get treated in life the way you teach people to treat you.",
+  author: "Wayne Dyer"
 }
 ```
 
