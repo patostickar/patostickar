@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 213,
-  quote: "The path to success is to take massive, determined action.",
-  author: "Tony Robbins"
+  id: 125,
+  quote: "You have to believe in yourself.",
+  author: "Sun Tzu"
 }
 ```
 
