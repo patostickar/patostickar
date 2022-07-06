@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1293,
-  quote: "A single conversation across the table with a wise person is worth a months study of books.",
-  author: "Chinese proverb"
+  id: 202,
+  quote: "If you surrender to the wind, you can ride it.",
+  author: "Toni Morrison"
 }
 ```
 
