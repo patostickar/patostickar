@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 566,
-  quote: "I'm not interested in age. People who tell me their age are silly. You're as old as you feel.",
-  author: "Elizabeth Arden"
+  id: 560,
+  quote: "Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?",
+  author: "Confucius"
 }
 ```
 
