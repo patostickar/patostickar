@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 814,
-  quote: "There is one thing you have got to learn about our movement. Three people are better than no people.",
-  author: "Fannie Hamer"
+  id: 566,
+  quote: "I'm not interested in age. People who tell me their age are silly. You're as old as you feel.",
+  author: "Elizabeth Arden"
 }
 ```
 
