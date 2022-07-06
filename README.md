@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 560,
-  quote: "Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?",
-  author: "Confucius"
+  id: 128,
+  quote: "Character develops itself in the stream of life.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
