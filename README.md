@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1156,
-  quote: "Why worry about tomorrow, when today is all we have?",
-  author: "null"
+  id: 1515,
+  quote: "I can't believe that God put us on this earth to be ordinary.",
+  author: "Lou Holtz"
 }
 ```
 
