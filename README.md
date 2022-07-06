@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1288,
-  quote: "Rather than wishing for change, you first must be prepared to change.",
-  author: "Catherine Pulsifer"
+  id: 1081,
+  quote: "Every human being is the author of his own health or disease.",
+  author: "Buddha"
 }
 ```
 
