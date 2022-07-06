@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 202,
-  quote: "If you surrender to the wind, you can ride it.",
-  author: "Toni Morrison"
+  id: 835,
+  quote: "Friends are those rare people who ask how we are and then wait to hear the answer.",
+  author: "Ed Cunningham"
 }
 ```
 
