@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1515,
-  quote: "I can't believe that God put us on this earth to be ordinary.",
-  author: "Lou Holtz"
+  id: 491,
+  quote: "What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.",
+  author: "Wayne Dyer"
 }
 ```
 
