@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 835,
-  quote: "Friends are those rare people who ask how we are and then wait to hear the answer.",
-  author: "Ed Cunningham"
+  id: 15,
+  quote: "Today is the tomorrow we worried about yesterday.",
+  author: "null"
 }
 ```
 
