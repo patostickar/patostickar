@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 15,
-  quote: "Today is the tomorrow we worried about yesterday.",
-  author: "null"
+  id: 939,
+  quote: "We must not allow ourselves to become like the system we oppose.",
+  author: "Bishop Desmond Tutu"
 }
 ```
 
