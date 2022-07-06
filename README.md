@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 125,
-  quote: "You have to believe in yourself.",
-  author: "Sun Tzu"
+  id: 833,
+  quote: "We have two ears and one mouth so that we can listen twice as much as we speak.",
+  author: "Epictetus"
 }
 ```
 
