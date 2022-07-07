@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 752,
-  quote: "Accept challenges, so that you may feel the exhilaration of victory.",
-  author: "George Patton"
+  id: 1152,
+  quote: "Take rest; a field that has rested gives a bountiful crop.",
+  author: "Ovid"
 }
 ```
 
