@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 939,
-  quote: "We must not allow ourselves to become like the system we oppose.",
-  author: "Bishop Desmond Tutu"
+  id: 611,
+  quote: "The grand essentials of happiness are: something to do, something to love, and something to hope for.",
+  author: "Chalmers"
 }
 ```
 
