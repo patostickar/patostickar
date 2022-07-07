@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1313,
-  quote: "The first duty of a human being is to assume the right functional relationship to society more briefly, to find your real job, and do it.",
-  author: "Charlotte Perkins Gilman"
+  id: 752,
+  quote: "Accept challenges, so that you may feel the exhilaration of victory.",
+  author: "George Patton"
 }
 ```
 
