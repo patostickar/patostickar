@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1037,
-  quote: "A gem cannot be polished without friction, nor a man perfected without trials.",
-  author: "Chinese proverb"
+  id: 136,
+  quote: "Growth itself contains the germ of happiness.",
+  author: "Pearl Buck"
 }
 ```
 
