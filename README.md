@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 204,
-  quote: "Write your plans in pencil and give God the eraser.",
-  author: "Paulo Coelho"
+  id: 131,
+  quote: "Reality does not conform to the ideal, but confirms it.",
+  author: "Gustave Flaubert"
 }
 ```
 
