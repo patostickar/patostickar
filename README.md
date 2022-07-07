@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 969,
-  quote: "Happiness does not come from having much, but from being attached to little.",
-  author: "Cheng Yen"
+  id: 1091,
+  quote: "The Superior Man is aware of Righteousness, the inferior man is aware of advantage.",
+  author: "Confucius"
 }
 ```
 
