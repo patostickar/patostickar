@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1152,
-  quote: "Take rest; a field that has rested gives a bountiful crop.",
-  author: "Ovid"
+  id: 671,
+  quote: "We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world.",
+  author: "Buddha"
 }
 ```
 
