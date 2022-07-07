@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 611,
-  quote: "The grand essentials of happiness are: something to do, something to love, and something to hope for.",
-  author: "Chalmers"
+  id: 1380,
+  quote: "The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.",
+  author: "Carlos Castaneda"
 }
 ```
 
