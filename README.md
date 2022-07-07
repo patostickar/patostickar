@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 497,
-  quote: "Snowflakes are one of natures most fragile things, but just look what they can do when they stick together.",
-  author: "Vista Kelly"
+  id: 891,
+  quote: "The secret of joy in work is contained in one word excellence. To know how to do something well is to enjoy it.",
+  author: "Pearl Buck"
 }
 ```
 
