@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 64,
-  quote: "When performance exceeds ambition, the overlap is called success.",
-  author: "Cullen Hightower"
+  id: 430,
+  quote: "The person born with a talent they are meant to use will find their greatest happiness in using it.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
