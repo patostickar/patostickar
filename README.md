@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 671,
-  quote: "We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world.",
-  author: "Buddha"
+  id: 1208,
+  quote: "As an organizer I start from where the world is, as it is, not as I would like it to be.",
+  author: "Saul Alinsky"
 }
 ```
 
