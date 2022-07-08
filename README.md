@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 996,
-  quote: "Being angry never solves anything.",
-  author: "Catherine Pulsifer"
+  id: 1040,
+  quote: "The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.",
+  author: "Winston Churchill"
 }
 ```
 
