@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 558,
-  quote: "One must be fond of people and trust them if one is not to make a mess of life.",
-  author: "E. M. Forster"
+  id: 1524,
+  quote: "I cannot say whether things will get better if we change; what I can say is they must change if they are to get better.",
+  author: "Georg Lichtenberg"
 }
 ```
 
