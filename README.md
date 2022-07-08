@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1444,
-  quote: "Sincerity is the way of Heaven. The attainment of sincerity is the way of men.",
-  author: "Confucius"
+  id: 1509,
+  quote: "Bold is not the act of foolishness but the attribute and inner strength to act when others will not so as to move forward not backward.",
+  author: "Byron Pulsifer"
 }
 ```
 
