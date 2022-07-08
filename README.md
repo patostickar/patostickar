@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 354,
-  quote: "Never bend your head. Always hold it high. Look the world right in the eye.",
-  author: "Helen Keller"
+  id: 444,
+  quote: "The minute you settle for less than you deserve, you get even less than you settled for.",
+  author: "Maureen Dowd"
 }
 ```
 
