@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 853,
-  quote: "For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.",
-  author: "Mary Kay Ash"
+  id: 558,
+  quote: "One must be fond of people and trust them if one is not to make a mess of life.",
+  author: "E. M. Forster"
 }
 ```
 
