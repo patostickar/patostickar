@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1281,
-  quote: "Make the most of yourself for that is all there is of you.",
-  author: "Ralph Emerson"
+  id: 1203,
+  quote: "When there is no enemy within, the enemies outside cannot hurt you.",
+  author: "African proverb"
 }
 ```
 
