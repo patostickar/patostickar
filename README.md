@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 310,
-  quote: "Action may not always bring happiness; but there is no happiness without action.",
-  author: "Benjamin Disraeli"
+  id: 214,
+  quote: "I allow my intuition to lead my path.",
+  author: "Manuel Puig"
 }
 ```
 
