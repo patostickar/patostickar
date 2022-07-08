@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 977,
-  quote: "Only when we are no longer afraid do we begin to live.",
-  author: "Dorothy Thompson"
+  id: 310,
+  quote: "Action may not always bring happiness; but there is no happiness without action.",
+  author: "Benjamin Disraeli"
 }
 ```
 
