@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 848,
-  quote: "The greatest antidote to insecurity and the sense of fear is compassion it brings one back to the basis of one's inner strength",
-  author: "Dalai Lama"
+  id: 1136,
+  quote: "Always do your best. What you plant now, you will harvest later.",
+  author: "Og Mandino"
 }
 ```
 
