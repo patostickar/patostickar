@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1136,
-  quote: "Always do your best. What you plant now, you will harvest later.",
+  id: 526,
+  quote: "I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.",
   author: "Og Mandino"
 }
 ```
