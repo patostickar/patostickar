@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1509,
-  quote: "Bold is not the act of foolishness but the attribute and inner strength to act when others will not so as to move forward not backward.",
-  author: "Byron Pulsifer"
+  id: 996,
+  quote: "Being angry never solves anything.",
+  author: "Catherine Pulsifer"
 }
 ```
 
