@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 618,
-  quote: "The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.",
-  author: "Henry Thoreau"
+  id: 752,
+  quote: "Accept challenges, so that you may feel the exhilaration of victory.",
+  author: "George Patton"
 }
 ```
 
