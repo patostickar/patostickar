@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 341,
-  quote: "Yeah we all shine on, like the moon, and the stars, and the sun.",
-  author: "John Lennon"
+  id: 298,
+  quote: "I think somehow we learn who we really are and then live with that decision.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
