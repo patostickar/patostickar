@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1391,
-  quote: "Just as much as we see in others we have in ourselves.",
-  author: "William Hazlitt"
+  id: 264,
+  quote: "Imagination is the highest kite one can fly.",
+  author: "Lauren Bacall"
 }
 ```
 
