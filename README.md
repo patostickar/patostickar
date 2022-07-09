@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 692,
-  quote: "The greatest way to live with honour in this world is to be what we pretend to be.",
-  author: "Socrates"
+  id: 290,
+  quote: "Our greatest glory is not in never failing but rising everytime we fall.",
+  author: "null"
 }
 ```
 
