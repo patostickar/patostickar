@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 264,
-  quote: "Imagination is the highest kite one can fly.",
-  author: "Lauren Bacall"
+  id: 1471,
+  quote: "My reputation grows with every failure.",
+  author: "George Shaw"
 }
 ```
 
