@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1499,
-  quote: "You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.",
-  author: "Albert Camus"
+  id: 1261,
+  quote: "To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others.",
+  author: "Anthony Robbins"
 }
 ```
 
