@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1115,
-  quote: "Nothing is at last sacred but the integrity of your own mind.",
-  author: "Ralph Emerson"
+  id: 341,
+  quote: "Yeah we all shine on, like the moon, and the stars, and the sun.",
+  author: "John Lennon"
 }
 ```
 
