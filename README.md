@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1245,
-  quote: "You do not become good by trying to be good, but by finding the goodness that is already within you.",
-  author: "Eckhart Tolle"
+  id: 1104,
+  quote: "Open minds lead to open doors.",
+  author: "null"
 }
 ```
 
