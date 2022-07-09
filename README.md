@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 511,
-  quote: "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
-  author: "Aristotle"
+  id: 618,
+  quote: "The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.",
+  author: "Henry Thoreau"
 }
 ```
 
