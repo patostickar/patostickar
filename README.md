@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 290,
-  quote: "Our greatest glory is not in never failing but rising everytime we fall.",
-  author: "null"
+  id: 1475,
+  quote: "For success, attitude is equally as important as ability.",
+  author: "Harry Banks"
 }
 ```
 
