@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 298,
-  quote: "I think somehow we learn who we really are and then live with that decision.",
-  author: "Eleanor Roosevelt"
+  id: 678,
+  quote: "With realization of ones own potential and self-confidence in ones ability, one can build a better world.",
+  author: "Dalai Lama"
 }
 ```
 
