@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 713,
-  quote: "Happiness depends upon ourselves.",
-  author: "Aristotle"
+  id: 382,
+  quote: "Never apologize for showing feelings. When you do so, you apologize for the truth.",
+  author: "Benjamin Disraeli"
 }
 ```
 
