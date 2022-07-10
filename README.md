@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 379,
-  quote: "You will not be punished for your anger, you will be punished by your anger.",
-  author: "Buddha"
+  id: 1187,
+  quote: "If I could reach up and hold a star for every time you've made me smile, the entire evening sky would be in the palm of my hand.",
+  author: "null"
 }
 ```
 
