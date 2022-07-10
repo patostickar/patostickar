@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 999,
-  quote: "Where all think alike, no one thinks very much.",
-  author: "Walter Lippmann"
+  id: 92,
+  quote: "In order to win, you must expect to win.",
+  author: "Richard Bach"
 }
 ```
 
