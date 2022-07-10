@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 849,
-  quote: "Courage is the discovery that you may not win, and trying when you know you can lose.",
-  author: "null"
+  id: 262,
+  quote: "All things change; nothing perishes.",
+  author: "Ovid"
 }
 ```
 
