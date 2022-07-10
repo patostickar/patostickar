@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 262,
-  quote: "All things change; nothing perishes.",
-  author: "Ovid"
+  id: 221,
+  quote: "There never was a good knife made of bad steel.",
+  author: "Benjamin Franklin"
 }
 ```
 
