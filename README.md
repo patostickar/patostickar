@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 231,
-  quote: "Kind words do not cost much. Yet they accomplish much.",
-  author: "Blaise Pascal"
+  id: 1237,
+  quote: "Make the most of yourself, for that is all there is of you.",
+  author: "Ralph Emerson"
 }
 ```
 
