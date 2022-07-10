@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 538,
-  quote: "Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.",
-  author: "Gloria Steinem"
+  id: 615,
+  quote: "There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.",
+  author: "Robert Louis Stevenson"
 }
 ```
 
