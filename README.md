@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 829,
-  quote: "I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.",
-  author: "Herbert Swope"
+  id: 538,
+  quote: "Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.",
+  author: "Gloria Steinem"
 }
 ```
 
