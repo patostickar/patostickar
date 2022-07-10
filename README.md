@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 92,
-  quote: "In order to win, you must expect to win.",
-  author: "Richard Bach"
+  id: 231,
+  quote: "Kind words do not cost much. Yet they accomplish much.",
+  author: "Blaise Pascal"
 }
 ```
 
