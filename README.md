@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 221,
-  quote: "There never was a good knife made of bad steel.",
-  author: "Benjamin Franklin"
+  id: 470,
+  quote: "The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.",
+  author: "Buddha"
 }
 ```
 
