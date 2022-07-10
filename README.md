@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 615,
-  quote: "There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.",
-  author: "Robert Louis Stevenson"
+  id: 999,
+  quote: "Where all think alike, no one thinks very much.",
+  author: "Walter Lippmann"
 }
 ```
 
