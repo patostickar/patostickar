@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1107,
-  quote: "On every thorn, delightful wisdom grows, In every rill a sweet instruction flows.",
-  author: "Edward Young"
+  id: 400,
+  quote: "If you cannot do great things, do small things in a great way.",
+  author: "Napoleon Hill"
 }
 ```
 
