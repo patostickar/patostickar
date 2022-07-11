@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 333,
-  quote: "If you think you can, you can. And if you think you can't, you're right.",
-  author: "Henry Ford"
+  id: 1496,
+  quote: "There is not one big cosmic meaning for all, there is only the meaning we each give to our life.",
+  author: "Anais Nin"
 }
 ```
 
