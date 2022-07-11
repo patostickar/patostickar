@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 101,
-  quote: "Some pursue happiness, others create it.",
-  author: "null"
+  id: 374,
+  quote: "Don't be afraid to go out on a limb. That's where the fruit is.",
+  author: "H. Jackson Browne"
 }
 ```
 
