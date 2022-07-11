@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 244,
-  quote: "Don't smother each other. No one can grow in the shade.",
-  author: "Leo F. Buscaglia"
+  id: 25,
+  quote: "Trust yourself. You know more than you think you do.",
+  author: "Benjamin Spock"
 }
 ```
 
