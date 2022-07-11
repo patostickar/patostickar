@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1496,
-  quote: "There is not one big cosmic meaning for all, there is only the meaning we each give to our life.",
-  author: "Anais Nin"
+  id: 1123,
+  quote: "Nothing great was ever achieved without enthusiasm.",
+  author: "Ralph Emerson"
 }
 ```
 
