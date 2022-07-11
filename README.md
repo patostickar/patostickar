@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1048,
-  quote: "The truth which has made us free will in the end make us glad also.",
-  author: "Felix Adler"
+  id: 391,
+  quote: "Most folks are about as happy as they make up their minds to be.",
+  author: "Abraham Lincoln"
 }
 ```
 
