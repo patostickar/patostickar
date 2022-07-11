@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1330,
-  quote: "The least of things with a meaning is worth more in life than the greatest of things without it.",
-  author: "Carl Jung"
+  id: 854,
+  quote: "It is surprising what a man can do when he has to, and how little most men will do when they don't have to.",
+  author: "Walter Linn"
 }
 ```
 
