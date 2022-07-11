@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 400,
-  quote: "If you cannot do great things, do small things in a great way.",
-  author: "Napoleon Hill"
+  id: 344,
+  quote: "We should all be thankful for those people who rekindle the inner spirit.",
+  author: "Albert Schweitzer"
 }
 ```
 
