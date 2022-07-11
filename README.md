@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1426,
-  quote: "If you propose to speak, always ask yourself, is it true, is it necessary, is it kind.",
-  author: "Buddha"
+  id: 1107,
+  quote: "On every thorn, delightful wisdom grows, In every rill a sweet instruction flows.",
+  author: "Edward Young"
 }
 ```
 
