@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 931,
-  quote: "A man sees in the world what he carries in his heart.",
-  author: "Goethe"
+  id: 803,
+  quote: "The least movement is of importance to all nature. The entire ocean is affected by a pebble.",
+  author: "Blaise Pascal"
 }
 ```
 
