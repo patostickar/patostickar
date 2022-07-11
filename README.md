@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 697,
-  quote: "The person who lives life fully, glowing with life's energy, is the person who lives a successful life.",
-  author: "Daisaku Ikeda"
+  id: 1330,
+  quote: "The least of things with a meaning is worth more in life than the greatest of things without it.",
+  author: "Carl Jung"
 }
 ```
 
