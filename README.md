@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 390,
-  quote: "Every day may not be good, but there's something good in every day.",
-  author: "null"
+  id: 945,
+  quote: "When fate hands us a lemon, lets try to make lemonade.",
+  author: "Dale Carnegie"
 }
 ```
 
