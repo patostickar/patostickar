@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1569,
-  quote: "If you find yourself in a hole, the first thing to do is stop digging.",
-  author: "Will Rogers"
+  id: 1415,
+  quote: "There is only one happiness in life, to love and be loved.",
+  author: "George Sand"
 }
 ```
 
