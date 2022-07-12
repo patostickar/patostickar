@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1633,
-  quote: "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.",
-  author: "Melody Beattie"
+  id: 789,
+  quote: "Not what we have but what we enjoy constitutes our abundance.",
+  author: "John Petit-Senn"
 }
 ```
 
