@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1243,
-  quote: "Sometimes the biggest act of courage is a small one.",
-  author: "Lauren Raffo"
+  id: 1569,
+  quote: "If you find yourself in a hole, the first thing to do is stop digging.",
+  author: "Will Rogers"
 }
 ```
 
