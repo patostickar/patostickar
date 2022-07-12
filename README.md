@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 199,
-  quote: "Knowing is not enough; we must apply!",
-  author: "Johann Wolfgang von Goethe"
+  id: 1141,
+  quote: "Nobody can do everything, but everybody can do something.",
+  author: "null"
 }
 ```
 
