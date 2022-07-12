@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1156,
-  quote: "Why worry about tomorrow, when today is all we have?",
-  author: "null"
+  id: 1122,
+  quote: "Be sure you put your feet in the right place, then stand firm.",
+  author: "Abraham Lincoln"
 }
 ```
 
