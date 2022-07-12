@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1141,
-  quote: "Nobody can do everything, but everybody can do something.",
-  author: "null"
+  id: 1243,
+  quote: "Sometimes the biggest act of courage is a small one.",
+  author: "Lauren Raffo"
 }
 ```
 
