@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 658,
-  quote: "Arrogance and rudeness are training wheels on the bicycle of life for weak people who cannot keep their balance without them.",
-  author: "Laura Teresa Marquez"
+  id: 375,
+  quote: "Wicked people are always surprised to find ability in those that are good.",
+  author: "Marquis Vauvenargues"
 }
 ```
 
