@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1415,
-  quote: "There is only one happiness in life, to love and be loved.",
-  author: "George Sand"
+  id: 1230,
+  quote: "Keep silence for the most part, and speak only when you must, and then briefly.",
+  author: "Epictetus"
 }
 ```
 
