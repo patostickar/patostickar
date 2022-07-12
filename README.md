@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 188,
-  quote: "No garden is without its weeds.",
-  author: "Thomas Fuller"
+  id: 1156,
+  quote: "Why worry about tomorrow, when today is all we have?",
+  author: "null"
 }
 ```
 
