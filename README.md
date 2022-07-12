@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 190,
-  quote: "Kind words will unlock an iron door.",
-  author: "Turkish proverb"
+  id: 666,
+  quote: "Peace of mind is not the absence of conflict from life, but the ability to cope with it.",
+  author: "null"
 }
 ```
 
