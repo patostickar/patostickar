@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 255,
-  quote: "Never put off till tomorrow what you can do today.",
-  author: "Thomas Jefferson"
+  id: 1042,
+  quote: "Nature is a mutable cloud which is always and never the same.",
+  author: "Ralph Emerson"
 }
 ```
 
