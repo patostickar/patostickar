@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 335,
-  quote: "Everyone thinks of changing the world, but no one thinks of changing himself.",
-  author: "Leo Tolstoy"
+  id: 255,
+  quote: "Never put off till tomorrow what you can do today.",
+  author: "Thomas Jefferson"
 }
 ```
 
