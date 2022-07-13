@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 680,
-  quote: "You cannot make yourself feel something you do not feel, but you can make yourself do right in spite of your feelings.",
-  author: "Pearl Buck"
+  id: 1307,
+  quote: "There is nothing happens to any person but what was in his power to go through with.",
+  author: "Marcus Aurelius"
 }
 ```
 
