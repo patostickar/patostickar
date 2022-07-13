@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 726,
-  quote: "When the solution is simple, God is answering.",
-  author: "Albert Einstein"
+  id: 543,
+  quote: "You are always free to change your mind and choose a different future, or a different past.",
+  author: "Richard Bach"
 }
 ```
 
