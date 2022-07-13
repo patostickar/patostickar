@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1111,
-  quote: "Each time we face a fear, we gain strength, courage, and confidence in the doing.",
-  author: "null"
+  id: 124,
+  quote: "Life shrinks or expands in proportion to one's courage.",
+  author: "Anais Nin"
 }
 ```
 
