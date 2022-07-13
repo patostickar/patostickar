@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 774,
-  quote: "Everything that irritates us about others can lead us to an understanding about ourselves.",
-  author: "Carl Jung"
+  id: 1061,
+  quote: "In three words I can sum up everything Ive learned about life: it goes on.",
+  author: "Robert Frost"
 }
 ```
 
