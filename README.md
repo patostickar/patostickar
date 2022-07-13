@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1195,
-  quote: "The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.",
-  author: "Booker Washington"
+  id: 1120,
+  quote: "Our kindness may be the most persuasive argument for that which we believe.",
+  author: "Gordon Hinckley"
 }
 ```
 
