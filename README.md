@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 124,
-  quote: "Life shrinks or expands in proportion to one's courage.",
-  author: "Anais Nin"
+  id: 1374,
+  quote: "Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.",
+  author: "Theodore Rubin"
 }
 ```
 
