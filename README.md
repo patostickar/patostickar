@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1374,
-  quote: "Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.",
-  author: "Theodore Rubin"
+  id: 335,
+  quote: "Everyone thinks of changing the world, but no one thinks of changing himself.",
+  author: "Leo Tolstoy"
 }
 ```
 
