@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1307,
-  quote: "There is nothing happens to any person but what was in his power to go through with.",
-  author: "Marcus Aurelius"
+  id: 272,
+  quote: "To get something you never had, you have to do something you never did.",
+  author: "null"
 }
 ```
 
