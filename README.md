@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 987,
-  quote: "More powerful than the will to win is the courage to begin.",
+  id: 1111,
+  quote: "Each time we face a fear, we gain strength, courage, and confidence in the doing.",
   author: "null"
 }
 ```
