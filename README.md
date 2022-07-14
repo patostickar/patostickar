@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1030,
-  quote: "What is necessary to change a person is to change his awareness of himself.",
-  author: "Abraham Maslow"
+  id: 1619,
+  quote: "What you are is what you have been. What you will be is what you do now.",
+  author: "Buddha"
 }
 ```
 
