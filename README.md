@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 136,
-  quote: "Growth itself contains the germ of happiness.",
-  author: "Pearl Buck"
+  id: 218,
+  quote: "Either you run the day or the day runs you.",
+  author: "Jim Rohn"
 }
 ```
 
