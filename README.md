@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 485,
-  quote: "Learn all you can from the mistakes of others. You won't have time to make them all yourself.",
-  author: "Alfred Sheinwold"
+  id: 549,
+  quote: "Take things as they are. Punch when you have to punch. Kick when you have to kick.",
+  author: "Bruce Lee"
 }
 ```
 
