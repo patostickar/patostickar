@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 2,
-  quote: "A house divided against itself cannot stand.",
-  author: "Abraham Lincoln"
+  id: 20,
+  quote: "Trouble is only opportunity in work clothes.",
+  author: "Henry J. Kaiser"
 }
 ```
 
