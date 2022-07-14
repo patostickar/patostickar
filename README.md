@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 218,
-  quote: "Either you run the day or the day runs you.",
-  author: "Jim Rohn"
+  id: 395,
+  quote: "Quality is never an accident; it is always the result of intelligent effort.",
+  author: "John Ruskin"
 }
 ```
 
