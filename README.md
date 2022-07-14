@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 622,
-  quote: "It is more important to know where you are going than to get there quickly. Do not mistake activity for achievement.",
-  author: "Mabel Newcomber"
+  id: 852,
+  quote: "When you realize how perfect everything is you will tilt your head back and laugh at the sky.",
+  author: "Buddha"
 }
 ```
 
