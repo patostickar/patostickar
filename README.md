@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1017,
-  quote: "We don't stop playing because we grow old; we grow old because we stop playing.",
-  author: "Bernard Shaw"
+  id: 975,
+  quote: "Nothing ever goes away until it has taught us what we need to know.",
+  author: "Pema Chodron"
 }
 ```
 
