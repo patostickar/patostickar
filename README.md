@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1500,
-  quote: "Genuine sincerity opens people's hearts, while manipulation causes them to close.",
-  author: "Daisaku Ikeda"
+  id: 136,
+  quote: "Growth itself contains the germ of happiness.",
+  author: "Pearl Buck"
 }
 ```
 
