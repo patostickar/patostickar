@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 762,
-  quote: "History will be kind to me for I intend to write it.",
-  author: "Winston Churchill"
+  id: 1457,
+  quote: "To follow, without halt, one aim: There is the secret of success.",
+  author: "Anna Pavlova"
 }
 ```
 
