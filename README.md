@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1326,
-  quote: "Great ideas often receive violent opposition from mediocre minds.",
-  author: "Albert Einstein"
+  id: 405,
+  quote: "Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.",
+  author: "Ralph Emerson"
 }
 ```
 
