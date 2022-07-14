@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 405,
-  quote: "Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.",
-  author: "Ralph Emerson"
+  id: 1030,
+  quote: "What is necessary to change a person is to change his awareness of himself.",
+  author: "Abraham Maslow"
 }
 ```
 
