@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1457,
-  quote: "To follow, without halt, one aim: There is the secret of success.",
-  author: "Anna Pavlova"
+  id: 622,
+  quote: "It is more important to know where you are going than to get there quickly. Do not mistake activity for achievement.",
+  author: "Mabel Newcomber"
 }
 ```
 
