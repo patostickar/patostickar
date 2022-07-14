@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 553,
-  quote: "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
-  author: "Anne Frank"
+  id: 2,
+  quote: "A house divided against itself cannot stand.",
+  author: "Abraham Lincoln"
 }
 ```
 
