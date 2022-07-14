@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 395,
-  quote: "Quality is never an accident; it is always the result of intelligent effort.",
-  author: "John Ruskin"
+  id: 485,
+  quote: "Learn all you can from the mistakes of others. You won't have time to make them all yourself.",
+  author: "Alfred Sheinwold"
 }
 ```
 
