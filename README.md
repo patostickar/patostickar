@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1619,
-  quote: "What you are is what you have been. What you will be is what you do now.",
-  author: "Buddha"
+  id: 1369,
+  quote: "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
+  author: "Carl Jung"
 }
 ```
 
