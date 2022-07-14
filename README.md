@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 549,
-  quote: "Take things as they are. Punch when you have to punch. Kick when you have to kick.",
-  author: "Bruce Lee"
+  id: 762,
+  quote: "History will be kind to me for I intend to write it.",
+  author: "Winston Churchill"
 }
 ```
 
