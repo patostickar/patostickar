@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1027,
-  quote: "No yesterdays are ever wasted for those who give themselves to today.",
-  author: "Brendan Francis"
+  id: 440,
+  quote: "I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.",
+  author: "Og Mandino"
 }
 ```
 
