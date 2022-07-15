@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1410,
-  quote: "All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.",
-  author: "Albert Camus"
+  id: 36,
+  quote: "From small beginnings come great things.",
+  author: "null"
 }
 ```
 
