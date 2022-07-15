@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1395,
-  quote: "We cannot direct the wind but we can adjust the sails.",
-  author: "null"
+  id: 256,
+  quote: "Minds are like parachutes. They only function when open.",
+  author: "Thomas Dewar"
 }
 ```
 
