@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1239,
-  quote: "Respect should be earned by actions, and not acquired by years.",
-  author: "Frank Wright"
+  id: 1097,
+  quote: "No act of kindness, no matter how small, is ever wasted.",
+  author: "Aesop"
 }
 ```
 
