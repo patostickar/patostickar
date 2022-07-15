@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1097,
-  quote: "No act of kindness, no matter how small, is ever wasted.",
-  author: "Aesop"
+  id: 908,
+  quote: "The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.",
+  author: "Margaret Smith"
 }
 ```
 
