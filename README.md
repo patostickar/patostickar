@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1109,
-  quote: "The one who always loses, is the only person who gets the reward.",
-  author: "Claire Charmont"
+  id: 1509,
+  quote: "Bold is not the act of foolishness but the attribute and inner strength to act when others will not so as to move forward not backward.",
+  author: "Byron Pulsifer"
 }
 ```
 
