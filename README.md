@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 626,
-  quote: "A true friend is the most precious of all possessions and the one we take the least thought about acquiring.",
-  author: "Francois de La Rochefoucauld"
+  id: 33,
+  quote: "Once you choose hope, anythings possible.",
+  author: "Christopher Reeve"
 }
 ```
 
