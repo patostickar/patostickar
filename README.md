@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 830,
-  quote: "One who asks a question is a fool for five minutes; one who does not ask a question remains a fool forever.",
-  author: "null"
+  id: 1085,
+  quote: "The ladder of success is never crowded at the top.",
+  author: "Napoleon Hill"
 }
 ```
 
