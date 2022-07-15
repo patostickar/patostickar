@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 908,
-  quote: "The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.",
-  author: "Margaret Smith"
+  id: 830,
+  quote: "One who asks a question is a fool for five minutes; one who does not ask a question remains a fool forever.",
+  author: "null"
 }
 ```
 
