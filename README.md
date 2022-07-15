@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1085,
-  quote: "The ladder of success is never crowded at the top.",
-  author: "Napoleon Hill"
+  id: 382,
+  quote: "Never apologize for showing feelings. When you do so, you apologize for the truth.",
+  author: "Benjamin Disraeli"
 }
 ```
 
