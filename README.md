@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 160,
-  quote: "Whatever we expect with confidence becomes our own self-fulfilling prophecy.",
-  author: "Brian Tracy"
+  id: 1395,
+  quote: "We cannot direct the wind but we can adjust the sails.",
+  author: "null"
 }
 ```
 
