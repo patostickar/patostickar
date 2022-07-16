@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 309,
-  quote: "A thing long expected takes the form of the unexpected when at last it comes.",
-  author: "Mark Twain"
+  id: 1426,
+  quote: "If you propose to speak, always ask yourself, is it true, is it necessary, is it kind.",
+  author: "Buddha"
 }
 ```
 
