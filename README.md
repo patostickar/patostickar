@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 387,
-  quote: "Every action of our lives touches on some chord that will vibrate in eternity.",
-  author: "Edwin Chapin"
+  id: 785,
+  quote: "Without some goals and some efforts to reach it, no man can live.",
+  author: "John Dewey"
 }
 ```
 
