@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 375,
-  quote: "Wicked people are always surprised to find ability in those that are good.",
-  author: "Marquis Vauvenargues"
+  id: 1169,
+  quote: "We do not quit playing because we grow old, we grow old because we quit playing.",
+  author: "Oliver Holmes"
 }
 ```
 
