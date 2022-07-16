@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1031,
-  quote: "Positive thinking will let you do everything better than negative thinking will.",
-  author: "Zig Ziglar"
+  id: 235,
+  quote: "Fears are nothing more than a state of mind.",
+  author: "Napoleon Hill"
 }
 ```
 
