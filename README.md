@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1169,
-  quote: "We do not quit playing because we grow old, we grow old because we quit playing.",
-  author: "Oliver Holmes"
+  id: 338,
+  quote: "Slow down and everything you are chasing will come around and catch you.",
+  author: "John De Paola"
 }
 ```
 
