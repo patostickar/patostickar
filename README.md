@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 92,
-  quote: "In order to win, you must expect to win.",
-  author: "Richard Bach"
+  id: 387,
+  quote: "Every action of our lives touches on some chord that will vibrate in eternity.",
+  author: "Edwin Chapin"
 }
 ```
 
