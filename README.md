@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 252,
-  quote: "Every problem has a gift for you in its hands.",
+  id: 92,
+  quote: "In order to win, you must expect to win.",
   author: "Richard Bach"
 }
 ```
