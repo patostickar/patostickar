@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1411,
-  quote: "Be a good listener. Your ears will never get you in trouble.",
-  author: "Frank Tyger"
+  id: 309,
+  quote: "A thing long expected takes the form of the unexpected when at last it comes.",
+  author: "Mark Twain"
 }
 ```
 
