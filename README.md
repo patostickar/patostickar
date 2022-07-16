@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1490,
-  quote: "Do not wait for leaders; do it alone, person to person.",
-  author: "Mother Teresa"
+  id: 802,
+  quote: "Trust your own instinct. Your mistakes might as well be your own, instead of someone elses.",
+  author: "Billy Wilder"
 }
 ```
 
