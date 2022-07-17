@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 633,
-  quote: "The happiness of a man in this life does not consist in the absence but in the mastery of his passions.",
-  author: "Alfred Tennyson"
+  id: 1639,
+  quote: "It is not in the stars to hold our destiny but in ourselves.",
+  author: "William Shakespeare"
 }
 ```
 
