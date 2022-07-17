@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 159,
-  quote: "Don't be pushed by your problems; be led by your dreams.",
-  author: "null"
+  id: 3,
+  quote: "Difficulties increase the nearer we get to the goal.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
