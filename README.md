@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1333,
-  quote: "A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.",
-  author: "Denis Waitley"
+  id: 260,
+  quote: "All seasons are beautiful for the person who carries happiness within.",
+  author: "Horace Friess"
 }
 ```
 
