@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 754,
-  quote: "You don't drown by falling in water. You drown by staying there.",
-  author: "null"
+  id: 1393,
+  quote: "How many cares one loses when one decides not to be something but to be someone.",
+  author: "Coco Chanel"
 }
 ```
 
