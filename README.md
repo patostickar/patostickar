@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 260,
-  quote: "All seasons are beautiful for the person who carries happiness within.",
-  author: "Horace Friess"
+  id: 633,
+  quote: "The happiness of a man in this life does not consist in the absence but in the mastery of his passions.",
+  author: "Alfred Tennyson"
 }
 ```
 
