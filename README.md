@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1058,
-  quote: "Build a better mousetrap and the world will beat a path to your door.",
-  author: "Ralph Emerson"
+  id: 1592,
+  quote: "Everything that irritates us about others can lead us to a better understanding of ourselves.",
+  author: "Carl Jung"
 }
 ```
 
