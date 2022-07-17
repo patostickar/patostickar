@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1244,
-  quote: "People are not lazy. They simply have impotent goals that is, goals that do not inspire them.",
-  author: "Tony Robbins"
+  id: 253,
+  quote: "Sadness flies away on the wings of time.",
+  author: "Jean de la Fontaine"
 }
 ```
 
