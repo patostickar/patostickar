@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1599,
-  quote: "The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition.",
-  author: "Abernathy"
+  id: 104,
+  quote: "Do something wonderful, people may imitate it.",
+  author: "Albert Schweitzer"
 }
 ```
 
