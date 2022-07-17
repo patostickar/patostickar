@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 515,
-  quote: "To be beautiful means to be yourself. You do not need to be accepted by others. You need to accept yourself.",
-  author: "Thich Nhat Hanh"
+  id: 479,
+  quote: "Every man takes the limits of his own field of vision for the limits of the world.",
+  author: "Arthur Schopenhauer"
 }
 ```
 
