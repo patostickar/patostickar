@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1639,
-  quote: "It is not in the stars to hold our destiny but in ourselves.",
-  author: "William Shakespeare"
+  id: 1323,
+  quote: "To fly as fast as thought, you must begin by knowing that you have already arrived.",
+  author: "Richard Bach"
 }
 ```
 
