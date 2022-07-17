@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1393,
-  quote: "How many cares one loses when one decides not to be something but to be someone.",
-  author: "Coco Chanel"
+  id: 874,
+  quote: "Don't believe what your eyes are telling you. All they show is limitation. Look with your understanding, find out what you already know, and you'll see the way to fly.",
+  author: "Richard Bach"
 }
 ```
 
