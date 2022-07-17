@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1323,
-  quote: "To fly as fast as thought, you must begin by knowing that you have already arrived.",
-  author: "Richard Bach"
+  id: 1058,
+  quote: "Build a better mousetrap and the world will beat a path to your door.",
+  author: "Ralph Emerson"
 }
 ```
 
