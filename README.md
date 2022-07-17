@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 58,
-  quote: "Time is the wisest counsellor of all.",
-  author: "Pericles"
+  id: 159,
+  quote: "Don't be pushed by your problems; be led by your dreams.",
+  author: "null"
 }
 ```
 
