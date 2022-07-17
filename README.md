@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 874,
-  quote: "Don't believe what your eyes are telling you. All they show is limitation. Look with your understanding, find out what you already know, and you'll see the way to fly.",
-  author: "Richard Bach"
+  id: 1244,
+  quote: "People are not lazy. They simply have impotent goals that is, goals that do not inspire them.",
+  author: "Tony Robbins"
 }
 ```
 
