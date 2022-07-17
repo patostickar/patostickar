@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1454,
-  quote: "An idea that is developed and put into action is more important than an idea that exists only as an idea.",
-  author: "Buddha"
+  id: 494,
+  quote: "When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.",
+  author: "Confucius"
 }
 ```
 
