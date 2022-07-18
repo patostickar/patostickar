@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 195,
-  quote: "Fortune befriends the bold.",
-  author: "John Dryden"
+  id: 643,
+  quote: "No valid plans for the future can be made by those who have no capacity for living now.",
+  author: "Alan Watts"
 }
 ```
 
