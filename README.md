@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1592,
-  quote: "Everything that irritates us about others can lead us to a better understanding of ourselves.",
-  author: "Carl Jung"
+  id: 1591,
+  quote: "The future is an opaque mirror. Anyone who tries to look into it sees nothing but the dim outlines of an old and worried face.",
+  author: "Jim Bishop"
 }
 ```
 
