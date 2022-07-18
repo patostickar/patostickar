@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1540,
-  quote: "Those who dream by day are cognizant of many things which escape those who dream only by night.",
-  author: "Edgar Allan Poe"
+  id: 687,
+  quote: "Never do things others can do and will do, if there are things others cannot do or will not do.",
+  author: "Amelia Earhart"
 }
 ```
 
