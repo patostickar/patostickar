@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 276,
-  quote: "To forgive is to set a prisoner free and realize that prisoner was you.",
-  author: "Lewis B. Smedes"
+  id: 195,
+  quote: "Fortune befriends the bold.",
+  author: "John Dryden"
 }
 ```
 
