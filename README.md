@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 643,
-  quote: "No valid plans for the future can be made by those who have no capacity for living now.",
-  author: "Alan Watts"
+  id: 983,
+  quote: "Decision is a risk rooted in the courage of being free.",
+  author: "Paul Tillich"
 }
 ```
 
