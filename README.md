@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 541,
-  quote: "Nature gave us one tongue and two ears so we could hear twice as much as we speak.",
-  author: "Epictetus"
+  id: 1074,
+  quote: "Beware of missing chances; otherwise it may be altogether too late some day.",
+  author: "Franz Liszt"
 }
 ```
 
