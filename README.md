@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 983,
-  quote: "Decision is a risk rooted in the courage of being free.",
-  author: "Paul Tillich"
+  id: 576,
+  quote: "There are only two mistakes one can make along the road to truth; not going all the way, and not starting.",
+  author: "Buddha"
 }
 ```
 
