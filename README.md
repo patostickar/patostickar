@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1074,
-  quote: "Beware of missing chances; otherwise it may be altogether too late some day.",
-  author: "Franz Liszt"
+  id: 1003,
+  quote: "Only those who dare to fail greatly can ever achieve greatly.",
+  author: "Robert Kennedy"
 }
 ```
 
