@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 265,
-  quote: "The beginning of knowledge is the discovery of something we do not understand.",
-  author: "Frank Herbert"
+  id: 1515,
+  quote: "I can't believe that God put us on this earth to be ordinary.",
+  author: "Lou Holtz"
 }
 ```
 
