@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 576,
-  quote: "There are only two mistakes one can make along the road to truth; not going all the way, and not starting.",
-  author: "Buddha"
+  id: 1369,
+  quote: "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
+  author: "Carl Jung"
 }
 ```
 
