@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1003,
-  quote: "Only those who dare to fail greatly can ever achieve greatly.",
-  author: "Robert Kennedy"
+  id: 265,
+  quote: "The beginning of knowledge is the discovery of something we do not understand.",
+  author: "Frank Herbert"
 }
 ```
 
