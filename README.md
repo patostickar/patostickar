@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1180,
-  quote: "When you lose, don't lose the lesson.",
-  author: "null"
+  id: 1410,
+  quote: "All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.",
+  author: "Albert Camus"
 }
 ```
 
