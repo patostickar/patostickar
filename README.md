@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1324,
-  quote: "Obstacles are those things you see when you take your eyes off the goal.",
-  author: "Hannah More"
+  id: 276,
+  quote: "To forgive is to set a prisoner free and realize that prisoner was you.",
+  author: "Lewis B. Smedes"
 }
 ```
 
