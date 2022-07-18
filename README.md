@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 99,
-  quote: "Do more than dream: work.",
-  author: "William Arthur Ward"
+  id: 541,
+  quote: "Nature gave us one tongue and two ears so we could hear twice as much as we speak.",
+  author: "Epictetus"
 }
 ```
 
