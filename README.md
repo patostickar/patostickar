@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1369,
-  quote: "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
-  author: "Carl Jung"
+  id: 393,
+  quote: "Some people think it's holding that makes one strong sometimes it's letting go.",
+  author: "null"
 }
 ```
 
