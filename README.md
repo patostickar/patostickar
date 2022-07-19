@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 476,
-  quote: "Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.",
-  author: "Eleanor Roosevelt"
+  id: 1293,
+  quote: "A single conversation across the table with a wise person is worth a months study of books.",
+  author: "Chinese proverb"
 }
 ```
 
