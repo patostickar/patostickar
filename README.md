@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1275,
-  quote: "Logic will get you from A to B. Imagination will take you everywhere.",
-  author: "Albert Einstein"
+  id: 311,
+  quote: "I don't believe in failure. It is not failure if you enjoyed the process.",
+  author: "Oprah Winfrey"
 }
 ```
 
