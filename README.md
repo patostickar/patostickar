@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 930,
-  quote: "It is only possible to live happily ever after on a day to day basis.",
-  author: "Margaret Bonnano"
+  id: 1275,
+  quote: "Logic will get you from A to B. Imagination will take you everywhere.",
+  author: "Albert Einstein"
 }
 ```
 
