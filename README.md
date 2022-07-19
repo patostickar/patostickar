@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1213,
-  quote: "Enjoy the little things, for one day you may look back and realize they were the big things.",
-  author: "Robert Brault"
+  id: 1251,
+  quote: "Setting an example is not the main means of influencing another, it is the only means.",
+  author: "Albert Einstein"
 }
 ```
 
