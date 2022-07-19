@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 89,
-  quote: "Luck is what happens when preparation meets opportunity.",
-  author: "Seneca"
+  id: 192,
+  quote: "Life is just a chance to grow a soul.",
+  author: "A. Powell Davies"
 }
 ```
 
