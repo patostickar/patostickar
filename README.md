@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1409,
-  quote: "We are all faced with a series of great opportunities brilliantly disguised as impossible situations.",
-  author: "Charles R. Swindoll"
+  id: 1503,
+  quote: "This is the final test of a gentleman: his respect for those who can be of no possible value to him.",
+  author: "William Lyon Phelps"
 }
 ```
 
