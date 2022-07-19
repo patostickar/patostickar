@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1197,
-  quote: "Aim for success, not perfection. Never give up your right to be wrong, because then you will lose the ability to learn new things and move forward with your life.",
-  author: "Dr. David M. Burns"
+  id: 1293,
+  quote: "A single conversation across the table with a wise person is worth a months study of books.",
+  author: "Chinese proverb"
 }
 ```
 
