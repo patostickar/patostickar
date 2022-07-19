@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 192,
-  quote: "Life is just a chance to grow a soul.",
-  author: "A. Powell Davies"
+  id: 1186,
+  quote: "The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.",
+  author: "Pierre Abelard"
 }
 ```
 
