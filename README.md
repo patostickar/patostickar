@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 291,
-  quote: "Being right is highly overrated. Even a stopped clock is right twice a day.",
-  author: "null"
+  id: 1035,
+  quote: "We must embrace pain and burn it as fuel for our journey.",
+  author: "Kenji Miyazawa"
 }
 ```
 
