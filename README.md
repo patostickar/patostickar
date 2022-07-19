@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1035,
-  quote: "We must embrace pain and burn it as fuel for our journey.",
-  author: "Kenji Miyazawa"
+  id: 476,
+  quote: "Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
