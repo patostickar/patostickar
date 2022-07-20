@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 335,
-  quote: "Everyone thinks of changing the world, but no one thinks of changing himself.",
-  author: "Leo Tolstoy"
+  id: 121,
+  quote: "No alibi will save you from accepting the responsibility.",
+  author: "Napoleon Hill"
 }
 ```
 
