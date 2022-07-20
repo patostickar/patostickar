@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1565,
-  quote: "Life is what happens to you while you're busy making other plans.",
-  author: "John Lennon"
+  id: 509,
+  quote: "There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.",
+  author: "Nelson Mandela"
 }
 ```
 
