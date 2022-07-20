@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 53,
-  quote: "All serious daring starts from within.",
-  author: "Harriet Beecher Stowe"
+  id: 1382,
+  quote: "Things that were hard to bear are sweet to remember.",
+  author: "Seneca"
 }
 ```
 
