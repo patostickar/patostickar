@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1628,
-  quote: "Great is the art of beginning, but greater is the art of ending.",
-  author: "Lazurus Long"
+  id: 335,
+  quote: "Everyone thinks of changing the world, but no one thinks of changing himself.",
+  author: "Leo Tolstoy"
 }
 ```
 
