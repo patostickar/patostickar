@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 813,
-  quote: "Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.",
-  author: "Bernice Reagon"
+  id: 302,
+  quote: "The doors we open and close each day decide the lives we live.",
+  author: "Flora Whittemore"
 }
 ```
 
