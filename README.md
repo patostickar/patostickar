@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1241,
-  quote: "The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.",
-  author: "Will Durant"
+  id: 507,
+  quote: "What lies behind us and what lies before us are small matters compared to what lies within us.",
+  author: "Oliver Holmes"
 }
 ```
 
