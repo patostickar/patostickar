@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 121,
-  quote: "No alibi will save you from accepting the responsibility.",
-  author: "Napoleon Hill"
+  id: 813,
+  quote: "Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.",
+  author: "Bernice Reagon"
 }
 ```
 
