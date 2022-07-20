@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1293,
-  quote: "A single conversation across the table with a wise person is worth a months study of books.",
-  author: "Chinese proverb"
+  id: 1241,
+  quote: "The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.",
+  author: "Will Durant"
 }
 ```
 
