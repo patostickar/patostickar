@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1219,
-  quote: "Truth, and goodness, and beauty are but different faces of the same all.",
-  author: "Ralph Emerson"
+  id: 884,
+  quote: "Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you.",
+  author: "Nathaniel Hawthorne"
 }
 ```
 
