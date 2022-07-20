@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 302,
-  quote: "The doors we open and close each day decide the lives we live.",
-  author: "Flora Whittemore"
+  id: 594,
+  quote: "When we seek to discover the best in others, we somehow bring out the best in ourselves.",
+  author: "William Ward"
 }
 ```
 
