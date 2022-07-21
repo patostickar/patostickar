@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1307,
-  quote: "There is nothing happens to any person but what was in his power to go through with.",
-  author: "Marcus Aurelius"
+  id: 321,
+  quote: "It is only when the mind and character slumber that the dress can be seen.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
