@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 882,
-  quote: "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.",
-  author: "Dale Carnegie"
+  id: 621,
+  quote: "To free us from the expectations of others, to give us back to ourselves there lies the great, singular power of self-respect.",
+  author: "Joan Didion"
 }
 ```
 
