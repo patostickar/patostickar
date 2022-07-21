@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1246,
-  quote: "Waste no more time arguing about what a good man should be. Be one.",
-  author: "Marcus Aurelius"
+  id: 840,
+  quote: "When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.",
+  author: "Wayne Dyer"
 }
 ```
 
