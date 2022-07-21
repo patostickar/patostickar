@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1190,
-  quote: "An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is colour-blind.",
-  author: "Albert Schweitzer"
+  id: 882,
+  quote: "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.",
+  author: "Dale Carnegie"
 }
 ```
 
