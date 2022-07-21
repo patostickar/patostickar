@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 858,
-  quote: "The greatest minds are capable of the greatest vices as well as of the greatest virtues.",
-  author: "Rene Descartes"
+  id: 846,
+  quote: "The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
+  author: "Henry Miller"
 }
 ```
 
