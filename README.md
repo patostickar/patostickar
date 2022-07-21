@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1590,
-  quote: "Life is really simple, but we insist on making it complicated.",
-  author: "Confucius"
+  id: 858,
+  quote: "The greatest minds are capable of the greatest vices as well as of the greatest virtues.",
+  author: "Rene Descartes"
 }
 ```
 
