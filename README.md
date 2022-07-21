@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1025,
-  quote: "You need chaos in your soul to give birth to a dancing star.",
-  author: "Nietzsche"
+  id: 1609,
+  quote: "It's not who you are that holds you back, it's who you think you're not.",
+  author: "null"
 }
 ```
 
