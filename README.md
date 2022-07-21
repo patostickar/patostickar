@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 30,
-  quote: "Bite off more than you can chew, then chew it.",
-  author: "Ella Williams"
+  id: 1392,
+  quote: "Prosperity depends more on wanting what you have than having what you want.",
+  author: "Geoffrey F. Abert"
 }
 ```
 
