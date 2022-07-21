@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1392,
-  quote: "Prosperity depends more on wanting what you have than having what you want.",
-  author: "Geoffrey F. Abert"
+  id: 848,
+  quote: "The greatest antidote to insecurity and the sense of fear is compassion it brings one back to the basis of one's inner strength",
+  author: "Dalai Lama"
 }
 ```
 
