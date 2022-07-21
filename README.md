@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1030,
-  quote: "What is necessary to change a person is to change his awareness of himself.",
-  author: "Abraham Maslow"
+  id: 1307,
+  quote: "There is nothing happens to any person but what was in his power to go through with.",
+  author: "Marcus Aurelius"
 }
 ```
 
