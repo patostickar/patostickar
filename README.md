@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1018,
-  quote: "Experience can only be gained by doing not by thinking or dreaming.",
-  author: "Byron Pulsifer"
+  id: 30,
+  quote: "Bite off more than you can chew, then chew it.",
+  author: "Ella Williams"
 }
 ```
 
