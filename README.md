@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 347,
-  quote: "In the end we retain from our studies only that which we practically apply.",
-  author: "Johann Wolfgang von Goethe"
+  id: 1558,
+  quote: "We lost because we told ourselves we lost.",
+  author: "Leo Tolstoy"
 }
 ```
 
