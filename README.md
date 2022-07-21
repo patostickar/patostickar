@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1609,
-  quote: "It's not who you are that holds you back, it's who you think you're not.",
-  author: "null"
+  id: 347,
+  quote: "In the end we retain from our studies only that which we practically apply.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
