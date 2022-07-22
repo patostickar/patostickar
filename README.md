@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 511,
-  quote: "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
-  author: "Aristotle"
+  id: 57,
+  quote: "Don't wait. The time will never be just right.",
+  author: "Napoleon Hill"
 }
 ```
 
