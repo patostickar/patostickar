@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 254,
-  quote: "I have often regretted my speech, never my silence.",
-  author: "Publilius Syrus"
+  id: 1449,
+  quote: "To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.",
+  author: "Pema Chodron"
 }
 ```
 
