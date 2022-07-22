@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 297,
-  quote: "Life is a process. We are a process. The universe is a process.",
-  author: "Anne Schaef"
+  id: 254,
+  quote: "I have often regretted my speech, never my silence.",
+  author: "Publilius Syrus"
 }
 ```
 
