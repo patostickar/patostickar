@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1560,
-  quote: "Good advice is always certain to be ignored, but that's no reason not to give it.",
-  author: "Agatha Christie"
+  id: 178,
+  quote: "We must become the change we want to see.",
+  author: "Mahatma Gandhi"
 }
 ```
 
