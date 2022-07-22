@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 178,
-  quote: "We must become the change we want to see.",
-  author: "Mahatma Gandhi"
+  id: 582,
+  quote: "I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.",
+  author: "G. K. Chesterton"
 }
 ```
 
