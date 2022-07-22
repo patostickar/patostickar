@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1639,
-  quote: "It is not in the stars to hold our destiny but in ourselves.",
-  author: "William Shakespeare"
+  id: 1110,
+  quote: "The future is completely open, and we are writing it moment to moment.",
+  author: "Pema Chodron"
 }
 ```
 
