@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 302,
-  quote: "The doors we open and close each day decide the lives we live.",
-  author: "Flora Whittemore"
+  id: 1030,
+  quote: "What is necessary to change a person is to change his awareness of himself.",
+  author: "Abraham Maslow"
 }
 ```
 
