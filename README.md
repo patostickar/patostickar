@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1145,
-  quote: "No matter how hard the past, you can always begin again.",
-  author: "Buddha"
+  id: 235,
+  quote: "Fears are nothing more than a state of mind.",
+  author: "Napoleon Hill"
 }
 ```
 
