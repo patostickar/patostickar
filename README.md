@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1626,
-  quote: "An ounce of emotion is equal to a ton of facts.",
-  author: "John Junor"
+  id: 789,
+  quote: "Not what we have but what we enjoy constitutes our abundance.",
+  author: "John Petit-Senn"
 }
 ```
 
