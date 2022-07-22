@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1033,
-  quote: "Nothing is so strong as gentleness. Nothing is so gentle as real strength.",
-  author: "Frances de Sales"
+  id: 258,
+  quote: "The secret of success is constancy to purpose.",
+  author: "Benjamin Disraeli"
 }
 ```
 
