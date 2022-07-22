@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 321,
-  quote: "It is only when the mind and character slumber that the dress can be seen.",
-  author: "Ralph Waldo Emerson"
+  id: 1033,
+  quote: "Nothing is so strong as gentleness. Nothing is so gentle as real strength.",
+  author: "Frances de Sales"
 }
 ```
 
