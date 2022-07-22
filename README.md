@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 793,
-  quote: "Self-trust is the first secret of success.",
-  author: "Ralph Emerson"
+  id: 1626,
+  quote: "An ounce of emotion is equal to a ton of facts.",
+  author: "John Junor"
 }
 ```
 
