@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 789,
-  quote: "Not what we have but what we enjoy constitutes our abundance.",
-  author: "John Petit-Senn"
+  id: 669,
+  quote: "You have power over your mind not outside events. Realize this, and you will find strength.",
+  author: "Marcus Aurelius"
 }
 ```
 
