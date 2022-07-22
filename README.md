@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1110,
-  quote: "The future is completely open, and we are writing it moment to moment.",
-  author: "Pema Chodron"
+  id: 511,
+  quote: "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+  author: "Aristotle"
 }
 ```
 
