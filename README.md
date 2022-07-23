@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 329,
-  quote: "It has never been my object to record my dreams, just to realize them.",
-  author: "Man Ray"
+  id: 788,
+  quote: "The foot feels the foot when it feels the ground.",
+  author: "Buddha"
 }
 ```
 
