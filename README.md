@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 362,
-  quote: "Love and compassion open our own inner life, reducing stress, distrust and loneliness.",
+  id: 1473,
+  quote: "Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.",
   author: "Dalai Lama"
 }
 ```
