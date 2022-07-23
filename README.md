@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1415,
-  quote: "There is only one happiness in life, to love and be loved.",
-  author: "George Sand"
+  id: 1501,
+  quote: "To give ones self earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.",
+  author: "Confucius"
 }
 ```
 
