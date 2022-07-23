@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1538,
-  quote: "Good instincts usually tell you what to do long before your head has figured it out.",
-  author: "Michael Burke"
+  id: 1228,
+  quote: "First say to yourself what you would be; and then do what you have to do.",
+  author: "Epictetus"
 }
 ```
 
