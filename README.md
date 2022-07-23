@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1397,
-  quote: "The self is not something ready-made, but something in continuous formation through choice of action.",
-  author: "John Dewey"
+  id: 1344,
+  quote: "Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.",
+  author: "Barack Obama"
 }
 ```
 
