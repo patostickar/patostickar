@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1212,
-  quote: "Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.",
-  author: "Charles A. Lindbergh"
+  id: 1397,
+  quote: "The self is not something ready-made, but something in continuous formation through choice of action.",
+  author: "John Dewey"
 }
 ```
 
