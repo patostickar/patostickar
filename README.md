@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1627,
-  quote: "We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.",
-  author: "Barbara De Angelis"
+  id: 636,
+  quote: "You get peace of mind not by thinking about it or imagining it, but by quietening and relaxing the restless mind.",
+  author: "Remez Sasson"
 }
 ```
 
