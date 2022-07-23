@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1344,
-  quote: "Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.",
-  author: "Barack Obama"
+  id: 1225,
+  quote: "Failure doesn't mean you are a failure it just means you haven't succeeded yet.",
+  author: "Robert Schuller"
 }
 ```
 
