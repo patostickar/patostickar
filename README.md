@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 839,
-  quote: "While we try to teach our children all about life, our children teach us what life is all about.",
-  author: "Angela Schwindt"
+  id: 362,
+  quote: "Love and compassion open our own inner life, reducing stress, distrust and loneliness.",
+  author: "Dalai Lama"
 }
 ```
 
