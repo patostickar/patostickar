@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 788,
-  quote: "The foot feels the foot when it feels the ground.",
-  author: "Buddha"
+  id: 1415,
+  quote: "There is only one happiness in life, to love and be loved.",
+  author: "George Sand"
 }
 ```
 
