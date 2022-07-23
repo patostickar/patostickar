@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 257,
-  quote: "If a man does his best, what else is there?",
-  author: "George Patton"
+  id: 990,
+  quote: "Silence is a source of great strength.",
+  author: "Lao Tzu"
 }
 ```
 
