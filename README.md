@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 990,
-  quote: "Silence is a source of great strength.",
-  author: "Lao Tzu"
+  id: 1212,
+  quote: "Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.",
+  author: "Charles A. Lindbergh"
 }
 ```
 
