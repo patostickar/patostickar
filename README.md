@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1225,
-  quote: "Failure doesn't mean you are a failure it just means you haven't succeeded yet.",
-  author: "Robert Schuller"
+  id: 1538,
+  quote: "Good instincts usually tell you what to do long before your head has figured it out.",
+  author: "Michael Burke"
 }
 ```
 
