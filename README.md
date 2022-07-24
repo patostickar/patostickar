@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 779,
-  quote: "There are no failures. Just experiences and your reactions to them.",
-  author: "Tom Krause"
+  id: 587,
+  quote: "Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.",
+  author: "Doug Larson"
 }
 ```
 
