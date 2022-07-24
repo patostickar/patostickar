@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 714,
-  quote: "Wherever a man turns he can find someone who needs him.",
-  author: "Albert Schweitzer"
+  id: 448,
+  quote: "There is only one success to be able to spend your life in your own way.",
+  author: "Christopher Morley"
 }
 ```
 
