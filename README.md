@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1237,
-  quote: "Make the most of yourself, for that is all there is of you.",
-  author: "Ralph Emerson"
+  id: 929,
+  quote: "The greatest part of our happiness depends on our dispositions, not our circumstances.",
+  author: "Martha Washington"
 }
 ```
 
