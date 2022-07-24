@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 587,
-  quote: "Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.",
-  author: "Doug Larson"
+  id: 280,
+  quote: "All the great performers I have worked with are fuelled by a personal dream.",
+  author: "John Eliot"
 }
 ```
 
