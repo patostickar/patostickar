@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1560,
-  quote: "Good advice is always certain to be ignored, but that's no reason not to give it.",
-  author: "Agatha Christie"
+  id: 1318,
+  quote: "I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.",
+  author: "Leonardo da Vinci"
 }
 ```
 
