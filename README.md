@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 448,
-  quote: "There is only one success to be able to spend your life in your own way.",
-  author: "Christopher Morley"
+  id: 184,
+  quote: "I believe in one thing only, the power of human will.",
+  author: "Joseph Stalin"
 }
 ```
 
