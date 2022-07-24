@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 184,
-  quote: "I believe in one thing only, the power of human will.",
-  author: "Joseph Stalin"
+  id: 1160,
+  quote: "Sometimes the most important thing in a whole day is the rest we take between two deep breaths.",
+  author: "Etty Hillesum"
 }
 ```
 
