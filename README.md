@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 929,
-  quote: "The greatest part of our happiness depends on our dispositions, not our circumstances.",
-  author: "Martha Washington"
+  id: 1352,
+  quote: "I don't believe in failure. It's not failure if you enjoyed the process.",
+  author: "Oprah Winfrey"
 }
 ```
 
