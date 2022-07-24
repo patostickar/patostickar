@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1318,
-  quote: "I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.",
-  author: "Leonardo da Vinci"
+  id: 401,
+  quote: "If you want your life to be more rewarding, you have to change the way you think.",
+  author: "Oprah Winfrey"
 }
 ```
 
