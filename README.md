@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 218,
-  quote: "Either you run the day or the day runs you.",
-  author: "Jim Rohn"
+  id: 614,
+  quote: "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+  author: "Ralph Emerson"
 }
 ```
 
