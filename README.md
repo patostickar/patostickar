@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1160,
-  quote: "Sometimes the most important thing in a whole day is the rest we take between two deep breaths.",
-  author: "Etty Hillesum"
+  id: 364,
+  quote: "The superior man is satisfied and composed; the mean man is always full of distress.",
+  author: "Confucius"
 }
 ```
 
