@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1352,
-  quote: "I don't believe in failure. It's not failure if you enjoyed the process.",
-  author: "Oprah Winfrey"
+  id: 1397,
+  quote: "The self is not something ready-made, but something in continuous formation through choice of action.",
+  author: "John Dewey"
 }
 ```
 
