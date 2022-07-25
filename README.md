@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 145,
-  quote: "Whatever happens, take responsibility.",
-  author: "Tony Robbins"
+  id: 739,
+  quote: "Memory is the mother of all wisdom.",
+  author: "Samuel Johnson"
 }
 ```
 
