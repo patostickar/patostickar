@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 326,
-  quote: "I'm not afraid of storms, for I'm learning how to sail my ship.",
-  author: "Louisa Alcott"
+  id: 1398,
+  quote: "Our greatness lies not so much in being able to remake the world as being able to remake ourselves.",
+  author: "Mahatma Gandhi"
 }
 ```
 
