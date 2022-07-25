@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 237,
-  quote: "Efficiency is doing things right; effectiveness is doing the right things.",
-  author: "Peter Drucker"
+  id: 56,
+  quote: "Love is the flower you've got to let grow.",
+  author: "John Lennon"
 }
 ```
 
