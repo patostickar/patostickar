@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 635,
-  quote: "Let your hook always be cast; in the pool where you least expect it, there will be a fish.",
-  author: "Ovid"
+  id: 1266,
+  quote: "Courage is not the absence of fear, but simply moving on with dignity despite that fear.",
+  author: "Pat Riley"
 }
 ```
 
