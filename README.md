@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 438,
-  quote: "Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more",
-  author: "Anthony Robbins"
+  id: 1419,
+  quote: "The best cure for the body is a quiet mind.",
+  author: "Napoleon Bonaparte"
 }
 ```
 
