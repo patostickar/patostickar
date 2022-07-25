@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1419,
-  quote: "The best cure for the body is a quiet mind.",
-  author: "Napoleon Bonaparte"
+  id: 635,
+  quote: "Let your hook always be cast; in the pool where you least expect it, there will be a fish.",
+  author: "Ovid"
 }
 ```
 
