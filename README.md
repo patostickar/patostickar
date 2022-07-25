@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1398,
-  quote: "Our greatness lies not so much in being able to remake the world as being able to remake ourselves.",
-  author: "Mahatma Gandhi"
+  id: 438,
+  quote: "Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more",
+  author: "Anthony Robbins"
 }
 ```
 
