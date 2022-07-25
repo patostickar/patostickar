@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 816,
-  quote: "It is not the mistake that has the most power, instead, it is learning from the mistake to advance your own attributes.",
-  author: "Byron Roberts"
+  id: 878,
+  quote: "I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can.",
+  author: "Bernard Shaw"
 }
 ```
 
