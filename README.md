@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 823,
-  quote: "A bend in the road is not the end of the road...unless you fail to make the turn.",
-  author: "null"
+  id: 1061,
+  quote: "In three words I can sum up everything Ive learned about life: it goes on.",
+  author: "Robert Frost"
 }
 ```
 
