@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1400,
-  quote: "The only real mistake is the one from which we learn nothing.",
-  author: "John Powell"
+  id: 1081,
+  quote: "Every human being is the author of his own health or disease.",
+  author: "Buddha"
 }
 ```
 
