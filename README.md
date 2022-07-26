@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 995,
-  quote: "We aim above the mark to hit the mark.",
-  author: "Ralph Emerson"
+  id: 596,
+  quote: "A man may fulfil the object of his existence by asking a question he cannot answer, and attempting a task he cannot achieve.",
+  author: "Oliver Holmes"
 }
 ```
 
