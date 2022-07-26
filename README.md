@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 883,
-  quote: "You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.",
-  author: "John Lennon"
+  id: 995,
+  quote: "We aim above the mark to hit the mark.",
+  author: "Ralph Emerson"
 }
 ```
 
