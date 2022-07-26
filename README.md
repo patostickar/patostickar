@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 702,
-  quote: "How far that little candle throws its beams! So shines a good deed in a naughty world.",
-  author: "William Shakespeare"
+  id: 916,
+  quote: "Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.",
+  author: "John Kennedy"
 }
 ```
 
