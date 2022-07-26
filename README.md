@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 293,
-  quote: "If we did the things we are capable of, we would astound ourselves.",
-  author: "Thomas Edison"
+  id: 161,
+  quote: "Everything you can imagine is real.",
+  author: "Pablo Picasso"
 }
 ```
 
