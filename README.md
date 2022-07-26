@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1637,
-  quote: "If one way be better than another, that you may be sure is natures way.",
-  author: "Aristotle"
+  id: 255,
+  quote: "Never put off till tomorrow what you can do today.",
+  author: "Thomas Jefferson"
 }
 ```
 
