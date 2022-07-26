@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 485,
-  quote: "Learn all you can from the mistakes of others. You won't have time to make them all yourself.",
-  author: "Alfred Sheinwold"
+  id: 747,
+  quote: "Don't miss all the beautiful colors of the rainbow looking for that pot of gold.",
+  author: "null"
 }
 ```
 
