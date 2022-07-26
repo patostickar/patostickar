@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 255,
-  quote: "Never put off till tomorrow what you can do today.",
-  author: "Thomas Jefferson"
+  id: 538,
+  quote: "Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.",
+  author: "Gloria Steinem"
 }
 ```
 
