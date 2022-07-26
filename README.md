@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 596,
-  quote: "A man may fulfil the object of his existence by asking a question he cannot answer, and attempting a task he cannot achieve.",
-  author: "Oliver Holmes"
+  id: 677,
+  quote: "Take time to deliberate, but when the time for action has arrived, stop thinking and go in.",
+  author: "Napoleon Bonaparte"
 }
 ```
 
