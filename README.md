@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1114,
-  quote: "Trust your hunches. They're usually based on facts filed away just below the conscious level.",
-  author: "Joyce Brothers"
+  id: 485,
+  quote: "Learn all you can from the mistakes of others. You won't have time to make them all yourself.",
+  author: "Alfred Sheinwold"
 }
 ```
 
