@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1151,
-  quote: "Never apologize for showing feeling. When you do so, you apologize for truth.",
-  author: "Benjamin Disraeli"
+  id: 1087,
+  quote: "All great achievements require time.",
+  author: "Maya Angelou"
 }
 ```
 
