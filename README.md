@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 730,
-  quote: "All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.",
-  author: "Rudolf Arnheim"
+  id: 493,
+  quote: "It is the greatest of all mistakes to do nothing because you can only do little do what you can.",
+  author: "Sydney Smith"
 }
 ```
 
