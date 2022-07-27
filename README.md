@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 280,
-  quote: "All the great performers I have worked with are fuelled by a personal dream.",
-  author: "John Eliot"
+  id: 1165,
+  quote: "It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.",
+  author: "Dalai Lama"
 }
 ```
 
