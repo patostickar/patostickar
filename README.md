@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1049,
-  quote: "He who has imagination without learning has wings but no feet.",
-  author: "Joseph Joubert"
+  id: 786,
+  quote: "He who obtains has little. He who scatters has much.",
+  author: "Richard Braunstein"
 }
 ```
 
