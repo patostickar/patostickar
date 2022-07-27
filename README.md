@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1053,
-  quote: "When anger use your energy to do something productive.",
-  author: "C. Pulsifer"
+  id: 1049,
+  quote: "He who has imagination without learning has wings but no feet.",
+  author: "Joseph Joubert"
 }
 ```
 
