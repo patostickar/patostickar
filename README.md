@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1087,
-  quote: "All great achievements require time.",
-  author: "Maya Angelou"
+  id: 1526,
+  quote: "Take it easy but take it.",
+  author: "Woody Guthrie"
 }
 ```
 
