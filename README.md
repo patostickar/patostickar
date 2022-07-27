@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1011,
-  quote: "Act as if what you do makes a difference. It does.",
-  author: "William James"
+  id: 1277,
+  quote: "The world is but a canvas to the imagination.",
+  author: "Henry Thoreau"
 }
 ```
 
