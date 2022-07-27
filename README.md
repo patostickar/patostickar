@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 646,
-  quote: "The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.",
-  author: "Thomas Edison"
+  id: 1133,
+  quote: "Progress always involves risks. You can't steal second base and keep your foot on first.",
+  author: "Frederick Wilcox"
 }
 ```
 
