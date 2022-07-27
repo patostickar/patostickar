@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1277,
-  quote: "The world is but a canvas to the imagination.",
-  author: "Henry Thoreau"
+  id: 1057,
+  quote: "He who knows himself is enlightened.",
+  author: "Lao Tzu"
 }
 ```
 
