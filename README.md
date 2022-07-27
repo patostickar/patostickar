@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 916,
-  quote: "Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.",
-  author: "John Kennedy"
+  id: 1011,
+  quote: "Act as if what you do makes a difference. It does.",
+  author: "William James"
 }
 ```
 
