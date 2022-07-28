@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1253,
-  quote: "Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.",
-  author: "Henry Longfellow"
+  id: 419,
+  quote: "Success means having the courage, the determination, and the will to become the person you believe you were meant to be.",
+  author: "George Sheehan"
 }
 ```
 
