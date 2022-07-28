@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 381,
-  quote: "They say that time changes things, but you actually have to change them yourself.",
-  author: "Andy Warhol"
+  id: 949,
+  quote: "Truth isn't all about what actually happens but more about how what has happened is interpreted.",
+  author: "Byron Pulsifer"
 }
 ```
 
