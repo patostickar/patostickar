@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 237,
-  quote: "Efficiency is doing things right; effectiveness is doing the right things.",
-  author: "Peter Drucker"
+  id: 1502,
+  quote: "A man's dreams are an index to his greatness.",
+  author: "Zadok Rabinowitz"
 }
 ```
 
