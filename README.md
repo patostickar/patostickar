@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1339,
-  quote: "We know the truth, not only by the reason, but by the heart.",
-  author: "Blaise Pascal"
+  id: 1204,
+  quote: "He who controls others may be powerful, but he who has mastered himself is mightier still.",
+  author: "Lao Tzu"
 }
 ```
 
