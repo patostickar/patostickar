@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1287,
-  quote: "Always seek out the seed of triumph in every adversity.",
-  author: "Og Mandino"
+  id: 1119,
+  quote: "What is not started today is never finished tomorrow.",
+  author: "Goethe"
 }
 ```
 
