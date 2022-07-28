@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 949,
-  quote: "Truth isn't all about what actually happens but more about how what has happened is interpreted.",
-  author: "Byron Pulsifer"
+  id: 675,
+  quote: "When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.",
+  author: "Epictetus"
 }
 ```
 
