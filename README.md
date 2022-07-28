@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1119,
-  quote: "What is not started today is never finished tomorrow.",
-  author: "Goethe"
+  id: 1331,
+  quote: "The noblest worship is to make yourself as good and as just as you can.",
+  author: "Isocrates"
 }
 ```
 
