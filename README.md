@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1034,
-  quote: "Imagination is not a talent of some men but is the health of every man.",
-  author: "Ralph Waldo Emerson"
+  id: 883,
+  quote: "You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.",
+  author: "John Lennon"
 }
 ```
 
