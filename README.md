@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 477,
-  quote: "Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.",
-  author: "Robert Fulghum"
+  id: 23,
+  quote: "Everything in life is luck.",
+  author: "Donald Trump"
 }
 ```
 
