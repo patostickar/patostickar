@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 903,
-  quote: "Thousands of candles can be lit from a single, and the life of the candle will not be shortened. Happiness never decreases by being shared.",
-  author: "Buddha"
+  id: 13,
+  quote: "Life is change. Growth is optional. Choose wisely.",
+  author: "Karen Clark"
 }
 ```
 
