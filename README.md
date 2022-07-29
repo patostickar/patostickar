@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1061,
-  quote: "In three words I can sum up everything Ive learned about life: it goes on.",
-  author: "Robert Frost"
+  id: 825,
+  quote: "Living at risk is jumping off the cliff and building your wings on the way down.",
+  author: "Ray Bradbury"
 }
 ```
 
