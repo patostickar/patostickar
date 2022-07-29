@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 476,
-  quote: "Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.",
-  author: "Eleanor Roosevelt"
+  id: 809,
+  quote: "Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.",
+  author: "Denis Waitley"
 }
 ```
 
