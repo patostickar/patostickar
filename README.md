@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 458,
-  quote: "Choose a job you love, and you will never have to work a day in your life.",
-  author: "Confucius"
+  id: 1516,
+  quote: "There are no limitations to the mind except those we acknowledge.",
+  author: "Napoleon Hill"
 }
 ```
 
