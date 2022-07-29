@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 838,
-  quote: "A hero is no braver than an ordinary man, but he is braver five minutes longer.",
-  author: "Ralph Waldo Emerson"
+  id: 472,
+  quote: "Patience is a virtue but you will never ever accomplish anything if you don't exercise action over patience.",
+  author: "Byron Pulsifer"
 }
 ```
 
