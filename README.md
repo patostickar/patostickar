@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 415,
-  quote: "I will not be concerned at other men is not knowing me;I will be concerned at my own want of ability.",
-  author: "Confucius"
+  id: 1540,
+  quote: "Those who dream by day are cognizant of many things which escape those who dream only by night.",
+  author: "Edgar Allan Poe"
 }
 ```
 
