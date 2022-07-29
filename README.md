@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 825,
-  quote: "Living at risk is jumping off the cliff and building your wings on the way down.",
-  author: "Ray Bradbury"
+  id: 742,
+  quote: "Watch the little things; a small leak will sink a great ship.",
+  author: "Benjamin Franklin"
 }
 ```
 
