@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 23,
-  quote: "Everything in life is luck.",
-  author: "Donald Trump"
+  id: 369,
+  quote: "More often than not, anger is actually an indication of weakness rather than of strength.",
+  author: "Dalai Lama"
 }
 ```
 
