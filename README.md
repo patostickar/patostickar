@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 746,
-  quote: "Action will remove the doubts that theory cannot solve.",
-  author: "Tehyi Hsieh"
+  id: 1061,
+  quote: "In three words I can sum up everything Ive learned about life: it goes on.",
+  author: "Robert Frost"
 }
 ```
 
