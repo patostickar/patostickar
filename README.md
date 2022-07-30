@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 729,
-  quote: "You can't trust without risk but neither can you live in a cocoon.",
-  author: "Byron Pulsifer"
+  id: 824,
+  quote: "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+  author: "Aristotle"
 }
 ```
 
