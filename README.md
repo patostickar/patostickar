@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 0,
-  quote: "Genius is one percent inspiration and ninety-nine percent perspiration.",
-  author: "Thomas Edison"
+  id: 17,
+  quote: "Every man dies. Not every man really lives.",
+  author: "null"
 }
 ```
 
