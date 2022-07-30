@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 944,
-  quote: "Everything that irritates us about others can lead us to an understanding of ourselves.",
-  author: "Carl Jung"
+  id: 927,
+  quote: "Arriving at one point is the starting point to another.",
+  author: "John Dewey"
 }
 ```
 
