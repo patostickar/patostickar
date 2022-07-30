@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 513,
-  quote: "We all live with the objective of being happy; our lives are all different and yet the same.",
-  author: "Anne Frank"
+  id: 783,
+  quote: "Do not expect the world to look bright, if you habitually wear gray-brown glasses.",
+  author: "Tomas Eliot"
 }
 ```
 
