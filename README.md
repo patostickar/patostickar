@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 477,
-  quote: "Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.",
-  author: "Robert Fulghum"
+  id: 494,
+  quote: "When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.",
+  author: "Confucius"
 }
 ```
 
