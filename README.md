@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 783,
-  quote: "Do not expect the world to look bright, if you habitually wear gray-brown glasses.",
-  author: "Tomas Eliot"
+  id: 1253,
+  quote: "Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.",
+  author: "Henry Longfellow"
 }
 ```
 
