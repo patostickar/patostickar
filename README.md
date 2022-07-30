@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 927,
-  quote: "Arriving at one point is the starting point to another.",
-  author: "John Dewey"
+  id: 300,
+  quote: "A little knowledge that acts is worth infinitely more than much knowledge that is idle.",
+  author: "Kahlil Gibran"
 }
 ```
 
