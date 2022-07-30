@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 765,
-  quote: "You must welcome change as the rule but not as your ruler.",
-  author: "Denis Waitley"
+  id: 67,
+  quote: "I never think of the future. It comes soon enough.",
+  author: "Albert Einstein"
 }
 ```
 
