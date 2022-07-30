@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1253,
-  quote: "Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.",
-  author: "Henry Longfellow"
+  id: 944,
+  quote: "Everything that irritates us about others can lead us to an understanding of ourselves.",
+  author: "Carl Jung"
 }
 ```
 
