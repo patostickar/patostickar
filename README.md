@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 300,
-  quote: "A little knowledge that acts is worth infinitely more than much knowledge that is idle.",
-  author: "Kahlil Gibran"
+  id: 480,
+  quote: "One does not discover new lands without consenting to lose sight of the shore for a very long time.",
+  author: "Andre Gide"
 }
 ```
 
