@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 782,
-  quote: "The most important point is to accept yourself and stand on your two feet.",
-  author: "Shunryu Suzuki"
+  id: 577,
+  quote: "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+  author: "Marcus Aurelius"
 }
 ```
 
