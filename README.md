@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 494,
-  quote: "When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.",
-  author: "Confucius"
+  id: 513,
+  quote: "We all live with the objective of being happy; our lives are all different and yet the same.",
+  author: "Anne Frank"
 }
 ```
 
