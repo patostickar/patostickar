@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1442,
-  quote: "It is with words as with sunbeams. The more they are condensed, the deeper they burn.",
-  author: "Robert Southey"
+  id: 380,
+  quote: "Don't judge each day by the harvest you reap but by the seeds you plant.",
+  author: "Robert Stevenson"
 }
 ```
 
