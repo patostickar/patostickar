@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1383,
-  quote: "Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.",
-  author: "Henry James"
+  id: 477,
+  quote: "Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.",
+  author: "Robert Fulghum"
 }
 ```
 
