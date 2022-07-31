@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1071,
-  quote: "People may doubt what you say, but they will believe what you do.",
-  author: "Lewis Cass"
+  id: 396,
+  quote: "To study and not think is a waste. To think and not study is dangerous.",
+  author: "Confucius"
 }
 ```
 
