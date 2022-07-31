@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1322,
-  quote: "Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.",
-  author: "Aristotle"
+  id: 847,
+  quote: "Happiness is when what you think, what you say, and what you do are in harmony.",
+  author: "Mohandas Gandhi"
 }
 ```
 
