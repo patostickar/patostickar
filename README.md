@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 198,
-  quote: "Science is organized knowledge. Wisdom is organized life.",
-  author: "Immanuel Kant"
+  id: 780,
+  quote: "Your future depends on many things, but mostly on you.",
+  author: "Frank Tyger"
 }
 ```
 
