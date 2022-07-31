@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 172,
-  quote: "The day always looks brighter from behind a smile.",
-  author: "null"
+  id: 612,
+  quote: "By living deeply in the present moment we can understand the past better and we can prepare for a better future.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
