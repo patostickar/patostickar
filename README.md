@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1044,
-  quote: "Worry often gives a small thing a big shadow.",
-  author: "Swedish proverb"
+  id: 1071,
+  quote: "People may doubt what you say, but they will believe what you do.",
+  author: "Lewis Cass"
 }
 ```
 
