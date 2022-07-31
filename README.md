@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1287,
-  quote: "Always seek out the seed of triumph in every adversity.",
-  author: "Og Mandino"
+  id: 1044,
+  quote: "Worry often gives a small thing a big shadow.",
+  author: "Swedish proverb"
 }
 ```
 
