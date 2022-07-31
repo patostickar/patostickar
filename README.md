@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 380,
-  quote: "Don't judge each day by the harvest you reap but by the seeds you plant.",
-  author: "Robert Stevenson"
+  id: 20,
+  quote: "Trouble is only opportunity in work clothes.",
+  author: "Henry J. Kaiser"
 }
 ```
 
