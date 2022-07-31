@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 504,
-  quote: "The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.",
-  author: "Honore de Balzac"
+  id: 1287,
+  quote: "Always seek out the seed of triumph in every adversity.",
+  author: "Og Mandino"
 }
 ```
 
