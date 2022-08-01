@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1010,
-  quote: "Stay away from what might have been and look at what will be.",
-  author: "Marsha Petrie Sue"
+  id: 450,
+  quote: "Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.",
+  author: "Alan Cohen"
 }
 ```
 
