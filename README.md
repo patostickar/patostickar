@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 40,
-  quote: "Never mistake activity for achievement.",
-  author: "John Wooden"
+  id: 1282,
+  quote: "Be gentle first with yourself if you wish to be gentle with others.",
+  author: "Lama Yeshe"
 }
 ```
 
