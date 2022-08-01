@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1282,
-  quote: "Be gentle first with yourself if you wish to be gentle with others.",
-  author: "Lama Yeshe"
+  id: 1622,
+  quote: "Music in the soul can be heard by the universe.",
+  author: "Lao Tzu"
 }
 ```
 
