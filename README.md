@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 450,
-  quote: "Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.",
-  author: "Alan Cohen"
+  id: 357,
+  quote: "You have to do your own growing no matter how tall your grandfather was.",
+  author: "Abraham Lincoln"
 }
 ```
 
