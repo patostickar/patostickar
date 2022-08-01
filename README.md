@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 366,
-  quote: "The way is not in the sky. The way is in the heart.",
-  author: "Buddha"
+  id: 435,
+  quote: "Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.",
+  author: "Henry Van Dyke"
 }
 ```
 
