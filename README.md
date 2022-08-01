@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1048,
-  quote: "The truth which has made us free will in the end make us glad also.",
-  author: "Felix Adler"
+  id: 366,
+  quote: "The way is not in the sky. The way is in the heart.",
+  author: "Buddha"
 }
 ```
 
