@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1622,
-  quote: "Music in the soul can be heard by the universe.",
-  author: "Lao Tzu"
+  id: 1010,
+  quote: "Stay away from what might have been and look at what will be.",
+  author: "Marsha Petrie Sue"
 }
 ```
 
