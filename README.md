@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1018,
-  quote: "Experience can only be gained by doing not by thinking or dreaming.",
-  author: "Byron Pulsifer"
+  id: 626,
+  quote: "A true friend is the most precious of all possessions and the one we take the least thought about acquiring.",
+  author: "Francois de La Rochefoucauld"
 }
 ```
 
