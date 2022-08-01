@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 392,
-  quote: "If you would take, you must first give, this is the beginning of intelligence.",
-  author: "Lao Tzu"
+  id: 235,
+  quote: "Fears are nothing more than a state of mind.",
+  author: "Napoleon Hill"
 }
 ```
 
