@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1258,
-  quote: "Turn your face toward the sun and the shadows will fall behind you.",
-  author: "Maori proverb"
+  id: 1516,
+  quote: "There are no limitations to the mind except those we acknowledge.",
+  author: "Napoleon Hill"
 }
 ```
 
