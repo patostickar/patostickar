@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1471,
-  quote: "My reputation grows with every failure.",
-  author: "George Shaw"
+  id: 550,
+  quote: "I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.",
+  author: "Albert Einstein"
 }
 ```
 
