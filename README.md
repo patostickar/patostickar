@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1325,
-  quote: "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.",
-  author: "Michelangelo"
+  id: 765,
+  quote: "You must welcome change as the rule but not as your ruler.",
+  author: "Denis Waitley"
 }
 ```
 
