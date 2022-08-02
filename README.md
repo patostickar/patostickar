@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 237,
-  quote: "Efficiency is doing things right; effectiveness is doing the right things.",
-  author: "Peter Drucker"
+  id: 1338,
+  quote: "The best place to find a helping hand is at the end of your own arm.",
+  author: "null"
 }
 ```
 
