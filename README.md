@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 550,
-  quote: "I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.",
-  author: "Albert Einstein"
+  id: 583,
+  quote: "There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.",
+  author: "Denis Waitley"
 }
 ```
 
