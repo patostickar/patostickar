@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1389,
-  quote: "I love my past. I love my present. I'm not ashamed of what Ive had, and I'm not sad because I have it no longer.",
-  author: "Colette"
+  id: 1369,
+  quote: "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
+  author: "Carl Jung"
 }
 ```
 
