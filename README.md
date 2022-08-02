@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 898,
-  quote: "By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.",
-  author: "Lao Tzu"
+  id: 1389,
+  quote: "I love my past. I love my present. I'm not ashamed of what Ive had, and I'm not sad because I have it no longer.",
+  author: "Colette"
 }
 ```
 
