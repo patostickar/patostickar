@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1077,
-  quote: "Most of the shadows of life are caused by standing in our own sunshine.",
-  author: "Ralph Waldo Emerson"
+  id: 232,
+  quote: "There is no greater harm than that of time wasted.",
+  author: "Michelangelo"
 }
 ```
 
