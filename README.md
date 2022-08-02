@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1316,
-  quote: "True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.",
-  author: "Daisaku Ikeda"
+  id: 293,
+  quote: "If we did the things we are capable of, we would astound ourselves.",
+  author: "Thomas Edison"
 }
 ```
 
