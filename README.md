@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 301,
-  quote: "If you get up one more time than you fall, you will make it through.",
-  author: "null"
+  id: 405,
+  quote: "Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.",
+  author: "Ralph Emerson"
 }
 ```
 
