@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1248,
-  quote: "There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.",
-  author: "Mark Twain"
+  id: 1325,
+  quote: "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.",
+  author: "Michelangelo"
 }
 ```
 
