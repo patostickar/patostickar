@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 583,
-  quote: "There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.",
-  author: "Denis Waitley"
+  id: 301,
+  quote: "If you get up one more time than you fall, you will make it through.",
+  author: "null"
 }
 ```
 
