@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 252,
-  quote: "Every problem has a gift for you in its hands.",
+  id: 970,
+  quote: "Every gift from a friend is a wish for your happiness.",
   author: "Richard Bach"
 }
 ```
