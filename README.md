@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 293,
-  quote: "If we did the things we are capable of, we would astound ourselves.",
+  id: 646,
+  quote: "The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.",
   author: "Thomas Edison"
 }
 ```
