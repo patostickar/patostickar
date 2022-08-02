@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 646,
-  quote: "The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.",
-  author: "Thomas Edison"
+  id: 1535,
+  quote: "Translation is the paradigm, the exemplar of all writing. It is translation that demonstrates most vividly the yearning for transformation that underlies every act involving speech, that supremely human gift.",
+  author: "Harry Burchell Mathews"
 }
 ```
 
