@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 224,
-  quote: "The mind is everything. What you think you become.",
-  author: "Buddha"
+  id: 239,
+  quote: "Don't cry because it's over. Smile because it happened.",
+  author: "Dr. Seuss"
 }
 ```
 
