@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 773,
-  quote: "Man cannot discover new oceans unless he has the courage to lose sight of the shore.",
-  author: "Andre Gide"
+  id: 614,
+  quote: "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+  author: "Ralph Emerson"
 }
 ```
 
