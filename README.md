@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1224,
-  quote: "As we grow as unique persons, we learn to respect the uniqueness of others.",
-  author: "Robert Schuller"
+  id: 1342,
+  quote: "If I know what love is, it is because of you.",
+  author: "Hermann Hesse"
 }
 ```
 
