@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1342,
-  quote: "If I know what love is, it is because of you.",
-  author: "Hermann Hesse"
+  id: 1368,
+  quote: "It is not fair to ask of others what you are unwilling to do yourself.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
