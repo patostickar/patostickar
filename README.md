@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1012,
-  quote: "Passion creates the desire for more and action fuelled by passion creates a future.",
-  author: "Byron Pulsifer"
+  id: 1360,
+  quote: "We can do no great things, only small things with great love.",
+  author: "Mother Teresa"
 }
 ```
 
