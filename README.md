@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 938,
-  quote: "To know oneself is to study oneself in action with another person.",
-  author: "Bruce Lee"
+  id: 1475,
+  quote: "For success, attitude is equally as important as ability.",
+  author: "Harry Banks"
 }
 ```
 
