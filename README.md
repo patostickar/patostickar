@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 4,
-  quote: "Fate is in your hands and no one elses",
-  author: "Byron Pulsifer"
+  id: 296,
+  quote: "Love is not blind; it simply enables one to see things others fail to see.",
+  author: "null"
 }
 ```
 
