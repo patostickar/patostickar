@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1350,
-  quote: "Don't fear failure so much that you refuse to try new things. The saddest summary of life contains three descriptions: could have, might have, and should have.",
-  author: "null"
+  id: 790,
+  quote: "It is never too late to be what you might have been.",
+  author: "George Eliot"
 }
 ```
 
