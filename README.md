@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1099,
-  quote: "The difficulties of life are intended to make us better, not bitter.",
-  author: "null"
+  id: 106,
+  quote: "Do one thing every day that scares you.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
