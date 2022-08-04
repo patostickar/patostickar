@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 790,
-  quote: "It is never too late to be what you might have been.",
-  author: "George Eliot"
+  id: 1199,
+  quote: "Transformation does not start with some one else changing you; transformation is an inner self reworking of what you are now to what you will be.",
+  author: "Byron Pulsifer"
 }
 ```
 
