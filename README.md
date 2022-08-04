@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1,
-  quote: "You can observe a lot just by watching.",
-  author: "Yogi Berra"
+  id: 528,
+  quote: "The real measure of your wealth is how much youd be worth if you lost all your money.",
+  author: "null"
 }
 ```
 
