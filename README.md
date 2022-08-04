@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 351,
-  quote: "Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.",
-  author: "John Adams"
+  id: 415,
+  quote: "I will not be concerned at other men is not knowing me;I will be concerned at my own want of ability.",
+  author: "Confucius"
 }
 ```
 
