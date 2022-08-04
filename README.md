@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1337,
-  quote: "Divide each difficulty into as many parts as is feasible and necessary to resolve it.",
-  author: "Rene Descartes"
+  id: 938,
+  quote: "To know oneself is to study oneself in action with another person.",
+  author: "Bruce Lee"
 }
 ```
 
