@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 430,
-  quote: "The person born with a talent they are meant to use will find their greatest happiness in using it.",
-  author: "Johann Wolfgang von Goethe"
+  id: 1099,
+  quote: "The difficulties of life are intended to make us better, not bitter.",
+  author: "null"
 }
 ```
 
