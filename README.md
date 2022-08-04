@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 954,
-  quote: "Take heed: you do not find what you do not seek.",
-  author: "English proverb"
+  id: 544,
+  quote: "You were not born a winner, and you were not born a loser. You are what you make yourself be.",
+  author: "Lou Holtz"
 }
 ```
 
