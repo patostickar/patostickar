@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1221,
-  quote: "Trust only movement. Life happens at the level of events, not of words. Trust movement.",
-  author: "Alfred Adler"
+  id: 954,
+  quote: "Take heed: you do not find what you do not seek.",
+  author: "English proverb"
 }
 ```
 
