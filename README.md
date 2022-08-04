@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 106,
-  quote: "Do one thing every day that scares you.",
-  author: "Eleanor Roosevelt"
+  id: 14,
+  quote: "You'll see it when you believe it.",
+  author: "Wayne Dyer"
 }
 ```
 
