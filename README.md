@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 415,
-  quote: "I will not be concerned at other men is not knowing me;I will be concerned at my own want of ability.",
-  author: "Confucius"
+  id: 493,
+  quote: "It is the greatest of all mistakes to do nothing because you can only do little do what you can.",
+  author: "Sydney Smith"
 }
 ```
 
