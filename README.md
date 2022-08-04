@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1543,
-  quote: "Kind words can be short and easy to speak, but their echoes are truly endless.",
-  author: "Mother Teresa"
+  id: 487,
+  quote: "People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
