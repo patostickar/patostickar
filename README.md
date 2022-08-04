@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 528,
-  quote: "The real measure of your wealth is how much youd be worth if you lost all your money.",
-  author: "null"
+  id: 1543,
+  quote: "Kind words can be short and easy to speak, but their echoes are truly endless.",
+  author: "Mother Teresa"
 }
 ```
 
