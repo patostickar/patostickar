@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 605,
-  quote: "Nothing is predestined: The obstacles of your past can become the gateways that lead to new beginnings.",
-  author: "Ralph Blum"
+  id: 353,
+  quote: "Tension is who you think you should be. Relaxation is who you are.",
+  author: "Chinese proverb"
 }
 ```
 
