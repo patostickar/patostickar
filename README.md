@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 395,
-  quote: "Quality is never an accident; it is always the result of intelligent effort.",
-  author: "John Ruskin"
+  id: 762,
+  quote: "History will be kind to me for I intend to write it.",
+  author: "Winston Churchill"
 }
 ```
 
