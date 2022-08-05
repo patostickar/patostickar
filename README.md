@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1288,
-  quote: "Rather than wishing for change, you first must be prepared to change.",
-  author: "Catherine Pulsifer"
+  id: 186,
+  quote: "The mind unlearns with difficulty what it has long learned.",
+  author: "Seneca"
 }
 ```
 
