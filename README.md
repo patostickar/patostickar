@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1055,
-  quote: "If you can't explain it simply, you don't understand it well enough.",
-  author: "Albert Einstein"
+  id: 1555,
+  quote: "All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.",
+  author: "Alexis Carrel"
 }
 ```
 
