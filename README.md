@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 186,
-  quote: "The mind unlearns with difficulty what it has long learned.",
-  author: "Seneca"
+  id: 694,
+  quote: "Try not to become a man of success but rather try to become a man of value.",
+  author: "Albert Einstein"
 }
 ```
 
