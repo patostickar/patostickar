@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1360,
-  quote: "We can do no great things, only small things with great love.",
-  author: "Mother Teresa"
+  id: 748,
+  quote: "Your big opportunity may be right where you are now.",
+  author: "Napoleon Hill"
 }
 ```
 
