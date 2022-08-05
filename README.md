@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1555,
-  quote: "All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.",
-  author: "Alexis Carrel"
+  id: 1492,
+  quote: "Love vanquishes time. To lovers, a moment can be eternity, eternity can be the tick of a clock.",
+  author: "Mary Parrish"
 }
 ```
 
