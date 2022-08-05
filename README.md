@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 654,
-  quote: "If it is not right do not do it; if it is not true do not say it.",
-  author: "Marcus Aurelius"
+  id: 86,
+  quote: "Life is movement-we breathe, we eat, we walk, we move!",
+  author: "John Pierrakos"
 }
 ```
 
