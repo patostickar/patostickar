@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 353,
-  quote: "Tension is who you think you should be. Relaxation is who you are.",
-  author: "Chinese proverb"
+  id: 58,
+  quote: "Time is the wisest counsellor of all.",
+  author: "Pericles"
 }
 ```
 
