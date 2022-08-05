@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 748,
-  quote: "Your big opportunity may be right where you are now.",
-  author: "Napoleon Hill"
+  id: 1468,
+  quote: "Most folks are as happy as they make up their minds to be.",
+  author: "Abraham Lincoln"
 }
 ```
 
