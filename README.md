@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1468,
-  quote: "Most folks are as happy as they make up their minds to be.",
-  author: "Abraham Lincoln"
+  id: 1288,
+  quote: "Rather than wishing for change, you first must be prepared to change.",
+  author: "Catherine Pulsifer"
 }
 ```
 
