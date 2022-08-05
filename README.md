@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1492,
-  quote: "Love vanquishes time. To lovers, a moment can be eternity, eternity can be the tick of a clock.",
-  author: "Mary Parrish"
+  id: 1000,
+  quote: "Everything that exists is in a manner the seed of that which will be.",
+  author: "Marcus Aurelius"
 }
 ```
 
