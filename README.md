@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 86,
-  quote: "Life is movement-we breathe, we eat, we walk, we move!",
-  author: "John Pierrakos"
+  id: 427,
+  quote: "If your actions inspire others to dream more, learn more, do more and become more, you are a leader.",
+  author: "John Quincy Adams"
 }
 ```
 
