@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 774,
-  quote: "Everything that irritates us about others can lead us to an understanding about ourselves.",
-  author: "Carl Jung"
+  id: 395,
+  quote: "Quality is never an accident; it is always the result of intelligent effort.",
+  author: "John Ruskin"
 }
 ```
 
