@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 762,
-  quote: "History will be kind to me for I intend to write it.",
-  author: "Winston Churchill"
+  id: 654,
+  quote: "If it is not right do not do it; if it is not true do not say it.",
+  author: "Marcus Aurelius"
 }
 ```
 
