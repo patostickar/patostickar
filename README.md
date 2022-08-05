@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1196,
-  quote: "The steeper the mountain the harder the climb the better the view from the finishing line",
-  author: "null"
+  id: 605,
+  quote: "Nothing is predestined: The obstacles of your past can become the gateways that lead to new beginnings.",
+  author: "Ralph Blum"
 }
 ```
 
