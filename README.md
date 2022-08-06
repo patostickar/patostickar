@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 270,
-  quote: "The winds and waves are always on the side of the ablest navigators.",
-  author: "Edward Gibbon"
+  id: 400,
+  quote: "If you cannot do great things, do small things in a great way.",
+  author: "Napoleon Hill"
 }
 ```
 
