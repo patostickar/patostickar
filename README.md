@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1232,
-  quote: "We are Divine enough to ask and we are important enough to receive.",
-  author: "Wayne Dyer"
+  id: 634,
+  quote: "Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.",
+  author: "Margaret Mead"
 }
 ```
 
