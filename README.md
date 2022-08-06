@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1318,
-  quote: "I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.",
-  author: "Leonardo da Vinci"
+  id: 834,
+  quote: "Fear of failure is one attitude that will keep you at the same point in your life.",
+  author: "Byron Pulsifer"
 }
 ```
 
