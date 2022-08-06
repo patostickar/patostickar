@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1418,
-  quote: "Reason and free inquiry are the only effectual agents against error.",
-  author: "Thomas Jefferson"
+  id: 1318,
+  quote: "I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.",
+  author: "Leonardo da Vinci"
 }
 ```
 
