@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 694,
-  quote: "Try not to become a man of success but rather try to become a man of value.",
-  author: "Albert Einstein"
+  id: 828,
+  quote: "A failure is a man who has blundered but is not capable of cashing in on the experience.",
+  author: "Elbert Hubbard"
 }
 ```
 
