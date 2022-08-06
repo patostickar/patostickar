@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 828,
-  quote: "A failure is a man who has blundered but is not capable of cashing in on the experience.",
-  author: "Elbert Hubbard"
+  id: 745,
+  quote: "Kindness is the greatest wisdom.",
+  author: "null"
 }
 ```
 
