@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 220,
-  quote: "Follow your instincts. That is where true wisdom manifests itself.",
-  author: "Oprah Winfrey"
+  id: 892,
+  quote: "When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.",
+  author: "Confucius"
 }
 ```
 
