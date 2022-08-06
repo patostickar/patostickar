@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 400,
-  quote: "If you cannot do great things, do small things in a great way.",
-  author: "Napoleon Hill"
+  id: 520,
+  quote: "Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!",
+  author: "Charlotte Gilman"
 }
 ```
 
