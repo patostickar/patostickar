@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 60,
-  quote: "Wisdom begins in wonder.",
-  author: "Socrates"
+  id: 1232,
+  quote: "We are Divine enough to ask and we are important enough to receive.",
+  author: "Wayne Dyer"
 }
 ```
 
