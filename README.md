@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 892,
-  quote: "When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.",
-  author: "Confucius"
+  id: 1509,
+  quote: "Bold is not the act of foolishness but the attribute and inner strength to act when others will not so as to move forward not backward.",
+  author: "Byron Pulsifer"
 }
 ```
 
