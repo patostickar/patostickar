@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1549,
-  quote: "A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.",
-  author: "Jawaharlal Nehru"
+  id: 1047,
+  quote: "Freedom is what you do with what's been done to you.",
+  author: "Jean-Paul Sartre"
 }
 ```
 
