@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 634,
-  quote: "Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.",
-  author: "Margaret Mead"
+  id: 694,
+  quote: "Try not to become a man of success but rather try to become a man of value.",
+  author: "Albert Einstein"
 }
 ```
 
