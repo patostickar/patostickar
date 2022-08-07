@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1270,
-  quote: "Everything in the universe goes by indirection. There are no straight lines.",
-  author: "Ralph Emerson"
+  id: 155,
+  quote: "The more you know yourself, the more you forgive yourself.",
+  author: "Confucius"
 }
 ```
 
