@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 192,
-  quote: "Life is just a chance to grow a soul.",
-  author: "A. Powell Davies"
+  id: 792,
+  quote: "In the long run we get no more than we have been willing to risk giving.",
+  author: "Sheldon Kopp"
 }
 ```
 
