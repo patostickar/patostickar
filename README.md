@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1642,
-  quote: "Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on.",
-  author: "Tom Jackson"
+  id: 935,
+  quote: "The only limit to your impact is your imagination and commitment.",
+  author: "Tony Robbins"
 }
 ```
 
