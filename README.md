@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 335,
-  quote: "Everyone thinks of changing the world, but no one thinks of changing himself.",
-  author: "Leo Tolstoy"
+  id: 915,
+  quote: "Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.",
+  author: "Marcus Aurelius"
 }
 ```
 
