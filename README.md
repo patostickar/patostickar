@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 30,
-  quote: "Bite off more than you can chew, then chew it.",
-  author: "Ella Williams"
+  id: 22,
+  quote: "Ideas are the beginning points of all fortunes.",
+  author: "Napoleon Hill"
 }
 ```
 
