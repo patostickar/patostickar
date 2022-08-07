@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 22,
-  quote: "Ideas are the beginning points of all fortunes.",
-  author: "Napoleon Hill"
+  id: 980,
+  quote: "In all chaos there is a cosmos, in all disorder a secret order.",
+  author: "Carl Jung"
 }
 ```
 
