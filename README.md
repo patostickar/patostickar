@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 980,
-  quote: "In all chaos there is a cosmos, in all disorder a secret order.",
-  author: "Carl Jung"
+  id: 458,
+  quote: "Choose a job you love, and you will never have to work a day in your life.",
+  author: "Confucius"
 }
 ```
 
