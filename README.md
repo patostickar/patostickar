@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1306,
-  quote: "Spring is a time for rebirth and the fulfilment of new life.",
-  author: "Byron Pulsifer"
+  id: 1270,
+  quote: "Everything in the universe goes by indirection. There are no straight lines.",
+  author: "Ralph Emerson"
 }
 ```
 
