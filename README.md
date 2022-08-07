@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 792,
-  quote: "In the long run we get no more than we have been willing to risk giving.",
-  author: "Sheldon Kopp"
+  id: 647,
+  quote: "If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.",
+  author: "John Steinbeck"
 }
 ```
 
