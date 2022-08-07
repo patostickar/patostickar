@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1560,
-  quote: "Good advice is always certain to be ignored, but that's no reason not to give it.",
-  author: "Agatha Christie"
+  id: 30,
+  quote: "Bite off more than you can chew, then chew it.",
+  author: "Ella Williams"
 }
 ```
 
