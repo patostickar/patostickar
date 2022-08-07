@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 935,
-  quote: "The only limit to your impact is your imagination and commitment.",
-  author: "Tony Robbins"
+  id: 1117,
+  quote: "The personal life deeply lived always expands into truths beyond itself.",
+  author: "Anais Nin"
 }
 ```
 
