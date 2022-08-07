@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 155,
-  quote: "The more you know yourself, the more you forgive yourself.",
-  author: "Confucius"
+  id: 335,
+  quote: "Everyone thinks of changing the world, but no one thinks of changing himself.",
+  author: "Leo Tolstoy"
 }
 ```
 
