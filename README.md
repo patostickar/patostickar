@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 396,
-  quote: "To study and not think is a waste. To think and not study is dangerous.",
-  author: "Confucius"
+  id: 1306,
+  quote: "Spring is a time for rebirth and the fulfilment of new life.",
+  author: "Byron Pulsifer"
 }
 ```
 
