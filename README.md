@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 798,
-  quote: "Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.",
-  author: "Blaise Pascal"
+  id: 238,
+  quote: "Blaze with the fire that is never extinguished.",
+  author: "Luisa Sigea"
 }
 ```
 
