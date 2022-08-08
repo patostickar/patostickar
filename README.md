@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 952,
-  quote: "Small opportunities are often the beginning of great enterprises.",
-  author: "Demosthenes"
+  id: 1102,
+  quote: "Great acts are made up of small deeds.",
+  author: "Lao Tzu"
 }
 ```
 
