@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 68,
-  quote: "Skill to do comes of doing.",
-  author: "Ralph Emerson"
+  id: 1233,
+  quote: "If you kick a stone in anger, you'll hurt your own foot.",
+  author: "Korean proverb"
 }
 ```
 
