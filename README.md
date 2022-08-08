@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 609,
-  quote: "The greatest way to live with honor in this world is to be what we pretend to be.",
-  author: "Socrates"
+  id: 952,
+  quote: "Small opportunities are often the beginning of great enterprises.",
+  author: "Demosthenes"
 }
 ```
 
