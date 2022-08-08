@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1220,
-  quote: "To be great is to be misunderstood.",
-  author: "Ralph Emerson"
+  id: 670,
+  quote: "Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.",
+  author: "Louis Pasteur"
 }
 ```
 
