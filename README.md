@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 354,
-  quote: "Never bend your head. Always hold it high. Look the world right in the eye.",
-  author: "Helen Keller"
+  id: 1420,
+  quote: "See the positive side, the potential, and make an effort.",
+  author: "Dalai Lama"
 }
 ```
 
