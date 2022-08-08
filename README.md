@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1233,
-  quote: "If you kick a stone in anger, you'll hurt your own foot.",
-  author: "Korean proverb"
+  id: 1220,
+  quote: "To be great is to be misunderstood.",
+  author: "Ralph Emerson"
 }
 ```
 
