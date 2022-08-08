@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 564,
-  quote: "If the stars should appear but one night every thousand years how man would marvel and adore.",
-  author: "Ralph Emerson"
+  id: 798,
+  quote: "Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.",
+  author: "Blaise Pascal"
 }
 ```
 
