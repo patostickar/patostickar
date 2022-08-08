@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 323,
-  quote: "Reviewing what you have learned and learning anew, you are fit to be a teacher.",
-  author: "Confucius"
+  id: 645,
+  quote: "To accomplish great things, we must not only act, but also dream; not only plan, but also believe.",
+  author: "Anatole France"
 }
 ```
 
