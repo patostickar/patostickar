@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1420,
-  quote: "See the positive side, the potential, and make an effort.",
-  author: "Dalai Lama"
+  id: 564,
+  quote: "If the stars should appear but one night every thousand years how man would marvel and adore.",
+  author: "Ralph Emerson"
 }
 ```
 
