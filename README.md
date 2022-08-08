@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 238,
-  quote: "Blaze with the fire that is never extinguished.",
-  author: "Luisa Sigea"
+  id: 949,
+  quote: "Truth isn't all about what actually happens but more about how what has happened is interpreted.",
+  author: "Byron Pulsifer"
 }
 ```
 
