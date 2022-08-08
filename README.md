@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 873,
-  quote: "Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.",
-  author: "Jean-Paul Sartre"
+  id: 285,
+  quote: "It is not so important to know everything as to appreciate what we learn.",
+  author: "Hannah More"
 }
 ```
 
