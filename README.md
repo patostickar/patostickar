@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 285,
-  quote: "It is not so important to know everything as to appreciate what we learn.",
-  author: "Hannah More"
+  id: 609,
+  quote: "The greatest way to live with honor in this world is to be what we pretend to be.",
+  author: "Socrates"
 }
 ```
 
