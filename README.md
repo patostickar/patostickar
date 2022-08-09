@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 557,
-  quote: "Give me six hours to chop down a tree and I will spend the first four sharpening the axe.",
-  author: "Abraham Lincoln"
+  id: 244,
+  quote: "Don't smother each other. No one can grow in the shade.",
+  author: "Leo F. Buscaglia"
 }
 ```
 
