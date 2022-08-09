@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1121,
-  quote: "Chaos is inherent in all compounded things. Strive on with diligence.",
-  author: "Buddha"
+  id: 1142,
+  quote: "The world has the habit of making room for the man whose actions show that he knows where he is going.",
+  author: "Napoleon Hill"
 }
 ```
 
