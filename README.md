@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 27,
-  quote: "The day is already blessed, find peace within it.",
-  author: "null"
+  id: 123,
+  quote: "It is better to travel well than to arrive.",
+  author: "Buddha"
 }
 ```
 
