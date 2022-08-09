@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 173,
-  quote: "A stumble may prevent a fall.",
-  author: "null"
+  id: 1627,
+  quote: "We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.",
+  author: "Barbara De Angelis"
 }
 ```
 
