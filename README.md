@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 422,
-  quote: "Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.",
-  author: "Marcel Proust"
+  id: 290,
+  quote: "Our greatest glory is not in never failing but rising everytime we fall.",
+  author: "null"
 }
 ```
 
