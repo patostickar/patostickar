@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1102,
-  quote: "Great acts are made up of small deeds.",
-  author: "Lao Tzu"
+  id: 1121,
+  quote: "Chaos is inherent in all compounded things. Strive on with diligence.",
+  author: "Buddha"
 }
 ```
 
