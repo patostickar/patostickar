@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 788,
-  quote: "The foot feels the foot when it feels the ground.",
-  author: "Buddha"
+  id: 557,
+  quote: "Give me six hours to chop down a tree and I will spend the first four sharpening the axe.",
+  author: "Abraham Lincoln"
 }
 ```
 
