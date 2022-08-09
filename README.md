@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 123,
-  quote: "It is better to travel well than to arrive.",
-  author: "Buddha"
+  id: 422,
+  quote: "Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.",
+  author: "Marcel Proust"
 }
 ```
 
