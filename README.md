@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 488,
-  quote: "We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.",
-  author: "James Freeman Clarke"
+  id: 989,
+  quote: "Saying thank you is more than good manners. It is good spirituality.",
+  author: "Alfred Painter"
 }
 ```
 
