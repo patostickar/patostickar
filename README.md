@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 290,
-  quote: "Our greatest glory is not in never failing but rising everytime we fall.",
-  author: "null"
+  id: 788,
+  quote: "The foot feels the foot when it feels the ground.",
+  author: "Buddha"
 }
 ```
 
