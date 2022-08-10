@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1345,
-  quote: "Compassion and happiness are not a sign of weakness but a sign of strength.",
-  author: "Dalai Lama"
+  id: 12,
+  quote: "We can only learn to love by loving.",
+  author: "Iris Murdoch"
 }
 ```
 
