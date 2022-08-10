@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1466,
-  quote: "The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly.",
-  author: "Richard Bach"
+  id: 1213,
+  quote: "Enjoy the little things, for one day you may look back and realize they were the big things.",
+  author: "Robert Brault"
 }
 ```
 
