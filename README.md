@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 353,
-  quote: "Tension is who you think you should be. Relaxation is who you are.",
-  author: "Chinese proverb"
+  id: 1291,
+  quote: "First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.",
+  author: "Napoleon Hill"
 }
 ```
 
