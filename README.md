@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 341,
-  quote: "Yeah we all shine on, like the moon, and the stars, and the sun.",
-  author: "John Lennon"
+  id: 1326,
+  quote: "Great ideas often receive violent opposition from mediocre minds.",
+  author: "Albert Einstein"
 }
 ```
 
