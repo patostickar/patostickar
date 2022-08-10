@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 285,
-  quote: "It is not so important to know everything as to appreciate what we learn.",
-  author: "Hannah More"
+  id: 1083,
+  quote: "Every great advance in science has issued from a new audacity of the imagination.",
+  author: "John Dewey"
 }
 ```
 
