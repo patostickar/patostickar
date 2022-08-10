@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 554,
-  quote: "A friend is someone who understands your past, believes in your future, and accepts you just the way you are.",
-  author: "null"
+  id: 285,
+  quote: "It is not so important to know everything as to appreciate what we learn.",
+  author: "Hannah More"
 }
 ```
 
