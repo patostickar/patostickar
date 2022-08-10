@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1326,
-  quote: "Great ideas often receive violent opposition from mediocre minds.",
-  author: "Albert Einstein"
+  id: 554,
+  quote: "A friend is someone who understands your past, believes in your future, and accepts you just the way you are.",
+  author: "null"
 }
 ```
 
