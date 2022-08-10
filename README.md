@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 619,
-  quote: "The greatest good you can do for another is not just to share your riches but to reveal to him his own.",
-  author: "Benjamin Disraeli"
+  id: 1598,
+  quote: "An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.",
+  author: "Thomas Fuller"
 }
 ```
 
