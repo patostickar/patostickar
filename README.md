@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1065,
-  quote: "As we risk ourselves, we grow. Each new experience is a risk.",
-  author: "Fran Watson"
+  id: 341,
+  quote: "Yeah we all shine on, like the moon, and the stars, and the sun.",
+  author: "John Lennon"
 }
 ```
 
