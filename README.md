@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 182,
-  quote: "No snowflake in an avalanche ever feels responsible.",
-  author: "Voltaire"
+  id: 188,
+  quote: "No garden is without its weeds.",
+  author: "Thomas Fuller"
 }
 ```
 
