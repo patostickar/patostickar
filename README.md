@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 188,
-  quote: "No garden is without its weeds.",
-  author: "Thomas Fuller"
+  id: 1421,
+  quote: "By accepting yourself and being fully what you are, your presence can make others happy.",
+  author: "Jane Roberts"
 }
 ```
 
