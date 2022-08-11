@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 15,
-  quote: "Today is the tomorrow we worried about yesterday.",
-  author: "null"
+  id: 1218,
+  quote: "A day of worry is more exhausting than a day of work.",
+  author: "John Lubbock"
 }
 ```
 
