@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 388,
-  quote: "Shoot for the moon. Even if you miss, you'll land among the stars.",
-  author: "Les Brown"
+  id: 1034,
+  quote: "Imagination is not a talent of some men but is the health of every man.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
