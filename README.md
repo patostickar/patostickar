@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 307,
-  quote: "The universe is full of magical things, patiently waiting for our wits to grow sharper.",
-  author: "Eden Phillpotts"
+  id: 156,
+  quote: "Someone remembers, someone cares; your name is whispered in someone's prayers.",
+  author: "null"
 }
 ```
 
