@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1034,
-  quote: "Imagination is not a talent of some men but is the health of every man.",
-  author: "Ralph Waldo Emerson"
+  id: 134,
+  quote: "Reality leaves a lot to the imagination.",
+  author: "John Lennon"
 }
 ```
 
