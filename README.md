@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 134,
-  quote: "Reality leaves a lot to the imagination.",
-  author: "John Lennon"
+  id: 131,
+  quote: "Reality does not conform to the ideal, but confirms it.",
+  author: "Gustave Flaubert"
 }
 ```
 
