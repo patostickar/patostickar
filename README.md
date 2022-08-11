@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 41,
-  quote: "What worries you masters you.",
-  author: "Haddon Robinson"
+  id: 535,
+  quote: "How wonderful that we have met with a paradox. Now we have some hope of making progress.",
+  author: "Niels Bohr"
 }
 ```
 
