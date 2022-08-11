@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 161,
-  quote: "Everything you can imagine is real.",
-  author: "Pablo Picasso"
+  id: 307,
+  quote: "The universe is full of magical things, patiently waiting for our wits to grow sharper.",
+  author: "Eden Phillpotts"
 }
 ```
 
