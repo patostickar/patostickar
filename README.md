@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 326,
-  quote: "I'm not afraid of storms, for I'm learning how to sail my ship.",
-  author: "Louisa Alcott"
+  id: 658,
+  quote: "Arrogance and rudeness are training wheels on the bicycle of life for weak people who cannot keep their balance without them.",
+  author: "Laura Teresa Marquez"
 }
 ```
 
