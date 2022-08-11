@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1083,
-  quote: "Every great advance in science has issued from a new audacity of the imagination.",
-  author: "John Dewey"
+  id: 326,
+  quote: "I'm not afraid of storms, for I'm learning how to sail my ship.",
+  author: "Louisa Alcott"
 }
 ```
 
