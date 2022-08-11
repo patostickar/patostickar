@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 727,
-  quote: "All achievements, all earned riches, have their beginning in an idea.",
-  author: "Napoleon Hill"
+  id: 206,
+  quote: "Pick battles big enough to matter, small enough to win.",
+  author: "Jonathan Kozol"
 }
 ```
 
