@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 67,
-  quote: "I never think of the future. It comes soon enough.",
-  author: "Albert Einstein"
+  id: 496,
+  quote: "Those who try to do something and fail are infinitely better than those who try nothing and succeed.",
+  author: "Lloyd Jones"
 }
 ```
 
