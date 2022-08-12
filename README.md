@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 26,
-  quote: "Study the past, if you would divine the future.",
-  author: "Confucius"
+  id: 1368,
+  quote: "It is not fair to ask of others what you are unwilling to do yourself.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
