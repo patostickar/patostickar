@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 260,
-  quote: "All seasons are beautiful for the person who carries happiness within.",
-  author: "Horace Friess"
+  id: 1615,
+  quote: "Joy is what happens to us when we allow ourselves to recognize how good things really are.",
+  author: "Marianne Williamson"
 }
 ```
 
