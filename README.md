@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1278,
-  quote: "Thats the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.",
-  author: "Lisa Alther"
+  id: 1463,
+  quote: "If only wed stop trying to be happy wed have a pretty good time.",
+  author: "Edith Wharton"
 }
 ```
 
