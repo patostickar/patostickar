@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 78,
-  quote: "Courage is going from failure to failure without losing enthusiasm.",
-  author: "Winston Churchill"
+  id: 1301,
+  quote: "Kind words can be short and easy to speak but their echoes are truly endless.",
+  author: "Mother Teresa"
 }
 ```
 
