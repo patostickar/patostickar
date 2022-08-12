@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 103,
-  quote: "Don't ruin the present with the ruined past.",
-  author: "Ellen Gilchrist"
+  id: 1545,
+  quote: "Dreams come true. Without that possibility, nature would not incite us to have them.",
+  author: "John Updike"
 }
 ```
 
