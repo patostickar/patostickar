@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1406,
-  quote: "Things do not change; we change.",
-  author: "Henry Thoreau"
+  id: 1256,
+  quote: "Peace begins with a smile.",
+  author: "Mother Teresa"
 }
 ```
 
