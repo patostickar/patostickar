@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1545,
-  quote: "Dreams come true. Without that possibility, nature would not incite us to have them.",
-  author: "John Updike"
+  id: 1341,
+  quote: "Anybody can make history. Only a great man can write it.",
+  author: "Oscar Wilde"
 }
 ```
 
