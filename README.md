@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 234,
-  quote: "Worry gives a small thing a big shadow.",
-  author: "null"
+  id: 1406,
+  quote: "Things do not change; we change.",
+  author: "Henry Thoreau"
 }
 ```
 
