@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 793,
-  quote: "Self-trust is the first secret of success.",
-  author: "Ralph Emerson"
+  id: 234,
+  quote: "Worry gives a small thing a big shadow.",
+  author: "null"
 }
 ```
 
