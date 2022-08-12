@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 256,
-  quote: "Minds are like parachutes. They only function when open.",
-  author: "Thomas Dewar"
+  id: 1573,
+  quote: "Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.",
+  author: "William Menninger"
 }
 ```
 
