@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 835,
-  quote: "Friends are those rare people who ask how we are and then wait to hear the answer.",
-  author: "Ed Cunningham"
+  id: 1061,
+  quote: "In three words I can sum up everything Ive learned about life: it goes on.",
+  author: "Robert Frost"
 }
 ```
 
