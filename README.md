@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 462,
-  quote: "The fox has many tricks. The hedgehog has but one. But that is the best of all.",
-  author: "Desiderius Erasmus"
+  id: 835,
+  quote: "Friends are those rare people who ask how we are and then wait to hear the answer.",
+  author: "Ed Cunningham"
 }
 ```
 
