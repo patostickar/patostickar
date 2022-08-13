@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 946,
-  quote: "The weak can never forgive. Forgiveness is the attribute of the strong.",
-  author: "Mohandas Gandhi"
+  id: 549,
+  quote: "Take things as they are. Punch when you have to punch. Kick when you have to kick.",
+  author: "Bruce Lee"
 }
 ```
 
