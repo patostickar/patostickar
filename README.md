@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 223,
-  quote: "Patience is the companion of wisdom.",
-  author: "Saint Augustine"
+  id: 41,
+  quote: "What worries you masters you.",
+  author: "Haddon Robinson"
 }
 ```
 
