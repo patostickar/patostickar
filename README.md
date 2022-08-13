@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1382,
-  quote: "Things that were hard to bear are sweet to remember.",
-  author: "Seneca"
+  id: 252,
+  quote: "Every problem has a gift for you in its hands.",
+  author: "Richard Bach"
 }
 ```
 
