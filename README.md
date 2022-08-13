@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1443,
-  quote: "When people are like each other they tend to like each other.",
-  author: "Tony Robbins"
+  id: 1439,
+  quote: "The deepest craving of human nature is the need to be appreciated.",
+  author: "William James"
 }
 ```
 
