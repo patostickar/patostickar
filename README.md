@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 159,
-  quote: "Don't be pushed by your problems; be led by your dreams.",
-  author: "null"
+  id: 946,
+  quote: "The weak can never forgive. Forgiveness is the attribute of the strong.",
+  author: "Mohandas Gandhi"
 }
 ```
 
