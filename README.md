@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1167,
-  quote: "We can only be said to be alive in those moments when our hearts are conscious of our treasures.",
-  author: "Thornton Wilder"
+  id: 1300,
+  quote: "When deeds and words are in accord, the whole world is transformed.",
+  author: "Chuang Tzu"
 }
 ```
 
