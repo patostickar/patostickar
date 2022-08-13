@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1613,
-  quote: "The only way to have a friend is to be one.",
+  id: 995,
+  quote: "We aim above the mark to hit the mark.",
   author: "Ralph Emerson"
 }
 ```
