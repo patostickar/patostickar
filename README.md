@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1463,
-  quote: "If only wed stop trying to be happy wed have a pretty good time.",
-  author: "Edith Wharton"
+  id: 778,
+  quote: "They must often change, who would be constant in happiness or wisdom.",
+  author: "Confucius"
 }
 ```
 
