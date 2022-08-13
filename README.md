@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 549,
-  quote: "Take things as they are. Punch when you have to punch. Kick when you have to kick.",
-  author: "Bruce Lee"
+  id: 1040,
+  quote: "The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.",
+  author: "Winston Churchill"
 }
 ```
 
