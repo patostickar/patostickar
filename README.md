@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1244,
-  quote: "People are not lazy. They simply have impotent goals that is, goals that do not inspire them.",
-  author: "Tony Robbins"
+  id: 881,
+  quote: "If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others.",
+  author: "Anne Lindbergh"
 }
 ```
 
