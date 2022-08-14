@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1341,
-  quote: "Anybody can make history. Only a great man can write it.",
-  author: "Oscar Wilde"
+  id: 280,
+  quote: "All the great performers I have worked with are fuelled by a personal dream.",
+  author: "John Eliot"
 }
 ```
 
