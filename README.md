@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 971,
-  quote: "Go put your creed into the deed. Nor speak with double tongue.",
-  author: "Ralph Emerson"
+  id: 92,
+  quote: "In order to win, you must expect to win.",
+  author: "Richard Bach"
 }
 ```
 
