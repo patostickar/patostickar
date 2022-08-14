@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 573,
-  quote: "One secret of success in life is for a man to be ready for his opportunity when it comes.",
-  author: "Benjamin Disraeli"
+  id: 425,
+  quote: "No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto.",
+  author: "W. Clement Stone"
 }
 ```
 
