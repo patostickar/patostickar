@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1300,
-  quote: "When deeds and words are in accord, the whole world is transformed.",
-  author: "Chuang Tzu"
+  id: 1211,
+  quote: "Complaining doesn't change a thing only taking action does.",
+  author: "Byron Pulsifer"
 }
 ```
 
