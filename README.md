@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 347,
-  quote: "In the end we retain from our studies only that which we practically apply.",
-  author: "Johann Wolfgang von Goethe"
+  id: 1244,
+  quote: "People are not lazy. They simply have impotent goals that is, goals that do not inspire them.",
+  author: "Tony Robbins"
 }
 ```
 
