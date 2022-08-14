@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 15,
-  quote: "Today is the tomorrow we worried about yesterday.",
-  author: "null"
+  id: 265,
+  quote: "The beginning of knowledge is the discovery of something we do not understand.",
+  author: "Frank Herbert"
 }
 ```
 
