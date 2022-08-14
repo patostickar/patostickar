@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1300,
-  quote: "When deeds and words are in accord, the whole world is transformed.",
-  author: "Chuang Tzu"
+  id: 573,
+  quote: "One secret of success in life is for a man to be ready for his opportunity when it comes.",
+  author: "Benjamin Disraeli"
 }
 ```
 
