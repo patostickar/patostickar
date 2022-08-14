@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 538,
-  quote: "Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.",
-  author: "Gloria Steinem"
+  id: 1265,
+  quote: "Setting goals is the first step in turning the invisible into the visible.",
+  author: "Tony Robbins"
 }
 ```
 
