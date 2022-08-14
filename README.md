@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1211,
-  quote: "Complaining doesn't change a thing only taking action does.",
-  author: "Byron Pulsifer"
+  id: 15,
+  quote: "Today is the tomorrow we worried about yesterday.",
+  author: "null"
 }
 ```
 
