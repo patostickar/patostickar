@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1063,
-  quote: "You always succeed in producing a result.",
-  author: "Tony Robbins"
+  id: 72,
+  quote: "The undertaking of a new action brings new strength.",
+  author: "Richard Evans"
 }
 ```
 
