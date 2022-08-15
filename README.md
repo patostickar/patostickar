@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1472,
-  quote: "Good thoughts are no better than good dreams, unless they be executed.",
-  author: "Ralph Emerson"
+  id: 1065,
+  quote: "As we risk ourselves, we grow. Each new experience is a risk.",
+  author: "Fran Watson"
 }
 ```
 
