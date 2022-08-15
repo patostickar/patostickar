@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 613,
-  quote: "Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.",
-  author: "Ralph Emerson"
+  id: 1003,
+  quote: "Only those who dare to fail greatly can ever achieve greatly.",
+  author: "Robert Kennedy"
 }
 ```
 
