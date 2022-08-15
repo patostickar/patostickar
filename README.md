@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1625,
-  quote: "The truest greatness lies in being kind, the truest wisdom in a happy mind.",
-  author: "Ella Wilcox"
+  id: 1160,
+  quote: "Sometimes the most important thing in a whole day is the rest we take between two deep breaths.",
+  author: "Etty Hillesum"
 }
 ```
 
