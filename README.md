@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 918,
-  quote: "Parents can only give good advice or put them on the right paths, but the final forming of a persons character lies in their own hands.",
-  author: "Anne Frank"
+  id: 613,
+  quote: "Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.",
+  author: "Ralph Emerson"
 }
 ```
 
