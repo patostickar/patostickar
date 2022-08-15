@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1003,
-  quote: "Only those who dare to fail greatly can ever achieve greatly.",
-  author: "Robert Kennedy"
+  id: 187,
+  quote: "I destroy my enemies when I make them my friends.",
+  author: "Abraham Lincoln"
 }
 ```
 
