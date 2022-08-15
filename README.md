@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1072,
-  quote: "The most formidable weapon against errors of every kind is reason.",
-  author: "Thomas Paine"
+  id: 1598,
+  quote: "An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.",
+  author: "Thomas Fuller"
 }
 ```
 
