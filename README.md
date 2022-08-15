@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1216,
-  quote: "The world turns aside to let any man pass who knows where he is going.",
-  author: "Epictetus"
+  id: 1436,
+  quote: "Forgiveness does not change the past, but it does enlarge the future.",
+  author: "Paul Boese"
 }
 ```
 
