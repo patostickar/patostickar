@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1065,
-  quote: "As we risk ourselves, we grow. Each new experience is a risk.",
-  author: "Fran Watson"
+  id: 1625,
+  quote: "The truest greatness lies in being kind, the truest wisdom in a happy mind.",
+  author: "Ella Wilcox"
 }
 ```
 
