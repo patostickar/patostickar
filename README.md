@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1160,
-  quote: "Sometimes the most important thing in a whole day is the rest we take between two deep breaths.",
-  author: "Etty Hillesum"
+  id: 463,
+  quote: "Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.",
+  author: "Arthur Rubinstein"
 }
 ```
 
