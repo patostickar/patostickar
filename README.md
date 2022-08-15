@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1436,
-  quote: "Forgiveness does not change the past, but it does enlarge the future.",
-  author: "Paul Boese"
+  id: 1072,
+  quote: "The most formidable weapon against errors of every kind is reason.",
+  author: "Thomas Paine"
 }
 ```
 
