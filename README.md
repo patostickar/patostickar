@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 228,
-  quote: "The heart has its reasons which reason knows not of.",
-  author: "Blaise Pascal"
+  id: 1216,
+  quote: "The world turns aside to let any man pass who knows where he is going.",
+  author: "Epictetus"
 }
 ```
 
