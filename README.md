@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 735,
-  quote: "Those who will play with cats must expect to be scratched.",
-  author: "Cervantes"
+  id: 185,
+  quote: "The best way out is always through.",
+  author: "Robert Frost"
 }
 ```
 
