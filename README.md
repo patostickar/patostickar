@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 463,
-  quote: "Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.",
-  author: "Arthur Rubinstein"
+  id: 918,
+  quote: "Parents can only give good advice or put them on the right paths, but the final forming of a persons character lies in their own hands.",
+  author: "Anne Frank"
 }
 ```
 
