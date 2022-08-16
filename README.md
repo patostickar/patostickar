@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1150,
-  quote: "Take it easy, but take it.",
-  author: "Woody Guthrie"
+  id: 210,
+  quote: "When you doubt your power, you give power to your doubt.",
+  author: "Honore de Balzac"
 }
 ```
 
