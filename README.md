@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 208,
-  quote: "A short saying oft contains much wisdom.",
-  author: "Sophocles"
+  id: 1150,
+  quote: "Take it easy, but take it.",
+  author: "Woody Guthrie"
 }
 ```
 
