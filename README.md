@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 79,
-  quote: "The two most powerful warriors are patience and time.",
-  author: "Leo Tolstoy"
+  id: 377,
+  quote: "If you change the way you look at things, the things you look at change.",
+  author: "Wayne Dyer"
 }
 ```
 
