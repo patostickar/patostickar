@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 179,
-  quote: "Happiness is found in doing, not merely possessing.",
-  author: "Napoleon Hill"
+  id: 79,
+  quote: "The two most powerful warriors are patience and time.",
+  author: "Leo Tolstoy"
 }
 ```
 
