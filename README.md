@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1351,
-  quote: "All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.",
-  author: "Bruce Lee"
+  id: 958,
+  quote: "I have always thought the actions of men the best interpreters of their thoughts.",
+  author: "John Locke"
 }
 ```
 
