@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 157,
-  quote: "Without faith, nothing is possible. With it, nothing is impossible.",
-  author: "Mary Bethune"
+  id: 1160,
+  quote: "Sometimes the most important thing in a whole day is the rest we take between two deep breaths.",
+  author: "Etty Hillesum"
 }
 ```
 
