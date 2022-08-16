@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1609,
-  quote: "It's not who you are that holds you back, it's who you think you're not.",
-  author: "null"
+  id: 1407,
+  quote: "We must learn our limits. We are all something, but none of us are everything.",
+  author: "Blaise Pascal"
 }
 ```
 
