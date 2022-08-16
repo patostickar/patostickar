@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 96,
-  quote: "Every new day is another chance to change your life.",
-  author: "null"
+  id: 1351,
+  quote: "All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.",
+  author: "Bruce Lee"
 }
 ```
 
