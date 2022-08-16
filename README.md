@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 393,
-  quote: "Some people think it's holding that makes one strong sometimes it's letting go.",
+  id: 849,
+  quote: "Courage is the discovery that you may not win, and trying when you know you can lose.",
   author: "null"
 }
 ```
