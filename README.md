@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 210,
-  quote: "When you doubt your power, you give power to your doubt.",
-  author: "Honore de Balzac"
+  id: 393,
+  quote: "Some people think it's holding that makes one strong sometimes it's letting go.",
+  author: "null"
 }
 ```
 
