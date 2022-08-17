@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1077,
-  quote: "Most of the shadows of life are caused by standing in our own sunshine.",
-  author: "Ralph Waldo Emerson"
+  id: 813,
+  quote: "Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.",
+  author: "Bernice Reagon"
 }
 ```
 
