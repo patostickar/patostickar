@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1002,
-  quote: "The heart has eyes which the brain knows nothing of.",
-  author: "Charles Perkhurst"
+  id: 261,
+  quote: "To avoid criticism, do nothing, say nothing, be nothing.",
+  author: "Elbert Hubbard"
 }
 ```
 
