@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1287,
-  quote: "Always seek out the seed of triumph in every adversity.",
-  author: "Og Mandino"
+  id: 382,
+  quote: "Never apologize for showing feelings. When you do so, you apologize for the truth.",
+  author: "Benjamin Disraeli"
 }
 ```
 
