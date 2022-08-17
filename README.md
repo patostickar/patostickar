@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 969,
-  quote: "Happiness does not come from having much, but from being attached to little.",
-  author: "Cheng Yen"
+  id: 1287,
+  quote: "Always seek out the seed of triumph in every adversity.",
+  author: "Og Mandino"
 }
 ```
 
