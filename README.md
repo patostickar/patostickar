@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 261,
-  quote: "To avoid criticism, do nothing, say nothing, be nothing.",
-  author: "Elbert Hubbard"
+  id: 757,
+  quote: "Know, first, who you are, and then adorn yourself accordingly.",
+  author: "Epictetus"
 }
 ```
 
