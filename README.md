@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 757,
-  quote: "Know, first, who you are, and then adorn yourself accordingly.",
-  author: "Epictetus"
+  id: 1328,
+  quote: "You are the only person on earth who can use your ability.",
+  author: "Zig Ziglar"
 }
 ```
 
