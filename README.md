@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1328,
-  quote: "You are the only person on earth who can use your ability.",
-  author: "Zig Ziglar"
+  id: 1600,
+  quote: "Example has more followers than reason.",
+  author: "Christian Bovee"
 }
 ```
 
