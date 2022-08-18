@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 367,
-  quote: "Most people are about as happy as they make up their minds to be",
-  author: "Abraham Lincoln"
+  id: 262,
+  quote: "All things change; nothing perishes.",
+  author: "Ovid"
 }
 ```
 
