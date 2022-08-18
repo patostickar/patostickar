@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1115,
-  quote: "Nothing is at last sacred but the integrity of your own mind.",
-  author: "Ralph Emerson"
+  id: 1254,
+  quote: "Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others.",
+  author: "Harriet Lerner"
 }
 ```
 
