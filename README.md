@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 768,
-  quote: "Formula for success: under promise and over deliver.",
-  author: "Tom Peters"
+  id: 1367,
+  quote: "Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
