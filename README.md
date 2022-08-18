@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 676,
-  quote: "Everyone has been made for some particular work, and the desire for that work has been put in every heart.",
-  author: "Rumi"
+  id: 768,
+  quote: "Formula for success: under promise and over deliver.",
+  author: "Tom Peters"
 }
 ```
 
