@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 229,
-  quote: "Be great in act, as you have been in thought.",
-  author: "William Shakespeare"
+  id: 367,
+  quote: "Most people are about as happy as they make up their minds to be",
+  author: "Abraham Lincoln"
 }
 ```
 
