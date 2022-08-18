@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 932,
-  quote: "Action may not always bring happiness, but there is no happiness without action.",
-  author: "Benjamin Disraeli"
+  id: 106,
+  quote: "Do one thing every day that scares you.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
