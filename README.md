@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1367,
-  quote: "Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.",
-  author: "Ralph Waldo Emerson"
+  id: 1344,
+  quote: "Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.",
+  author: "Barack Obama"
 }
 ```
 
