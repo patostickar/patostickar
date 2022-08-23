@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 794,
-  quote: "Don't look back. Something might be gaining on you.",
-  author: "Satchel Paige"
+  id: 298,
+  quote: "I think somehow we learn who we really are and then live with that decision.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
