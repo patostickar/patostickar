@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 427,
-  quote: "If your actions inspire others to dream more, learn more, do more and become more, you are a leader.",
-  author: "John Quincy Adams"
+  id: 1307,
+  quote: "There is nothing happens to any person but what was in his power to go through with.",
+  author: "Marcus Aurelius"
 }
 ```
 
