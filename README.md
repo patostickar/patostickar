@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1307,
-  quote: "There is nothing happens to any person but what was in his power to go through with.",
+  id: 795,
+  quote: "Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.",
   author: "Marcus Aurelius"
 }
 ```
