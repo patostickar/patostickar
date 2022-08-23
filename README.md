@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 116,
-  quote: "Silence is a fence around wisdom.",
-  author: "German proverb"
+  id: 802,
+  quote: "Trust your own instinct. Your mistakes might as well be your own, instead of someone elses.",
+  author: "Billy Wilder"
 }
 ```
 
