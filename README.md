@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 367,
-  quote: "Most people are about as happy as they make up their minds to be",
-  author: "Abraham Lincoln"
+  id: 1014,
+  quote: "Opportunity often comes disguised in the form of misfortune, or temporary defeat.",
+  author: "Napoleon Hill"
 }
 ```
 
