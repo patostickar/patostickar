@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1014,
-  quote: "Opportunity often comes disguised in the form of misfortune, or temporary defeat.",
-  author: "Napoleon Hill"
+  id: 847,
+  quote: "Happiness is when what you think, what you say, and what you do are in harmony.",
+  author: "Mohandas Gandhi"
 }
 ```
 
