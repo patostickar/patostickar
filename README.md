@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 795,
-  quote: "Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.",
-  author: "Marcus Aurelius"
+  id: 557,
+  quote: "Give me six hours to chop down a tree and I will spend the first four sharpening the axe.",
+  author: "Abraham Lincoln"
 }
 ```
 
