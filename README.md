@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 15,
-  quote: "Today is the tomorrow we worried about yesterday.",
-  author: "null"
+  id: 815,
+  quote: "Happiness is a perfume you cannot pour on others without getting a few drops on yourself.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
