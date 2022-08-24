@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1222,
-  quote: "Never, never, never give up.",
-  author: "Winston Churchill"
+  id: 1361,
+  quote: "Be like the flower, turn your face to the sun.",
+  author: "Kahlil Gibran"
 }
 ```
 
