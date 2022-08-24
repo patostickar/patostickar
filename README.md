@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 759,
-  quote: "Life is 10% what happens to you and 90% how you react to it.",
-  author: "Charles Swindoll"
+  id: 1222,
+  quote: "Never, never, never give up.",
+  author: "Winston Churchill"
 }
 ```
 
