@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 972,
-  quote: "The wisest men follow their own direction.",
-  author: "Euripides"
+  id: 15,
+  quote: "Today is the tomorrow we worried about yesterday.",
+  author: "null"
 }
 ```
 
