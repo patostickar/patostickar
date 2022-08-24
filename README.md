@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1361,
-  quote: "Be like the flower, turn your face to the sun.",
-  author: "Kahlil Gibran"
+  id: 1628,
+  quote: "Great is the art of beginning, but greater is the art of ending.",
+  author: "Lazurus Long"
 }
 ```
 
