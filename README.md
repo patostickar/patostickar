@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 847,
-  quote: "Happiness is when what you think, what you say, and what you do are in harmony.",
-  author: "Mohandas Gandhi"
+  id: 350,
+  quote: "When your desires are strong enough you will appear to possess superhuman powers to achieve.",
+  author: "Napoleon Hill"
 }
 ```
 
