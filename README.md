@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1223,
-  quote: "The most decisive actions of our life... are most often unconsidered actions.",
-  author: "Andre Gide"
+  id: 1039,
+  quote: "The place to improve the world is first in one's own heart and head and hands.",
+  author: "Robert M. Pirsig"
 }
 ```
 
