@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1605,
-  quote: "Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong.",
-  author: "Richard Needham"
+  id: 1407,
+  quote: "We must learn our limits. We are all something, but none of us are everything.",
+  author: "Blaise Pascal"
 }
 ```
 
