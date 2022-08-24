@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 557,
-  quote: "Give me six hours to chop down a tree and I will spend the first four sharpening the axe.",
-  author: "Abraham Lincoln"
+  id: 231,
+  quote: "Kind words do not cost much. Yet they accomplish much.",
+  author: "Blaise Pascal"
 }
 ```
 
