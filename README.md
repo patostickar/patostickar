@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1612,
-  quote: "He who knows that enough is enough will always have enough.",
-  author: "Lao Tzu"
+  id: 1629,
+  quote: "Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.",
+  author: "Wayne Dyer"
 }
 ```
 
