@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 22,
-  quote: "Ideas are the beginning points of all fortunes.",
-  author: "Napoleon Hill"
+  id: 1603,
+  quote: "The only Zen you find on the tops of mountains is the Zen you bring up there.",
+  author: "Robert Pirsig"
 }
 ```
 
