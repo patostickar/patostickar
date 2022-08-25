@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1408,
-  quote: "Learn wisdom from the ways of a seedling. A seedling which is never hardened off through stressful situations will never become a strong productive plant.",
-  author: "Stephen Sigmund"
+  id: 543,
+  quote: "You are always free to change your mind and choose a different future, or a different past.",
+  author: "Richard Bach"
 }
 ```
 
