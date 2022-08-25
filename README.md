@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 38,
-  quote: "Be as you wish to seem.",
-  author: "Socrates"
+  id: 1092,
+  quote: "He who angers you conquers you.",
+  author: "Elizabeth Kenny"
 }
 ```
 
