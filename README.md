@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1628,
-  quote: "Great is the art of beginning, but greater is the art of ending.",
-  author: "Lazurus Long"
+  id: 234,
+  quote: "Worry gives a small thing a big shadow.",
+  author: "null"
 }
 ```
 
