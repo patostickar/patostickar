@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1629,
-  quote: "Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.",
-  author: "Wayne Dyer"
+  id: 872,
+  quote: "The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.",
+  author: "Vincent Lombardi"
 }
 ```
 
