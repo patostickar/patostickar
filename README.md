@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 543,
-  quote: "You are always free to change your mind and choose a different future, or a different past.",
-  author: "Richard Bach"
+  id: 38,
+  quote: "Be as you wish to seem.",
+  author: "Socrates"
 }
 ```
 
