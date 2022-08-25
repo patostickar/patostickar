@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 342,
-  quote: "Knowledge is a process of piling up facts; wisdom lies in their simplification.",
-  author: "Martin Fischer"
+  id: 932,
+  quote: "Action may not always bring happiness, but there is no happiness without action.",
+  author: "Benjamin Disraeli"
 }
 ```
 
