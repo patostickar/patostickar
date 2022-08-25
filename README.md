@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 234,
-  quote: "Worry gives a small thing a big shadow.",
-  author: "null"
+  id: 1115,
+  quote: "Nothing is at last sacred but the integrity of your own mind.",
+  author: "Ralph Emerson"
 }
 ```
 
