@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 10,
-  quote: "Peace comes from within. Do not seek it without.",
-  author: "Buddha"
+  id: 491,
+  quote: "What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.",
+  author: "Wayne Dyer"
 }
 ```
 
