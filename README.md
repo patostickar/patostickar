@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 393,
-  quote: "Some people think it's holding that makes one strong sometimes it's letting go.",
-  author: "null"
+  id: 1266,
+  quote: "Courage is not the absence of fear, but simply moving on with dignity despite that fear.",
+  author: "Pat Riley"
 }
 ```
 
