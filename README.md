@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 491,
-  quote: "What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.",
-  author: "Wayne Dyer"
+  id: 1447,
+  quote: "Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.",
+  author: "Oprah Winfrey"
 }
 ```
 
