@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1265,
-  quote: "Setting goals is the first step in turning the invisible into the visible.",
-  author: "Tony Robbins"
+  id: 10,
+  quote: "Peace comes from within. Do not seek it without.",
+  author: "Buddha"
 }
 ```
 
