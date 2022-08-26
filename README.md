@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1447,
-  quote: "Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.",
-  author: "Oprah Winfrey"
+  id: 682,
+  quote: "Try not to become a man of success, but rather try to become a man of value.",
+  author: "Albert Einstein"
 }
 ```
 
