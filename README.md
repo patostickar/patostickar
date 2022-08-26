@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 759,
-  quote: "Life is 10% what happens to you and 90% how you react to it.",
-  author: "Charles Swindoll"
+  id: 624,
+  quote: "Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.",
+  author: "Robert Graves"
 }
 ```
 
