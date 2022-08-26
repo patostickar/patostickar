@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1005,
-  quote: "Mistakes are always forgivable, if one has the courage to admit them.",
-  author: "Bruce Lee"
+  id: 1156,
+  quote: "Why worry about tomorrow, when today is all we have?",
+  author: "null"
 }
 ```
 
