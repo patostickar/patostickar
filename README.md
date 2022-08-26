@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 624,
-  quote: "Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.",
-  author: "Robert Graves"
+  id: 1228,
+  quote: "First say to yourself what you would be; and then do what you have to do.",
+  author: "Epictetus"
 }
 ```
 
