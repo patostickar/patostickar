@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 682,
-  quote: "Try not to become a man of success, but rather try to become a man of value.",
-  author: "Albert Einstein"
+  id: 613,
+  quote: "Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.",
+  author: "Ralph Emerson"
 }
 ```
 
