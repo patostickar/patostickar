@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1156,
-  quote: "Why worry about tomorrow, when today is all we have?",
-  author: "null"
+  id: 1265,
+  quote: "Setting goals is the first step in turning the invisible into the visible.",
+  author: "Tony Robbins"
 }
 ```
 
