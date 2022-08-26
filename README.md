@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 424,
-  quote: "The thoughts we choose to think are the tools we use to paint the canvas of our lives.",
-  author: "Louise Hay"
+  id: 759,
+  quote: "Life is 10% what happens to you and 90% how you react to it.",
+  author: "Charles Swindoll"
 }
 ```
 
