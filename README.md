@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 522,
-  quote: "Silences make the real conversations between friends. Not the saying but the never needing to say is what counts.",
-  author: "Margaret Runbeck"
+  id: 908,
+  quote: "The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.",
+  author: "Margaret Smith"
 }
 ```
 
