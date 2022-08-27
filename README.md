@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1266,
-  quote: "Courage is not the absence of fear, but simply moving on with dignity despite that fear.",
-  author: "Pat Riley"
+  id: 405,
+  quote: "Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.",
+  author: "Ralph Emerson"
 }
 ```
 
