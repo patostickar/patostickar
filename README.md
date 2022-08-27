@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1431,
-  quote: "Your attitude, not your aptitude, will determine your altitude.",
-  author: "Zig Ziglar"
+  id: 1087,
+  quote: "All great achievements require time.",
+  author: "Maya Angelou"
 }
 ```
 
