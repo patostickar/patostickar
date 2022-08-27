@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1585,
-  quote: "The true way to render ourselves happy is to love our work and find in it our pleasure.",
-  author: "Francoise de Motteville"
+  id: 1188,
+  quote: "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves.",
+  author: "Buddha"
 }
 ```
 
