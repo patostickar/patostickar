@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1380,
-  quote: "The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.",
-  author: "Carlos Castaneda"
+  id: 1326,
+  quote: "Great ideas often receive violent opposition from mediocre minds.",
+  author: "Albert Einstein"
 }
 ```
 
