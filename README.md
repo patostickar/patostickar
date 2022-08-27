@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 374,
-  quote: "Don't be afraid to go out on a limb. That's where the fruit is.",
-  author: "H. Jackson Browne"
+  id: 337,
+  quote: "You have enemies? Good. That means you've stood up for something, sometime in your life.",
+  author: "Winston Churchill"
 }
 ```
 
