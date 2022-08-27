@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 145,
-  quote: "Whatever happens, take responsibility.",
-  author: "Tony Robbins"
+  id: 1585,
+  quote: "The true way to render ourselves happy is to love our work and find in it our pleasure.",
+  author: "Francoise de Motteville"
 }
 ```
 
