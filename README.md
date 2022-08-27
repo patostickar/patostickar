@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1539,
-  quote: "It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.",
-  author: "Pema Chodron"
+  id: 1380,
+  quote: "The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.",
+  author: "Carlos Castaneda"
 }
 ```
 
