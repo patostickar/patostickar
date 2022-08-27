@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 337,
-  quote: "You have enemies? Good. That means you've stood up for something, sometime in your life.",
-  author: "Winston Churchill"
+  id: 145,
+  quote: "Whatever happens, take responsibility.",
+  author: "Tony Robbins"
 }
 ```
 
