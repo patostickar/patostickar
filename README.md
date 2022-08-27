@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 421,
-  quote: "It is only with the heart that one can see rightly, what is essential is invisible to the eye.",
-  author: "Antoine de Saint-Exupery"
+  id: 1254,
+  quote: "Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others.",
+  author: "Harriet Lerner"
 }
 ```
 
