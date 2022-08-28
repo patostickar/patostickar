@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 274,
-  quote: "Strength does not come from physical capacity. It comes from an indomitable will.",
-  author: "Mahatma Gandhi"
+  id: 473,
+  quote: "Any of us can achieve virtue, if by virtue we merely mean the avoidance of the vices that do not attract us.",
+  author: "Robert Lynd"
 }
 ```
 
