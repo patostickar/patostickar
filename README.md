@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1107,
-  quote: "On every thorn, delightful wisdom grows, In every rill a sweet instruction flows.",
-  author: "Edward Young"
+  id: 862,
+  quote: "Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.",
+  author: "Alphonse Karr"
 }
 ```
 
