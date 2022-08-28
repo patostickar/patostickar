@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1323,
-  quote: "To fly as fast as thought, you must begin by knowing that you have already arrived.",
-  author: "Richard Bach"
+  id: 435,
+  quote: "Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.",
+  author: "Henry Van Dyke"
 }
 ```
 
