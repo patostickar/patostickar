@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 230,
-  quote: "Imagination rules the world.",
-  author: "Napoleon Bonaparte"
+  id: 1323,
+  quote: "To fly as fast as thought, you must begin by knowing that you have already arrived.",
+  author: "Richard Bach"
 }
 ```
 
