@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 867,
-  quote: "I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.",
-  author: "Michel de Montaigne"
+  id: 1494,
+  quote: "Think like a man of action; act like a man of thought.",
+  author: "Henri L. Bergson"
 }
 ```
 
