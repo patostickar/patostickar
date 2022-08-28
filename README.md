@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1447,
-  quote: "Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.",
-  author: "Oprah Winfrey"
+  id: 1204,
+  quote: "He who controls others may be powerful, but he who has mastered himself is mightier still.",
+  author: "Lao Tzu"
 }
 ```
 
