@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1544,
-  quote: "Count your joys instead of your woes. Count your friends instead of your foes.",
-  author: "null"
+  id: 1107,
+  quote: "On every thorn, delightful wisdom grows, In every rill a sweet instruction flows.",
+  author: "Edward Young"
 }
 ```
 
