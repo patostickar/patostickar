@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 702,
-  quote: "How far that little candle throws its beams! So shines a good deed in a naughty world.",
-  author: "William Shakespeare"
+  id: 1083,
+  quote: "Every great advance in science has issued from a new audacity of the imagination.",
+  author: "John Dewey"
 }
 ```
 
