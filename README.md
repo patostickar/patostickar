@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1494,
-  quote: "Think like a man of action; act like a man of thought.",
-  author: "Henri L. Bergson"
+  id: 1313,
+  quote: "The first duty of a human being is to assume the right functional relationship to society more briefly, to find your real job, and do it.",
+  author: "Charlotte Perkins Gilman"
 }
 ```
 
