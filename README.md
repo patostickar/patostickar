@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 862,
-  quote: "Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.",
-  author: "Alphonse Karr"
+  id: 1540,
+  quote: "Those who dream by day are cognizant of many things which escape those who dream only by night.",
+  author: "Edgar Allan Poe"
 }
 ```
 
