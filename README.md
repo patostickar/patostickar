@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1083,
-  quote: "Every great advance in science has issued from a new audacity of the imagination.",
-  author: "John Dewey"
+  id: 1447,
+  quote: "Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.",
+  author: "Oprah Winfrey"
 }
 ```
 
