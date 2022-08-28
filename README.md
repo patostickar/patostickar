@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 444,
-  quote: "The minute you settle for less than you deserve, you get even less than you settled for.",
-  author: "Maureen Dowd"
+  id: 867,
+  quote: "I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.",
+  author: "Michel de Montaigne"
 }
 ```
 
