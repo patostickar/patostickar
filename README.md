@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1416,
-  quote: "Live through feeling and you will live through love. For feeling is the language of the soul, and feeling is truth.",
-  author: "Matt Zotti"
+  id: 656,
+  quote: "Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.",
+  author: "Julie Morgenstern"
 }
 ```
 
