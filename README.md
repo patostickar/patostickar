@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 68,
-  quote: "Skill to do comes of doing.",
-  author: "Ralph Emerson"
+  id: 1227,
+  quote: "Try and fail, but don't fail to try.",
+  author: "Stephen Kaggwa"
 }
 ```
 
