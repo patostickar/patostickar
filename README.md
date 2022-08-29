@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 641,
-  quote: "Wisdom is knowing what to do next; Skill is knowing how ot do it, and Virtue is doing it.",
-  author: "David Jordan"
+  id: 1439,
+  quote: "The deepest craving of human nature is the need to be appreciated.",
+  author: "William James"
 }
 ```
 
