@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 277,
-  quote: "In separateness lies the world's great misery, in compassion lies the world's true strength.",
-  author: "Buddha"
+  id: 658,
+  quote: "Arrogance and rudeness are training wheels on the bicycle of life for weak people who cannot keep their balance without them.",
+  author: "Laura Teresa Marquez"
 }
 ```
 
