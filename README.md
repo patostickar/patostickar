@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 260,
-  quote: "All seasons are beautiful for the person who carries happiness within.",
-  author: "Horace Friess"
+  id: 1050,
+  quote: "Whoso loves, believes the impossible.",
+  author: "Elizabeth Browning"
 }
 ```
 
