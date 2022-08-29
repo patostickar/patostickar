@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1564,
-  quote: "The only person who never makes mistakes is the person who never does anything.",
-  author: "Denis Waitley"
+  id: 1416,
+  quote: "Live through feeling and you will live through love. For feeling is the language of the soul, and feeling is truth.",
+  author: "Matt Zotti"
 }
 ```
 
