@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1227,
-  quote: "Try and fail, but don't fail to try.",
-  author: "Stephen Kaggwa"
+  id: 785,
+  quote: "Without some goals and some efforts to reach it, no man can live.",
+  author: "John Dewey"
 }
 ```
 
