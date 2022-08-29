@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1392,
-  quote: "Prosperity depends more on wanting what you have than having what you want.",
-  author: "Geoffrey F. Abert"
+  id: 260,
+  quote: "All seasons are beautiful for the person who carries happiness within.",
+  author: "Horace Friess"
 }
 ```
 
