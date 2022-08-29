@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1251,
-  quote: "Setting an example is not the main means of influencing another, it is the only means.",
-  author: "Albert Einstein"
+  id: 641,
+  quote: "Wisdom is knowing what to do next; Skill is knowing how ot do it, and Virtue is doing it.",
+  author: "David Jordan"
 }
 ```
 
