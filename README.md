@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1439,
-  quote: "The deepest craving of human nature is the need to be appreciated.",
-  author: "William James"
+  id: 1036,
+  quote: "Don't wait for people to be friendly. Show them how.",
+  author: "null"
 }
 ```
 
