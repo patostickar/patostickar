@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1383,
-  quote: "Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.",
-  author: "Henry James"
+  id: 799,
+  quote: "Happiness is a Swedish sunset it is there for all, but most of us look the other way and lose it.",
+  author: "Mark Twain"
 }
 ```
 
