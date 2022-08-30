@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1050,
-  quote: "Whoso loves, believes the impossible.",
-  author: "Elizabeth Browning"
+  id: 229,
+  quote: "Be great in act, as you have been in thought.",
+  author: "William Shakespeare"
 }
 ```
 
