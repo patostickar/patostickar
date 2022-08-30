@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 332,
-  quote: "Most great people have attained their greatest success just one step beyond their greatest failure.",
-  author: "Napoleon Hill"
+  id: 863,
+  quote: "To choose what is difficult all ones days, as if it were easy, that is faith.",
+  author: "W. H. Auden"
 }
 ```
 
