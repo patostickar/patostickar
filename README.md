@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 863,
-  quote: "To choose what is difficult all ones days, as if it were easy, that is faith.",
-  author: "W. H. Auden"
+  id: 358,
+  quote: "Invent your world. Surround yourself with people, color, sounds, and work that nourish you.",
+  author: "null"
 }
 ```
 
