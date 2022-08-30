@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 943,
-  quote: "Always be mindful of the kindness and not the faults of others.",
-  author: "Buddha"
+  id: 509,
+  quote: "There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.",
+  author: "Nelson Mandela"
 }
 ```
 
