@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 358,
-  quote: "Invent your world. Surround yourself with people, color, sounds, and work that nourish you.",
-  author: "null"
+  id: 530,
+  quote: "Take no thought of who is right or wrong or who is better than. Be not for or against.",
+  author: "Bruce Lee"
 }
 ```
 
