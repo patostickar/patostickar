@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 13,
-  quote: "Life is change. Growth is optional. Choose wisely.",
-  author: "Karen Clark"
+  id: 332,
+  quote: "Most great people have attained their greatest success just one step beyond their greatest failure.",
+  author: "Napoleon Hill"
 }
 ```
 
