@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 597,
-  quote: "I am not bothered by the fact that I am unknown. I am bothered when I do not know others.",
-  author: "Confucius"
+  id: 1371,
+  quote: "Weve got to have a dream if we are going to make a dream come true.",
+  author: "Walt Disney"
 }
 ```
 
