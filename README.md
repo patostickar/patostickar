@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 280,
-  quote: "All the great performers I have worked with are fuelled by a personal dream.",
-  author: "John Eliot"
+  id: 1299,
+  quote: "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
+  author: "Victoria Holt"
 }
 ```
 
