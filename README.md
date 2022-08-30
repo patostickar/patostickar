@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 331,
-  quote: "Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.",
-  author: "Wayne Dyer"
+  id: 1394,
+  quote: "He who knows, does not speak. He who speaks, does not know.",
+  author: "Lao Tzu"
 }
 ```
 
