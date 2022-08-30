@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1371,
-  quote: "Weve got to have a dream if we are going to make a dream come true.",
-  author: "Walt Disney"
+  id: 1383,
+  quote: "Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.",
+  author: "Henry James"
 }
 ```
 
