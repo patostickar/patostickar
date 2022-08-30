@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1299,
-  quote: "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
-  author: "Victoria Holt"
+  id: 597,
+  quote: "I am not bothered by the fact that I am unknown. I am bothered when I do not know others.",
+  author: "Confucius"
 }
 ```
 
