@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1255,
-  quote: "He who deliberates fully before taking a step will spend his entire life on one leg.",
-  author: "Chinese proverb"
+  id: 597,
+  quote: "I am not bothered by the fact that I am unknown. I am bothered when I do not know others.",
+  author: "Confucius"
 }
 ```
 
