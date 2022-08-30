@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1394,
-  quote: "He who knows, does not speak. He who speaks, does not know.",
-  author: "Lao Tzu"
+  id: 452,
+  quote: "You're not obligated to win. You're obligated to keep trying to do the best you can every day.",
+  author: "Marian Edelman"
 }
 ```
 
