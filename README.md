@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 514,
-  quote: "Many people think of prosperity that concerns money only to forget that true prosperity is of the mind.",
-  author: "Byron Pulsifer"
+  id: 855,
+  quote: "To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.",
+  author: "Tenzin Gyatso"
 }
 ```
 
