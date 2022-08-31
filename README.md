@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 855,
-  quote: "To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.",
-  author: "Tenzin Gyatso"
+  id: 419,
+  quote: "Success means having the courage, the determination, and the will to become the person you believe you were meant to be.",
+  author: "George Sheehan"
 }
 ```
 
