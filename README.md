@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 737,
-  quote: "In all things of nature there is something of the marvellous.",
-  author: "Aristotle"
+  id: 889,
+  quote: "The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be.",
+  author: "William James"
 }
 ```
 
