@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 156,
-  quote: "Someone remembers, someone cares; your name is whispered in someone's prayers.",
-  author: "null"
+  id: 713,
+  quote: "Happiness depends upon ourselves.",
+  author: "Aristotle"
 }
 ```
 
