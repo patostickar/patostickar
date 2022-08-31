@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 713,
-  quote: "Happiness depends upon ourselves.",
-  author: "Aristotle"
+  id: 1111,
+  quote: "Each time we face a fear, we gain strength, courage, and confidence in the doing.",
+  author: "null"
 }
 ```
 
