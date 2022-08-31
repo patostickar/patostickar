@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 991,
-  quote: "Joy is the best makeup.",
-  author: "Anne Lamott"
+  id: 152,
+  quote: "Life isn't about finding yourself. Life is about creating yourself.",
+  author: "Bernard Shaw"
 }
 ```
 
