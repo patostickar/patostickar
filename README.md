@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1137,
-  quote: "My mama always said: life's like a box of chocolate you never know what you gonna get.",
-  author: "Forrest Gump"
+  id: 968,
+  quote: "In seed time learn, in harvest teach, in winter enjoy.",
+  author: "William Blake"
 }
 ```
 
