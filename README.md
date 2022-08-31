@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 573,
-  quote: "One secret of success in life is for a man to be ready for his opportunity when it comes.",
-  author: "Benjamin Disraeli"
+  id: 304,
+  quote: "Happiness comes when your work and words are of benefit to yourself and others.",
+  author: "Buddha"
 }
 ```
 
