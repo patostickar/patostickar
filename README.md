@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 250,
-  quote: "Where there is great love, there are always miracles.",
-  author: "Willa Cather"
+  id: 573,
+  quote: "One secret of success in life is for a man to be ready for his opportunity when it comes.",
+  author: "Benjamin Disraeli"
 }
 ```
 
