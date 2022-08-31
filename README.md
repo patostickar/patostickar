@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 419,
-  quote: "Success means having the courage, the determination, and the will to become the person you believe you were meant to be.",
-  author: "George Sheehan"
+  id: 6,
+  quote: "Nothing happens unless first we dream.",
+  author: "Carl Sandburg"
 }
 ```
 
