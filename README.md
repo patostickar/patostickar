@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1228,
-  quote: "First say to yourself what you would be; and then do what you have to do.",
-  author: "Epictetus"
+  id: 186,
+  quote: "The mind unlearns with difficulty what it has long learned.",
+  author: "Seneca"
 }
 ```
 
