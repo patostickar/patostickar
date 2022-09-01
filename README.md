@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1028,
-  quote: "There are no failures just experiences and your reactions to them.",
-  author: "Tom Krause"
+  id: 1172,
+  quote: "Kindness is the language which the deaf can hear and the blind can see.",
+  author: "Mark Twain"
 }
 ```
 
