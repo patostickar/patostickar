@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 632,
-  quote: "You can adopt the attitude there is nothing you can do, or you can see the challenge as your call to action.",
-  author: "Catherine Pulsifer"
+  id: 1233,
+  quote: "If you kick a stone in anger, you'll hurt your own foot.",
+  author: "Korean proverb"
 }
 ```
 
