@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 77,
-  quote: "Faith in oneself is the best and safest course.",
-  author: "Michelangelo"
+  id: 318,
+  quote: "Love is just a word until someone comes along and gives it meaning.",
+  author: "null"
 }
 ```
 
