@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 15,
-  quote: "Today is the tomorrow we worried about yesterday.",
-  author: "null"
+  id: 1107,
+  quote: "On every thorn, delightful wisdom grows, In every rill a sweet instruction flows.",
+  author: "Edward Young"
 }
 ```
 
