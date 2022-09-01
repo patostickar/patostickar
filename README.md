@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1107,
-  quote: "On every thorn, delightful wisdom grows, In every rill a sweet instruction flows.",
-  author: "Edward Young"
+  id: 1194,
+  quote: "As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.",
+  author: "John F. Kennedy"
 }
 ```
 
