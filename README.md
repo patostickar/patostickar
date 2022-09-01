@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1297,
-  quote: "Knowledge rests not upon truth alone, but upon error also.",
-  author: "Carl Jung"
+  id: 77,
+  quote: "Faith in oneself is the best and safest course.",
+  author: "Michelangelo"
 }
 ```
 
