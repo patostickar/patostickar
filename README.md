@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1570,
-  quote: "To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.",
-  author: "Plutarch"
+  id: 855,
+  quote: "To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.",
+  author: "Tenzin Gyatso"
 }
 ```
 
