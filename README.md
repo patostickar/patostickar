@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1173,
-  quote: "I may not know everything, but everything is not known yet anyway.",
-  author: "Byron Pulsifer"
+  id: 53,
+  quote: "All serious daring starts from within.",
+  author: "Harriet Beecher Stowe"
 }
 ```
 
