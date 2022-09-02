@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 950,
-  quote: "A good rest is half the work.",
-  author: "null"
+  id: 1537,
+  quote: "The reasonable man adapts himself to the world; the unreasonable man persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.",
+  author: "George Shaw"
 }
 ```
 
