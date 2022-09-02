@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1351,
-  quote: "All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.",
-  author: "Bruce Lee"
+  id: 529,
+  quote: "To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.",
+  author: "Buddha"
 }
 ```
 
