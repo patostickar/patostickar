@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 529,
-  quote: "To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.",
-  author: "Buddha"
+  id: 949,
+  quote: "Truth isn't all about what actually happens but more about how what has happened is interpreted.",
+  author: "Byron Pulsifer"
 }
 ```
 
