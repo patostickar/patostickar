@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 917,
-  quote: "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
-  author: "Marie Curie"
+  id: 1119,
+  quote: "What is not started today is never finished tomorrow.",
+  author: "Goethe"
 }
 ```
 
