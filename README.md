@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1101,
-  quote: "Change your words. Change your world.",
-  author: "null"
+  id: 53,
+  quote: "All serious daring starts from within.",
+  author: "Harriet Beecher Stowe"
 }
 ```
 
