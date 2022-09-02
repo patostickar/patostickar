@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 535,
-  quote: "How wonderful that we have met with a paradox. Now we have some hope of making progress.",
-  author: "Niels Bohr"
+  id: 709,
+  quote: "Your outlook on life is a direct reflection on how much you like yourself.",
+  author: "Lululemon"
 }
 ```
 
