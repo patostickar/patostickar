@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 744,
-  quote: "To be wronged is nothing unless you continue to remember it.",
-  author: "Confucius"
+  id: 1351,
+  quote: "All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.",
+  author: "Bruce Lee"
 }
 ```
 
