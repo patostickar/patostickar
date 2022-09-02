@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 683,
-  quote: "All difficult things have their origin in that which is easy, and great things in that which is small.",
-  author: "Lao Tzu"
+  id: 321,
+  quote: "It is only when the mind and character slumber that the dress can be seen.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
