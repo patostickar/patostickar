@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 53,
-  quote: "All serious daring starts from within.",
-  author: "Harriet Beecher Stowe"
+  id: 744,
+  quote: "To be wronged is nothing unless you continue to remember it.",
+  author: "Confucius"
 }
 ```
 
