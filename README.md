@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 709,
-  quote: "Your outlook on life is a direct reflection on how much you like yourself.",
-  author: "Lululemon"
+  id: 917,
+  quote: "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+  author: "Marie Curie"
 }
 ```
 
