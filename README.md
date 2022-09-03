@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 297,
-  quote: "Life is a process. We are a process. The universe is a process.",
-  author: "Anne Schaef"
+  id: 966,
+  quote: "Your sacred space is where you can find yourself again and again.",
+  author: "Joseph Campbell"
 }
 ```
 
