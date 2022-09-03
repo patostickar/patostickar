@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1525,
-  quote: "The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.",
-  author: "Eckhart Tolle"
+  id: 147,
+  quote: "I think and that is all that I am.",
+  author: "Wayne Dyer"
 }
 ```
 
