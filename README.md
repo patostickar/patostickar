@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 816,
-  quote: "It is not the mistake that has the most power, instead, it is learning from the mistake to advance your own attributes.",
-  author: "Byron Roberts"
+  id: 297,
+  quote: "Life is a process. We are a process. The universe is a process.",
+  author: "Anne Schaef"
 }
 ```
 
