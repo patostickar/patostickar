@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1234,
-  quote: "To see things in the seed, that is genius.",
-  author: "Lao Tzu"
+  id: 1523,
+  quote: "Never tell me the sky is the limit when there are footprints on the moon.",
+  author: "null"
 }
 ```
 
