@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 53,
-  quote: "All serious daring starts from within.",
-  author: "Harriet Beecher Stowe"
+  id: 1499,
+  quote: "You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.",
+  author: "Albert Camus"
 }
 ```
 
