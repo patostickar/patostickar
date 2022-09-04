@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1462,
-  quote: "We read the world wrong and say that it deceives us.",
-  author: "Rabindranath Tagore"
+  id: 1576,
+  quote: "Nothing could be worse than the fear that one had given up too soon, and left one unexpended effort that might have saved the world.",
+  author: "Jane Addams"
 }
 ```
 
