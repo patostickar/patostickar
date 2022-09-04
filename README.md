@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1164,
-  quote: "Nothing is softer or more flexible than water, yet nothing can resist it.",
-  author: "Lao Tzu"
+  id: 980,
+  quote: "In all chaos there is a cosmos, in all disorder a secret order.",
+  author: "Carl Jung"
 }
 ```
 
