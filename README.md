@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 980,
-  quote: "In all chaos there is a cosmos, in all disorder a secret order.",
-  author: "Carl Jung"
+  id: 1462,
+  quote: "We read the world wrong and say that it deceives us.",
+  author: "Rabindranath Tagore"
 }
 ```
 
