@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 968,
-  quote: "In seed time learn, in harvest teach, in winter enjoy.",
-  author: "William Blake"
+  id: 845,
+  quote: "No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.",
+  author: "Buddha"
 }
 ```
 
