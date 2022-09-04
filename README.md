@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 143,
-  quote: "Friendship isn't a big thing. It's a million little things.",
-  author: "null"
+  id: 444,
+  quote: "The minute you settle for less than you deserve, you get even less than you settled for.",
+  author: "Maureen Dowd"
 }
 ```
 
