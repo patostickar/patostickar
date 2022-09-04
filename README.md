@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 845,
-  quote: "No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.",
-  author: "Buddha"
+  id: 1631,
+  quote: "Our ability to achieve happiness and success depends on the strength of our wings.",
+  author: "Catherine Pulsifer"
 }
 ```
 
