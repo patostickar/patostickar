@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 345,
-  quote: "Opportunity is missed by most because it is dressed in overalls and looks like work.",
-  author: "Thomas Edison"
+  id: 339,
+  quote: "Your worst enemy cannot harm you as much as your own unguarded thoughts.",
+  author: "Buddha"
 }
 ```
 
