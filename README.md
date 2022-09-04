@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 102,
-  quote: "He that is giddy thinks the world turns round.",
-  author: "William Shakespeare"
+  id: 143,
+  quote: "Friendship isn't a big thing. It's a million little things.",
+  author: "null"
 }
 ```
 
