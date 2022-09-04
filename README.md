@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1210,
-  quote: "Don't let what you can't do stop you from doing what you can do.",
-  author: "null"
+  id: 361,
+  quote: "There is nothing in a caterpillar that tells you it's going to be a butterfly.",
+  author: "Buckminster Fuller"
 }
 ```
 
