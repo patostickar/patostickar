@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1631,
-  quote: "Our ability to achieve happiness and success depends on the strength of our wings.",
-  author: "Catherine Pulsifer"
+  id: 1556,
+  quote: "To get the full value of joy you must have someone to divide it with.",
+  author: "Mark Twain"
 }
 ```
 
