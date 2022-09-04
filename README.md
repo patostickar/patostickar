@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 339,
-  quote: "Your worst enemy cannot harm you as much as your own unguarded thoughts.",
-  author: "Buddha"
+  id: 1164,
+  quote: "Nothing is softer or more flexible than water, yet nothing can resist it.",
+  author: "Lao Tzu"
 }
 ```
 
