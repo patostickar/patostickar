@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 844,
-  quote: "Until you make peace with who you are, you will never be content with what you have.",
-  author: "Doris Mortman"
+  id: 684,
+  quote: "Men of perverse opinion do not know the excellence of what is in their hands, till some one dash it from them.",
+  author: "Sophocles"
 }
 ```
 
