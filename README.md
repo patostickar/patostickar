@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 991,
-  quote: "Joy is the best makeup.",
-  author: "Anne Lamott"
+  id: 1312,
+  quote: "Maxim for life: You get treated in life the way you teach people to treat you.",
+  author: "Wayne Dyer"
 }
 ```
 
