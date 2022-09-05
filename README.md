@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1367,
-  quote: "Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.",
-  author: "Ralph Waldo Emerson"
+  id: 327,
+  quote: "Think for yourselves and let others enjoy the privilege to do so too.",
+  author: "Voltaire"
 }
 ```
 
