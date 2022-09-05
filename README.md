@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1118,
-  quote: "Whenever something negative happens to you, there is a deep lesson concealed within it.",
-  author: "Eckhart Tolle"
+  id: 934,
+  quote: "Sooner or later, those who win are those who think they can.",
+  author: "Richard Bach"
 }
 ```
 
