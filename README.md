@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1561,
-  quote: "The winner ain't the one with the fastest car it's the one who refuses to lose.",
-  author: "Dale Earnhardt"
+  id: 1118,
+  quote: "Whenever something negative happens to you, there is a deep lesson concealed within it.",
+  author: "Eckhart Tolle"
 }
 ```
 
