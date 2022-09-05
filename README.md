@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1516,
-  quote: "There are no limitations to the mind except those we acknowledge.",
-  author: "Napoleon Hill"
+  id: 1543,
+  quote: "Kind words can be short and easy to speak, but their echoes are truly endless.",
+  author: "Mother Teresa"
 }
 ```
 
