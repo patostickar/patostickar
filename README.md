@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 140,
-  quote: "The only real valuable thing is intuition.",
-  author: "Albert Einstein"
+  id: 1561,
+  quote: "The winner ain't the one with the fastest car it's the one who refuses to lose.",
+  author: "Dale Earnhardt"
 }
 ```
 
