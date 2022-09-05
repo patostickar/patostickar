@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1640,
-  quote: "Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.",
-  author: "Tony Robbins"
+  id: 744,
+  quote: "To be wronged is nothing unless you continue to remember it.",
+  author: "Confucius"
 }
 ```
 
