@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 486,
-  quote: "Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.",
-  author: "Sri Chinmoy"
+  id: 501,
+  quote: "A good teacher is like a candle it consumes itself to light the way for others.",
+  author: "null"
 }
 ```
 
