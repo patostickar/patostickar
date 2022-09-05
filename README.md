@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1567,
-  quote: "If you have knowledge, let others light their candles in it.",
-  author: "Margaret Fuller"
+  id: 1640,
+  quote: "Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.",
+  author: "Tony Robbins"
 }
 ```
 
