@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 361,
-  quote: "There is nothing in a caterpillar that tells you it's going to be a butterfly.",
-  author: "Buckminster Fuller"
+  id: 369,
+  quote: "More often than not, anger is actually an indication of weakness rather than of strength.",
+  author: "Dalai Lama"
 }
 ```
 
