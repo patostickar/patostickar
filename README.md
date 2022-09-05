@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 855,
-  quote: "To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.",
-  author: "Tenzin Gyatso"
+  id: 486,
+  quote: "Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.",
+  author: "Sri Chinmoy"
 }
 ```
 
