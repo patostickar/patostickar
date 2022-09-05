@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 327,
-  quote: "Think for yourselves and let others enjoy the privilege to do so too.",
-  author: "Voltaire"
+  id: 921,
+  quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+  author: "Albert Schweitzer"
 }
 ```
 
