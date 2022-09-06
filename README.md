@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1248,
-  quote: "There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.",
-  author: "Mark Twain"
+  id: 621,
+  quote: "To free us from the expectations of others, to give us back to ourselves there lies the great, singular power of self-respect.",
+  author: "Joan Didion"
 }
 ```
 
