@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1367,
-  quote: "Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.",
-  author: "Ralph Waldo Emerson"
+  id: 1012,
+  quote: "Passion creates the desire for more and action fuelled by passion creates a future.",
+  author: "Byron Pulsifer"
 }
 ```
 
