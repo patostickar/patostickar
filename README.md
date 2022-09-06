@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 222,
-  quote: "To accomplish great things, we must dream as well as act.",
-  author: "Anatole France"
+  id: 1507,
+  quote: "Go for it now. The future is promised to no one.",
+  author: "Wayne Dyer"
 }
 ```
 
