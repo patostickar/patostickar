@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1321,
-  quote: "The most successful people are those who are good at plan B.",
-  author: "James Yorke"
+  id: 222,
+  quote: "To accomplish great things, we must dream as well as act.",
+  author: "Anatole France"
 }
 ```
 
