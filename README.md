@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1622,
-  quote: "Music in the soul can be heard by the universe.",
-  author: "Lao Tzu"
+  id: 1625,
+  quote: "The truest greatness lies in being kind, the truest wisdom in a happy mind.",
+  author: "Ella Wilcox"
 }
 ```
 
