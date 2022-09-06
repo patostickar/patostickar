@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1207,
-  quote: "The happy and efficient people in this world are those who accept trouble as a normal detail of human life and resolve to capitalize it when it comes along.",
-  author: "H. Bertram Lewis"
+  id: 1367,
+  quote: "Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
