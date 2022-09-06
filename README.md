@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 929,
-  quote: "The greatest part of our happiness depends on our dispositions, not our circumstances.",
-  author: "Martha Washington"
+  id: 792,
+  quote: "In the long run we get no more than we have been willing to risk giving.",
+  author: "Sheldon Kopp"
 }
 ```
 
