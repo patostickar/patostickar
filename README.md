@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1462,
-  quote: "We read the world wrong and say that it deceives us.",
-  author: "Rabindranath Tagore"
+  id: 1268,
+  quote: "The smallest act of kindness is worth more than the grandest intention.",
+  author: "Oscar Wilde"
 }
 ```
 
