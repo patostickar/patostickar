@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1507,
-  quote: "Go for it now. The future is promised to no one.",
-  author: "Wayne Dyer"
+  id: 870,
+  quote: "If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace.",
+  author: "Ajahn Chah"
 }
 ```
 
