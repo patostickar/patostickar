@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1268,
-  quote: "The smallest act of kindness is worth more than the grandest intention.",
-  author: "Oscar Wilde"
+  id: 1248,
+  quote: "There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.",
+  author: "Mark Twain"
 }
 ```
 
