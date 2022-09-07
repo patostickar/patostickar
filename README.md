@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 659,
-  quote: "If you are patient in one moment of anger, you will escape one hundred days of sorrow.",
-  author: "Chinese proverb"
+  id: 1182,
+  quote: "The greatest barrier to success is the fear of failure.",
+  author: "Eriksson"
 }
 ```
 
