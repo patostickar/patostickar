@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 667,
-  quote: "Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.",
-  author: "Helen Keller"
+  id: 422,
+  quote: "Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.",
+  author: "Marcel Proust"
 }
 ```
 
