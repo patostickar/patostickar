@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 536,
-  quote: "Everyone is a genius at least once a year. A real genius has his original ideas closer together.",
-  author: "Georg Lichtenberg"
+  id: 659,
+  quote: "If you are patient in one moment of anger, you will escape one hundred days of sorrow.",
+  author: "Chinese proverb"
 }
 ```
 
