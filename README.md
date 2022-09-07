@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 537,
-  quote: "Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.",
-  author: "Anais Nin"
+  id: 343,
+  quote: "Life is like riding a bicycle. To keep your balance you must keep moving.",
+  author: "Albert Einstein"
 }
 ```
 
