@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 343,
-  quote: "Life is like riding a bicycle. To keep your balance you must keep moving.",
-  author: "Albert Einstein"
+  id: 536,
+  quote: "Everyone is a genius at least once a year. A real genius has his original ideas closer together.",
+  author: "Georg Lichtenberg"
 }
 ```
 
