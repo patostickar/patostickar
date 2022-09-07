@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1340,
-  quote: "We choose our joys and sorrows long before we experience them.",
-  author: "Kahlil Gibran"
+  id: 1090,
+  quote: "Vision without action is a daydream. Action without vision is a nightmare.",
+  author: "Japanese proverb"
 }
 ```
 
