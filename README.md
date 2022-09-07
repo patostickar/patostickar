@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 452,
-  quote: "You're not obligated to win. You're obligated to keep trying to do the best you can every day.",
-  author: "Marian Edelman"
+  id: 1428,
+  quote: "Failure will never overtake me if my determination to succeed is strong enough.",
+  author: "Og Mandino"
 }
 ```
 
