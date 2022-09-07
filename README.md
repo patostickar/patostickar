@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1068,
-  quote: "An invasion of armies can be resisted, but not an idea whose time has come.",
-  author: "Victor Hugo"
+  id: 415,
+  quote: "I will not be concerned at other men is not knowing me;I will be concerned at my own want of ability.",
+  author: "Confucius"
 }
 ```
 
