@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 703,
-  quote: "Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.",
-  author: "Napoleon Hill"
+  id: 1331,
+  quote: "The noblest worship is to make yourself as good and as just as you can.",
+  author: "Isocrates"
 }
 ```
 
