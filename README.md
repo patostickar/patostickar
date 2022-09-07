@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1551,
-  quote: "I endeavour to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.",
-  author: "Elizabeth Montagu"
+  id: 338,
+  quote: "Slow down and everything you are chasing will come around and catch you.",
+  author: "John De Paola"
 }
 ```
 
