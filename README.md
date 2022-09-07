@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1090,
-  quote: "Vision without action is a daydream. Action without vision is a nightmare.",
-  author: "Japanese proverb"
+  id: 1034,
+  quote: "Imagination is not a talent of some men but is the health of every man.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
