@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1151,
-  quote: "Never apologize for showing feeling. When you do so, you apologize for truth.",
-  author: "Benjamin Disraeli"
+  id: 1363,
+  quote: "The foolish man seeks happiness in the distance; the wise grows it under his feet.",
+  author: "James Openheim"
 }
 ```
 
