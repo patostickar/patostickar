@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 999,
-  quote: "Where all think alike, no one thinks very much.",
-  author: "Walter Lippmann"
+  id: 352,
+  quote: "I cannot make my days longer so I strive to make them better.",
+  author: "Henry David Thoreau"
 }
 ```
 
