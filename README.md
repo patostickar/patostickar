@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 793,
-  quote: "Self-trust is the first secret of success.",
-  author: "Ralph Emerson"
+  id: 999,
+  quote: "Where all think alike, no one thinks very much.",
+  author: "Walter Lippmann"
 }
 ```
 
