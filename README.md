@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 820,
-  quote: "The way we communicate with others and with ourselves ultimately determines the quality of our lives.",
-  author: "Tony Robbins"
+  id: 1045,
+  quote: "I want you to be everything that's you, deep at the center of your being.",
+  author: "Confucius"
 }
 ```
 
