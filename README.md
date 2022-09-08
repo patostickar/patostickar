@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 954,
-  quote: "Take heed: you do not find what you do not seek.",
-  author: "English proverb"
+  id: 475,
+  quote: "Money was never a big motivation for me, except as a way to keep score. The real excitement is playing the game.",
+  author: "Donald Trump"
 }
 ```
 
