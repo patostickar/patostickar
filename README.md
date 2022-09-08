@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 475,
-  quote: "Money was never a big motivation for me, except as a way to keep score. The real excitement is playing the game.",
-  author: "Donald Trump"
+  id: 117,
+  quote: "Society develops wit, but its contemplation alone forms genius.",
+  author: "Madame de Stael"
 }
 ```
 
