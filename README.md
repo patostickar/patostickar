@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 117,
-  quote: "Society develops wit, but its contemplation alone forms genius.",
-  author: "Madame de Stael"
+  id: 110,
+  quote: "The shortest answer is doing.",
+  author: "Lord Herbert"
 }
 ```
 
