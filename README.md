@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 415,
-  quote: "I will not be concerned at other men is not knowing me;I will be concerned at my own want of ability.",
-  author: "Confucius"
+  id: 1356,
+  quote: "The less effort, the faster and more powerful you will be.",
+  author: "Bruce Lee"
 }
 ```
 
