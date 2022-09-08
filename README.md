@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 352,
-  quote: "I cannot make my days longer so I strive to make them better.",
-  author: "Henry David Thoreau"
+  id: 507,
+  quote: "What lies behind us and what lies before us are small matters compared to what lies within us.",
+  author: "Oliver Holmes"
 }
 ```
 
