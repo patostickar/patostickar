@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1356,
-  quote: "The less effort, the faster and more powerful you will be.",
-  author: "Bruce Lee"
+  id: 206,
+  quote: "Pick battles big enough to matter, small enough to win.",
+  author: "Jonathan Kozol"
 }
 ```
 
