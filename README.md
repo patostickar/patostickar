@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1257,
-  quote: "Be your own hero, it's cheaper than a movie ticket.",
-  author: "Doug Horton"
+  id: 820,
+  quote: "The way we communicate with others and with ourselves ultimately determines the quality of our lives.",
+  author: "Tony Robbins"
 }
 ```
 
