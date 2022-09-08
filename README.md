@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 156,
-  quote: "Someone remembers, someone cares; your name is whispered in someone's prayers.",
+  id: 416,
+  quote: "Why worry about things you cannot control when you can keep yourself busy controlling the things that depend on you?",
   author: "null"
 }
 ```
