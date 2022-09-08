@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1045,
-  quote: "I want you to be everything that's you, deep at the center of your being.",
-  author: "Confucius"
+  id: 621,
+  quote: "To free us from the expectations of others, to give us back to ourselves there lies the great, singular power of self-respect.",
+  author: "Joan Didion"
 }
 ```
 
