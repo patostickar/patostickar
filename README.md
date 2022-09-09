@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 945,
-  quote: "When fate hands us a lemon, lets try to make lemonade.",
-  author: "Dale Carnegie"
+  id: 348,
+  quote: "If you correct your mind, the rest of your life will fall into place.",
+  author: "Lao Tzu"
 }
 ```
 
