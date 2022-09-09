@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1184,
-  quote: "If you aren't going all the way, why go at all?",
-  author: "Joe Namath"
+  id: 953,
+  quote: "To be tested is good. The challenged life may be the best therapist.",
+  author: "Gail Sheehy"
 }
 ```
 
