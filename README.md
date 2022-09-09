@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 161,
-  quote: "Everything you can imagine is real.",
-  author: "Pablo Picasso"
+  id: 945,
+  quote: "When fate hands us a lemon, lets try to make lemonade.",
+  author: "Dale Carnegie"
 }
 ```
 
