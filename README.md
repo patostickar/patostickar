@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 289,
-  quote: "If one does not know to which port is sailing, no wind is favorable.",
-  author: "Seneca"
+  id: 1281,
+  quote: "Make the most of yourself for that is all there is of you.",
+  author: "Ralph Emerson"
 }
 ```
 
