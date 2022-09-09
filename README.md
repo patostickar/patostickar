@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1035,
-  quote: "We must embrace pain and burn it as fuel for our journey.",
-  author: "Kenji Miyazawa"
+  id: 982,
+  quote: "The price of greatness is responsibility.",
+  author: "Winston Churchill"
 }
 ```
 
