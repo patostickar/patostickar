@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 177,
-  quote: "Our strength grows out of our weaknesses.",
-  author: "Ralph Waldo Emerson"
+  id: 899,
+  quote: "I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.",
+  author: "Amy Tan"
 }
 ```
 
