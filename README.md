@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 348,
-  quote: "If you correct your mind, the rest of your life will fall into place.",
-  author: "Lao Tzu"
+  id: 1044,
+  quote: "Worry often gives a small thing a big shadow.",
+  author: "Swedish proverb"
 }
 ```
 
