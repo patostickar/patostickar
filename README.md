@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 899,
-  quote: "I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.",
-  author: "Amy Tan"
+  id: 1184,
+  quote: "If you aren't going all the way, why go at all?",
+  author: "Joe Namath"
 }
 ```
 
