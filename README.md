@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 953,
-  quote: "To be tested is good. The challenged life may be the best therapist.",
-  author: "Gail Sheehy"
+  id: 1311,
+  quote: "If you want to study yourself look into the hearts of other people. If you want to study other people look into your own heart.",
+  author: "Friedrich von Schiller"
 }
 ```
 
