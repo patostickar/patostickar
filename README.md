@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 982,
-  quote: "The price of greatness is responsibility.",
-  author: "Winston Churchill"
+  id: 1264,
+  quote: "Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.",
+  author: "Henry Reed"
 }
 ```
 
