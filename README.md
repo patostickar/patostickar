@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 274,
-  quote: "Strength does not come from physical capacity. It comes from an indomitable will.",
-  author: "Mahatma Gandhi"
+  id: 310,
+  quote: "Action may not always bring happiness; but there is no happiness without action.",
+  author: "Benjamin Disraeli"
 }
 ```
 
