@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 771,
-  quote: "The more light you allow within you, the brighter the world you live in will be.",
-  author: "Shakti Gawain"
+  id: 1223,
+  quote: "The most decisive actions of our life... are most often unconsidered actions.",
+  author: "Andre Gide"
 }
 ```
 
