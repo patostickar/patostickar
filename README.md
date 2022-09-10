@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1158,
-  quote: "Things do not change, we change.",
-  author: "Henry Thoreau"
+  id: 315,
+  quote: "I have done my best: that is about all the philosophy of living one needs.",
+  author: "Lin-yutang"
 }
 ```
 
