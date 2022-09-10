@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 92,
-  quote: "In order to win, you must expect to win.",
-  author: "Richard Bach"
+  id: 1159,
+  quote: "The exercise of an extraordinary gift is the supremest pleasure in life.",
+  author: "Mark Twain"
 }
 ```
 
