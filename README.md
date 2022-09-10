@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1482,
-  quote: "Listen to what you know instead of what you fear.",
-  author: "Richard Bach"
+  id: 1158,
+  quote: "Things do not change, we change.",
+  author: "Henry Thoreau"
 }
 ```
 
