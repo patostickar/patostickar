@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 174,
-  quote: "He who talks more is sooner exhausted.",
-  author: "Lao Tzu"
+  id: 137,
+  quote: "You can do what's reasonable or you can decide what's possible.",
+  author: "null"
 }
 ```
 
