@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 137,
-  quote: "You can do what's reasonable or you can decide what's possible.",
-  author: "null"
+  id: 377,
+  quote: "If you change the way you look at things, the things you look at change.",
+  author: "Wayne Dyer"
 }
 ```
 
