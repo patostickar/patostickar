@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 315,
-  quote: "I have done my best: that is about all the philosophy of living one needs.",
-  author: "Lin-yutang"
+  id: 485,
+  quote: "Learn all you can from the mistakes of others. You won't have time to make them all yourself.",
+  author: "Alfred Sheinwold"
 }
 ```
 
