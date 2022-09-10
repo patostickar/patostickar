@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1612,
-  quote: "He who knows that enough is enough will always have enough.",
-  author: "Lao Tzu"
+  id: 650,
+  quote: "There are two primary choices in life: to accept conditions as they exist, or accept responsibility for changing them.",
+  author: "Denis Waitley"
 }
 ```
 
