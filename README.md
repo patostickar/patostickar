@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1223,
-  quote: "The most decisive actions of our life... are most often unconsidered actions.",
-  author: "Andre Gide"
+  id: 914,
+  quote: "You must train your intuition you must trust the small voice inside you which tells you exactly what to say, what to decide.",
+  author: "Ingrid Bergman"
 }
 ```
 
