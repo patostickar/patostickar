@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1417,
-  quote: "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.",
-  author: "Lao Tzu"
+  id: 529,
+  quote: "To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.",
+  author: "Buddha"
 }
 ```
 
