@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1246,
-  quote: "Waste no more time arguing about what a good man should be. Be one.",
-  author: "Marcus Aurelius"
+  id: 209,
+  quote: "Difficulties are things that show a person what they are.",
+  author: "Epictetus"
 }
 ```
 
