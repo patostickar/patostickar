@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1216,
-  quote: "The world turns aside to let any man pass who knows where he is going.",
-  author: "Epictetus"
+  id: 1631,
+  quote: "Our ability to achieve happiness and success depends on the strength of our wings.",
+  author: "Catherine Pulsifer"
 }
 ```
 
