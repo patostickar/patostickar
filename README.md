@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1631,
-  quote: "Our ability to achieve happiness and success depends on the strength of our wings.",
-  author: "Catherine Pulsifer"
+  id: 1201,
+  quote: "Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
