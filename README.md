@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 106,
-  quote: "Do one thing every day that scares you.",
-  author: "Eleanor Roosevelt"
+  id: 1216,
+  quote: "The world turns aside to let any man pass who knows where he is going.",
+  author: "Epictetus"
 }
 ```
 
