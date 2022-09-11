@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 310,
-  quote: "Action may not always bring happiness; but there is no happiness without action.",
-  author: "Benjamin Disraeli"
+  id: 1174,
+  quote: "If we could see the miracle of a single flower clearly, our whole life would change.",
+  author: "Buddha"
 }
 ```
 
