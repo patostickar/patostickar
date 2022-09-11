@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1174,
-  quote: "If we could see the miracle of a single flower clearly, our whole life would change.",
-  author: "Buddha"
+  id: 522,
+  quote: "Silences make the real conversations between friends. Not the saying but the never needing to say is what counts.",
+  author: "Margaret Runbeck"
 }
 ```
 
