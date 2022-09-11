@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 189,
-  quote: "There is no failure except in no longer trying.",
-  author: "Elbert Hubbard"
+  id: 873,
+  quote: "Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.",
+  author: "Jean-Paul Sartre"
 }
 ```
 
