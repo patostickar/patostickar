@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 923,
-  quote: "My advice to you is not to inquire why or whither, but just enjoy your ice cream while its on your plate that's my philosophy.",
-  author: "Thornton Wilder"
+  id: 1617,
+  quote: "There is never enough time to do everything, but there is always enough time to do the most important thing.",
+  author: "Brian Tracy"
 }
 ```
 
