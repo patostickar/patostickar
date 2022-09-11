@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1209,
-  quote: "You are the only person on Earth who can use your ability.",
-  author: "Zig Ziglar"
+  id: 189,
+  quote: "There is no failure except in no longer trying.",
+  author: "Elbert Hubbard"
 }
 ```
 
