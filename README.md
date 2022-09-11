@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 205,
-  quote: "Inspiration exists, but it has to find us working.",
-  author: "Pablo Picasso"
+  id: 1417,
+  quote: "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.",
+  author: "Lao Tzu"
 }
 ```
 
