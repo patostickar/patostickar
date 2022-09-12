@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 709,
-  quote: "Your outlook on life is a direct reflection on how much you like yourself.",
-  author: "Lululemon"
+  id: 19,
+  quote: "Having nothing, nothing can he lose.",
+  author: "William Shakespeare"
 }
 ```
 
