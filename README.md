@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 19,
-  quote: "Having nothing, nothing can he lose.",
-  author: "William Shakespeare"
+  id: 1322,
+  quote: "Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.",
+  author: "Aristotle"
 }
 ```
 
