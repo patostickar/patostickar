@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1121,
-  quote: "Chaos is inherent in all compounded things. Strive on with diligence.",
-  author: "Buddha"
+  id: 1113,
+  quote: "Don't frown because you never know who is falling in love with your smile.",
+  author: "Sinvyest Tan"
 }
 ```
 
