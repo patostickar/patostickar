@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1631,
-  quote: "Our ability to achieve happiness and success depends on the strength of our wings.",
-  author: "Catherine Pulsifer"
+  id: 1226,
+  quote: "It is the quality of our work which will please God, not the quantity.",
+  author: "Mahatma Gandhi"
 }
 ```
 
