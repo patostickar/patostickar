@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 190,
-  quote: "Kind words will unlock an iron door.",
-  author: "Turkish proverb"
+  id: 850,
+  quote: "To be thoughtful and kind only takes a few seconds compared to the timeless hurt caused by one rude gesture.",
+  author: "Byron Pulsifer"
 }
 ```
 
