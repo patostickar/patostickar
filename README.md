@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1176,
-  quote: "You cannot travel the path until you have become the path itself.",
-  author: "Buddha"
+  id: 190,
+  quote: "Kind words will unlock an iron door.",
+  author: "Turkish proverb"
 }
 ```
 
