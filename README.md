@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1631,
-  quote: "Our ability to achieve happiness and success depends on the strength of our wings.",
-  author: "Catherine Pulsifer"
+  id: 907,
+  quote: "With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble. Courage is the foundation of integrity.",
+  author: "Keshavan Nair"
 }
 ```
 
