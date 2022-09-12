@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1322,
-  quote: "Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.",
-  author: "Aristotle"
+  id: 1631,
+  quote: "Our ability to achieve happiness and success depends on the strength of our wings.",
+  author: "Catherine Pulsifer"
 }
 ```
 
