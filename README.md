@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 850,
-  quote: "To be thoughtful and kind only takes a few seconds compared to the timeless hurt caused by one rude gesture.",
-  author: "Byron Pulsifer"
+  id: 709,
+  quote: "Your outlook on life is a direct reflection on how much you like yourself.",
+  author: "Lululemon"
 }
 ```
 
