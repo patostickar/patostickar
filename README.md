@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 640,
-  quote: "If you love someone, set them free. If they come back they're yours; if they don't they never were.",
-  author: "Richard Bach"
+  id: 1631,
+  quote: "Our ability to achieve happiness and success depends on the strength of our wings.",
+  author: "Catherine Pulsifer"
 }
 ```
 
