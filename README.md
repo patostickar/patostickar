@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1025,
-  quote: "You need chaos in your soul to give birth to a dancing star.",
-  author: "Nietzsche"
+  id: 1017,
+  quote: "We don't stop playing because we grow old; we grow old because we stop playing.",
+  author: "Bernard Shaw"
 }
 ```
 
