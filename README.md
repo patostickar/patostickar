@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 42,
-  quote: "One faces the future with ones past.",
-  author: "Pearl Buck"
+  id: 81,
+  quote: "Those who are free of resentful thoughts surely find peace.",
+  author: "Buddha"
 }
 ```
 
