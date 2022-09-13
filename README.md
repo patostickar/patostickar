@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 947,
-  quote: "A man is great by deeds, not by birth.",
-  author: "Chanakya"
+  id: 846,
+  quote: "The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
+  author: "Henry Miller"
 }
 ```
 
