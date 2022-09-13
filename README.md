@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1621,
-  quote: "There surely is in human nature an inherent propensity to extract all the good out of all the evil.",
-  author: "Benjamin Haydon"
+  id: 42,
+  quote: "One faces the future with ones past.",
+  author: "Pearl Buck"
 }
 ```
 
