@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1487,
-  quote: "What the caterpillar calls the end of the world, the master calls a butterfly.",
-  author: "Richard Bach"
+  id: 1025,
+  quote: "You need chaos in your soul to give birth to a dancing star.",
+  author: "Nietzsche"
 }
 ```
 
