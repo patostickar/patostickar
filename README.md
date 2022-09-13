@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1017,
-  quote: "We don't stop playing because we grow old; we grow old because we stop playing.",
-  author: "Bernard Shaw"
+  id: 318,
+  quote: "Love is just a word until someone comes along and gives it meaning.",
+  author: "null"
 }
 ```
 
