@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 18,
-  quote: "To lead people walk behind them.",
-  author: "Lao Tzu"
+  id: 1006,
+  quote: "Go to your bosom: Knock there, and ask your heart what it doth know.",
+  author: "William Shakespeare"
 }
 ```
 
