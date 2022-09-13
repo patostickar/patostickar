@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 81,
-  quote: "Those who are free of resentful thoughts surely find peace.",
-  author: "Buddha"
+  id: 947,
+  quote: "A man is great by deeds, not by birth.",
+  author: "Chanakya"
 }
 ```
 
