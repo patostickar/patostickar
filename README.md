@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 318,
-  quote: "Love is just a word until someone comes along and gives it meaning.",
+  id: 1069,
+  quote: "Never let lack of money interfere with having fun.",
   author: "null"
 }
 ```
