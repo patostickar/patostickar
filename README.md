@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1069,
-  quote: "Never let lack of money interfere with having fun.",
-  author: "null"
+  id: 1451,
+  quote: "It all depends on how we look at things, and not how they are in themselves.",
+  author: "Carl Jung"
 }
 ```
 
