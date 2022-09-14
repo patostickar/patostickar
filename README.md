@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 360,
-  quote: "Be what you are. This is the first step toward becoming better than you are.",
-  author: "Julius Charles Hare"
+  id: 931,
+  quote: "A man sees in the world what he carries in his heart.",
+  author: "Goethe"
 }
 ```
 
