@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 672,
-  quote: "He that respects himself is safe from others; he wears a coat of mail that none can pierce.",
-  author: "Henry Longfellow"
+  id: 302,
+  quote: "The doors we open and close each day decide the lives we live.",
+  author: "Flora Whittemore"
 }
 ```
 
