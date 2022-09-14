@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 573,
-  quote: "One secret of success in life is for a man to be ready for his opportunity when it comes.",
-  author: "Benjamin Disraeli"
+  id: 296,
+  quote: "Love is not blind; it simply enables one to see things others fail to see.",
+  author: "null"
 }
 ```
 
