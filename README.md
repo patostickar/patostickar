@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1204,
-  quote: "He who controls others may be powerful, but he who has mastered himself is mightier still.",
-  author: "Lao Tzu"
+  id: 697,
+  quote: "The person who lives life fully, glowing with life's energy, is the person who lives a successful life.",
+  author: "Daisaku Ikeda"
 }
 ```
 
