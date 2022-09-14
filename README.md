@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 302,
-  quote: "The doors we open and close each day decide the lives we live.",
-  author: "Flora Whittemore"
+  id: 573,
+  quote: "One secret of success in life is for a man to be ready for his opportunity when it comes.",
+  author: "Benjamin Disraeli"
 }
 ```
 
