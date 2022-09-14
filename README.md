@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 441,
-  quote: "Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.",
-  author: "Jane Addams"
+  id: 1259,
+  quote: "Things turn out best for those who make the best of the way things turn out.",
+  author: "Jack Buck"
 }
 ```
 
