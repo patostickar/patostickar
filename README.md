@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 11,
-  quote: "What you give is what you get.",
-  author: "Byron Pulsifer"
+  id: 1593,
+  quote: "Beware of the half truth. You may have gotten hold of the wrong half.",
+  author: "null"
 }
 ```
 
