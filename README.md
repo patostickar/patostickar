@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1479,
-  quote: "The possibilities are numerous once we decide to act and not react.",
-  author: "George Bernard Shaw"
+  id: 1164,
+  quote: "Nothing is softer or more flexible than water, yet nothing can resist it.",
+  author: "Lao Tzu"
 }
 ```
 
