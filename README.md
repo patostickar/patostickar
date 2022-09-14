@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1260,
-  quote: "Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.",
-  author: "Whoopi Goldberg"
+  id: 509,
+  quote: "There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.",
+  author: "Nelson Mandela"
 }
 ```
 
