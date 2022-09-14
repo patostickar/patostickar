@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 296,
-  quote: "Love is not blind; it simply enables one to see things others fail to see.",
-  author: "null"
+  id: 1479,
+  quote: "The possibilities are numerous once we decide to act and not react.",
+  author: "George Bernard Shaw"
 }
 ```
 
