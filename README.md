@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 114,
-  quote: "Truth is powerful and it prevails.",
-  author: "Sojourner Truth"
+  id: 672,
+  quote: "He that respects himself is safe from others; he wears a coat of mail that none can pierce.",
+  author: "Henry Longfellow"
 }
 ```
 
