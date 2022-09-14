@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1164,
-  quote: "Nothing is softer or more flexible than water, yet nothing can resist it.",
-  author: "Lao Tzu"
+  id: 11,
+  quote: "What you give is what you get.",
+  author: "Byron Pulsifer"
 }
 ```
 
