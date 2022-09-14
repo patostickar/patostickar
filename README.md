@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 931,
-  quote: "A man sees in the world what he carries in his heart.",
-  author: "Goethe"
+  id: 1204,
+  quote: "He who controls others may be powerful, but he who has mastered himself is mightier still.",
+  author: "Lao Tzu"
 }
 ```
 
