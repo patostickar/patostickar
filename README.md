@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 697,
-  quote: "The person who lives life fully, glowing with life's energy, is the person who lives a successful life.",
-  author: "Daisaku Ikeda"
+  id: 1182,
+  quote: "The greatest barrier to success is the fear of failure.",
+  author: "Eriksson"
 }
 ```
 
