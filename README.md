@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 763,
-  quote: "Our lives are a sum total of the choices we have made.",
-  author: "Wayne Dyer"
+  id: 585,
+  quote: "You can be what you want to be. You have the power within and we will help you always.",
+  author: "Byron Pulsifer"
 }
 ```
 
