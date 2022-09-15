@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 11,
-  quote: "What you give is what you get.",
-  author: "Byron Pulsifer"
+  id: 1122,
+  quote: "Be sure you put your feet in the right place, then stand firm.",
+  author: "Abraham Lincoln"
 }
 ```
 
