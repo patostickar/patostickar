@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 81,
-  quote: "Those who are free of resentful thoughts surely find peace.",
-  author: "Buddha"
+  id: 763,
+  quote: "Our lives are a sum total of the choices we have made.",
+  author: "Wayne Dyer"
 }
 ```
 
