@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 280,
-  quote: "All the great performers I have worked with are fuelled by a personal dream.",
-  author: "John Eliot"
+  id: 1187,
+  quote: "If I could reach up and hold a star for every time you've made me smile, the entire evening sky would be in the palm of my hand.",
+  author: "null"
 }
 ```
 
