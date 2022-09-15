@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1215,
-  quote: "Let the beauty of what you love be what you do.",
-  author: "Rumi"
+  id: 1633,
+  quote: "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.",
+  author: "Melody Beattie"
 }
 ```
 
