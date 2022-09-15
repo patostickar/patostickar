@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1633,
-  quote: "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.",
-  author: "Melody Beattie"
+  id: 568,
+  quote: "When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.",
+  author: "Confucius"
 }
 ```
 
