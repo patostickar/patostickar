@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1122,
-  quote: "Be sure you put your feet in the right place, then stand firm.",
-  author: "Abraham Lincoln"
+  id: 827,
+  quote: "Wit lies in recognizing the resemblance among things which differ and the difference between things which are alike.",
+  author: "Madame de Stael"
 }
 ```
 
