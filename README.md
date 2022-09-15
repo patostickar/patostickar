@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 527,
-  quote: "We never understand how little we need in this world until we know the loss of it.",
-  author: "James Barrie"
+  id: 479,
+  quote: "Every man takes the limits of his own field of vision for the limits of the world.",
+  author: "Arthur Schopenhauer"
 }
 ```
 
