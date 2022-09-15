@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 756,
-  quote: "Correction does much, but encouragement does more.",
-  author: "Johann Wolfgang von Goethe"
+  id: 966,
+  quote: "Your sacred space is where you can find yourself again and again.",
+  author: "Joseph Campbell"
 }
 ```
 
