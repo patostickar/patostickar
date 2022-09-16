@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 614,
-  quote: "Do not go where the path may lead, go instead where there is no path and leave a trail.",
-  author: "Ralph Emerson"
+  id: 864,
+  quote: "Ability is what you're capable of doing. Motivation determines what you do.Attitude determines how well you do it.",
+  author: "Lou Holtz"
 }
 ```
 
