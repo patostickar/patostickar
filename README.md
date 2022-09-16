@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 223,
-  quote: "Patience is the companion of wisdom.",
-  author: "Saint Augustine"
+  id: 730,
+  quote: "All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.",
+  author: "Rudolf Arnheim"
 }
 ```
 
