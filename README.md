@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1346,
-  quote: "It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.",
-  author: "Franklin D. Roosevelt"
+  id: 836,
+  quote: "If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.",
+  author: "Pema Chodron"
 }
 ```
 
