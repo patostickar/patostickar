@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 263,
-  quote: "Absence makes the heart grow fonder.",
-  author: "Haynes Bayly"
+  id: 470,
+  quote: "The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.",
+  author: "Buddha"
 }
 ```
 
