@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 254,
-  quote: "I have often regretted my speech, never my silence.",
-  author: "Publilius Syrus"
+  id: 965,
+  quote: "All the flowers of all the tomorrows are in the seeds of today.",
+  author: "null"
 }
 ```
 
