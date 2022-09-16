@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1224,
-  quote: "As we grow as unique persons, we learn to respect the uniqueness of others.",
-  author: "Robert Schuller"
+  id: 1019,
+  quote: "Always tell the truth. That way, you don't have to remember what you said.",
+  author: "Mark Twain"
 }
 ```
 
