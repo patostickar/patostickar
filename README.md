@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1079,
-  quote: "I know but one freedom and that is the freedom of the mind.",
-  author: "Antoine de Saint-Exupery"
+  id: 1090,
+  quote: "Vision without action is a daydream. Action without vision is a nightmare.",
+  author: "Japanese proverb"
 }
 ```
 
