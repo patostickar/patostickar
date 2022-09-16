@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 367,
-  quote: "Most people are about as happy as they make up their minds to be",
-  author: "Abraham Lincoln"
+  id: 20,
+  quote: "Trouble is only opportunity in work clothes.",
+  author: "Henry J. Kaiser"
 }
 ```
 
