@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1090,
-  quote: "Vision without action is a daydream. Action without vision is a nightmare.",
-  author: "Japanese proverb"
+  id: 529,
+  quote: "To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.",
+  author: "Buddha"
 }
 ```
 
