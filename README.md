@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 730,
-  quote: "All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.",
-  author: "Rudolf Arnheim"
+  id: 283,
+  quote: "Begin at once to live and count each separate day as a separate life.",
+  author: "Seneca"
 }
 ```
 
