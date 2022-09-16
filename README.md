@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 965,
-  quote: "All the flowers of all the tomorrows are in the seeds of today.",
-  author: "null"
+  id: 1327,
+  quote: "We can change our lives. We can do, have, and be exactly what we wish.",
+  author: "Tony Robbins"
 }
 ```
 
