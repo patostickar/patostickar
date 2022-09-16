@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 836,
-  quote: "If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.",
-  author: "Pema Chodron"
+  id: 263,
+  quote: "Absence makes the heart grow fonder.",
+  author: "Haynes Bayly"
 }
 ```
 
