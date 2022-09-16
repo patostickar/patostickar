@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 864,
-  quote: "Ability is what you're capable of doing. Motivation determines what you do.Attitude determines how well you do it.",
-  author: "Lou Holtz"
+  id: 223,
+  quote: "Patience is the companion of wisdom.",
+  author: "Saint Augustine"
 }
 ```
 
