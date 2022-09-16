@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1019,
-  quote: "Always tell the truth. That way, you don't have to remember what you said.",
-  author: "Mark Twain"
+  id: 1346,
+  quote: "It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.",
+  author: "Franklin D. Roosevelt"
 }
 ```
 
