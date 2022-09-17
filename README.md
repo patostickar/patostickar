@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 307,
-  quote: "The universe is full of magical things, patiently waiting for our wits to grow sharper.",
-  author: "Eden Phillpotts"
+  id: 1585,
+  quote: "The true way to render ourselves happy is to love our work and find in it our pleasure.",
+  author: "Francoise de Motteville"
 }
 ```
 
