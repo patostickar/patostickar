@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1578,
-  quote: "Begin, be bold, and venture to be wise.",
-  author: "Horace"
+  id: 1000,
+  quote: "Everything that exists is in a manner the seed of that which will be.",
+  author: "Marcus Aurelius"
 }
 ```
 
