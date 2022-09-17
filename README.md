@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 283,
-  quote: "Begin at once to live and count each separate day as a separate life.",
-  author: "Seneca"
+  id: 913,
+  quote: "Although there may be tragedy in your life, there's always a possibility to triumph. It doesn't matter who you are, where you come from. The ability to triumph begins with you. Always.",
+  author: "Oprah Winfrey"
 }
 ```
 
