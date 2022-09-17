@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 645,
-  quote: "To accomplish great things, we must not only act, but also dream; not only plan, but also believe.",
-  author: "Anatole France"
+  id: 1009,
+  quote: "What we see is mainly what we look for.",
+  author: "null"
 }
 ```
 
