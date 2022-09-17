@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 534,
-  quote: "At the center of your being you have the answer; you know who you are and you know what you want.",
-  author: "Lao Tzu"
+  id: 1632,
+  quote: "To go against the dominant thinking of your friends, of most of the people you see every day, is perhaps the most difficult act of heroism you can perform.",
+  author: "Theodore H. White"
 }
 ```
 
