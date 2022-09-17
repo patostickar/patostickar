@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 344,
-  quote: "We should all be thankful for those people who rekindle the inner spirit.",
-  author: "Albert Schweitzer"
+  id: 1172,
+  quote: "Kindness is the language which the deaf can hear and the blind can see.",
+  author: "Mark Twain"
 }
 ```
 
