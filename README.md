@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1000,
-  quote: "Everything that exists is in a manner the seed of that which will be.",
-  author: "Marcus Aurelius"
+  id: 1419,
+  quote: "The best cure for the body is a quiet mind.",
+  author: "Napoleon Bonaparte"
 }
 ```
 
