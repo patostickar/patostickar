@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 831,
-  quote: "The power of intuitive understanding will protect you from harm until the end of your days.",
-  author: "Laozi"
+  id: 237,
+  quote: "Efficiency is doing things right; effectiveness is doing the right things.",
+  author: "Peter Drucker"
 }
 ```
 
