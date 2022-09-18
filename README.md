@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1250,
-  quote: "Always bear in mind that your own resolution to succeed is more important than any one thing.",
-  author: "Abraham Lincoln"
+  id: 492,
+  quote: "In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.",
+  author: "Buddha"
 }
 ```
 
