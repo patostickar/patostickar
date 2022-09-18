@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1518,
-  quote: "Don't be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.",
-  author: "Richard Bach"
+  id: 1624,
+  quote: "To hell with circumstances; I create opportunities.",
+  author: "Bruce Lee"
 }
 ```
 
