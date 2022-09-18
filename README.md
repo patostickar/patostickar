@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 88,
-  quote: "Argue for your limitations, and sure enough theyre yours.",
-  author: "Richard Bach"
+  id: 831,
+  quote: "The power of intuitive understanding will protect you from harm until the end of your days.",
+  author: "Laozi"
 }
 ```
 
