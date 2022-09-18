@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 492,
-  quote: "In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.",
-  author: "Buddha"
+  id: 1351,
+  quote: "All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.",
+  author: "Bruce Lee"
 }
 ```
 
