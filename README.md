@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1624,
-  quote: "To hell with circumstances; I create opportunities.",
-  author: "Bruce Lee"
+  id: 174,
+  quote: "He who talks more is sooner exhausted.",
+  author: "Lao Tzu"
 }
 ```
 
