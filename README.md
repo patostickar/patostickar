@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1611,
-  quote: "Either I will find a way, or I will make one.",
-  author: "Philip Sidney"
+  id: 1250,
+  quote: "Always bear in mind that your own resolution to succeed is more important than any one thing.",
+  author: "Abraham Lincoln"
 }
 ```
 
