@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1603,
-  quote: "The only Zen you find on the tops of mountains is the Zen you bring up there.",
-  author: "Robert Pirsig"
+  id: 1121,
+  quote: "Chaos is inherent in all compounded things. Strive on with diligence.",
+  author: "Buddha"
 }
 ```
 
