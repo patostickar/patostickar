@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 844,
-  quote: "Until you make peace with who you are, you will never be content with what you have.",
-  author: "Doris Mortman"
+  id: 989,
+  quote: "Saying thank you is more than good manners. It is good spirituality.",
+  author: "Alfred Painter"
 }
 ```
 
