@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1077,
-  quote: "Most of the shadows of life are caused by standing in our own sunshine.",
-  author: "Ralph Waldo Emerson"
+  id: 1572,
+  quote: "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
+  author: "Marcus Aurelius"
 }
 ```
 
