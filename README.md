@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 915,
-  quote: "Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.",
-  author: "Marcus Aurelius"
+  id: 1564,
+  quote: "The only person who never makes mistakes is the person who never does anything.",
+  author: "Denis Waitley"
 }
 ```
 
