@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 565,
-  quote: "There are two kinds of failures: those who thought and never did, and those who did and never thought.",
-  author: "Laurence J. Peter"
+  id: 591,
+  quote: "The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.",
+  author: "Helen Keller"
 }
 ```
 
