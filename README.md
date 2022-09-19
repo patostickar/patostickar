@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1334,
-  quote: "Don't think of it as failure. Think of it as time-released success.",
-  author: "Robert Orben"
+  id: 522,
+  quote: "Silences make the real conversations between friends. Not the saying but the never needing to say is what counts.",
+  author: "Margaret Runbeck"
 }
 ```
 
