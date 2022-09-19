@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 259,
-  quote: "Life is a progress, and not a station.",
-  author: "Ralph Emerson"
+  id: 1334,
+  quote: "Don't think of it as failure. Think of it as time-released success.",
+  author: "Robert Orben"
 }
 ```
 
