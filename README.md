@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1374,
-  quote: "Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.",
-  author: "Theodore Rubin"
+  id: 1013,
+  quote: "Do good by stealth, and blush to find it fame.",
+  author: "Alexander Pope"
 }
 ```
 
