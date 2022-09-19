@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 144,
-  quote: "Time is the most valuable thing a man can spend.",
-  author: "Theophrastus"
+  id: 65,
+  quote: "When deeds speak, words are nothing.",
+  author: "African proverb"
 }
 ```
 
