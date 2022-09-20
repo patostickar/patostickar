@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 790,
-  quote: "It is never too late to be what you might have been.",
-  author: "George Eliot"
+  id: 1336,
+  quote: "I walk slowly, but I never walk backward.",
+  author: "Abraham Lincoln"
 }
 ```
 
