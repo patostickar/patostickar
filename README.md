@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1001,
-  quote: "Be less curious about people and more curious about ideas.",
-  author: "Marie Curie"
+  id: 1078,
+  quote: "Good actions give strength to ourselves and inspire good actions in others.",
+  author: "Plato"
 }
 ```
 
