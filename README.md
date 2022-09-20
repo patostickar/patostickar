@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 100,
-  quote: "No man was ever wise by chance.",
-  author: "Seneca"
+  id: 398,
+  quote: "Time changes everything except something within us which is always surprised by change.",
+  author: "Thomas Hardy"
 }
 ```
 
