@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 102,
-  quote: "He that is giddy thinks the world turns round.",
-  author: "William Shakespeare"
+  id: 1455,
+  quote: "It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.",
+  author: "Max Planck"
 }
 ```
 
