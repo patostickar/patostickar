@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 963,
-  quote: "Real success is finding your lifework in the work that you love.",
-  author: "David McCullough"
+  id: 1590,
+  quote: "Life is really simple, but we insist on making it complicated.",
+  author: "Confucius"
 }
 ```
 
