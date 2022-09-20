@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1590,
-  quote: "Life is really simple, but we insist on making it complicated.",
-  author: "Confucius"
+  id: 790,
+  quote: "It is never too late to be what you might have been.",
+  author: "George Eliot"
 }
 ```
 
