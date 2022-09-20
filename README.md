@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 713,
-  quote: "Happiness depends upon ourselves.",
-  author: "Aristotle"
+  id: 100,
+  quote: "No man was ever wise by chance.",
+  author: "Seneca"
 }
 ```
 
