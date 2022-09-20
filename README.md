@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1336,
-  quote: "I walk slowly, but I never walk backward.",
-  author: "Abraham Lincoln"
+  id: 1300,
+  quote: "When deeds and words are in accord, the whole world is transformed.",
+  author: "Chuang Tzu"
 }
 ```
 
