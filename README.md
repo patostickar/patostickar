@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1093,
-  quote: "I never worry about action, but only inaction.",
-  author: "Winston Churchill"
+  id: 193,
+  quote: "Mountains cannot be surmounted except by winding paths.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
