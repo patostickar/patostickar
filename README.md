@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 193,
-  quote: "Mountains cannot be surmounted except by winding paths.",
-  author: "Johann Wolfgang von Goethe"
+  id: 708,
+  quote: "Creativity comes from trust. Trust your instincts. And never hope more than you work.",
+  author: "Rita Mae Brown"
 }
 ```
 
