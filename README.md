@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1515,
-  quote: "I can't believe that God put us on this earth to be ordinary.",
-  author: "Lou Holtz"
+  id: 677,
+  quote: "Take time to deliberate, but when the time for action has arrived, stop thinking and go in.",
+  author: "Napoleon Bonaparte"
 }
 ```
 
