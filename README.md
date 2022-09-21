@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 398,
-  quote: "Time changes everything except something within us which is always surprised by change.",
-  author: "Thomas Hardy"
+  id: 1593,
+  quote: "Beware of the half truth. You may have gotten hold of the wrong half.",
+  author: "null"
 }
 ```
 
