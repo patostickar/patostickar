@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 138,
-  quote: "Nothing strengthens authority so much as silence.",
-  author: "Leonardo da Vinci"
+  id: 1158,
+  quote: "Things do not change, we change.",
+  author: "Henry Thoreau"
 }
 ```
 
