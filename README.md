@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 715,
-  quote: "If one is lucky, a solitary fantasy can totally transform one million realities.",
-  author: "Maya Angelou"
+  id: 969,
+  quote: "Happiness does not come from having much, but from being attached to little.",
+  author: "Cheng Yen"
 }
 ```
 
