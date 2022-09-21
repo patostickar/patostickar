@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 125,
-  quote: "You have to believe in yourself.",
-  author: "Sun Tzu"
+  id: 1515,
+  quote: "I can't believe that God put us on this earth to be ordinary.",
+  author: "Lou Holtz"
 }
 ```
 
