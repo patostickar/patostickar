@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1222,
-  quote: "Never, never, never give up.",
-  author: "Winston Churchill"
+  id: 125,
+  quote: "You have to believe in yourself.",
+  author: "Sun Tzu"
 }
 ```
 
