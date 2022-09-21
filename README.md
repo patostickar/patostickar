@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 589,
-  quote: "When one tugs at a single thing in nature, he finds it attached to the rest of the world.",
-  author: "John Muir"
+  id: 603,
+  quote: "Give it all you've got because you never know if there's going to be a next time.",
+  author: "Danielle Ingrum"
 }
 ```
 
