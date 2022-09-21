@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 603,
-  quote: "Give it all you've got because you never know if there's going to be a next time.",
-  author: "Danielle Ingrum"
+  id: 1093,
+  quote: "I never worry about action, but only inaction.",
+  author: "Winston Churchill"
 }
 ```
 
