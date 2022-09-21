@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1593,
-  quote: "Beware of the half truth. You may have gotten hold of the wrong half.",
-  author: "null"
+  id: 1396,
+  quote: "One may say the eternal mystery of the world is its comprehensibility.",
+  author: "Albert Einstein"
 }
 ```
 
