@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 447,
-  quote: "If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.",
-  author: "Dalai Lama"
+  id: 830,
+  quote: "One who asks a question is a fool for five minutes; one who does not ask a question remains a fool forever.",
+  author: "null"
 }
 ```
 
