@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 127,
-  quote: "Silence is a true friend who never betrays.",
-  author: "Confucius"
+  id: 236,
+  quote: "The journey of a thousand miles begins with one step.",
+  author: "Lao Tzu"
 }
 ```
 
