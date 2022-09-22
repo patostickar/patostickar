@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 236,
-  quote: "The journey of a thousand miles begins with one step.",
-  author: "Lao Tzu"
+  id: 576,
+  quote: "There are only two mistakes one can make along the road to truth; not going all the way, and not starting.",
+  author: "Buddha"
 }
 ```
 
