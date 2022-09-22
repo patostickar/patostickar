@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 519,
-  quote: "Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.",
-  author: "Bruce Lee"
+  id: 611,
+  quote: "The grand essentials of happiness are: something to do, something to love, and something to hope for.",
+  author: "Chalmers"
 }
 ```
 
