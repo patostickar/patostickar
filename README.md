@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 576,
-  quote: "There are only two mistakes one can make along the road to truth; not going all the way, and not starting.",
-  author: "Buddha"
+  id: 1060,
+  quote: "If you can't feed a hundred people, then feed just one.",
+  author: "Mother Teresa"
 }
 ```
 
