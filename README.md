@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1067,
-  quote: "The final proof of greatness lies in being able to endure criticism without resentment.",
-  author: "Elbert Hubbard"
+  id: 244,
+  quote: "Don't smother each other. No one can grow in the shade.",
+  author: "Leo F. Buscaglia"
 }
 ```
 
