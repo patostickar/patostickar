@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1069,
-  quote: "Never let lack of money interfere with having fun.",
-  author: "null"
+  id: 1067,
+  quote: "The final proof of greatness lies in being able to endure criticism without resentment.",
+  author: "Elbert Hubbard"
 }
 ```
 
