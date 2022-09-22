@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 530,
-  quote: "Take no thought of who is right or wrong or who is better than. Be not for or against.",
-  author: "Bruce Lee"
+  id: 951,
+  quote: "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+  author: "Robert Stevenson"
 }
 ```
 
