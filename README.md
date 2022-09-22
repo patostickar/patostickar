@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 694,
-  quote: "Try not to become a man of success but rather try to become a man of value.",
-  author: "Albert Einstein"
+  id: 1383,
+  quote: "Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.",
+  author: "Henry James"
 }
 ```
 
