@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1060,
-  quote: "If you can't feed a hundred people, then feed just one.",
-  author: "Mother Teresa"
+  id: 1353,
+  quote: "The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.",
+  author: "Helen Keller"
 }
 ```
 
