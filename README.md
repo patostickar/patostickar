@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1336,
-  quote: "I walk slowly, but I never walk backward.",
-  author: "Abraham Lincoln"
+  id: 1109,
+  quote: "The one who always loses, is the only person who gets the reward.",
+  author: "Claire Charmont"
 }
 ```
 
