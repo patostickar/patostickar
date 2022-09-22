@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 360,
-  quote: "Be what you are. This is the first step toward becoming better than you are.",
-  author: "Julius Charles Hare"
+  id: 530,
+  quote: "Take no thought of who is right or wrong or who is better than. Be not for or against.",
+  author: "Bruce Lee"
 }
 ```
 
