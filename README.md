@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1383,
-  quote: "Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.",
-  author: "Henry James"
+  id: 519,
+  quote: "Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.",
+  author: "Bruce Lee"
 }
 ```
 
