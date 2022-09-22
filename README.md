@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 983,
-  quote: "Decision is a risk rooted in the courage of being free.",
-  author: "Paul Tillich"
+  id: 360,
+  quote: "Be what you are. This is the first step toward becoming better than you are.",
+  author: "Julius Charles Hare"
 }
 ```
 
