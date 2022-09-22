@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 481,
-  quote: "What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.",
-  author: "Sai Baba"
+  id: 983,
+  quote: "Decision is a risk rooted in the courage of being free.",
+  author: "Paul Tillich"
 }
 ```
 
