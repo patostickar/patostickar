@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 673,
-  quote: "I cannot always control what goes on outside. But I can always control what goes on inside.",
-  author: "Wayne Dyer"
+  id: 1478,
+  quote: "Better than a thousand hollow words is one word that brings peace.",
+  author: "Buddha"
 }
 ```
 
