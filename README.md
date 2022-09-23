@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 99,
-  quote: "Do more than dream: work.",
-  author: "William Arthur Ward"
+  id: 199,
+  quote: "Knowing is not enough; we must apply!",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
