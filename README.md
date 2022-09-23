@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 199,
-  quote: "Knowing is not enough; we must apply!",
-  author: "Johann Wolfgang von Goethe"
+  id: 991,
+  quote: "Joy is the best makeup.",
+  author: "Anne Lamott"
 }
 ```
 
