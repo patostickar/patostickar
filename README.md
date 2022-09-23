@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1123,
-  quote: "Nothing great was ever achieved without enthusiasm.",
-  author: "Ralph Emerson"
+  id: 673,
+  quote: "I cannot always control what goes on outside. But I can always control what goes on inside.",
+  author: "Wayne Dyer"
 }
 ```
 
