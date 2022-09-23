@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1582,
-  quote: "Miracles come in moments. Be ready and willing.",
-  author: "Wayne Dyer"
+  id: 1428,
+  quote: "Failure will never overtake me if my determination to succeed is strong enough.",
+  author: "Og Mandino"
 }
 ```
 
