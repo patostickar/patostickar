@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1353,
-  quote: "The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.",
-  author: "Helen Keller"
+  id: 1123,
+  quote: "Nothing great was ever achieved without enthusiasm.",
+  author: "Ralph Emerson"
 }
 ```
 
