@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 172,
-  quote: "The day always looks brighter from behind a smile.",
-  author: "null"
+  id: 866,
+  quote: "Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared.",
+  author: "Buddha"
 }
 ```
 
