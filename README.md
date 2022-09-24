@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1222,
-  quote: "Never, never, never give up.",
-  author: "Winston Churchill"
+  id: 147,
+  quote: "I think and that is all that I am.",
+  author: "Wayne Dyer"
 }
 ```
 
