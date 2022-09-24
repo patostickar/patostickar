@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 410,
-  quote: "We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.",
-  author: "Sam Keen"
+  id: 359,
+  quote: "It is fatal to enter any war without the will to win it.",
+  author: "General Douglas MacArthur"
 }
 ```
 
