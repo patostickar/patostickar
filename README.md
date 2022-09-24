@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1035,
-  quote: "We must embrace pain and burn it as fuel for our journey.",
-  author: "Kenji Miyazawa"
+  id: 961,
+  quote: "No day in which you learn something is a complete loss.",
+  author: "David Eddings"
 }
 ```
 
