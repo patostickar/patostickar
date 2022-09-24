@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 147,
-  quote: "I think and that is all that I am.",
-  author: "Wayne Dyer"
+  id: 1572,
+  quote: "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
+  author: "Marcus Aurelius"
 }
 ```
 
