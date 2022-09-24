@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 753,
-  quote: "It is better to understand a little than to misunderstand a lot.",
-  author: "Anatole France"
+  id: 1446,
+  quote: "The more you care, the stronger you can be.",
+  author: "Jim Rohn"
 }
 ```
 
