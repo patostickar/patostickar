@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1446,
-  quote: "The more you care, the stronger you can be.",
-  author: "Jim Rohn"
+  id: 893,
+  quote: "We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.",
+  author: "Uta Hagen"
 }
 ```
 
