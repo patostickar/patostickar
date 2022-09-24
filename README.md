@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1055,
-  quote: "If you can't explain it simply, you don't understand it well enough.",
-  author: "Albert Einstein"
+  id: 1035,
+  quote: "We must embrace pain and burn it as fuel for our journey.",
+  author: "Kenji Miyazawa"
 }
 ```
 
