@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 359,
-  quote: "It is fatal to enter any war without the will to win it.",
-  author: "General Douglas MacArthur"
+  id: 865,
+  quote: "Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.",
+  author: "Thomas Carlyle"
 }
 ```
 
