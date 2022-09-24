@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1572,
-  quote: "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
-  author: "Marcus Aurelius"
+  id: 262,
+  quote: "All things change; nothing perishes.",
+  author: "Ovid"
 }
 ```
 
