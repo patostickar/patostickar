@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1208,
-  quote: "As an organizer I start from where the world is, as it is, not as I would like it to be.",
-  author: "Saul Alinsky"
+  id: 459,
+  quote: "You cannot find yourself by going into the past. You can find yourself by coming into the present.",
+  author: "Eckhart Tolle"
 }
 ```
 
