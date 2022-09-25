@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 215,
-  quote: "Nature takes away any faculty that is not used.",
-  author: "William R. Inge"
+  id: 859,
+  quote: "A man should look for what is, and not for what he thinks should be.",
+  author: "Albert Einstein"
 }
 ```
 
