@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 824,
-  quote: "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
-  author: "Aristotle"
+  id: 833,
+  quote: "We have two ears and one mouth so that we can listen twice as much as we speak.",
+  author: "Epictetus"
 }
 ```
 
