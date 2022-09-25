@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 598,
-  quote: "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.",
-  author: "Epictetus"
+  id: 397,
+  quote: "Life is a succession of lessons, which must be lived to be understood.",
+  author: "Ralph Emerson"
 }
 ```
 
