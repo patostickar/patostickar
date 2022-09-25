@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 459,
-  quote: "You cannot find yourself by going into the past. You can find yourself by coming into the present.",
-  author: "Eckhart Tolle"
+  id: 482,
+  quote: "Genuine love should first be directed at oneself if we do not love ourselves, how can we love others?",
+  author: "Dalai Lama"
 }
 ```
 
