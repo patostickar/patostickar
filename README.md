@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1438,
-  quote: "Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.",
-  author: "Aristotle"
+  id: 969,
+  quote: "Happiness does not come from having much, but from being attached to little.",
+  author: "Cheng Yen"
 }
 ```
 
