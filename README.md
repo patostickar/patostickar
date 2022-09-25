@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 571,
-  quote: "He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.",
-  author: "Pablo Picasso"
+  id: 660,
+  quote: "When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.",
+  author: "Abraham Lincoln"
 }
 ```
 
