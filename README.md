@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 397,
-  quote: "Life is a succession of lessons, which must be lived to be understood.",
-  author: "Ralph Emerson"
+  id: 912,
+  quote: "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.",
+  author: "Helen Keller"
 }
 ```
 
