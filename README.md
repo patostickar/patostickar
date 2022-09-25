@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 482,
-  quote: "Genuine love should first be directed at oneself if we do not love ourselves, how can we love others?",
-  author: "Dalai Lama"
+  id: 913,
+  quote: "Although there may be tragedy in your life, there's always a possibility to triumph. It doesn't matter who you are, where you come from. The ability to triumph begins with you. Always.",
+  author: "Oprah Winfrey"
 }
 ```
 
