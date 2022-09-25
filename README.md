@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 969,
-  quote: "Happiness does not come from having much, but from being attached to little.",
-  author: "Cheng Yen"
+  id: 652,
+  quote: "Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.",
+  author: "Eknath Easwaran"
 }
 ```
 
