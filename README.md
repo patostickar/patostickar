@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1550,
-  quote: "I have no special talent. I am only passionately curious.",
-  author: "Albert Einstein"
+  id: 150,
+  quote: "Each day provides its own gifts.",
+  author: "Marcus Aurelius"
 }
 ```
 
