@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1115,
-  quote: "Nothing is at last sacred but the integrity of your own mind.",
-  author: "Ralph Emerson"
+  id: 1077,
+  quote: "Most of the shadows of life are caused by standing in our own sunshine.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
