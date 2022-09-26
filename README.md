@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 895,
-  quote: "Everything can be taken from a man but ... the last of the human freedoms to choose ones attitude in any given set of circumstances, to choose ones own way.",
-  author: "Victor Frankl"
+  id: 691,
+  quote: "Life's challenges are not supposed to paralyse you, they're supposed to help you discover who you are.",
+  author: "Bernice Reagon"
 }
 ```
 
