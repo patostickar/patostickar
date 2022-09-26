@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 132,
-  quote: "Speak low, if you speak love.",
-  author: "William Shakespeare"
+  id: 1550,
+  quote: "I have no special talent. I am only passionately curious.",
+  author: "Albert Einstein"
 }
 ```
 
