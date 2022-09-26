@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 991,
-  quote: "Joy is the best makeup.",
-  author: "Anne Lamott"
+  id: 238,
+  quote: "Blaze with the fire that is never extinguished.",
+  author: "Luisa Sigea"
 }
 ```
 
