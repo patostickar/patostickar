@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 150,
-  quote: "Each day provides its own gifts.",
-  author: "Marcus Aurelius"
+  id: 800,
+  quote: "A smile is a light in the window of your face to show your heart is at home.",
+  author: "null"
 }
 ```
 
