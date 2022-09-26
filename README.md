@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 691,
-  quote: "Life's challenges are not supposed to paralyse you, they're supposed to help you discover who you are.",
-  author: "Bernice Reagon"
+  id: 1374,
+  quote: "Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.",
+  author: "Theodore Rubin"
 }
 ```
 
