@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 167,
-  quote: "Never ignore a gut feeling, but never believe that it's enough.",
-  author: "Robert Heller"
+  id: 1452,
+  quote: "Giving up doesn't always mean you are weak; sometimes it means that you are strong enough to let go.",
+  author: "null"
 }
 ```
 
