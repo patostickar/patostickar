@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1291,
-  quote: "First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.",
-  author: "Napoleon Hill"
+  id: 1574,
+  quote: "I have an everyday religion that works for me. Love yourself first, and everything else falls into line.",
+  author: "Lucille Ball"
 }
 ```
 
