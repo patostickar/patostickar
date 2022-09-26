@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 803,
-  quote: "The least movement is of importance to all nature. The entire ocean is affected by a pebble.",
-  author: "Blaise Pascal"
+  id: 1458,
+  quote: "And as we let our own light shine, we unconsciously give other people permission to do the same.",
+  author: "Nelson Mandela"
 }
 ```
 
