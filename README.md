@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1216,
-  quote: "The world turns aside to let any man pass who knows where he is going.",
-  author: "Epictetus"
+  id: 686,
+  quote: "Responsibility is not inherited, it is a choice that everyone needs to make at some point in their life.",
+  author: "Byron Pulsifer"
 }
 ```
 
