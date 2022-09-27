@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 846,
-  quote: "The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
-  author: "Henry Miller"
+  id: 1260,
+  quote: "Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.",
+  author: "Whoopi Goldberg"
 }
 ```
 
