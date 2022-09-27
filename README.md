@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 934,
-  quote: "Sooner or later, those who win are those who think they can.",
-  author: "Richard Bach"
+  id: 61,
+  quote: "Without courage, wisdom bears no fruit.",
+  author: "Baltasar Gracian"
 }
 ```
 
