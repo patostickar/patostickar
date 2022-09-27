@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1191,
-  quote: "What separates the winners from the losers is how a person reacts to each new twist of fate.",
-  author: "Donald Trump"
+  id: 1068,
+  quote: "An invasion of armies can be resisted, but not an idea whose time has come.",
+  author: "Victor Hugo"
 }
 ```
 
