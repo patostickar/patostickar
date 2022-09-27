@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 29,
-  quote: "Well done is better than well said.",
-  author: "Benjamin Franklin"
+  id: 1191,
+  quote: "What separates the winners from the losers is how a person reacts to each new twist of fate.",
+  author: "Donald Trump"
 }
 ```
 
