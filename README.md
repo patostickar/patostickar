@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 280,
-  quote: "All the great performers I have worked with are fuelled by a personal dream.",
-  author: "John Eliot"
+  id: 406,
+  quote: "A life spent making mistakes is not only more honourable but more useful than a life spent in doing nothing.",
+  author: "Bernard Shaw"
 }
 ```
 
