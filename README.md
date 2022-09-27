@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1571,
-  quote: "I think you can have moderate success by copying something else, but if you really want to knock it out of the park, you have to do something different and take chances.",
-  author: "Lee Womack"
+  id: 1470,
+  quote: "The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.",
+  author: "Cecil B. DeMille"
 }
 ```
 
