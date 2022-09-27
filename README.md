@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1615,
-  quote: "Joy is what happens to us when we allow ourselves to recognize how good things really are.",
-  author: "Marianne Williamson"
+  id: 934,
+  quote: "Sooner or later, those who win are those who think they can.",
+  author: "Richard Bach"
 }
 ```
 
