@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 680,
-  quote: "You cannot make yourself feel something you do not feel, but you can make yourself do right in spite of your feelings.",
-  author: "Pearl Buck"
+  id: 1216,
+  quote: "The world turns aside to let any man pass who knows where he is going.",
+  author: "Epictetus"
 }
 ```
 
