@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 686,
-  quote: "Responsibility is not inherited, it is a choice that everyone needs to make at some point in their life.",
-  author: "Byron Pulsifer"
+  id: 1615,
+  quote: "Joy is what happens to us when we allow ourselves to recognize how good things really are.",
+  author: "Marianne Williamson"
 }
 ```
 
