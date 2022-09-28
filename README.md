@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 560,
-  quote: "Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?",
-  author: "Confucius"
+  id: 1225,
+  quote: "Failure doesn't mean you are a failure it just means you haven't succeeded yet.",
+  author: "Robert Schuller"
 }
 ```
 
