@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1306,
-  quote: "Spring is a time for rebirth and the fulfilment of new life.",
-  author: "Byron Pulsifer"
+  id: 344,
+  quote: "We should all be thankful for those people who rekindle the inner spirit.",
+  author: "Albert Schweitzer"
 }
 ```
 
