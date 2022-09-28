@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 918,
-  quote: "Parents can only give good advice or put them on the right paths, but the final forming of a persons character lies in their own hands.",
-  author: "Anne Frank"
+  id: 521,
+  quote: "Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.",
+  author: "Mother Teresa"
 }
 ```
 
