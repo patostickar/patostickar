@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1471,
-  quote: "My reputation grows with every failure.",
-  author: "George Shaw"
+  id: 1414,
+  quote: "To listen well is as powerful a means of communication and influence as to talk well.",
+  author: "John Marshall"
 }
 ```
 
