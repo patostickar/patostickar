@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1462,
-  quote: "We read the world wrong and say that it deceives us.",
-  author: "Rabindranath Tagore"
+  id: 873,
+  quote: "Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.",
+  author: "Jean-Paul Sartre"
 }
 ```
 
