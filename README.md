@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 521,
-  quote: "Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.",
-  author: "Mother Teresa"
+  id: 95,
+  quote: "Set your goals high, and don't stop till you get there.",
+  author: "Bo Jackson"
 }
 ```
 
