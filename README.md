@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 99,
-  quote: "Do more than dream: work.",
-  author: "William Arthur Ward"
+  id: 1547,
+  quote: "Imagination will often carry us to worlds that never were. But without it we go nowhere.",
+  author: "Carl Sagan"
 }
 ```
 
