@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 10,
-  quote: "Peace comes from within. Do not seek it without.",
-  author: "Buddha"
+  id: 775,
+  quote: "Can you imagine what I would do if I could do all I can?",
+  author: "Sun Tzu"
 }
 ```
 
