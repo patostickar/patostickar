@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1179,
-  quote: "Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.",
-  author: "Jamie Paolinetti"
+  id: 1462,
+  quote: "We read the world wrong and say that it deceives us.",
+  author: "Rabindranath Tagore"
 }
 ```
 
