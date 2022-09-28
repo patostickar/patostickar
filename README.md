@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 344,
-  quote: "We should all be thankful for those people who rekindle the inner spirit.",
-  author: "Albert Schweitzer"
+  id: 1471,
+  quote: "My reputation grows with every failure.",
+  author: "George Shaw"
 }
 ```
 
