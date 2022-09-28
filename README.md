@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1139,
-  quote: "If you come to a fork in the road, take it.",
-  author: "null"
+  id: 560,
+  quote: "Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?",
+  author: "Confucius"
 }
 ```
 
