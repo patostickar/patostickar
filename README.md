@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1225,
-  quote: "Failure doesn't mean you are a failure it just means you haven't succeeded yet.",
-  author: "Robert Schuller"
+  id: 1179,
+  quote: "Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.",
+  author: "Jamie Paolinetti"
 }
 ```
 
