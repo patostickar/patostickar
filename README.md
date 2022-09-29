@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1301,
-  quote: "Kind words can be short and easy to speak but their echoes are truly endless.",
+  id: 1490,
+  quote: "Do not wait for leaders; do it alone, person to person.",
   author: "Mother Teresa"
 }
 ```
