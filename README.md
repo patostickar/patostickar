@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1612,
-  quote: "He who knows that enough is enough will always have enough.",
-  author: "Lao Tzu"
+  id: 1039,
+  quote: "The place to improve the world is first in one's own heart and head and hands.",
+  author: "Robert M. Pirsig"
 }
 ```
 
