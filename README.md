@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1220,
-  quote: "To be great is to be misunderstood.",
-  author: "Ralph Emerson"
+  id: 94,
+  quote: "You can do it if you believe you can!",
+  author: "Napoleon Hill"
 }
 ```
 
