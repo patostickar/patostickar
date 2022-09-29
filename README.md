@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1172,
-  quote: "Kindness is the language which the deaf can hear and the blind can see.",
-  author: "Mark Twain"
+  id: 1301,
+  quote: "Kind words can be short and easy to speak but their echoes are truly endless.",
+  author: "Mother Teresa"
 }
 ```
 
