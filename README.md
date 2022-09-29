@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 414,
-  quote: "There is no retirement for an artist, it's your way of living so there is no end to it.",
-  author: "Henry Moore"
+  id: 677,
+  quote: "Take time to deliberate, but when the time for action has arrived, stop thinking and go in.",
+  author: "Napoleon Bonaparte"
 }
 ```
 
