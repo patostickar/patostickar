@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1575,
-  quote: "Flow with whatever is happening and let your mind be free. Stay centred by accepting whatever you are doing. This is the ultimate.",
-  author: "Chuang Tzu"
+  id: 503,
+  quote: "Life is not measured by the breaths we take, but by the moments that take our breath.",
+  author: "null"
 }
 ```
 
