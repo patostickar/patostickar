@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 194,
-  quote: "May our hearts garden of awakening bloom with hundreds of flowers.",
-  author: "Thich Nhat Hanh"
+  id: 558,
+  quote: "One must be fond of people and trust them if one is not to make a mess of life.",
+  author: "E. M. Forster"
 }
 ```
 
