@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 626,
-  quote: "A true friend is the most precious of all possessions and the one we take the least thought about acquiring.",
-  author: "Francois de La Rochefoucauld"
+  id: 948,
+  quote: "Success is getting what you want. Happiness is wanting what you get.",
+  author: "Dale Carnegie"
 }
 ```
 
