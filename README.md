@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 503,
-  quote: "Life is not measured by the breaths we take, but by the moments that take our breath.",
-  author: "null"
+  id: 414,
+  quote: "There is no retirement for an artist, it's your way of living so there is no end to it.",
+  author: "Henry Moore"
 }
 ```
 
