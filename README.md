@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1425,
-  quote: "I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.",
-  author: "G. K. Chesterton"
+  id: 1528,
+  quote: "He who knows others is wise. He who knows himself is enlightened.",
+  author: "Lao Tzu"
 }
 ```
 
