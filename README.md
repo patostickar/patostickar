@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 558,
-  quote: "One must be fond of people and trust them if one is not to make a mess of life.",
-  author: "E. M. Forster"
+  id: 1575,
+  quote: "Flow with whatever is happening and let your mind be free. Stay centred by accepting whatever you are doing. This is the ultimate.",
+  author: "Chuang Tzu"
 }
 ```
 
