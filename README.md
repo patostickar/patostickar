@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 120,
-  quote: "Yesterday I dared to struggle. Today I dare to win.",
-  author: "Bernadette Devlin"
+  id: 297,
+  quote: "Life is a process. We are a process. The universe is a process.",
+  author: "Anne Schaef"
 }
 ```
 
