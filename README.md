@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 196,
-  quote: "Keep true to the dreams of thy youth.",
-  author: "Friedrich von Schiller"
+  id: 1298,
+  quote: "Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can't build on it; it's only for wallowing in.",
+  author: "Katherine Mansfield"
 }
 ```
 
