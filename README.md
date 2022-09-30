@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 45,
-  quote: "Be kind whenever possible. It is always possible.",
-  author: "Dalai Lama"
+  id: 1628,
+  quote: "Great is the art of beginning, but greater is the art of ending.",
+  author: "Lazurus Long"
 }
 ```
 
