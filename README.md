@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 504,
-  quote: "The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.",
-  author: "Honore de Balzac"
+  id: 604,
+  quote: "You have to take it as it happens, but you should try to make it happen the way you want to take it.",
+  author: "Old German proverb"
 }
 ```
 
