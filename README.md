@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 677,
-  quote: "Take time to deliberate, but when the time for action has arrived, stop thinking and go in.",
-  author: "Napoleon Bonaparte"
+  id: 1098,
+  quote: "Every man is a volume if you know how to read him.",
+  author: "Channing"
 }
 ```
 
