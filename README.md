@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 154,
-  quote: "Begin to weave and God will give you the thread.",
+  id: 116,
+  quote: "Silence is a fence around wisdom.",
   author: "German proverb"
 }
 ```
