@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 116,
-  quote: "Silence is a fence around wisdom.",
-  author: "German proverb"
+  id: 432,
+  quote: "Your destiny isn't just fate; it is how you use your own developed abilities to get what you want.",
+  author: "Byron Pulsifer"
 }
 ```
 
