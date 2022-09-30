@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1098,
-  quote: "Every man is a volume if you know how to read him.",
-  author: "Channing"
+  id: 1310,
+  quote: "We make a living by what we get, but we make a life by what we give.",
+  author: "Winston Churchill"
 }
 ```
 
