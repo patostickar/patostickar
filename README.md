@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 11,
-  quote: "What you give is what you get.",
-  author: "Byron Pulsifer"
+  id: 154,
+  quote: "Begin to weave and God will give you the thread.",
+  author: "German proverb"
 }
 ```
 
