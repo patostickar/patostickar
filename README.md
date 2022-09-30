@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 299,
-  quote: "We learn what we have said from those who listen to our speaking.",
-  author: "Kenneth Patton"
+  id: 120,
+  quote: "Yesterday I dared to struggle. Today I dare to win.",
+  author: "Bernadette Devlin"
 }
 ```
 
