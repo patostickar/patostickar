@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1505,
-  quote: "Continuous effort, not strength or intelligence is the key to unlocking our potential.",
-  author: "Winston Churchill"
+  id: 504,
+  quote: "The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.",
+  author: "Honore de Balzac"
 }
 ```
 
