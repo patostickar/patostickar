@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 297,
-  quote: "Life is a process. We are a process. The universe is a process.",
-  author: "Anne Schaef"
+  id: 305,
+  quote: "Don't focus on making the right decision, focus on making the decision the right one.",
+  author: "null"
 }
 ```
 
