@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 362,
-  quote: "Love and compassion open our own inner life, reducing stress, distrust and loneliness.",
-  author: "Dalai Lama"
+  id: 857,
+  quote: "Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.",
+  author: "Albert Schweitzer"
 }
 ```
 
