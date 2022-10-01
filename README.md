@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1153,
-  quote: "Age does not protect you from love. But love, to some extent, protects you from age.",
-  author: "Anais Nin"
+  id: 362,
+  quote: "Love and compassion open our own inner life, reducing stress, distrust and loneliness.",
+  author: "Dalai Lama"
 }
 ```
 
