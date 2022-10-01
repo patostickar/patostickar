@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1550,
-  quote: "I have no special talent. I am only passionately curious.",
-  author: "Albert Einstein"
+  id: 977,
+  quote: "Only when we are no longer afraid do we begin to live.",
+  author: "Dorothy Thompson"
 }
 ```
 
