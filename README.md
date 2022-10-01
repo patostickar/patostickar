@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 977,
-  quote: "Only when we are no longer afraid do we begin to live.",
-  author: "Dorothy Thompson"
+  id: 81,
+  quote: "Those who are free of resentful thoughts surely find peace.",
+  author: "Buddha"
 }
 ```
 
