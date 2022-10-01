@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 89,
-  quote: "Luck is what happens when preparation meets opportunity.",
-  author: "Seneca"
+  id: 295,
+  quote: "Successful people ask better questions, and as a result, they get better answers.",
+  author: "Tony Robbins"
 }
 ```
 
