@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1411,
-  quote: "Be a good listener. Your ears will never get you in trouble.",
-  author: "Frank Tyger"
+  id: 673,
+  quote: "I cannot always control what goes on outside. But I can always control what goes on inside.",
+  author: "Wayne Dyer"
 }
 ```
 
