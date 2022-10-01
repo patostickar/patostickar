@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 857,
-  quote: "Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.",
-  author: "Albert Schweitzer"
+  id: 275,
+  quote: "Each misfortune you encounter will carry in it the seed of tomorrows good luck.",
+  author: "Og Mandino"
 }
 ```
 
