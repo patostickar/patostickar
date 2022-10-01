@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 81,
-  quote: "Those who are free of resentful thoughts surely find peace.",
-  author: "Buddha"
+  id: 1153,
+  quote: "Age does not protect you from love. But love, to some extent, protects you from age.",
+  author: "Anais Nin"
 }
 ```
 
