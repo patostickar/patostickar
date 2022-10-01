@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 295,
-  quote: "Successful people ask better questions, and as a result, they get better answers.",
-  author: "Tony Robbins"
+  id: 1506,
+  quote: "Obstacles are those frightful things you see when you take your eyes off your goal.",
+  author: "Henry Ford"
 }
 ```
 
