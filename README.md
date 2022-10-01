@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 967,
-  quote: "As you think, so shall you become.",
-  author: "Bruce Lee"
+  id: 1205,
+  quote: "There is no scarcity of opportunity to make a living at what you love; theres only scarcity of resolve to make it happen.",
+  author: "Wayne Dyer"
 }
 ```
 
