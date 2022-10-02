@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 525,
-  quote: "Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.",
-  author: "Ovid"
+  id: 1024,
+  quote: "Kindness is the golden chain by which society is bound together.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
