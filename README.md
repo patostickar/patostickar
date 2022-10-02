@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 762,
-  quote: "History will be kind to me for I intend to write it.",
-  author: "Winston Churchill"
+  id: 525,
+  quote: "Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.",
+  author: "Ovid"
 }
 ```
 
