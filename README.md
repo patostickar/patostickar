@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1094,
-  quote: "No man is free who is not master of himself.",
-  author: "Epictetus"
+  id: 850,
+  quote: "To be thoughtful and kind only takes a few seconds compared to the timeless hurt caused by one rude gesture.",
+  author: "Byron Pulsifer"
 }
 ```
 
