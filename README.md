@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 850,
-  quote: "To be thoughtful and kind only takes a few seconds compared to the timeless hurt caused by one rude gesture.",
-  author: "Byron Pulsifer"
+  id: 1144,
+  quote: "Excellence is to do a common thing in an uncommon way.",
+  author: "Booker Washington"
 }
 ```
 
