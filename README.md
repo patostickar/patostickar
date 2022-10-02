@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 790,
-  quote: "It is never too late to be what you might have been.",
-  author: "George Eliot"
+  id: 1170,
+  quote: "You can't choose up sides on a round world.",
+  author: "Wayne Dyer"
 }
 ```
 
