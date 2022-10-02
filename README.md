@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 440,
-  quote: "I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.",
-  author: "Og Mandino"
+  id: 762,
+  quote: "History will be kind to me for I intend to write it.",
+  author: "Winston Churchill"
 }
 ```
 
