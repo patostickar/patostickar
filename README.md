@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1126,
-  quote: "A man is not old as long as he is seeking something.",
-  author: "Edmond Rostand"
+  id: 620,
+  quote: "You can only grow if you're willing to feel awkward and uncomfortable when you try something new.",
+  author: "Brian Tracy"
 }
 ```
 
