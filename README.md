@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1247,
-  quote: "Happiness often sneaks in through a door you didn't know you left open.",
-  author: "John Barrymore"
+  id: 1388,
+  quote: "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
+  author: "Albert Einstein"
 }
 ```
 
