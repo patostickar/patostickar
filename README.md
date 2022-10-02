@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1144,
-  quote: "Excellence is to do a common thing in an uncommon way.",
-  author: "Booker Washington"
+  id: 1247,
+  quote: "Happiness often sneaks in through a door you didn't know you left open.",
+  author: "John Barrymore"
 }
 ```
 
