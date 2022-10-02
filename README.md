@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 20,
-  quote: "Trouble is only opportunity in work clothes.",
-  author: "Henry J. Kaiser"
+  id: 1490,
+  quote: "Do not wait for leaders; do it alone, person to person.",
+  author: "Mother Teresa"
 }
 ```
 
