@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 49,
-  quote: "To succeed, we must first believe that we can.",
-  author: "Michael Korda"
+  id: 1094,
+  quote: "No man is free who is not master of himself.",
+  author: "Epictetus"
 }
 ```
 
