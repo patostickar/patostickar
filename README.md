@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1221,
-  quote: "Trust only movement. Life happens at the level of events, not of words. Trust movement.",
-  author: "Alfred Adler"
+  id: 20,
+  quote: "Trouble is only opportunity in work clothes.",
+  author: "Henry J. Kaiser"
 }
 ```
 
