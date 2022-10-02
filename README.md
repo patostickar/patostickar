@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 620,
-  quote: "You can only grow if you're willing to feel awkward and uncomfortable when you try something new.",
-  author: "Brian Tracy"
+  id: 1531,
+  quote: "If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow.",
+  author: "Rachel Carson"
 }
 ```
 
