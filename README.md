@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 679,
-  quote: "Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.",
-  author: "Franklin Roosevelt"
+  id: 1132,
+  quote: "It is impossible to feel grateful and depressed in the same moment.",
+  author: "Naomi Williams"
 }
 ```
 
