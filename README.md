@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1281,
-  quote: "Make the most of yourself for that is all there is of you.",
-  author: "Ralph Emerson"
+  id: 679,
+  quote: "Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.",
+  author: "Franklin Roosevelt"
 }
 ```
 
