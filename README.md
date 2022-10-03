@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 23,
-  quote: "Everything in life is luck.",
-  author: "Donald Trump"
+  id: 263,
+  quote: "Absence makes the heart grow fonder.",
+  author: "Haynes Bayly"
 }
 ```
 
