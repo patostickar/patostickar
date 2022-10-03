@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1545,
-  quote: "Dreams come true. Without that possibility, nature would not incite us to have them.",
-  author: "John Updike"
+  id: 679,
+  quote: "Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.",
+  author: "Franklin Roosevelt"
 }
 ```
 
