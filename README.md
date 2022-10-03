@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1345,
-  quote: "Compassion and happiness are not a sign of weakness but a sign of strength.",
-  author: "Dalai Lama"
+  id: 595,
+  quote: "If you accept the expectations of others, especially negative ones, then you never will change the outcome.",
+  author: "Michael Jordan"
 }
 ```
 
