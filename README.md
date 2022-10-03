@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1487,
-  quote: "What the caterpillar calls the end of the world, the master calls a butterfly.",
-  author: "Richard Bach"
+  id: 1014,
+  quote: "Opportunity often comes disguised in the form of misfortune, or temporary defeat.",
+  author: "Napoleon Hill"
 }
 ```
 
