@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 679,
-  quote: "Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.",
-  author: "Franklin Roosevelt"
+  id: 1345,
+  quote: "Compassion and happiness are not a sign of weakness but a sign of strength.",
+  author: "Dalai Lama"
 }
 ```
 
