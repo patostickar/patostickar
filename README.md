@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1366,
-  quote: "You cannot have what you do not want.",
-  author: "John Acosta"
+  id: 1487,
+  quote: "What the caterpillar calls the end of the world, the master calls a butterfly.",
+  author: "Richard Bach"
 }
 ```
 
