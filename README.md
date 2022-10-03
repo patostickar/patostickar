@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 263,
-  quote: "Absence makes the heart grow fonder.",
-  author: "Haynes Bayly"
+  id: 132,
+  quote: "Speak low, if you speak love.",
+  author: "William Shakespeare"
 }
 ```
 
