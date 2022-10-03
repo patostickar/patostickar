@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1014,
-  quote: "Opportunity often comes disguised in the form of misfortune, or temporary defeat.",
-  author: "Napoleon Hill"
+  id: 387,
+  quote: "Every action of our lives touches on some chord that will vibrate in eternity.",
+  author: "Edwin Chapin"
 }
 ```
 
