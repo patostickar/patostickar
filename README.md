@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1388,
-  quote: "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
-  author: "Albert Einstein"
+  id: 610,
+  quote: "The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.",
+  author: "Seneca"
 }
 ```
 
