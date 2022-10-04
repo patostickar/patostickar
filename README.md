@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 757,
-  quote: "Know, first, who you are, and then adorn yourself accordingly.",
-  author: "Epictetus"
+  id: 354,
+  quote: "Never bend your head. Always hold it high. Look the world right in the eye.",
+  author: "Helen Keller"
 }
 ```
 
