@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1150,
-  quote: "Take it easy, but take it.",
-  author: "Woody Guthrie"
+  id: 432,
+  quote: "Your destiny isn't just fate; it is how you use your own developed abilities to get what you want.",
+  author: "Byron Pulsifer"
 }
 ```
 
