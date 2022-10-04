@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1613,
-  quote: "The only way to have a friend is to be one.",
-  author: "Ralph Emerson"
+  id: 980,
+  quote: "In all chaos there is a cosmos, in all disorder a secret order.",
+  author: "Carl Jung"
 }
 ```
 
