@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 408,
-  quote: "Don't leave a stone unturned. It's always something, to know you have done the most you could.",
-  author: "Charles Dickens"
+  id: 757,
+  quote: "Know, first, who you are, and then adorn yourself accordingly.",
+  author: "Epictetus"
 }
 ```
 
