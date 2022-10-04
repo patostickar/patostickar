@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 432,
-  quote: "Your destiny isn't just fate; it is how you use your own developed abilities to get what you want.",
-  author: "Byron Pulsifer"
+  id: 408,
+  quote: "Don't leave a stone unturned. It's always something, to know you have done the most you could.",
+  author: "Charles Dickens"
 }
 ```
 
