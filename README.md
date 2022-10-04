@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 248,
-  quote: "The cautious seldom err.",
-  author: "Confucius"
+  id: 1355,
+  quote: "The man who trusts men will make fewer mistakes than he who distrusts them.",
+  author: "Cavour"
 }
 ```
 
