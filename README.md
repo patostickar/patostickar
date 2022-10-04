@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1424,
-  quote: "You cannot be lonely if you like the person you're alone with.",
-  author: "Wayne Dyer"
+  id: 1613,
+  quote: "The only way to have a friend is to be one.",
+  author: "Ralph Emerson"
 }
 ```
 
