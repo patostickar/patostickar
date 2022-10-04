@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 25,
-  quote: "Trust yourself. You know more than you think you do.",
-  author: "Benjamin Spock"
+  id: 1424,
+  quote: "You cannot be lonely if you like the person you're alone with.",
+  author: "Wayne Dyer"
 }
 ```
 
