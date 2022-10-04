@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1132,
-  quote: "It is impossible to feel grateful and depressed in the same moment.",
-  author: "Naomi Williams"
+  id: 513,
+  quote: "We all live with the objective of being happy; our lives are all different and yet the same.",
+  author: "Anne Frank"
 }
 ```
 
