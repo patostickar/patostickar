@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 646,
-  quote: "The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.",
-  author: "Thomas Edison"
+  id: 823,
+  quote: "A bend in the road is not the end of the road...unless you fail to make the turn.",
+  author: "null"
 }
 ```
 
