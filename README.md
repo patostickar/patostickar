@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 513,
-  quote: "We all live with the objective of being happy; our lives are all different and yet the same.",
-  author: "Anne Frank"
+  id: 1124,
+  quote: "The meaning I picked, the one that changed my life: Overcome fear, behold wonder.",
+  author: "Richard Bach"
 }
 ```
 
