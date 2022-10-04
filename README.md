@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1124,
-  quote: "The meaning I picked, the one that changed my life: Overcome fear, behold wonder.",
-  author: "Richard Bach"
+  id: 1229,
+  quote: "Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, Something is out of tune.",
+  author: "Carl Jung"
 }
 ```
 
