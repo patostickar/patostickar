@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 386,
-  quote: "The only limit to our realization of tomorrow will be our doubts of today.",
-  author: "Franklin Roosevelt"
+  id: 1430,
+  quote: "Wrinkles should merely indicate where smiles have been.",
+  author: "Mark Twain"
 }
 ```
 
