@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1430,
-  quote: "Wrinkles should merely indicate where smiles have been.",
-  author: "Mark Twain"
+  id: 646,
+  quote: "The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.",
+  author: "Thomas Edison"
 }
 ```
 
