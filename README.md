@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 829,
-  quote: "I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.",
-  author: "Herbert Swope"
+  id: 1313,
+  quote: "The first duty of a human being is to assume the right functional relationship to society more briefly, to find your real job, and do it.",
+  author: "Charlotte Perkins Gilman"
 }
 ```
 
