@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 187,
-  quote: "I destroy my enemies when I make them my friends.",
-  author: "Abraham Lincoln"
+  id: 726,
+  quote: "When the solution is simple, God is answering.",
+  author: "Albert Einstein"
 }
 ```
 
