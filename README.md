@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 588,
-  quote: "The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.",
-  author: "Charles Lamb"
+  id: 704,
+  quote: "It is in your moments of decision that your destiny is shaped.",
+  author: "Tony Robbins"
 }
 ```
 
