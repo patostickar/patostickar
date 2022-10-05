@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1421,
-  quote: "By accepting yourself and being fully what you are, your presence can make others happy.",
-  author: "Jane Roberts"
+  id: 829,
+  quote: "I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.",
+  author: "Herbert Swope"
 }
 ```
 
