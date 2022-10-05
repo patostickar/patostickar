@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 468,
-  quote: "True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.",
-  author: "William Penn"
+  id: 185,
+  quote: "The best way out is always through.",
+  author: "Robert Frost"
 }
 ```
 
