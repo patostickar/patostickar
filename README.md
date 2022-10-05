@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 704,
-  quote: "It is in your moments of decision that your destiny is shaped.",
-  author: "Tony Robbins"
+  id: 239,
+  quote: "Don't cry because it's over. Smile because it happened.",
+  author: "Dr. Seuss"
 }
 ```
 
