@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 678,
-  quote: "With realization of ones own potential and self-confidence in ones ability, one can build a better world.",
-  author: "Dalai Lama"
+  id: 419,
+  quote: "Success means having the courage, the determination, and the will to become the person you believe you were meant to be.",
+  author: "George Sheehan"
 }
 ```
 
