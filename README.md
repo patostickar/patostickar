@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 459,
-  quote: "You cannot find yourself by going into the past. You can find yourself by coming into the present.",
-  author: "Eckhart Tolle"
+  id: 425,
+  quote: "No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto.",
+  author: "W. Clement Stone"
 }
 ```
 
