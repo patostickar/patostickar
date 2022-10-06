@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1338,
-  quote: "The best place to find a helping hand is at the end of your own arm.",
-  author: "null"
+  id: 1059,
+  quote: "As our case is new, we must think and act anew.",
+  author: "Abraham Lincoln"
 }
 ```
 
