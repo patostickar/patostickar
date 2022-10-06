@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1059,
-  quote: "As our case is new, we must think and act anew.",
-  author: "Abraham Lincoln"
+  id: 528,
+  quote: "The real measure of your wealth is how much youd be worth if you lost all your money.",
+  author: "null"
 }
 ```
 
