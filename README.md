@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1617,
-  quote: "There is never enough time to do everything, but there is always enough time to do the most important thing.",
-  author: "Brian Tracy"
+  id: 520,
+  quote: "Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!",
+  author: "Charlotte Gilman"
 }
 ```
 
