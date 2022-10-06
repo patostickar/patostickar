@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 528,
-  quote: "The real measure of your wealth is how much youd be worth if you lost all your money.",
-  author: "null"
+  id: 55,
+  quote: "Think how hard physics would be if particles could think.",
+  author: "Murray Gell-Mann"
 }
 ```
 
