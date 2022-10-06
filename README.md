@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 893,
-  quote: "We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.",
-  author: "Uta Hagen"
+  id: 702,
+  quote: "How far that little candle throws its beams! So shines a good deed in a naughty world.",
+  author: "William Shakespeare"
 }
 ```
 
