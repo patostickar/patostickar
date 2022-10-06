@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1253,
-  quote: "Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.",
-  author: "Henry Longfellow"
+  id: 377,
+  quote: "If you change the way you look at things, the things you look at change.",
+  author: "Wayne Dyer"
 }
 ```
 
