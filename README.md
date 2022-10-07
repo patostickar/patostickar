@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 198,
-  quote: "Science is organized knowledge. Wisdom is organized life.",
-  author: "Immanuel Kant"
+  id: 82,
+  quote: "A short saying often contains much wisdom.",
+  author: "Sophocles"
 }
 ```
 
