@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1230,
-  quote: "Keep silence for the most part, and speak only when you must, and then briefly.",
-  author: "Epictetus"
+  id: 1034,
+  quote: "Imagination is not a talent of some men but is the health of every man.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
