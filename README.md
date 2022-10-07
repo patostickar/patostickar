@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 836,
-  quote: "If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.",
-  author: "Pema Chodron"
+  id: 1318,
+  quote: "I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.",
+  author: "Leonardo da Vinci"
 }
 ```
 
