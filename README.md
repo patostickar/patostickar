@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1288,
-  quote: "Rather than wishing for change, you first must be prepared to change.",
-  author: "Catherine Pulsifer"
+  id: 1614,
+  quote: "If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.",
+  author: "Anne Bradstreet"
 }
 ```
 
