@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1196,
-  quote: "The steeper the mountain the harder the climb the better the view from the finishing line",
-  author: "null"
+  id: 317,
+  quote: "Give thanks for the rain of life that propels us to reach new horizons.",
+  author: "Byron Pulsifer"
 }
 ```
 
