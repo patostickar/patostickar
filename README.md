@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1614,
-  quote: "If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.",
-  author: "Anne Bradstreet"
+  id: 863,
+  quote: "To choose what is difficult all ones days, as if it were easy, that is faith.",
+  author: "W. H. Auden"
 }
 ```
 
