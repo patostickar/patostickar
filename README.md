@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1034,
-  quote: "Imagination is not a talent of some men but is the health of every man.",
-  author: "Ralph Waldo Emerson"
+  id: 1522,
+  quote: "There is a way that nature speaks, that land speaks. Most of the time we are simply not patient enough, quiet enough, to pay attention to the story.",
+  author: "Linda Hogan"
 }
 ```
 
