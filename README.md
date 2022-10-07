@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 167,
-  quote: "Never ignore a gut feeling, but never believe that it's enough.",
-  author: "Robert Heller"
+  id: 387,
+  quote: "Every action of our lives touches on some chord that will vibrate in eternity.",
+  author: "Edwin Chapin"
 }
 ```
 
