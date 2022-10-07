@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 608,
-  quote: "I can't imagine a person becoming a success who doesn't give this game of life everything hes got.",
-  author: "Walter Cronkite"
+  id: 1598,
+  quote: "An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.",
+  author: "Thomas Fuller"
 }
 ```
 
