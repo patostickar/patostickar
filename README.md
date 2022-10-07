@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 911,
-  quote: "When you arise in the morning, think of what a precious privilege it is to be alive to breathe, to think, to enjoy, to love.",
-  author: "Marcus Aurelius"
+  id: 836,
+  quote: "If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.",
+  author: "Pema Chodron"
 }
 ```
 
