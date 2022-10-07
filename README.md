@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 317,
-  quote: "Give thanks for the rain of life that propels us to reach new horizons.",
-  author: "Byron Pulsifer"
+  id: 1230,
+  quote: "Keep silence for the most part, and speak only when you must, and then briefly.",
+  author: "Epictetus"
 }
 ```
 
