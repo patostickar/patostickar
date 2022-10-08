@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 381,
-  quote: "They say that time changes things, but you actually have to change them yourself.",
-  author: "Andy Warhol"
+  id: 1227,
+  quote: "Try and fail, but don't fail to try.",
+  author: "Stephen Kaggwa"
 }
 ```
 
