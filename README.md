@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1040,
-  quote: "The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.",
-  author: "Winston Churchill"
+  id: 345,
+  quote: "Opportunity is missed by most because it is dressed in overalls and looks like work.",
+  author: "Thomas Edison"
 }
 ```
 
