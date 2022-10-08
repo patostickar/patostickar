@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 646,
-  quote: "The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.",
-  author: "Thomas Edison"
+  id: 1565,
+  quote: "Life is what happens to you while you're busy making other plans.",
+  author: "John Lennon"
 }
 ```
 
