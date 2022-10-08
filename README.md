@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 182,
-  quote: "No snowflake in an avalanche ever feels responsible.",
-  author: "Voltaire"
+  id: 474,
+  quote: "If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.",
+  author: "Ralph Emerson"
 }
 ```
 
