@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 474,
-  quote: "If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.",
-  author: "Ralph Emerson"
+  id: 646,
+  quote: "The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.",
+  author: "Thomas Edison"
 }
 ```
 
