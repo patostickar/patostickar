@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 639,
-  quote: "When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.",
-  author: "Pema Chodron"
+  id: 662,
+  quote: "Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?",
+  author: "Richard Bach"
 }
 ```
 
