@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1565,
-  quote: "Life is what happens to you while you're busy making other plans.",
-  author: "John Lennon"
+  id: 639,
+  quote: "When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.",
+  author: "Pema Chodron"
 }
 ```
 
