@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 551,
-  quote: "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.",
-  author: "null"
+  id: 381,
+  quote: "They say that time changes things, but you actually have to change them yourself.",
+  author: "Andy Warhol"
 }
 ```
 
