@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1227,
-  quote: "Try and fail, but don't fail to try.",
-  author: "Stephen Kaggwa"
+  id: 614,
+  quote: "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+  author: "Ralph Emerson"
 }
 ```
 
