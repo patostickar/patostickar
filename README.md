@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1004,
-  quote: "Lose an hour in the morning, and you will spend all day looking for it.",
-  author: "Richard Whately"
+  id: 321,
+  quote: "It is only when the mind and character slumber that the dress can be seen.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
