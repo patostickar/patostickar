@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 366,
-  quote: "The way is not in the sky. The way is in the heart.",
-  author: "Buddha"
+  id: 1040,
+  quote: "The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.",
+  author: "Winston Churchill"
 }
 ```
 
