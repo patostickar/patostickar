@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 662,
-  quote: "Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?",
-  author: "Richard Bach"
+  id: 1004,
+  quote: "Lose an hour in the morning, and you will spend all day looking for it.",
+  author: "Richard Whately"
 }
 ```
 
