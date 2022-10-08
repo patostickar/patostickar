@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 85,
-  quote: "Only do what your heart tells you.",
-  author: "Princess Diana"
+  id: 323,
+  quote: "Reviewing what you have learned and learning anew, you are fit to be a teacher.",
+  author: "Confucius"
 }
 ```
 
