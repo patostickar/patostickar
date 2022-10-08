@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 614,
-  quote: "Do not go where the path may lead, go instead where there is no path and leave a trail.",
-  author: "Ralph Emerson"
+  id: 1077,
+  quote: "Most of the shadows of life are caused by standing in our own sunshine.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
