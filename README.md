@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 351,
-  quote: "Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.",
-  author: "John Adams"
+  id: 551,
+  quote: "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.",
+  author: "null"
 }
 ```
 
