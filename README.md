@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 71,
-  quote: "Important principles may, and must, be inflexible.",
-  author: "Abraham Lincoln"
+  id: 593,
+  quote: "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+  author: "Thomas Edison"
 }
 ```
 
