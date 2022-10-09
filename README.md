@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 900,
-  quote: "Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.",
-  author: "Epictetus"
+  id: 933,
+  quote: "Believe deep down in your heart that you're destined to do great things.",
+  author: "Joe Paterno"
 }
 ```
 
