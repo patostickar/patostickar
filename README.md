@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1010,
-  quote: "Stay away from what might have been and look at what will be.",
-  author: "Marsha Petrie Sue"
+  id: 418,
+  quote: "Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.",
+  author: "William Shakespeare"
 }
 ```
 
