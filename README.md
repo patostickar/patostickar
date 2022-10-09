@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1483,
-  quote: "It is easier to live through someone else than to become complete yourself.",
-  author: "Betty Friedan"
+  id: 1626,
+  quote: "An ounce of emotion is equal to a ton of facts.",
+  author: "John Junor"
 }
 ```
 
