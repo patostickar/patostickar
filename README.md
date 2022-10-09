@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 28,
-  quote: "From error to error one discovers the entire truth.",
-  author: "Sigmund Freud"
+  id: 71,
+  quote: "Important principles may, and must, be inflexible.",
+  author: "Abraham Lincoln"
 }
 ```
 
