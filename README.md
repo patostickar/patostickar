@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 488,
-  quote: "We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.",
-  author: "James Freeman Clarke"
+  id: 382,
+  quote: "Never apologize for showing feelings. When you do so, you apologize for the truth.",
+  author: "Benjamin Disraeli"
 }
 ```
 
