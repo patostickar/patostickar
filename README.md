@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 293,
-  quote: "If we did the things we are capable of, we would astound ourselves.",
-  author: "Thomas Edison"
+  id: 552,
+  quote: "Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.",
+  author: "Paavo Nurmi"
 }
 ```
 
