@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 775,
-  quote: "Can you imagine what I would do if I could do all I can?",
-  author: "Sun Tzu"
+  id: 1010,
+  quote: "Stay away from what might have been and look at what will be.",
+  author: "Marsha Petrie Sue"
 }
 ```
 
