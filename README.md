@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 345,
-  quote: "Opportunity is missed by most because it is dressed in overalls and looks like work.",
-  author: "Thomas Edison"
+  id: 1011,
+  quote: "Act as if what you do makes a difference. It does.",
+  author: "William James"
 }
 ```
 
