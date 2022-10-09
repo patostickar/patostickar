@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1011,
-  quote: "Act as if what you do makes a difference. It does.",
-  author: "William James"
+  id: 775,
+  quote: "Can you imagine what I would do if I could do all I can?",
+  author: "Sun Tzu"
 }
 ```
 
