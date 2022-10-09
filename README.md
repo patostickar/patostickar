@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 418,
-  quote: "Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.",
-  author: "William Shakespeare"
+  id: 28,
+  quote: "From error to error one discovers the entire truth.",
+  author: "Sigmund Freud"
 }
 ```
 
