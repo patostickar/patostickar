@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1389,
-  quote: "I love my past. I love my present. I'm not ashamed of what Ive had, and I'm not sad because I have it no longer.",
-  author: "Colette"
+  id: 158,
+  quote: "Once we accept our limits, we go beyond them.",
+  author: "Albert Einstein"
 }
 ```
 
