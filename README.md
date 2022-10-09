@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1488,
-  quote: "Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.",
-  author: "Thomas Carlyle"
+  id: 1389,
+  quote: "I love my past. I love my present. I'm not ashamed of what Ive had, and I'm not sad because I have it no longer.",
+  author: "Colette"
 }
 ```
 
