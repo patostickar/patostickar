@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1626,
-  quote: "An ounce of emotion is equal to a ton of facts.",
-  author: "John Junor"
+  id: 1144,
+  quote: "Excellence is to do a common thing in an uncommon way.",
+  author: "Booker Washington"
 }
 ```
 
