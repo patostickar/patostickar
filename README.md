@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 469,
-  quote: "All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.",
-  author: "Immanuel Kant"
+  id: 1056,
+  quote: "He who lives in harmony with himself lives in harmony with the world.",
+  author: "Marcus Aurelius"
 }
 ```
 
