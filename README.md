@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 561,
-  quote: "To give hope to someone occurs when you teach them how to use the tools to do it for themselves.",
-  author: "Byron Pulsifer"
+  id: 1355,
+  quote: "The man who trusts men will make fewer mistakes than he who distrusts them.",
+  author: "Cavour"
 }
 ```
 
