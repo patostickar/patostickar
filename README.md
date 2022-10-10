@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1135,
-  quote: "A thing well said will be wit in all languages.",
-  author: "John Dryden"
+  id: 941,
+  quote: "Reality is merely an illusion, albeit a very persistent one.",
+  author: "Albert Einstein"
 }
 ```
 
