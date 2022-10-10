@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1355,
-  quote: "The man who trusts men will make fewer mistakes than he who distrusts them.",
-  author: "Cavour"
+  id: 1566,
+  quote: "Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.",
+  author: "Jonathan Swift"
 }
 ```
 
