@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1566,
-  quote: "Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.",
-  author: "Jonathan Swift"
+  id: 715,
+  quote: "If one is lucky, a solitary fantasy can totally transform one million realities.",
+  author: "Maya Angelou"
 }
 ```
 
