@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 941,
-  quote: "Reality is merely an illusion, albeit a very persistent one.",
-  author: "Albert Einstein"
+  id: 150,
+  quote: "Each day provides its own gifts.",
+  author: "Marcus Aurelius"
 }
 ```
 
