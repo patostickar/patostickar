@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1144,
-  quote: "Excellence is to do a common thing in an uncommon way.",
-  author: "Booker Washington"
+  id: 378,
+  quote: "No man can succeed in a line of endeavor which he does not like.",
+  author: "Napoleon Hill"
 }
 ```
 
