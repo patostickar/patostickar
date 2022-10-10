@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1136,
-  quote: "Always do your best. What you plant now, you will harvest later.",
-  author: "Og Mandino"
+  id: 1159,
+  quote: "The exercise of an extraordinary gift is the supremest pleasure in life.",
+  author: "Mark Twain"
 }
 ```
 
