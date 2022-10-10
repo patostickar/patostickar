@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 378,
-  quote: "No man can succeed in a line of endeavor which he does not like.",
-  author: "Napoleon Hill"
+  id: 1135,
+  quote: "A thing well said will be wit in all languages.",
+  author: "John Dryden"
 }
 ```
 
