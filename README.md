@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 291,
-  quote: "Being right is highly overrated. Even a stopped clock is right twice a day.",
-  author: "null"
+  id: 1193,
+  quote: "To change ones life, start immediately, do it flamboyantly, no exceptions.",
+  author: "William James"
 }
 ```
 
