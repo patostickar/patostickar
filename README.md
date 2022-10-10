@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 150,
-  quote: "Each day provides its own gifts.",
-  author: "Marcus Aurelius"
+  id: 154,
+  quote: "Begin to weave and God will give you the thread.",
+  author: "German proverb"
 }
 ```
 
