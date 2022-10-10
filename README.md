@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1056,
-  quote: "He who lives in harmony with himself lives in harmony with the world.",
-  author: "Marcus Aurelius"
+  id: 285,
+  quote: "It is not so important to know everything as to appreciate what we learn.",
+  author: "Hannah More"
 }
 ```
 
