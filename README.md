@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 838,
-  quote: "A hero is no braver than an ordinary man, but he is braver five minutes longer.",
-  author: "Ralph Waldo Emerson"
+  id: 1306,
+  quote: "Spring is a time for rebirth and the fulfilment of new life.",
+  author: "Byron Pulsifer"
 }
 ```
 
