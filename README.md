@@ -1,7 +1,7 @@
 [![Patricio's GitHub Banner](./assests/GitHubHeader.jpg)](https://pstickar.me)
-[![Visits Badge](https://badges.pufler.dev/visits/patostickar/patostickar)](https:patostickar)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pstickar/)
 [![fCC Badge](https://img.shields.io/badge/-Certifications-lightgrey?logo=freeCodeCamp&labelColor=black)](https://www.freecodecamp.org/pstickar)
+[![soyHenry Badge](https://img.shields.io/badge/Henry-Certificate-lightgray?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAACXBIWXMAAAsTAAALEwEAmpwYAAACEElEQVRIx+2VPUhbURiG3+/eJP5AUAPdCoEuTV3aoS51USHqkiGBCllKC4XsBTd1UAjN0CJYaRFcXQQlq5pZJNbiIHgnf6IiDkpyg0pyzdfz5QYNJVoStXS4l8OB+3Duec/7/dwDZjzqgCPgCDyeQKmEy8ubcXX1J7y4qMD/z4E6pppPTxGNIhRCOIzBQayuCjw5wdCQwEgEwSA2NwXe7aMGsj/IZNDaCvXouszz8wJ3d9HSIq8ul8wrKwItqyGBoyP4fCBCU5PstbgocG8PXq/A5maBqZTAQkE+sX3XJ9DWduNgYaEiULZFHo8GaKmUzqxZFlXH9kEEKiFaXhaYTmNtDbns/RzYOVACHR263+/r63sRCfdsbb1jnvrxPYbywpkZWVMs1imgwh0IqDNqzE/Oz18bRjSXG2OeY96wLIP5ZzL5sbMTw8OaYdQoqlsFDg/VvvT+Ay0tkWkq4imVAswh5k/FYjydHovF3q6vP1Mrj49xdlZ/DlSZBvsx9Y02fiFXFmB+Xij0TE6+6ep66nZTVZmS2loVa30CBwfo7cXnBG1vw8zDNN3M3kzGVdUHqorIDvptNfoXBwMDmJ6m2Vnq7kYyKXB/H+3tpOtU3QcNNpoSePkKfj8RPXQn237zeXz9gpERxOMYH4cKlILZLBIJTEwIHB3Fzk5D/6J/d+Go7F2P6zTWhM6d7Ag4AneO3/pTSno5cXZlAAAAAElFTkSuQmCC&&labelColor=ffff00&style=flat-square)](https://certificates.soyhenry.com/cert?id=0cfa1eac-5b5e-4bc3-ac88-c7c154d159e1)
 
 <h3 align="left">Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="28" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></h3>
 
@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1498,
-  quote: "Time you enjoyed wasting was not wasted.",
-  author: "John Lennon"
+  id: 1425,
+  quote: "I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.",
+  author: "G. K. Chesterton"
 }
 ```
 
