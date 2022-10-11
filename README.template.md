@@ -1,5 +1,4 @@
 [![Patricio's GitHub Banner](./assests/GitHubHeader.jpg)](https://pstickar.me)
-[![Visits Badge](https://badges.pufler.dev/visits/patostickar/patostickar)](https:patostickar)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pstickar/)
 [![fCC Badge](https://img.shields.io/badge/-Certifications-lightgrey?logo=freeCodeCamp&labelColor=black)](https://www.freecodecamp.org/pstickar)
 
