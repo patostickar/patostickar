@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 445,
-  quote: "The highest stage in moral ure at which we can arrive is when we recognize that we ought to control our thoughts.",
-  author: "Charles Darwin"
+  id: 1313,
+  quote: "The first duty of a human being is to assume the right functional relationship to society more briefly, to find your real job, and do it.",
+  author: "Charlotte Perkins Gilman"
 }
 ```
 
