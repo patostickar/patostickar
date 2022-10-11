@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 733,
-  quote: "The superior man is modest in his speech, but exceeds in his actions.",
-  author: "Confucius"
+  id: 1066,
+  quote: "Who we are never changes. Who we think we are does.",
+  author: "Mary Almanac"
 }
 ```
 
