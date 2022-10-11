@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 169,
-  quote: "Someone is special only if you tell them.",
-  author: "Byron Pulsifer"
+  id: 838,
+  quote: "A hero is no braver than an ordinary man, but he is braver five minutes longer.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
