@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 639,
-  quote: "When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.",
-  author: "Pema Chodron"
+  id: 168,
+  quote: "Loss is nothing else but change,and change is Natures delight.",
+  author: "Marcus Aurelius"
 }
 ```
 
