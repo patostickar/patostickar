@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 403,
-  quote: "The only difference between your abilities and others is the ability to put yourself in their shoes and actually try.",
-  author: "Leonardo Ruiz"
+  id: 1525,
+  quote: "The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.",
+  author: "Eckhart Tolle"
 }
 ```
 
