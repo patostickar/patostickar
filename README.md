@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 569,
-  quote: "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.",
-  author: "Nikola Tesla"
+  id: 169,
+  quote: "Someone is special only if you tell them.",
+  author: "Byron Pulsifer"
 }
 ```
 
