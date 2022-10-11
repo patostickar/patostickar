@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1471,
-  quote: "My reputation grows with every failure.",
-  author: "George Shaw"
+  id: 403,
+  quote: "The only difference between your abilities and others is the ability to put yourself in their shoes and actually try.",
+  author: "Leonardo Ruiz"
 }
 ```
 
