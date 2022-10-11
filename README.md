@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1140,
-  quote: "It is not only for what we do that we are held responsible, but also for what we do not do.",
-  author: "Moliere"
+  id: 569,
+  quote: "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.",
+  author: "Nikola Tesla"
 }
 ```
 
