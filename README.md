@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1377,
-  quote: "Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.",
-  author: "Albert Einstein"
+  id: 1023,
+  quote: "Doing what you love is the cornerstone of having abundance in your life.",
+  author: "Wayne Dyer"
 }
 ```
 
