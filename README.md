@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1332,
-  quote: "Though no one can go back and make a brand new start, anyone can start from not and make a brand new ending.",
-  author: "Carl Bard"
+  id: 1072,
+  quote: "The most formidable weapon against errors of every kind is reason.",
+  author: "Thomas Paine"
 }
 ```
 
