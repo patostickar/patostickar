@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 541,
-  quote: "Nature gave us one tongue and two ears so we could hear twice as much as we speak.",
-  author: "Epictetus"
+  id: 799,
+  quote: "Happiness is a Swedish sunset it is there for all, but most of us look the other way and lose it.",
+  author: "Mark Twain"
 }
 ```
 
