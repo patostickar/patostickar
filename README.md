@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 503,
-  quote: "Life is not measured by the breaths we take, but by the moments that take our breath.",
-  author: "null"
+  id: 552,
+  quote: "Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.",
+  author: "Paavo Nurmi"
 }
 ```
 
