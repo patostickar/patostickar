@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 886,
-  quote: "In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.",
-  author: "Buddha"
+  id: 386,
+  quote: "The only limit to our realization of tomorrow will be our doubts of today.",
+  author: "Franklin Roosevelt"
 }
 ```
 
