@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1566,
-  quote: "Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.",
-  author: "Jonathan Swift"
+  id: 235,
+  quote: "Fears are nothing more than a state of mind.",
+  author: "Napoleon Hill"
 }
 ```
 
