@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1154,
-  quote: "Do what you can. Want what you have. Be who you are.",
-  author: "Forrest Church"
+  id: 842,
+  quote: "It's so simple to be wise. Just think of something stupid to say and then don't say it.",
+  author: "Sam Levenson"
 }
 ```
 
