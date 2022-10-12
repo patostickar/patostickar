@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1283,
-  quote: "A man who doesn't trust himself can never really trust anyone else.",
-  author: "Cardinal Retz"
+  id: 1154,
+  quote: "Do what you can. Want what you have. Be who you are.",
+  author: "Forrest Church"
 }
 ```
 
