@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 235,
-  quote: "Fears are nothing more than a state of mind.",
-  author: "Napoleon Hill"
+  id: 1283,
+  quote: "A man who doesn't trust himself can never really trust anyone else.",
+  author: "Cardinal Retz"
 }
 ```
 
