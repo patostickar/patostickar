@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 552,
-  quote: "Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.",
-  author: "Paavo Nurmi"
+  id: 541,
+  quote: "Nature gave us one tongue and two ears so we could hear twice as much as we speak.",
+  author: "Epictetus"
 }
 ```
 
