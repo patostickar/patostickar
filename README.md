@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1072,
-  quote: "The most formidable weapon against errors of every kind is reason.",
-  author: "Thomas Paine"
+  id: 886,
+  quote: "In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.",
+  author: "Buddha"
 }
 ```
 
