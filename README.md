@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 514,
-  quote: "Many people think of prosperity that concerns money only to forget that true prosperity is of the mind.",
-  author: "Byron Pulsifer"
+  id: 1639,
+  quote: "It is not in the stars to hold our destiny but in ourselves.",
+  author: "William Shakespeare"
 }
 ```
 
