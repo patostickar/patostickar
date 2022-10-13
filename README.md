@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1197,
-  quote: "Aim for success, not perfection. Never give up your right to be wrong, because then you will lose the ability to learn new things and move forward with your life.",
-  author: "Dr. David M. Burns"
+  id: 1625,
+  quote: "The truest greatness lies in being kind, the truest wisdom in a happy mind.",
+  author: "Ella Wilcox"
 }
 ```
 
