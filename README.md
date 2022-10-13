@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 995,
-  quote: "We aim above the mark to hit the mark.",
-  author: "Ralph Emerson"
+  id: 514,
+  quote: "Many people think of prosperity that concerns money only to forget that true prosperity is of the mind.",
+  author: "Byron Pulsifer"
 }
 ```
 
