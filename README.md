@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 468,
-  quote: "True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.",
-  author: "William Penn"
+  id: 803,
+  quote: "The least movement is of importance to all nature. The entire ocean is affected by a pebble.",
+  author: "Blaise Pascal"
 }
 ```
 
