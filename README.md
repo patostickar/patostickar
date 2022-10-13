@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1639,
-  quote: "It is not in the stars to hold our destiny but in ourselves.",
-  author: "William Shakespeare"
+  id: 836,
+  quote: "If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.",
+  author: "Pema Chodron"
 }
 ```
 
