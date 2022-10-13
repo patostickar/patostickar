@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1037,
-  quote: "A gem cannot be polished without friction, nor a man perfected without trials.",
-  author: "Chinese proverb"
+  id: 1388,
+  quote: "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
+  author: "Albert Einstein"
 }
 ```
 
