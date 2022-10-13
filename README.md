@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1541,
-  quote: "We cannot hold a torch to light another's path without brightening our own.",
-  author: "Ben Sweetland"
+  id: 1217,
+  quote: "Beauty is not in the face; beauty is a light in the heart.",
+  author: "Kahlil Gibran"
 }
 ```
 
