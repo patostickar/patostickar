@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1580,
-  quote: "A wise man will make more opportunities than he finds.",
-  author: "Francis Bacon"
+  id: 108,
+  quote: "Who looks outside, dreams; who looks inside, awakes.",
+  author: "Carl Jung"
 }
 ```
 
