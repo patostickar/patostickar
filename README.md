@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 313,
-  quote: "Short words are best and the old words when short are best of all.",
-  author: "Winston Churchill"
+  id: 1319,
+  quote: "All the world is a stage, And all the men and women merely players.They have their exits and entrances; Each man in his time plays many parts.",
+  author: "William Shakespeare"
 }
 ```
 
