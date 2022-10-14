@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1055,
-  quote: "If you can't explain it simply, you don't understand it well enough.",
-  author: "Albert Einstein"
+  id: 391,
+  quote: "Most folks are about as happy as they make up their minds to be.",
+  author: "Abraham Lincoln"
 }
 ```
 
