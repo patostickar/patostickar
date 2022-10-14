@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1408,
-  quote: "Learn wisdom from the ways of a seedling. A seedling which is never hardened off through stressful situations will never become a strong productive plant.",
-  author: "Stephen Sigmund"
+  id: 124,
+  quote: "Life shrinks or expands in proportion to one's courage.",
+  author: "Anais Nin"
 }
 ```
 
