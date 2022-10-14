@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 554,
-  quote: "A friend is someone who understands your past, believes in your future, and accepts you just the way you are.",
-  author: "null"
+  id: 1146,
+  quote: "I begin with an idea and then it becomes something else.",
+  author: "Pablo Picasso"
 }
 ```
 
