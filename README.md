@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 571,
-  quote: "He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.",
-  author: "Pablo Picasso"
+  id: 313,
+  quote: "Short words are best and the old words when short are best of all.",
+  author: "Winston Churchill"
 }
 ```
 
