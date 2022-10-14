@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 396,
-  quote: "To study and not think is a waste. To think and not study is dangerous.",
-  author: "Confucius"
+  id: 1062,
+  quote: "Don't let today's disappointments cast a shadow on tomorrow's dreams.",
+  author: "null"
 }
 ```
 
