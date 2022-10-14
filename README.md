@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1146,
-  quote: "I begin with an idea and then it becomes something else.",
-  author: "Pablo Picasso"
+  id: 776,
+  quote: "Ignorance never settle a question.",
+  author: "Benjamin Disraeli"
 }
 ```
 
