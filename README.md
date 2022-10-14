@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 662,
-  quote: "Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?",
-  author: "Richard Bach"
+  id: 1055,
+  quote: "If you can't explain it simply, you don't understand it well enough.",
+  author: "Albert Einstein"
 }
 ```
 
