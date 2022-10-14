@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 776,
-  quote: "Ignorance never settle a question.",
-  author: "Benjamin Disraeli"
+  id: 1099,
+  quote: "The difficulties of life are intended to make us better, not bitter.",
+  author: "null"
 }
 ```
 
