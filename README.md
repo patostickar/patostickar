@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 391,
-  quote: "Most folks are about as happy as they make up their minds to be.",
-  author: "Abraham Lincoln"
+  id: 1444,
+  quote: "Sincerity is the way of Heaven. The attainment of sincerity is the way of men.",
+  author: "Confucius"
 }
 ```
 
