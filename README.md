@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1444,
-  quote: "Sincerity is the way of Heaven. The attainment of sincerity is the way of men.",
+  id: 396,
+  quote: "To study and not think is a waste. To think and not study is dangerous.",
   author: "Confucius"
 }
 ```
