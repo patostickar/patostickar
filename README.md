@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1257,
-  quote: "Be your own hero, it's cheaper than a movie ticket.",
-  author: "Doug Horton"
+  id: 1142,
+  quote: "The world has the habit of making room for the man whose actions show that he knows where he is going.",
+  author: "Napoleon Hill"
 }
 ```
 
