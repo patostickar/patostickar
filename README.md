@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 832,
-  quote: "The best thing about the future is that it only comes one day at a time.",
-  author: "Abraham Lincoln"
+  id: 676,
+  quote: "Everyone has been made for some particular work, and the desire for that work has been put in every heart.",
+  author: "Rumi"
 }
 ```
 
