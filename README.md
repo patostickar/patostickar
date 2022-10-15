@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1579,
-  quote: "Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.",
-  author: "Lao Tzu"
+  id: 294,
+  quote: "Nothing in life is to be feared. It is only to be understood.",
+  author: "Marie Curie"
 }
 ```
 
