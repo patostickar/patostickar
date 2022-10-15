@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 294,
-  quote: "Nothing in life is to be feared. It is only to be understood.",
-  author: "Marie Curie"
+  id: 858,
+  quote: "The greatest minds are capable of the greatest vices as well as of the greatest virtues.",
+  author: "Rene Descartes"
 }
 ```
 
