@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1581,
-  quote: "Slow down and enjoy life. It's not only the scenery you miss by going too fast you also miss the sense of where you are going and why.",
-  author: "Eddie Cantor"
+  id: 356,
+  quote: "We cannot do everything at once, but we can do something at once.",
+  author: "Calvin Coolidge"
 }
 ```
 
