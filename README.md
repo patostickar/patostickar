@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1559,
-  quote: "Success is determined by those whom prove the impossible, possible.",
-  author: "James Pence"
+  id: 1257,
+  quote: "Be your own hero, it's cheaper than a movie ticket.",
+  author: "Doug Horton"
 }
 ```
 
