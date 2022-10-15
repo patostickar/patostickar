@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 676,
-  quote: "Everyone has been made for some particular work, and the desire for that work has been put in every heart.",
-  author: "Rumi"
+  id: 1348,
+  quote: "To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.",
+  author: "Mahummad Ali"
 }
 ```
 
