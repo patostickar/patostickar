@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 356,
-  quote: "We cannot do everything at once, but we can do something at once.",
-  author: "Calvin Coolidge"
+  id: 118,
+  quote: "The simplest things are often the truest.",
+  author: "Richard Bach"
 }
 ```
 
