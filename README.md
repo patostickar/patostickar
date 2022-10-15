@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1099,
-  quote: "The difficulties of life are intended to make us better, not bitter.",
-  author: "null"
+  id: 252,
+  quote: "Every problem has a gift for you in its hands.",
+  author: "Richard Bach"
 }
 ```
 
