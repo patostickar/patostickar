@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 591,
-  quote: "The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.",
-  author: "Helen Keller"
+  id: 1326,
+  quote: "Great ideas often receive violent opposition from mediocre minds.",
+  author: "Albert Einstein"
 }
 ```
 
