@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1142,
-  quote: "The world has the habit of making room for the man whose actions show that he knows where he is going.",
-  author: "Napoleon Hill"
+  id: 1062,
+  quote: "Don't let today's disappointments cast a shadow on tomorrow's dreams.",
+  author: "null"
 }
 ```
 
