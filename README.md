@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 118,
-  quote: "The simplest things are often the truest.",
-  author: "Richard Bach"
+  id: 1579,
+  quote: "Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.",
+  author: "Lao Tzu"
 }
 ```
 
