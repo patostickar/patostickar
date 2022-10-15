@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1522,
-  quote: "There is a way that nature speaks, that land speaks. Most of the time we are simply not patient enough, quiet enough, to pay attention to the story.",
-  author: "Linda Hogan"
+  id: 1581,
+  quote: "Slow down and enjoy life. It's not only the scenery you miss by going too fast you also miss the sense of where you are going and why.",
+  author: "Eddie Cantor"
 }
 ```
 
