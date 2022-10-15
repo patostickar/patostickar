@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 858,
-  quote: "The greatest minds are capable of the greatest vices as well as of the greatest virtues.",
-  author: "Rene Descartes"
+  id: 591,
+  quote: "The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.",
+  author: "Helen Keller"
 }
 ```
 
