@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1304,
-  quote: "Our passion is our strength.",
-  author: "Billie Armstrong"
+  id: 258,
+  quote: "The secret of success is constancy to purpose.",
+  author: "Benjamin Disraeli"
 }
 ```
 
