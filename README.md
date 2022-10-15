@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1326,
-  quote: "Great ideas often receive violent opposition from mediocre minds.",
-  author: "Albert Einstein"
+  id: 832,
+  quote: "The best thing about the future is that it only comes one day at a time.",
+  author: "Abraham Lincoln"
 }
 ```
 
