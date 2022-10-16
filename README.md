@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1636,
-  quote: "Nothing is a waste of time if you use the experience wisely.",
-  author: "Rodin"
+  id: 946,
+  quote: "The weak can never forgive. Forgiveness is the attribute of the strong.",
+  author: "Mohandas Gandhi"
 }
 ```
 
