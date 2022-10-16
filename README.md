@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1403,
-  quote: "Gratitude is not only the greatest of virtues, but the paren't of all the others.",
-  author: "Cicero"
+  id: 383,
+  quote: "The truth you believe and cling to makes you unavailable to hear anything new.",
+  author: "Pema Chodron"
 }
 ```
 
