@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1210,
-  quote: "Don't let what you can't do stop you from doing what you can do.",
-  author: "null"
+  id: 914,
+  quote: "You must train your intuition you must trust the small voice inside you which tells you exactly what to say, what to decide.",
+  author: "Ingrid Bergman"
 }
 ```
 
