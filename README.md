@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 297,
-  quote: "Life is a process. We are a process. The universe is a process.",
-  author: "Anne Schaef"
+  id: 800,
+  quote: "A smile is a light in the window of your face to show your heart is at home.",
+  author: "null"
 }
 ```
 
