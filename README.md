@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 306,
-  quote: "Everything is perfect in the universe even your desire to improve it.",
-  author: "Wayne Dyer"
+  id: 19,
+  quote: "Having nothing, nothing can he lose.",
+  author: "William Shakespeare"
 }
 ```
 
