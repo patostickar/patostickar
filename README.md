@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1066,
-  quote: "Who we are never changes. Who we think we are does.",
-  author: "Mary Almanac"
+  id: 297,
+  quote: "Life is a process. We are a process. The universe is a process.",
+  author: "Anne Schaef"
 }
 ```
 
