@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 946,
-  quote: "The weak can never forgive. Forgiveness is the attribute of the strong.",
-  author: "Mohandas Gandhi"
+  id: 286,
+  quote: "The bird of paradise alights only upon the hand that does not grasp.",
+  author: "John Berry"
 }
 ```
 
