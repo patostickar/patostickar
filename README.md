@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1487,
-  quote: "What the caterpillar calls the end of the world, the master calls a butterfly.",
-  author: "Richard Bach"
+  id: 1403,
+  quote: "Gratitude is not only the greatest of virtues, but the paren't of all the others.",
+  author: "Cicero"
 }
 ```
 
