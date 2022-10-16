@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 19,
-  quote: "Having nothing, nothing can he lose.",
-  author: "William Shakespeare"
+  id: 535,
+  quote: "How wonderful that we have met with a paradox. Now we have some hope of making progress.",
+  author: "Niels Bohr"
 }
 ```
 
