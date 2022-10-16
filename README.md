@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 286,
-  quote: "The bird of paradise alights only upon the hand that does not grasp.",
-  author: "John Berry"
+  id: 1289,
+  quote: "I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.",
+  author: "Buddha"
 }
 ```
 
