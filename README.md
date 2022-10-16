@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 914,
-  quote: "You must train your intuition you must trust the small voice inside you which tells you exactly what to say, what to decide.",
-  author: "Ingrid Bergman"
+  id: 532,
+  quote: "Today, give a stranger a smile without waiting for it may be the joy they need to have a great day.",
+  author: "Byron Pulsifer"
 }
 ```
 
