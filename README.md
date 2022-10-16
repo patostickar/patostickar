@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 800,
-  quote: "A smile is a light in the window of your face to show your heart is at home.",
-  author: "null"
+  id: 108,
+  quote: "Who looks outside, dreams; who looks inside, awakes.",
+  author: "Carl Jung"
 }
 ```
 
