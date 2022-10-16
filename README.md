@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 108,
-  quote: "Who looks outside, dreams; who looks inside, awakes.",
-  author: "Carl Jung"
+  id: 1636,
+  quote: "Nothing is a waste of time if you use the experience wisely.",
+  author: "Rodin"
 }
 ```
 
