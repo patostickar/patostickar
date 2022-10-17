@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 436,
-  quote: "You got to be careful if you don't know where you're going, because you might not get there.",
-  author: "Yogi Berra"
+  id: 159,
+  quote: "Don't be pushed by your problems; be led by your dreams.",
+  author: "null"
 }
 ```
 
