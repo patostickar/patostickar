@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 159,
-  quote: "Don't be pushed by your problems; be led by your dreams.",
-  author: "null"
+  id: 690,
+  quote: "A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.",
+  author: "Joseph Roux"
 }
 ```
 
