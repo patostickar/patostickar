@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1522,
-  quote: "There is a way that nature speaks, that land speaks. Most of the time we are simply not patient enough, quiet enough, to pay attention to the story.",
-  author: "Linda Hogan"
+  id: 864,
+  quote: "Ability is what you're capable of doing. Motivation determines what you do.Attitude determines how well you do it.",
+  author: "Lou Holtz"
 }
 ```
 
