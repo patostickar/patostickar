@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 319,
-  quote: "We all have problems. The way we solve them is what makes us different.",
-  author: "null"
+  id: 436,
+  quote: "You got to be careful if you don't know where you're going, because you might not get there.",
+  author: "Yogi Berra"
 }
 ```
 
