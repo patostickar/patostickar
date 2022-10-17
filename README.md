@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 779,
-  quote: "There are no failures. Just experiences and your reactions to them.",
-  author: "Tom Krause"
+  id: 1041,
+  quote: "Winners have simply formed the habit of doing things losers don't like to do.",
+  author: "Albert Gray"
 }
 ```
 
