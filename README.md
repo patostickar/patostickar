@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1025,
-  quote: "You need chaos in your soul to give birth to a dancing star.",
-  author: "Nietzsche"
+  id: 432,
+  quote: "Your destiny isn't just fate; it is how you use your own developed abilities to get what you want.",
+  author: "Byron Pulsifer"
 }
 ```
 
