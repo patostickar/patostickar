@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1616,
-  quote: "Your vision will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
-  author: "Carl Jung"
+  id: 779,
+  quote: "There are no failures. Just experiences and your reactions to them.",
+  author: "Tom Krause"
 }
 ```
 
