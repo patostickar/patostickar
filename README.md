@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 447,
-  quote: "If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.",
-  author: "Dalai Lama"
+  id: 1025,
+  quote: "You need chaos in your soul to give birth to a dancing star.",
+  author: "Nietzsche"
 }
 ```
 
