@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1424,
-  quote: "You cannot be lonely if you like the person you're alone with.",
-  author: "Wayne Dyer"
+  id: 745,
+  quote: "Kindness is the greatest wisdom.",
+  author: "null"
 }
 ```
 
