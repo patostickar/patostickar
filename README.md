@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 322,
-  quote: "If you don't like something, change it. If you can't change it, change your attitude.",
-  author: "Maya Angelou"
+  id: 368,
+  quote: "Three things cannot be long hidden: the sun, the moon, and the truth.",
+  author: "Buddha"
 }
 ```
 
