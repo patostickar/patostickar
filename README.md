@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 201,
-  quote: "Autumn is a second spring when every leaf is a flower.",
-  author: "Albert Camus"
+  id: 633,
+  quote: "The happiness of a man in this life does not consist in the absence but in the mastery of his passions.",
+  author: "Alfred Tennyson"
 }
 ```
 
