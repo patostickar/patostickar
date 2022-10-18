@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 222,
-  quote: "To accomplish great things, we must dream as well as act.",
-  author: "Anatole France"
+  id: 46,
+  quote: "Talk doesn't cook rice.",
+  author: "Chinese proverb"
 }
 ```
 
