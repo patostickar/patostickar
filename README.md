@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1090,
-  quote: "Vision without action is a daydream. Action without vision is a nightmare.",
-  author: "Japanese proverb"
+  id: 550,
+  quote: "I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.",
+  author: "Albert Einstein"
 }
 ```
 
