@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1045,
-  quote: "I want you to be everything that's you, deep at the center of your being.",
-  author: "Confucius"
+  id: 815,
+  quote: "Happiness is a perfume you cannot pour on others without getting a few drops on yourself.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
