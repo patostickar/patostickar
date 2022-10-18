@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 827,
-  quote: "Wit lies in recognizing the resemblance among things which differ and the difference between things which are alike.",
-  author: "Madame de Stael"
+  id: 222,
+  quote: "To accomplish great things, we must dream as well as act.",
+  author: "Anatole France"
 }
 ```
 
