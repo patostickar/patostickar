@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 168,
-  quote: "Loss is nothing else but change,and change is Natures delight.",
-  author: "Marcus Aurelius"
+  id: 1594,
+  quote: "The greatest mistake you can make in life is to be continually fearing you will make one.",
+  author: "Elbert Hubbard"
 }
 ```
 
