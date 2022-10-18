@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 631,
-  quote: "Every great mistake has a halfway moment, a split second when it can be recalled and perhaps remedied.",
-  author: "Pearl Buck"
+  id: 168,
+  quote: "Loss is nothing else but change,and change is Natures delight.",
+  author: "Marcus Aurelius"
 }
 ```
 
