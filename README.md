@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 306,
-  quote: "Everything is perfect in the universe even your desire to improve it.",
-  author: "Wayne Dyer"
+  id: 1093,
+  quote: "I never worry about action, but only inaction.",
+  author: "Winston Churchill"
 }
 ```
 
