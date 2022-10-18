@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 368,
-  quote: "Three things cannot be long hidden: the sun, the moon, and the truth.",
-  author: "Buddha"
+  id: 1372,
+  quote: "If you want things to be different, perhaps the answer is to become different yourself.",
+  author: "Norman Peale"
 }
 ```
 
