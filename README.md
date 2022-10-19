@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 348,
-  quote: "If you correct your mind, the rest of your life will fall into place.",
-  author: "Lao Tzu"
+  id: 1516,
+  quote: "There are no limitations to the mind except those we acknowledge.",
+  author: "Napoleon Hill"
 }
 ```
 
