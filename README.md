@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 656,
-  quote: "Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.",
-  author: "Julie Morgenstern"
+  id: 418,
+  quote: "Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.",
+  author: "William Shakespeare"
 }
 ```
 
