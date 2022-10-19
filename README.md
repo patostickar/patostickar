@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 457,
-  quote: "All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.",
-  author: "Kathleen Norris"
+  id: 1115,
+  quote: "Nothing is at last sacred but the integrity of your own mind.",
+  author: "Ralph Emerson"
 }
 ```
 
