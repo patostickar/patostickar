@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 523,
-  quote: "The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.",
-  author: "Dalai Lama"
+  id: 656,
+  quote: "Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.",
+  author: "Julie Morgenstern"
 }
 ```
 
