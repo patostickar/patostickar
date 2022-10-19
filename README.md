@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 919,
-  quote: "Adversity isn't set against you to fail; adversity is a way to build your character so that you can succeed over and over again through perseverance.",
-  author: "Byron Pulsifer"
+  id: 163,
+  quote: "The truest wisdom is a resolute determination.",
+  author: "Napoleon Bonaparte"
 }
 ```
 
