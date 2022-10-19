@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 927,
-  quote: "Arriving at one point is the starting point to another.",
-  author: "John Dewey"
+  id: 1316,
+  quote: "True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.",
+  author: "Daisaku Ikeda"
 }
 ```
 
