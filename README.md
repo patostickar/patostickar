@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 418,
-  quote: "Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.",
-  author: "William Shakespeare"
+  id: 862,
+  quote: "Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.",
+  author: "Alphonse Karr"
 }
 ```
 
