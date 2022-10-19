@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 64,
-  quote: "When performance exceeds ambition, the overlap is called success.",
-  author: "Cullen Hightower"
+  id: 919,
+  quote: "Adversity isn't set against you to fail; adversity is a way to build your character so that you can succeed over and over again through perseverance.",
+  author: "Byron Pulsifer"
 }
 ```
 
