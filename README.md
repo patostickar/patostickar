@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1516,
-  quote: "There are no limitations to the mind except those we acknowledge.",
-  author: "Napoleon Hill"
+  id: 774,
+  quote: "Everything that irritates us about others can lead us to an understanding about ourselves.",
+  author: "Carl Jung"
 }
 ```
 
