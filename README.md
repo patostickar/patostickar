@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 941,
-  quote: "Reality is merely an illusion, albeit a very persistent one.",
-  author: "Albert Einstein"
+  id: 1297,
+  quote: "Knowledge rests not upon truth alone, but upon error also.",
+  author: "Carl Jung"
 }
 ```
 
