@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1115,
-  quote: "Nothing is at last sacred but the integrity of your own mind.",
-  author: "Ralph Emerson"
+  id: 523,
+  quote: "The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.",
+  author: "Dalai Lama"
 }
 ```
 
