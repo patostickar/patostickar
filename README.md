@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 815,
-  quote: "Happiness is a perfume you cannot pour on others without getting a few drops on yourself.",
-  author: "Ralph Waldo Emerson"
+  id: 457,
+  quote: "All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.",
+  author: "Kathleen Norris"
 }
 ```
 
