@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1297,
-  quote: "Knowledge rests not upon truth alone, but upon error also.",
-  author: "Carl Jung"
+  id: 1522,
+  quote: "There is a way that nature speaks, that land speaks. Most of the time we are simply not patient enough, quiet enough, to pay attention to the story.",
+  author: "Linda Hogan"
 }
 ```
 
