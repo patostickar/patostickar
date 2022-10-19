@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 862,
-  quote: "Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.",
-  author: "Alphonse Karr"
+  id: 348,
+  quote: "If you correct your mind, the rest of your life will fall into place.",
+  author: "Lao Tzu"
 }
 ```
 
