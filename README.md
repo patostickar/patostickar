@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 148,
-  quote: "A good plan today is better than a perfect plan tomorrow.",
-  author: "null"
+  id: 1032,
+  quote: "We shall never know all the good that a simple smile can do.",
+  author: "Mother Teresa"
 }
 ```
 
