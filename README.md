@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 897,
-  quote: "Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.",
-  author: "Abraham Lincoln"
+  id: 1152,
+  quote: "Take rest; a field that has rested gives a bountiful crop.",
+  author: "Ovid"
 }
 ```
 
