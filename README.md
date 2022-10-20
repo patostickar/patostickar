@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 480,
-  quote: "One does not discover new lands without consenting to lose sight of the shore for a very long time.",
-  author: "Andre Gide"
+  id: 1069,
+  quote: "Never let lack of money interfere with having fun.",
+  author: "null"
 }
 ```
 
