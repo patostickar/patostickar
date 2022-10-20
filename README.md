@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1032,
-  quote: "We shall never know all the good that a simple smile can do.",
-  author: "Mother Teresa"
+  id: 332,
+  quote: "Most great people have attained their greatest success just one step beyond their greatest failure.",
+  author: "Napoleon Hill"
 }
 ```
 
