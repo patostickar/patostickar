@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 974,
-  quote: "Everything has beauty, but not everyone sees it.",
-  author: "Confucius"
+  id: 272,
+  quote: "To get something you never had, you have to do something you never did.",
+  author: "null"
 }
 ```
 
