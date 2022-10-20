@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1069,
-  quote: "Never let lack of money interfere with having fun.",
-  author: "null"
+  id: 1408,
+  quote: "Learn wisdom from the ways of a seedling. A seedling which is never hardened off through stressful situations will never become a strong productive plant.",
+  author: "Stephen Sigmund"
 }
 ```
 
