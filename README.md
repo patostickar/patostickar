@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1214,
-  quote: "With every experience, you alone are painting your own canvas, thought by thought, choice by choice.",
-  author: "Oprah Winfrey"
+  id: 791,
+  quote: "The beginning is always today.",
+  author: "Mary Wollstonecraft"
 }
 ```
 
