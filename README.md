@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1024,
-  quote: "Kindness is the golden chain by which society is bound together.",
-  author: "Johann Wolfgang von Goethe"
+  id: 480,
+  quote: "One does not discover new lands without consenting to lose sight of the shore for a very long time.",
+  author: "Andre Gide"
 }
 ```
 
