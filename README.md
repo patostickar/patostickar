@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 684,
-  quote: "Men of perverse opinion do not know the excellence of what is in their hands, till some one dash it from them.",
-  author: "Sophocles"
+  id: 298,
+  quote: "I think somehow we learn who we really are and then live with that decision.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
