@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1129,
-  quote: "Much wisdom often goes with fewer words.",
-  author: "Sophocles"
+  id: 202,
+  quote: "If you surrender to the wind, you can ride it.",
+  author: "Toni Morrison"
 }
 ```
 
