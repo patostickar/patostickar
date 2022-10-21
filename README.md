@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 17,
-  quote: "Every man dies. Not every man really lives.",
-  author: "null"
+  id: 1451,
+  quote: "It all depends on how we look at things, and not how they are in themselves.",
+  author: "Carl Jung"
 }
 ```
 
