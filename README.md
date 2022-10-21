@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1451,
-  quote: "It all depends on how we look at things, and not how they are in themselves.",
-  author: "Carl Jung"
+  id: 1013,
+  quote: "Do good by stealth, and blush to find it fame.",
+  author: "Alexander Pope"
 }
 ```
 
