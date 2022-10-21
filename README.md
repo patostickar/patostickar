@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1297,
-  quote: "Knowledge rests not upon truth alone, but upon error also.",
-  author: "Carl Jung"
+  id: 136,
+  quote: "Growth itself contains the germ of happiness.",
+  author: "Pearl Buck"
 }
 ```
 
