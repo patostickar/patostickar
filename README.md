@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1063,
-  quote: "You always succeed in producing a result.",
-  author: "Tony Robbins"
+  id: 1240,
+  quote: "I hear and I forget. I see and I remember. I do and I understand.",
+  author: "Confucius"
 }
 ```
 
