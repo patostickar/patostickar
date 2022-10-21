@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 136,
-  quote: "Growth itself contains the germ of happiness.",
-  author: "Pearl Buck"
+  id: 368,
+  quote: "Three things cannot be long hidden: the sun, the moon, and the truth.",
+  author: "Buddha"
 }
 ```
 
