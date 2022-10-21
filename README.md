@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1152,
-  quote: "Take rest; a field that has rested gives a bountiful crop.",
-  author: "Ovid"
+  id: 126,
+  quote: "Our intention creates our reality.",
+  author: "Wayne Dyer"
 }
 ```
 
