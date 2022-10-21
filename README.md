@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1606,
-  quote: "To know your purpose is to live a life of direction, and in that direction is found peace and tranquillity.",
-  author: "Byron Pulsifer"
+  id: 271,
+  quote: "The future belongs to those who believe in the beauty of their dreams.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
