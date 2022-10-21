@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1320,
-  quote: "As we are liberated from our own fear, our presence automatically liberates others.",
-  author: "Nelson Mandela"
+  id: 1129,
+  quote: "Much wisdom often goes with fewer words.",
+  author: "Sophocles"
 }
 ```
 
