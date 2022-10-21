@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 883,
-  quote: "You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.",
-  author: "John Lennon"
+  id: 1389,
+  quote: "I love my past. I love my present. I'm not ashamed of what Ive had, and I'm not sad because I have it no longer.",
+  author: "Colette"
 }
 ```
 
