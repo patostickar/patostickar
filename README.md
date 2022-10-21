@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 429,
-  quote: "Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.",
-  author: "Ralph Emerson"
+  id: 562,
+  quote: "Id rather regret the things that I have done than the things that I have not done.",
+  author: "Lucille Ball"
 }
 ```
 
