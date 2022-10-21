@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 368,
-  quote: "Three things cannot be long hidden: the sun, the moon, and the truth.",
-  author: "Buddha"
+  id: 1320,
+  quote: "As we are liberated from our own fear, our presence automatically liberates others.",
+  author: "Nelson Mandela"
 }
 ```
 
