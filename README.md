@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 363,
-  quote: "Ideals are an imaginative understanding of that which is desirable in that which is possible.",
-  author: "Walter Lippmann"
+  id: 1301,
+  quote: "Kind words can be short and easy to speak but their echoes are truly endless.",
+  author: "Mother Teresa"
 }
 ```
 
