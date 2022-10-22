@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1593,
-  quote: "Beware of the half truth. You may have gotten hold of the wrong half.",
-  author: "null"
+  id: 988,
+  quote: "Learning is finding out what you already know.",
+  author: "Richard Bach"
 }
 ```
 
