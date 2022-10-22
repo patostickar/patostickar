@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 954,
-  quote: "Take heed: you do not find what you do not seek.",
-  author: "English proverb"
+  id: 3,
+  quote: "Difficulties increase the nearer we get to the goal.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
