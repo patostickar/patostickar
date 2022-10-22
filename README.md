@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 538,
-  quote: "Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.",
-  author: "Gloria Steinem"
+  id: 1066,
+  quote: "Who we are never changes. Who we think we are does.",
+  author: "Mary Almanac"
 }
 ```
 
