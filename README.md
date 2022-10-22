@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 988,
-  quote: "Learning is finding out what you already know.",
-  author: "Richard Bach"
+  id: 209,
+  quote: "Difficulties are things that show a person what they are.",
+  author: "Epictetus"
 }
 ```
 
