@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 387,
-  quote: "Every action of our lives touches on some chord that will vibrate in eternity.",
-  author: "Edwin Chapin"
+  id: 538,
+  quote: "Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.",
+  author: "Gloria Steinem"
 }
 ```
 
