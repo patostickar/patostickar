@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1490,
-  quote: "Do not wait for leaders; do it alone, person to person.",
-  author: "Mother Teresa"
+  id: 184,
+  quote: "I believe in one thing only, the power of human will.",
+  author: "Joseph Stalin"
 }
 ```
 
