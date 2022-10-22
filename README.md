@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1240,
-  quote: "I hear and I forget. I see and I remember. I do and I understand.",
-  author: "Confucius"
+  id: 1138,
+  quote: "We are the leaves of one branch, the drops of one sea, the flowers of one garden.",
+  author: "Jean Lacordaire"
 }
 ```
 
