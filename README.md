@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1609,
-  quote: "It's not who you are that holds you back, it's who you think you're not.",
-  author: "null"
+  id: 1401,
+  quote: "To dream of the person you would like to be is to waste the person you are.",
+  author: "Tim Menchen"
 }
 ```
 
