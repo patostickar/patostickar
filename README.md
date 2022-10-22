@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 423,
-  quote: "Make the best use of what is in your power, and take the rest as it happens.",
-  author: "Epictetus"
+  id: 954,
+  quote: "Take heed: you do not find what you do not seek.",
+  author: "English proverb"
 }
 ```
 
