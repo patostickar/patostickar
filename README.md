@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 747,
-  quote: "Don't miss all the beautiful colors of the rainbow looking for that pot of gold.",
-  author: "null"
+  id: 321,
+  quote: "It is only when the mind and character slumber that the dress can be seen.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
