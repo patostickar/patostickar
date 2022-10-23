@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1030,
-  quote: "What is necessary to change a person is to change his awareness of himself.",
-  author: "Abraham Maslow"
+  id: 478,
+  quote: "A wise man can learn more from a foolish question than a fool can learn from a wise answer.",
+  author: "Bruce Lee"
 }
 ```
 
