@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1066,
-  quote: "Who we are never changes. Who we think we are does.",
-  author: "Mary Almanac"
+  id: 824,
+  quote: "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+  author: "Aristotle"
 }
 ```
 
