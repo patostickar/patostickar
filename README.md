@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1258,
-  quote: "Turn your face toward the sun and the shadows will fall behind you.",
-  author: "Maori proverb"
+  id: 1434,
+  quote: "Give thanks for a little and you will find a lot.",
+  author: "Hausa"
 }
 ```
 
