@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 478,
-  quote: "A wise man can learn more from a foolish question than a fool can learn from a wise answer.",
-  author: "Bruce Lee"
+  id: 660,
+  quote: "When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.",
+  author: "Abraham Lincoln"
 }
 ```
 
