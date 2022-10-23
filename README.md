@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 359,
-  quote: "It is fatal to enter any war without the will to win it.",
-  author: "General Douglas MacArthur"
+  id: 1233,
+  quote: "If you kick a stone in anger, you'll hurt your own foot.",
+  author: "Korean proverb"
 }
 ```
 
