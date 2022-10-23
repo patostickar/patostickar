@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 960,
-  quote: "To dare is to lose ones footing momentarily. To not dare is to lose oneself.",
-  author: "Soren Kierkegaard"
+  id: 359,
+  quote: "It is fatal to enter any war without the will to win it.",
+  author: "General Douglas MacArthur"
 }
 ```
 
