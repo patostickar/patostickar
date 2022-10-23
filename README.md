@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1233,
-  quote: "If you kick a stone in anger, you'll hurt your own foot.",
-  author: "Korean proverb"
+  id: 1258,
+  quote: "Turn your face toward the sun and the shadows will fall behind you.",
+  author: "Maori proverb"
 }
 ```
 
