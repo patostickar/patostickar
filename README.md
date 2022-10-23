@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 168,
-  quote: "Loss is nothing else but change,and change is Natures delight.",
-  author: "Marcus Aurelius"
+  id: 1106,
+  quote: "You have to think anyway, so why not think big?",
+  author: "Donald Trump"
 }
 ```
 
