@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1434,
-  quote: "Give thanks for a little and you will find a lot.",
-  author: "Hausa"
+  id: 349,
+  quote: "The world makes way for the man who knows where he is going.",
+  author: "Ralph Emerson"
 }
 ```
 
