@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1106,
-  quote: "You have to think anyway, so why not think big?",
-  author: "Donald Trump"
+  id: 712,
+  quote: "You block your dream when you allow your fear to grow bigger than your faith.",
+  author: "Mary Morrissey"
 }
 ```
 
