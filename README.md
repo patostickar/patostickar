@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1139,
-  quote: "If you come to a fork in the road, take it.",
-  author: "null"
+  id: 1018,
+  quote: "Experience can only be gained by doing not by thinking or dreaming.",
+  author: "Byron Pulsifer"
 }
 ```
 
