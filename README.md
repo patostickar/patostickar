@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 39,
-  quote: "The world is always in movement.",
-  author: "V. Naipaul"
+  id: 1267,
+  quote: "All truths are easy to understand once they are discovered; the point is to discover them.",
+  author: "Galileo Galilei"
 }
 ```
 
