@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 701,
-  quote: "Work while you have the light. You are responsible for the talent that has been entrusted to you.",
-  author: "Henri-Frederic Amiel"
+  id: 87,
+  quote: "No one can make you feel inferior without your consent.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
