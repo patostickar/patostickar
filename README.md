@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1625,
-  quote: "The truest greatness lies in being kind, the truest wisdom in a happy mind.",
-  author: "Ella Wilcox"
+  id: 39,
+  quote: "The world is always in movement.",
+  author: "V. Naipaul"
 }
 ```
 
