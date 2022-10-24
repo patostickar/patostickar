@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 783,
-  quote: "Do not expect the world to look bright, if you habitually wear gray-brown glasses.",
-  author: "Tomas Eliot"
+  id: 28,
+  quote: "From error to error one discovers the entire truth.",
+  author: "Sigmund Freud"
 }
 ```
 
