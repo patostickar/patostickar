@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1018,
-  quote: "Experience can only be gained by doing not by thinking or dreaming.",
-  author: "Byron Pulsifer"
+  id: 1626,
+  quote: "An ounce of emotion is equal to a ton of facts.",
+  author: "John Junor"
 }
 ```
 
