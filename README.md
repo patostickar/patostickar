@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 28,
-  quote: "From error to error one discovers the entire truth.",
-  author: "Sigmund Freud"
+  id: 720,
+  quote: "No one has ever become poor by giving.",
+  author: "Anne Frank"
 }
 ```
 
