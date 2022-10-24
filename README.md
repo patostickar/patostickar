@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1403,
-  quote: "Gratitude is not only the greatest of virtues, but the paren't of all the others.",
-  author: "Cicero"
+  id: 648,
+  quote: "If we are facing in the right direction, all we have to do is keep on walking.",
+  author: "null"
 }
 ```
 
