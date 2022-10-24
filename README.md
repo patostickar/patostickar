@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 648,
-  quote: "If we are facing in the right direction, all we have to do is keep on walking.",
-  author: "null"
+  id: 1218,
+  quote: "A day of worry is more exhausting than a day of work.",
+  author: "John Lubbock"
 }
 ```
 
