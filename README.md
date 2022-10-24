@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1046,
-  quote: "We know what we are, but know not what we may be.",
-  author: "William Shakespeare"
+  id: 783,
+  quote: "Do not expect the world to look bright, if you habitually wear gray-brown glasses.",
+  author: "Tomas Eliot"
 }
 ```
 
