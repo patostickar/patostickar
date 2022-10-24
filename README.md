@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1592,
-  quote: "Everything that irritates us about others can lead us to a better understanding of ourselves.",
-  author: "Carl Jung"
+  id: 1139,
+  quote: "If you come to a fork in the road, take it.",
+  author: "null"
 }
 ```
 
