@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1123,
-  quote: "Nothing great was ever achieved without enthusiasm.",
-  author: "Ralph Emerson"
+  id: 1550,
+  quote: "I have no special talent. I am only passionately curious.",
+  author: "Albert Einstein"
 }
 ```
 
