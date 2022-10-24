@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 87,
-  quote: "No one can make you feel inferior without your consent.",
-  author: "Eleanor Roosevelt"
+  id: 794,
+  quote: "Don't look back. Something might be gaining on you.",
+  author: "Satchel Paige"
 }
 ```
 
