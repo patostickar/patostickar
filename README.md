@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 114,
-  quote: "Truth is powerful and it prevails.",
-  author: "Sojourner Truth"
+  id: 168,
+  quote: "Loss is nothing else but change,and change is Natures delight.",
+  author: "Marcus Aurelius"
 }
 ```
 
