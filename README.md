@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 979,
-  quote: "Love is the only force capable of transforming an enemy into friend.",
-  author: "Martin Luther King, Jr."
+  id: 1241,
+  quote: "The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.",
+  author: "Will Durant"
 }
 ```
 
