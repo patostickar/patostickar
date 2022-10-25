@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1218,
-  quote: "A day of worry is more exhausting than a day of work.",
-  author: "John Lubbock"
+  id: 425,
+  quote: "No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto.",
+  author: "W. Clement Stone"
 }
 ```
 
