@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 708,
-  quote: "Creativity comes from trust. Trust your instincts. And never hope more than you work.",
-  author: "Rita Mae Brown"
+  id: 495,
+  quote: "Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that so it goes on flying anyway.",
+  author: "Mary Kay Ash"
 }
 ```
 
