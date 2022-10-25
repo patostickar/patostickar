@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 449,
-  quote: "Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.",
-  author: "Hannah Arendt"
+  id: 455,
+  quote: "You may be deceived if you trust too much, but you will live in torment if you don't trust enough.",
+  author: "Frank Crane"
 }
 ```
 
