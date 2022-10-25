@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1296,
-  quote: "Work for something because it is good, not just because it stands a chance to succeed.",
-  author: "Vaclav Havel"
+  id: 979,
+  quote: "Love is the only force capable of transforming an enemy into friend.",
+  author: "Martin Luther King, Jr."
 }
 ```
 
