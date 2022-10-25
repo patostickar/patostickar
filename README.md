@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1261,
-  quote: "To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others.",
-  author: "Anthony Robbins"
+  id: 932,
+  quote: "Action may not always bring happiness, but there is no happiness without action.",
+  author: "Benjamin Disraeli"
 }
 ```
 
