@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1363,
-  quote: "The foolish man seeks happiness in the distance; the wise grows it under his feet.",
-  author: "James Openheim"
+  id: 1499,
+  quote: "You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.",
+  author: "Albert Camus"
 }
 ```
 
