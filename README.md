@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1231,
-  quote: "Fear not for the future, weep not for the past.",
-  author: "Percy Shelley"
+  id: 449,
+  quote: "Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.",
+  author: "Hannah Arendt"
 }
 ```
 
