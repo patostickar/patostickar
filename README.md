@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1241,
-  quote: "The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.",
-  author: "Will Durant"
+  id: 1089,
+  quote: "Impossibilities are merely things which we have not yet learned.",
+  author: "Charles Chesnutt"
 }
 ```
 
