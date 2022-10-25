@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 738,
-  quote: "The universe is transformation; our life is what our thoughts make it.",
-  author: "Marcus Aurelius"
+  id: 816,
+  quote: "It is not the mistake that has the most power, instead, it is learning from the mistake to advance your own attributes.",
+  author: "Byron Roberts"
 }
 ```
 
