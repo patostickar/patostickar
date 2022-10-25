@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 816,
-  quote: "It is not the mistake that has the most power, instead, it is learning from the mistake to advance your own attributes.",
-  author: "Byron Roberts"
+  id: 16,
+  quote: "It's easier to see the mistakes on someone else's paper.",
+  author: "null"
 }
 ```
 
