@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 80,
-  quote: "Anticipate the difficult by managing the easy.",
-  author: "Lao Tzu"
+  id: 574,
+  quote: "People take different roads seeking fulfilment and happiness. Just because theyre not on your road doesn't mean they've gotten lost.",
+  author: "Dalai Lama"
 }
 ```
 
