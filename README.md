@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 170,
-  quote: "Today is the tomorrow you worried about yesterday.",
-  author: "null"
+  id: 1075,
+  quote: "You only lose what you cling to.",
+  author: "Buddha"
 }
 ```
 
