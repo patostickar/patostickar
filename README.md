@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1598,
-  quote: "An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.",
-  author: "Thomas Fuller"
+  id: 1007,
+  quote: "Happiness mainly comes from our own attitude, rather than from external factors.",
+  author: "Dalai Lama"
 }
 ```
 
