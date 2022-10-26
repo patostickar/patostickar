@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1007,
-  quote: "Happiness mainly comes from our own attitude, rather than from external factors.",
-  author: "Dalai Lama"
+  id: 1521,
+  quote: "If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.",
+  author: "Daisaku Ikeda"
 }
 ```
 
