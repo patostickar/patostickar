@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 984,
-  quote: "Your mind will answer most questions if you learn to relax and wait for the answer.",
-  author: "William Burroughs"
+  id: 22,
+  quote: "Ideas are the beginning points of all fortunes.",
+  author: "Napoleon Hill"
 }
 ```
 
