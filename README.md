@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 72,
-  quote: "The undertaking of a new action brings new strength.",
-  author: "Richard Evans"
+  id: 522,
+  quote: "Silences make the real conversations between friends. Not the saying but the never needing to say is what counts.",
+  author: "Margaret Runbeck"
 }
 ```
 
