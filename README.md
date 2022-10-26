@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 905,
-  quote: "Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.",
-  author: "Amiel"
+  id: 933,
+  quote: "Believe deep down in your heart that you're destined to do great things.",
+  author: "Joe Paterno"
 }
 ```
 
