@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1103,
-  quote: "The odds of hitting your target go up dramatically when you aim at it.",
-  author: "Mal Pancoast"
+  id: 859,
+  quote: "A man should look for what is, and not for what he thinks should be.",
+  author: "Albert Einstein"
 }
 ```
 
