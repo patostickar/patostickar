@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 22,
-  quote: "Ideas are the beginning points of all fortunes.",
-  author: "Napoleon Hill"
+  id: 622,
+  quote: "It is more important to know where you are going than to get there quickly. Do not mistake activity for achievement.",
+  author: "Mabel Newcomber"
 }
 ```
 
