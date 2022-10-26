@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 522,
-  quote: "Silences make the real conversations between friends. Not the saying but the never needing to say is what counts.",
-  author: "Margaret Runbeck"
+  id: 1103,
+  quote: "The odds of hitting your target go up dramatically when you aim at it.",
+  author: "Mal Pancoast"
 }
 ```
 
