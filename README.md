@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 859,
-  quote: "A man should look for what is, and not for what he thinks should be.",
-  author: "Albert Einstein"
+  id: 905,
+  quote: "Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.",
+  author: "Amiel"
 }
 ```
 
