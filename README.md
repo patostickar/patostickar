@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 938,
-  quote: "To know oneself is to study oneself in action with another person.",
-  author: "Bruce Lee"
+  id: 80,
+  quote: "Anticipate the difficult by managing the easy.",
+  author: "Lao Tzu"
 }
 ```
 
