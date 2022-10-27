@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 710,
-  quote: "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.",
-  author: "Lao Tzu"
+  id: 1154,
+  quote: "Do what you can. Want what you have. Be who you are.",
+  author: "Forrest Church"
 }
 ```
 
