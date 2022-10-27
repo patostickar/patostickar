@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 699,
-  quote: "A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.",
-  author: "David Brinkley"
+  id: 324,
+  quote: "The world is a book, and those who do not travel read only a page.",
+  author: "Augustinus Sanctus"
 }
 ```
 
