@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1587,
-  quote: "Argue for your limitations, and sure enough they're yours.",
-  author: "Richard Bach"
+  id: 481,
+  quote: "What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.",
+  author: "Sai Baba"
 }
 ```
 
