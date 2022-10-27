@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 209,
-  quote: "Difficulties are things that show a person what they are.",
-  author: "Epictetus"
+  id: 1500,
+  quote: "Genuine sincerity opens people's hearts, while manipulation causes them to close.",
+  author: "Daisaku Ikeda"
 }
 ```
 
