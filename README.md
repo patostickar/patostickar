@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 62,
-  quote: "Change in all things is sweet.",
-  author: "Aristotle"
+  id: 445,
+  quote: "The highest stage in moral ure at which we can arrive is when we recognize that we ought to control our thoughts.",
+  author: "Charles Darwin"
 }
 ```
 
