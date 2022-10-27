@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 791,
-  quote: "The beginning is always today.",
-  author: "Mary Wollstonecraft"
+  id: 1273,
+  quote: "We may encounter many defeats but we must not be defeated.",
+  author: "Maya Angelou"
 }
 ```
 
