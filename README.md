@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 716,
-  quote: "Never idealize others. They will never live up to your expectations.",
-  author: "Leo Buscaglia"
+  id: 6,
+  quote: "Nothing happens unless first we dream.",
+  author: "Carl Sandburg"
 }
 ```
 
