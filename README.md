@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1037,
-  quote: "A gem cannot be polished without friction, nor a man perfected without trials.",
-  author: "Chinese proverb"
+  id: 699,
+  quote: "A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.",
+  author: "David Brinkley"
 }
 ```
 
