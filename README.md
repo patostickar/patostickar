@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1273,
-  quote: "We may encounter many defeats but we must not be defeated.",
-  author: "Maya Angelou"
+  id: 109,
+  quote: "What we think, we become.",
+  author: "Buddha"
 }
 ```
 
