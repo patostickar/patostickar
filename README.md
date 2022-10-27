@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 324,
-  quote: "The world is a book, and those who do not travel read only a page.",
-  author: "Augustinus Sanctus"
+  id: 716,
+  quote: "Never idealize others. They will never live up to your expectations.",
+  author: "Leo Buscaglia"
 }
 ```
 
