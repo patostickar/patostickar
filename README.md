@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 219,
-  quote: "Better be ignorant of a matter than half know it.",
-  author: "Publilius Syrus"
+  id: 910,
+  quote: "No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.",
+  author: "Helen Keller"
 }
 ```
 
