@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1035,
-  quote: "We must embrace pain and burn it as fuel for our journey.",
-  author: "Kenji Miyazawa"
+  id: 937,
+  quote: "Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.",
+  author: "William Arthur Ward"
 }
 ```
 
