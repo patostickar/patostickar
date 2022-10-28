@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 166,
-  quote: "Change your thoughts, change your life!",
-  author: "null"
+  id: 81,
+  quote: "Those who are free of resentful thoughts surely find peace.",
+  author: "Buddha"
 }
 ```
 
