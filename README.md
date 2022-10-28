@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 993,
-  quote: "A jug fills drop by drop.",
-  author: "Buddha"
+  id: 41,
+  quote: "What worries you masters you.",
+  author: "Haddon Robinson"
 }
 ```
 
