@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 165,
-  quote: "Freedom is the right to live as we wish.",
-  author: "Epictetus"
+  id: 1016,
+  quote: "Most powerful is he who has himself in his own power.",
+  author: "Seneca"
 }
 ```
 
