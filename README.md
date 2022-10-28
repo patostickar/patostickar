@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 49,
-  quote: "To succeed, we must first believe that we can.",
-  author: "Michael Korda"
+  id: 212,
+  quote: "A prudent question is one half of wisdom.",
+  author: "Francis Bacon"
 }
 ```
 
