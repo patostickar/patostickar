@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 426,
-  quote: "The reason most goals are not achieved is that we spend our time doing second things first.",
-  author: "Robert McKain"
+  id: 835,
+  quote: "Friends are those rare people who ask how we are and then wait to hear the answer.",
+  author: "Ed Cunningham"
 }
 ```
 
