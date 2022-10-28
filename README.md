@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 212,
-  quote: "A prudent question is one half of wisdom.",
-  author: "Francis Bacon"
+  id: 326,
+  quote: "I'm not afraid of storms, for I'm learning how to sail my ship.",
+  author: "Louisa Alcott"
 }
 ```
 
