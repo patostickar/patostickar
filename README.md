@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1016,
-  quote: "Most powerful is he who has himself in his own power.",
-  author: "Seneca"
+  id: 768,
+  quote: "Formula for success: under promise and over deliver.",
+  author: "Tom Peters"
 }
 ```
 
