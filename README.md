@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 41,
-  quote: "What worries you masters you.",
-  author: "Haddon Robinson"
+  id: 426,
+  quote: "The reason most goals are not achieved is that we spend our time doing second things first.",
+  author: "Robert McKain"
 }
 ```
 
