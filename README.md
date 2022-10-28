@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 81,
-  quote: "Those who are free of resentful thoughts surely find peace.",
-  author: "Buddha"
+  id: 317,
+  quote: "Give thanks for the rain of life that propels us to reach new horizons.",
+  author: "Byron Pulsifer"
 }
 ```
 
