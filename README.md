@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 937,
-  quote: "Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.",
-  author: "William Arthur Ward"
+  id: 1234,
+  quote: "To see things in the seed, that is genius.",
+  author: "Lao Tzu"
 }
 ```
 
