@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1584,
-  quote: "So is cheerfulness, or a good temper, the more it is spent, the more remains.",
-  author: "Ralph Emerson"
+  id: 1607,
+  quote: "You can stand tall without standing on someone. You can be a victor without having victims.",
+  author: "Harriet Woods"
 }
 ```
 
