@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 270,
-  quote: "The winds and waves are always on the side of the ablest navigators.",
-  author: "Edward Gibbon"
+  id: 1158,
+  quote: "Things do not change, we change.",
+  author: "Henry Thoreau"
 }
 ```
 
