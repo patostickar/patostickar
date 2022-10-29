@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 776,
-  quote: "Ignorance never settle a question.",
-  author: "Benjamin Disraeli"
+  id: 941,
+  quote: "Reality is merely an illusion, albeit a very persistent one.",
+  author: "Albert Einstein"
 }
 ```
 
