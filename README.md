@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1576,
-  quote: "Nothing could be worse than the fear that one had given up too soon, and left one unexpended effort that might have saved the world.",
-  author: "Jane Addams"
+  id: 776,
+  quote: "Ignorance never settle a question.",
+  author: "Benjamin Disraeli"
 }
 ```
 
