@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1607,
-  quote: "You can stand tall without standing on someone. You can be a victor without having victims.",
-  author: "Harriet Woods"
+  id: 1498,
+  quote: "Time you enjoyed wasting was not wasted.",
+  author: "John Lennon"
 }
 ```
 
