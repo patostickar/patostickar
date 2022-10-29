@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1349,
-  quote: "Learning without reflection is a waste, reflection without learning is dangerous.",
-  author: "Confucius"
+  id: 1500,
+  quote: "Genuine sincerity opens people's hearts, while manipulation causes them to close.",
+  author: "Daisaku Ikeda"
 }
 ```
 
