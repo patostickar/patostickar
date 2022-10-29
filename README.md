@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1135,
-  quote: "A thing well said will be wit in all languages.",
-  author: "John Dryden"
+  id: 270,
+  quote: "The winds and waves are always on the side of the ablest navigators.",
+  author: "Edward Gibbon"
 }
 ```
 
