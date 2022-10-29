@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1498,
-  quote: "Time you enjoyed wasting was not wasted.",
-  author: "John Lennon"
+  id: 1135,
+  quote: "A thing well said will be wit in all languages.",
+  author: "John Dryden"
 }
 ```
 
