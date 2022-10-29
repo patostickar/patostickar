@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 710,
-  quote: "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.",
-  author: "Lao Tzu"
+  id: 580,
+  quote: "The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
