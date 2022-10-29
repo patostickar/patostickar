@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 947,
-  quote: "A man is great by deeds, not by birth.",
-  author: "Chanakya"
+  id: 1442,
+  quote: "It is with words as with sunbeams. The more they are condensed, the deeper they burn.",
+  author: "Robert Southey"
 }
 ```
 
