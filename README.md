@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 891,
-  quote: "The secret of joy in work is contained in one word excellence. To know how to do something well is to enjoy it.",
-  author: "Pearl Buck"
+  id: 1576,
+  quote: "Nothing could be worse than the fear that one had given up too soon, and left one unexpended effort that might have saved the world.",
+  author: "Jane Addams"
 }
 ```
 
