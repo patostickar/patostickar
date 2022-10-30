@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 581,
-  quote: "If you focus on results, you will never change. If you focus on change, you will get results.",
-  author: "Jack Dixon"
+  id: 1458,
+  quote: "And as we let our own light shine, we unconsciously give other people permission to do the same.",
+  author: "Nelson Mandela"
 }
 ```
 
