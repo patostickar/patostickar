@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1636,
-  quote: "Nothing is a waste of time if you use the experience wisely.",
-  author: "Rodin"
+  id: 99,
+  quote: "Do more than dream: work.",
+  author: "William Arthur Ward"
 }
 ```
 
