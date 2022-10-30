@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 751,
-  quote: "We must not say every mistake is a foolish one.",
-  author: "Cicero"
+  id: 701,
+  quote: "Work while you have the light. You are responsible for the talent that has been entrusted to you.",
+  author: "Henri-Frederic Amiel"
 }
 ```
 
