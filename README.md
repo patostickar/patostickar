@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 99,
-  quote: "Do more than dream: work.",
-  author: "William Arthur Ward"
+  id: 483,
+  quote: "Life is like a sewer. What you get out of it depends on what you put into it.",
+  author: "Tom Lehrer"
 }
 ```
 
