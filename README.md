@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 417,
-  quote: "When you are content to be simply yourself and don't compare or compete, everybody will respect you.",
-  author: "Laozi"
+  id: 428,
+  quote: "I'm a great believer in luck and I find the harder I work, the more I have of it.",
+  author: "Thomas Jefferson"
 }
 ```
 
