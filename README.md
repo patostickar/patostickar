@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1097,
-  quote: "No act of kindness, no matter how small, is ever wasted.",
-  author: "Aesop"
+  id: 751,
+  quote: "We must not say every mistake is a foolish one.",
+  author: "Cicero"
 }
 ```
 
