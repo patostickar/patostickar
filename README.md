@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 483,
-  quote: "Life is like a sewer. What you get out of it depends on what you put into it.",
-  author: "Tom Lehrer"
+  id: 915,
+  quote: "Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.",
+  author: "Marcus Aurelius"
 }
 ```
 
