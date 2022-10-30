@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 543,
-  quote: "You are always free to change your mind and choose a different future, or a different past.",
-  author: "Richard Bach"
+  id: 574,
+  quote: "People take different roads seeking fulfilment and happiness. Just because theyre not on your road doesn't mean they've gotten lost.",
+  author: "Dalai Lama"
 }
 ```
 
