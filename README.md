@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1500,
-  quote: "Genuine sincerity opens people's hearts, while manipulation causes them to close.",
-  author: "Daisaku Ikeda"
+  id: 594,
+  quote: "When we seek to discover the best in others, we somehow bring out the best in ourselves.",
+  author: "William Ward"
 }
 ```
 
