@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 839,
-  quote: "While we try to teach our children all about life, our children teach us what life is all about.",
-  author: "Angela Schwindt"
+  id: 1097,
+  quote: "No act of kindness, no matter how small, is ever wasted.",
+  author: "Aesop"
 }
 ```
 
