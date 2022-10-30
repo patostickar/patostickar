@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1098,
-  quote: "Every man is a volume if you know how to read him.",
-  author: "Channing"
+  id: 854,
+  quote: "It is surprising what a man can do when he has to, and how little most men will do when they don't have to.",
+  author: "Walter Linn"
 }
 ```
 
