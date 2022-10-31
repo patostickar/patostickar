@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 523,
-  quote: "The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.",
-  author: "Dalai Lama"
+  id: 76,
+  quote: "Great talent finds happiness in execution.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
