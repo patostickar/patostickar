@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1132,
-  quote: "It is impossible to feel grateful and depressed in the same moment.",
-  author: "Naomi Williams"
+  id: 896,
+  quote: "It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all.",
+  author: "Edward de Bono"
 }
 ```
 
