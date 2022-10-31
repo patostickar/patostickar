@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 76,
-  quote: "Great talent finds happiness in execution.",
-  author: "Johann Wolfgang von Goethe"
+  id: 54,
+  quote: "The best teacher is experience learned from failures.",
+  author: "Byron Pulsifer"
 }
 ```
 
