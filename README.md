@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1439,
-  quote: "The deepest craving of human nature is the need to be appreciated.",
-  author: "William James"
+  id: 417,
+  quote: "When you are content to be simply yourself and don't compare or compete, everybody will respect you.",
+  author: "Laozi"
 }
 ```
 
