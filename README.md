@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1434,
-  quote: "Give thanks for a little and you will find a lot.",
-  author: "Hausa"
+  id: 1431,
+  quote: "Your attitude, not your aptitude, will determine your altitude.",
+  author: "Zig Ziglar"
 }
 ```
 
