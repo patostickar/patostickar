@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1358,
-  quote: "The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.",
-  author: "Anais Nin"
+  id: 1132,
+  quote: "It is impossible to feel grateful and depressed in the same moment.",
+  author: "Naomi Williams"
 }
 ```
 
