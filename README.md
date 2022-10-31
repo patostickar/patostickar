@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 57,
-  quote: "Don't wait. The time will never be just right.",
-  author: "Napoleon Hill"
+  id: 523,
+  quote: "The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.",
+  author: "Dalai Lama"
 }
 ```
 
