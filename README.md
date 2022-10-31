@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 235,
-  quote: "Fears are nothing more than a state of mind.",
-  author: "Napoleon Hill"
+  id: 1190,
+  quote: "An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is colour-blind.",
+  author: "Albert Schweitzer"
 }
 ```
 
