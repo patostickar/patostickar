@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1530,
-  quote: "A garden is always a series of losses set against a few triumphs, like life itself.",
-  author: "May Sarton"
+  id: 327,
+  quote: "Think for yourselves and let others enjoy the privilege to do so too.",
+  author: "Voltaire"
 }
 ```
 
