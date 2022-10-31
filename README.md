@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 544,
-  quote: "You were not born a winner, and you were not born a loser. You are what you make yourself be.",
-  author: "Lou Holtz"
+  id: 1372,
+  quote: "If you want things to be different, perhaps the answer is to become different yourself.",
+  author: "Norman Peale"
 }
 ```
 
