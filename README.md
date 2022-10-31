@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 54,
-  quote: "The best teacher is experience learned from failures.",
-  author: "Byron Pulsifer"
+  id: 544,
+  quote: "You were not born a winner, and you were not born a loser. You are what you make yourself be.",
+  author: "Lou Holtz"
 }
 ```
 
