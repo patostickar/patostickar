@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 896,
-  quote: "It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all.",
-  author: "Edward de Bono"
+  id: 1193,
+  quote: "To change ones life, start immediately, do it flamboyantly, no exceptions.",
+  author: "William James"
 }
 ```
 
