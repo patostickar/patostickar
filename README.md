@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 40,
-  quote: "Never mistake activity for achievement.",
-  author: "John Wooden"
+  id: 1358,
+  quote: "The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.",
+  author: "Anais Nin"
 }
 ```
 
