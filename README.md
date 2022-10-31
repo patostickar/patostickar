@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1193,
-  quote: "To change ones life, start immediately, do it flamboyantly, no exceptions.",
+  id: 1439,
+  quote: "The deepest craving of human nature is the need to be appreciated.",
   author: "William James"
 }
 ```
