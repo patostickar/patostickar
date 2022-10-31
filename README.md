@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1431,
-  quote: "Your attitude, not your aptitude, will determine your altitude.",
-  author: "Zig Ziglar"
+  id: 57,
+  quote: "Don't wait. The time will never be just right.",
+  author: "Napoleon Hill"
 }
 ```
 
