@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1022,
-  quote: "Life is what happens while you are making other plans.",
-  author: "John Lennon"
+  id: 40,
+  quote: "Never mistake activity for achievement.",
+  author: "John Wooden"
 }
 ```
 
