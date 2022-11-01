@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 676,
-  quote: "Everyone has been made for some particular work, and the desire for that work has been put in every heart.",
-  author: "Rumi"
+  id: 1294,
+  quote: "The difference between what we do and what we are capable of doing would suffice to solve most of the worlds problems.",
+  author: "Mohandas Gandhi"
 }
 ```
 
