@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1328,
-  quote: "You are the only person on earth who can use your ability.",
-  author: "Zig Ziglar"
+  id: 193,
+  quote: "Mountains cannot be surmounted except by winding paths.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
