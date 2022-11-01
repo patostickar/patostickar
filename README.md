@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 284,
-  quote: "If you don't know where you are going, you will probably end up somewhere else.",
-  author: "Lawrence Peter"
+  id: 529,
+  quote: "To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.",
+  author: "Buddha"
 }
 ```
 
