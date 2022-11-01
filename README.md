@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 642,
-  quote: "Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!",
-  author: "Richard Bach"
+  id: 456,
+  quote: "Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven.",
+  author: "Lao Tzu"
 }
 ```
 
