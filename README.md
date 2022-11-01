@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1177,
-  quote: "Keep your eyes on the stars and your feet on the ground.",
-  author: "Theodore Roosevelt"
+  id: 1494,
+  quote: "Think like a man of action; act like a man of thought.",
+  author: "Henri L. Bergson"
 }
 ```
 
