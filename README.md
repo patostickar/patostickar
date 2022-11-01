@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1183,
-  quote: "Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather.",
-  author: "John Ruskin"
+  id: 592,
+  quote: "To live a pure unselfish life, one must count nothing as ones own in the midst of abundance.",
+  author: "Buddha"
 }
 ```
 
