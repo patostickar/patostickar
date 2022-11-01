@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 592,
-  quote: "To live a pure unselfish life, one must count nothing as ones own in the midst of abundance.",
-  author: "Buddha"
+  id: 937,
+  quote: "Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.",
+  author: "William Arthur Ward"
 }
 ```
 
