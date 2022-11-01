@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1368,
-  quote: "It is not fair to ask of others what you are unwilling to do yourself.",
-  author: "Eleanor Roosevelt"
+  id: 943,
+  quote: "Always be mindful of the kindness and not the faults of others.",
+  author: "Buddha"
 }
 ```
 
