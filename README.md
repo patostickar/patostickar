@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 943,
-  quote: "Always be mindful of the kindness and not the faults of others.",
-  author: "Buddha"
+  id: 284,
+  quote: "If you don't know where you are going, you will probably end up somewhere else.",
+  author: "Lawrence Peter"
 }
 ```
 
