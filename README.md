@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 394,
-  quote: "It is on our failures that we base a new and different and better success.",
-  author: "Havelock Ellis"
+  id: 282,
+  quote: "I never see what has been done; I only see what remains to be done.",
+  author: "Marie Curie"
 }
 ```
 
