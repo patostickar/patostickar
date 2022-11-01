@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1294,
-  quote: "The difference between what we do and what we are capable of doing would suffice to solve most of the worlds problems.",
-  author: "Mohandas Gandhi"
+  id: 851,
+  quote: "The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.",
+  author: "Mortimer Adler"
 }
 ```
 
