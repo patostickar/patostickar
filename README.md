@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1595,
-  quote: "I have never been hurt by anything I didn't say.",
-  author: "Calvin Coolidge"
+  id: 642,
+  quote: "Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!",
+  author: "Richard Bach"
 }
 ```
 
