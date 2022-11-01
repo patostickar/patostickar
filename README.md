@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1494,
-  quote: "Think like a man of action; act like a man of thought.",
-  author: "Henri L. Bergson"
+  id: 394,
+  quote: "It is on our failures that we base a new and different and better success.",
+  author: "Havelock Ellis"
 }
 ```
 
