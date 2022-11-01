@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 851,
-  quote: "The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.",
-  author: "Mortimer Adler"
+  id: 1595,
+  quote: "I have never been hurt by anything I didn't say.",
+  author: "Calvin Coolidge"
 }
 ```
 
