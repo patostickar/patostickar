@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 529,
-  quote: "To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.",
-  author: "Buddha"
+  id: 802,
+  quote: "Trust your own instinct. Your mistakes might as well be your own, instead of someone elses.",
+  author: "Billy Wilder"
 }
 ```
 
