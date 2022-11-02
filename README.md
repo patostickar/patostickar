@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 129,
-  quote: "From little acorns mighty oaks do grow.",
-  author: "American proverb"
+  id: 1328,
+  quote: "You are the only person on earth who can use your ability.",
+  author: "Zig Ziglar"
 }
 ```
 
