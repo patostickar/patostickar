@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 531,
-  quote: "I am a man of fixed and unbending principles, the first of which is to be flexible at all times.",
-  author: "Everett Dirksen"
+  id: 1019,
+  quote: "Always tell the truth. That way, you don't have to remember what you said.",
+  author: "Mark Twain"
 }
 ```
 
