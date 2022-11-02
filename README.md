@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1328,
-  quote: "You are the only person on earth who can use your ability.",
-  author: "Zig Ziglar"
+  id: 69,
+  quote: "Wisdom is the supreme part of happiness.",
+  author: "Sophocles"
 }
 ```
 
