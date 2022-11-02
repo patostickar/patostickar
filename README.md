@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 398,
-  quote: "Time changes everything except something within us which is always surprised by change.",
-  author: "Thomas Hardy"
+  id: 652,
+  quote: "Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.",
+  author: "Eknath Easwaran"
 }
 ```
 
