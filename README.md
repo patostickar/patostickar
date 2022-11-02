@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 69,
-  quote: "Wisdom is the supreme part of happiness.",
-  author: "Sophocles"
+  id: 531,
+  quote: "I am a man of fixed and unbending principles, the first of which is to be flexible at all times.",
+  author: "Everett Dirksen"
 }
 ```
 
