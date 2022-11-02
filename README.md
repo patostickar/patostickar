@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 348,
-  quote: "If you correct your mind, the rest of your life will fall into place.",
-  author: "Lao Tzu"
+  id: 1621,
+  quote: "There surely is in human nature an inherent propensity to extract all the good out of all the evil.",
+  author: "Benjamin Haydon"
 }
 ```
 
