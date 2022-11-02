@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1019,
-  quote: "Always tell the truth. That way, you don't have to remember what you said.",
-  author: "Mark Twain"
+  id: 1549,
+  quote: "A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.",
+  author: "Jawaharlal Nehru"
 }
 ```
 
