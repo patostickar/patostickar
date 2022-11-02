@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1326,
-  quote: "Great ideas often receive violent opposition from mediocre minds.",
-  author: "Albert Einstein"
+  id: 1304,
+  quote: "Our passion is our strength.",
+  author: "Billie Armstrong"
 }
 ```
 
