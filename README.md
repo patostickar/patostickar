@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1008,
-  quote: "If you do not change direction, you may end up where you are heading.",
+  id: 348,
+  quote: "If you correct your mind, the rest of your life will fall into place.",
   author: "Lao Tzu"
 }
 ```
