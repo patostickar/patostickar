@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 652,
-  quote: "Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.",
-  author: "Eknath Easwaran"
+  id: 1572,
+  quote: "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
+  author: "Marcus Aurelius"
 }
 ```
 
