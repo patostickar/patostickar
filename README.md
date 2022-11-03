@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 820,
-  quote: "The way we communicate with others and with ourselves ultimately determines the quality of our lives.",
-  author: "Tony Robbins"
+  id: 1025,
+  quote: "You need chaos in your soul to give birth to a dancing star.",
+  author: "Nietzsche"
 }
 ```
 
