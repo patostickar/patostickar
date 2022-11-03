@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 229,
-  quote: "Be great in act, as you have been in thought.",
-  author: "William Shakespeare"
+  id: 724,
+  quote: "He who lives in harmony with himself lives in harmony with the universe.",
+  author: "Marcus Aurelius"
 }
 ```
 
