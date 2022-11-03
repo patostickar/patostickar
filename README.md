@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 966,
-  quote: "Your sacred space is where you can find yourself again and again.",
-  author: "Joseph Campbell"
+  id: 586,
+  quote: "To speak gratitude is courteous and pleasant, to enact gratitude is generous and noble, but to live gratitude is to touch Heaven.",
+  author: "Johannes Gaertner"
 }
 ```
 
