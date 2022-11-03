@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 337,
-  quote: "You have enemies? Good. That means you've stood up for something, sometime in your life.",
+  id: 313,
+  quote: "Short words are best and the old words when short are best of all.",
   author: "Winston Churchill"
 }
 ```
