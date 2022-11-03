@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1081,
-  quote: "Every human being is the author of his own health or disease.",
-  author: "Buddha"
+  id: 870,
+  quote: "If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace.",
+  author: "Ajahn Chah"
 }
 ```
 
