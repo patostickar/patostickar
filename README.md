@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 666,
-  quote: "Peace of mind is not the absence of conflict from life, but the ability to cope with it.",
-  author: "null"
+  id: 966,
+  quote: "Your sacred space is where you can find yourself again and again.",
+  author: "Joseph Campbell"
 }
 ```
 
