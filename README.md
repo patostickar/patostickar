@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 586,
-  quote: "To speak gratitude is courteous and pleasant, to enact gratitude is generous and noble, but to live gratitude is to touch Heaven.",
-  author: "Johannes Gaertner"
+  id: 1349,
+  quote: "Learning without reflection is a waste, reflection without learning is dangerous.",
+  author: "Confucius"
 }
 ```
 
