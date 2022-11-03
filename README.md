@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 313,
-  quote: "Short words are best and the old words when short are best of all.",
-  author: "Winston Churchill"
+  id: 820,
+  quote: "The way we communicate with others and with ourselves ultimately determines the quality of our lives.",
+  author: "Tony Robbins"
 }
 ```
 
