@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1328,
-  quote: "You are the only person on earth who can use your ability.",
-  author: "Zig Ziglar"
+  id: 591,
+  quote: "The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.",
+  author: "Helen Keller"
 }
 ```
 
