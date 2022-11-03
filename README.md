@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1349,
-  quote: "Learning without reflection is a waste, reflection without learning is dangerous.",
-  author: "Confucius"
+  id: 909,
+  quote: "I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.",
+  author: "Frederick Douglass"
 }
 ```
 
