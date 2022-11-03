@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 110,
-  quote: "The shortest answer is doing.",
-  author: "Lord Herbert"
+  id: 189,
+  quote: "There is no failure except in no longer trying.",
+  author: "Elbert Hubbard"
 }
 ```
 
