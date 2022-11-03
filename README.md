@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 591,
-  quote: "The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.",
-  author: "Helen Keller"
+  id: 666,
+  quote: "Peace of mind is not the absence of conflict from life, but the ability to cope with it.",
+  author: "null"
 }
 ```
 
