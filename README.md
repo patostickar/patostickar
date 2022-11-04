@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 200,
-  quote: "Strong beliefs win strong men, and then make them stronger.",
-  author: "Richard Bach"
+  id: 25,
+  quote: "Trust yourself. You know more than you think you do.",
+  author: "Benjamin Spock"
 }
 ```
 
