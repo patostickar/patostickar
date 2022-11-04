@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1176,
-  quote: "You cannot travel the path until you have become the path itself.",
-  author: "Buddha"
+  id: 465,
+  quote: "Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.",
+  author: "Rumi"
 }
 ```
 
