@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 259,
-  quote: "Life is a progress, and not a station.",
+  id: 1123,
+  quote: "Nothing great was ever achieved without enthusiasm.",
   author: "Ralph Emerson"
 }
 ```
