@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 485,
-  quote: "Learn all you can from the mistakes of others. You won't have time to make them all yourself.",
-  author: "Alfred Sheinwold"
+  id: 513,
+  quote: "We all live with the objective of being happy; our lives are all different and yet the same.",
+  author: "Anne Frank"
 }
 ```
 
