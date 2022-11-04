@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 465,
-  quote: "Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.",
-  author: "Rumi"
+  id: 200,
+  quote: "Strong beliefs win strong men, and then make them stronger.",
+  author: "Richard Bach"
 }
 ```
 
