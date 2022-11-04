@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 221,
-  quote: "There never was a good knife made of bad steel.",
-  author: "Benjamin Franklin"
+  id: 126,
+  quote: "Our intention creates our reality.",
+  author: "Wayne Dyer"
 }
 ```
 
