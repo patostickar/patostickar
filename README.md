@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 392,
-  quote: "If you would take, you must first give, this is the beginning of intelligence.",
-  author: "Lao Tzu"
+  id: 221,
+  quote: "There never was a good knife made of bad steel.",
+  author: "Benjamin Franklin"
 }
 ```
 
