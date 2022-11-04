@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1279,
-  quote: "To be happy is to be able to become aware of oneself without fright.",
-  author: "Walter Benjamin"
+  id: 1469,
+  quote: "Love is the master key that opens the gates of happiness.",
+  author: "Oliver Holmes"
 }
 ```
 
