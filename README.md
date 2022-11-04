@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1123,
-  quote: "Nothing great was ever achieved without enthusiasm.",
-  author: "Ralph Emerson"
+  id: 828,
+  quote: "A failure is a man who has blundered but is not capable of cashing in on the experience.",
+  author: "Elbert Hubbard"
 }
 ```
 
