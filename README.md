@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 471,
-  quote: "As the rest of the world is walking out the door, your best friends are the ones walking in.",
-  author: "null"
+  id: 392,
+  quote: "If you would take, you must first give, this is the beginning of intelligence.",
+  author: "Lao Tzu"
 }
 ```
 
