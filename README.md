@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 522,
-  quote: "Silences make the real conversations between friends. Not the saying but the never needing to say is what counts.",
-  author: "Margaret Runbeck"
+  id: 1075,
+  quote: "You only lose what you cling to.",
+  author: "Buddha"
 }
 ```
 
