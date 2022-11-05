@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1223,
-  quote: "The most decisive actions of our life... are most often unconsidered actions.",
-  author: "Andre Gide"
+  id: 890,
+  quote: "If one advances confidently in the direction of his dream, and endeavours to live the life which he had imagines, he will meet with a success unexpected in common hours.",
+  author: "Henry David Thoreau"
 }
 ```
 
