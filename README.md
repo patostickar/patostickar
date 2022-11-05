@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 254,
-  quote: "I have often regretted my speech, never my silence.",
-  author: "Publilius Syrus"
+  id: 1373,
+  quote: "There is nothing impossible to him who will try.",
+  author: "Alexander the Great"
 }
 ```
 
