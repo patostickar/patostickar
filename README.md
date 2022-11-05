@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1264,
-  quote: "Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.",
-  author: "Henry Reed"
+  id: 207,
+  quote: "Don't compromise yourself. You are all you've got.",
+  author: "Janis Joplin"
 }
 ```
 
