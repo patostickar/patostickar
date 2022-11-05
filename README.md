@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 677,
-  quote: "Take time to deliberate, but when the time for action has arrived, stop thinking and go in.",
-  author: "Napoleon Bonaparte"
+  id: 527,
+  quote: "We never understand how little we need in this world until we know the loss of it.",
+  author: "James Barrie"
 }
 ```
 
