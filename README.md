@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 740,
-  quote: "Silence is the true friend that never betrays.",
-  author: "Confucius"
+  id: 623,
+  quote: "When you don't know what you believe, everything becomes an argument. Everything is debatable. But when you stand for something, decisions are obvious.",
+  author: "null"
 }
 ```
 
