@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1185,
-  quote: "Our greatest glory is not in never falling, but in rising every time we fall.",
-  author: "Confucius"
+  id: 1128,
+  quote: "Life is not measured by the breaths you take, but by its breathtaking moments.",
+  author: "Michael Vance"
 }
 ```
 
