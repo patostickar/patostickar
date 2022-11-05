@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1128,
-  quote: "Life is not measured by the breaths you take, but by its breathtaking moments.",
-  author: "Michael Vance"
+  id: 20,
+  quote: "Trouble is only opportunity in work clothes.",
+  author: "Henry J. Kaiser"
 }
 ```
 
