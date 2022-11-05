@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 207,
-  quote: "Don't compromise yourself. You are all you've got.",
-  author: "Janis Joplin"
+  id: 666,
+  quote: "Peace of mind is not the absence of conflict from life, but the ability to cope with it.",
+  author: "null"
 }
 ```
 
