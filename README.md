@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 768,
-  quote: "Formula for success: under promise and over deliver.",
-  author: "Tom Peters"
+  id: 1410,
+  quote: "All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.",
+  author: "Albert Camus"
 }
 ```
 
