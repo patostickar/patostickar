@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 193,
-  quote: "Mountains cannot be surmounted except by winding paths.",
-  author: "Johann Wolfgang von Goethe"
+  id: 209,
+  quote: "Difficulties are things that show a person what they are.",
+  author: "Epictetus"
 }
 ```
 
