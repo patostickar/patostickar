@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1410,
-  quote: "All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.",
-  author: "Albert Camus"
+  id: 852,
+  quote: "When you realize how perfect everything is you will tilt your head back and laugh at the sky.",
+  author: "Buddha"
 }
 ```
 
