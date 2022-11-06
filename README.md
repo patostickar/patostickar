@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 321,
-  quote: "It is only when the mind and character slumber that the dress can be seen.",
-  author: "Ralph Waldo Emerson"
+  id: 768,
+  quote: "Formula for success: under promise and over deliver.",
+  author: "Tom Peters"
 }
 ```
 
