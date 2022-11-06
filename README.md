@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1097,
-  quote: "No act of kindness, no matter how small, is ever wasted.",
-  author: "Aesop"
+  id: 666,
+  quote: "Peace of mind is not the absence of conflict from life, but the ability to cope with it.",
+  author: "null"
 }
 ```
 
