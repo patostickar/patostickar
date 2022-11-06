@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1148,
-  quote: "Your work is to discover your work and then with all your heart to give yourself to it.",
-  author: "Buddha"
+  id: 904,
+  quote: "A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.",
+  author: "Chuck Norris"
 }
 ```
 
