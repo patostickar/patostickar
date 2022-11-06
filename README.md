@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1305,
-  quote: "In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.",
-  author: "Leonardo da Vinci"
+  id: 1148,
+  quote: "Your work is to discover your work and then with all your heart to give yourself to it.",
+  author: "Buddha"
 }
 ```
 
