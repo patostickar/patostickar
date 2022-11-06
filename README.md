@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1153,
-  quote: "Age does not protect you from love. But love, to some extent, protects you from age.",
-  author: "Anais Nin"
+  id: 639,
+  quote: "When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.",
+  author: "Pema Chodron"
 }
 ```
 
