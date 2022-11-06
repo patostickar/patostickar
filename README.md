@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1087,
-  quote: "All great achievements require time.",
-  author: "Maya Angelou"
+  id: 758,
+  quote: "The biggest adventure you can ever take is to live the life of your dreams.",
+  author: "Oprah Winfrey"
 }
 ```
 
