@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 180,
-  quote: "Put your future in good hands your own.",
-  author: "null"
+  id: 1042,
+  quote: "Nature is a mutable cloud which is always and never the same.",
+  author: "Ralph Emerson"
 }
 ```
 
