@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1483,
-  quote: "It is easier to live through someone else than to become complete yourself.",
-  author: "Betty Friedan"
+  id: 1309,
+  quote: "The art of progress is to preserve order amid change, and to preserve change amid order.",
+  author: "Alfred Whitehead"
 }
 ```
 
