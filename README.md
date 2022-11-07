@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1527,
-  quote: "Blessed is the man who expects nothing, for he shall never be disappointed.",
-  author: "Alexander Pope"
+  id: 956,
+  quote: "Be slow of tongue and quick of eye.",
+  author: "Cervantes"
 }
 ```
 
