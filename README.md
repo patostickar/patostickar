@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 956,
-  quote: "Be slow of tongue and quick of eye.",
-  author: "Cervantes"
+  id: 1138,
+  quote: "We are the leaves of one branch, the drops of one sea, the flowers of one garden.",
+  author: "Jean Lacordaire"
 }
 ```
 
