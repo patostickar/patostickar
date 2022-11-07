@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1244,
-  quote: "People are not lazy. They simply have impotent goals that is, goals that do not inspire them.",
-  author: "Tony Robbins"
+  id: 180,
+  quote: "Put your future in good hands your own.",
+  author: "null"
 }
 ```
 
