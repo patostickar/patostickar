@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1411,
-  quote: "Be a good listener. Your ears will never get you in trouble.",
-  author: "Frank Tyger"
+  id: 1125,
+  quote: "Know how to listen, and you will profit even from those who talk badly.",
+  author: "Plutarch"
 }
 ```
 
