@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 401,
-  quote: "If you want your life to be more rewarding, you have to change the way you think.",
-  author: "Oprah Winfrey"
+  id: 761,
+  quote: "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
+  author: "Dalai Lama"
 }
 ```
 
