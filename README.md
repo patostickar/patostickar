@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 164,
-  quote: "Life is the flower for which love is the honey.",
-  author: "Victor Hugo"
+  id: 990,
+  quote: "Silence is a source of great strength.",
+  author: "Lao Tzu"
 }
 ```
 
