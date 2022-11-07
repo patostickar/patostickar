@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1125,
-  quote: "Know how to listen, and you will profit even from those who talk badly.",
-  author: "Plutarch"
+  id: 1328,
+  quote: "You are the only person on earth who can use your ability.",
+  author: "Zig Ziglar"
 }
 ```
 
