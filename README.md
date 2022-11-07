@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 852,
-  quote: "When you realize how perfect everything is you will tilt your head back and laugh at the sky.",
-  author: "Buddha"
+  id: 194,
+  quote: "May our hearts garden of awakening bloom with hundreds of flowers.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
