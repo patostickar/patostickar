@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 709,
-  quote: "Your outlook on life is a direct reflection on how much you like yourself.",
-  author: "Lululemon"
+  id: 1411,
+  quote: "Be a good listener. Your ears will never get you in trouble.",
+  author: "Frank Tyger"
 }
 ```
 
