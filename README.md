@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 990,
-  quote: "Silence is a source of great strength.",
-  author: "Lao Tzu"
+  id: 709,
+  quote: "Your outlook on life is a direct reflection on how much you like yourself.",
+  author: "Lululemon"
 }
 ```
 
