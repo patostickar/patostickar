@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 690,
-  quote: "A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.",
-  author: "Joseph Roux"
+  id: 1244,
+  quote: "People are not lazy. They simply have impotent goals that is, goals that do not inspire them.",
+  author: "Tony Robbins"
 }
 ```
 
