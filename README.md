@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1309,
-  quote: "The art of progress is to preserve order amid change, and to preserve change amid order.",
-  author: "Alfred Whitehead"
+  id: 1527,
+  quote: "Blessed is the man who expects nothing, for he shall never be disappointed.",
+  author: "Alexander Pope"
 }
 ```
 
