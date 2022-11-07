@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 194,
-  quote: "May our hearts garden of awakening bloom with hundreds of flowers.",
-  author: "Thich Nhat Hanh"
+  id: 127,
+  quote: "Silence is a true friend who never betrays.",
+  author: "Confucius"
 }
 ```
 
