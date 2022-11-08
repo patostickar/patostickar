@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1084,
-  quote: "The path to success is to take massive, determined action.",
-  author: "Anthony Robbins"
+  id: 1296,
+  quote: "Work for something because it is good, not just because it stands a chance to succeed.",
+  author: "Vaclav Havel"
 }
 ```
 
