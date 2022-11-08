@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1077,
-  quote: "Most of the shadows of life are caused by standing in our own sunshine.",
-  author: "Ralph Waldo Emerson"
+  id: 1585,
+  quote: "The true way to render ourselves happy is to love our work and find in it our pleasure.",
+  author: "Francoise de Motteville"
 }
 ```
 
