@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1403,
-  quote: "Gratitude is not only the greatest of virtues, but the paren't of all the others.",
-  author: "Cicero"
+  id: 30,
+  quote: "Bite off more than you can chew, then chew it.",
+  author: "Ella Williams"
 }
 ```
 
