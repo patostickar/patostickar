@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 453,
-  quote: "Everyone can taste success when the going is easy, but few know how to taste victory when times get tough.",
-  author: "Byron Pulsifer"
+  id: 1537,
+  quote: "The reasonable man adapts himself to the world; the unreasonable man persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.",
+  author: "George Shaw"
 }
 ```
 
