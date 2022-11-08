@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1055,
-  quote: "If you can't explain it simply, you don't understand it well enough.",
-  author: "Albert Einstein"
+  id: 453,
+  quote: "Everyone can taste success when the going is easy, but few know how to taste victory when times get tough.",
+  author: "Byron Pulsifer"
 }
 ```
 
