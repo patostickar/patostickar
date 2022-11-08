@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 30,
-  quote: "Bite off more than you can chew, then chew it.",
-  author: "Ella Williams"
+  id: 1077,
+  quote: "Most of the shadows of life are caused by standing in our own sunshine.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
