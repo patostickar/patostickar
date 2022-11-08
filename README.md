@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 925,
-  quote: "He who conquers others is strong; He who conquers himself is mighty.",
-  author: "Lao Tzu"
+  id: 1055,
+  quote: "If you can't explain it simply, you don't understand it well enough.",
+  author: "Albert Einstein"
 }
 ```
 
