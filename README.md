@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 769,
-  quote: "The eye sees only what the mind is prepared to comprehend.",
-  author: "Henri Bergson"
+  id: 226,
+  quote: "To fly, we have to have resistance.",
+  author: "Maya Lin"
 }
 ```
 
