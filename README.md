@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 755,
-  quote: "Never be afraid to try, remember... Amateurs built the ark, Professionals built the Titanic.",
-  author: "null"
+  id: 769,
+  quote: "The eye sees only what the mind is prepared to comprehend.",
+  author: "Henri Bergson"
 }
 ```
 
