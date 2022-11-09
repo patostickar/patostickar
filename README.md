@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 826,
-  quote: "In the depth of winter, I finally learned that there was within me an invincible summer.",
-  author: "Albert Camus"
+  id: 673,
+  quote: "I cannot always control what goes on outside. But I can always control what goes on inside.",
+  author: "Wayne Dyer"
 }
 ```
 
