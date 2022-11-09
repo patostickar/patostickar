@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1083,
-  quote: "Every great advance in science has issued from a new audacity of the imagination.",
-  author: "John Dewey"
+  id: 907,
+  quote: "With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble. Courage is the foundation of integrity.",
+  author: "Keshavan Nair"
 }
 ```
 
