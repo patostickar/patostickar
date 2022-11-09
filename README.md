@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 597,
-  quote: "I am not bothered by the fact that I am unknown. I am bothered when I do not know others.",
-  author: "Confucius"
+  id: 826,
+  quote: "In the depth of winter, I finally learned that there was within me an invincible summer.",
+  author: "Albert Camus"
 }
 ```
 
