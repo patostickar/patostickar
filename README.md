@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1389,
-  quote: "I love my past. I love my present. I'm not ashamed of what Ive had, and I'm not sad because I have it no longer.",
-  author: "Colette"
+  id: 446,
+  quote: "It is better to take many small steps in the right direction than to make a great leap forward only to stumble backward.",
+  author: "null"
 }
 ```
 
