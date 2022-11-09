@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 966,
-  quote: "Your sacred space is where you can find yourself again and again.",
-  author: "Joseph Campbell"
+  id: 1350,
+  quote: "Don't fear failure so much that you refuse to try new things. The saddest summary of life contains three descriptions: could have, might have, and should have.",
+  author: "null"
 }
 ```
 
