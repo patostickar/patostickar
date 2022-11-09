@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 446,
-  quote: "It is better to take many small steps in the right direction than to make a great leap forward only to stumble backward.",
-  author: "null"
+  id: 966,
+  quote: "Your sacred space is where you can find yourself again and again.",
+  author: "Joseph Campbell"
 }
 ```
 
