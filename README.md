@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1017,
-  quote: "We don't stop playing because we grow old; we grow old because we stop playing.",
-  author: "Bernard Shaw"
+  id: 1389,
+  quote: "I love my past. I love my present. I'm not ashamed of what Ive had, and I'm not sad because I have it no longer.",
+  author: "Colette"
 }
 ```
 
