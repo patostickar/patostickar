@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 709,
-  quote: "Your outlook on life is a direct reflection on how much you like yourself.",
-  author: "Lululemon"
+  id: 1017,
+  quote: "We don't stop playing because we grow old; we grow old because we stop playing.",
+  author: "Bernard Shaw"
 }
 ```
 
