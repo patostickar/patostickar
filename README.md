@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1094,
-  quote: "No man is free who is not master of himself.",
-  author: "Epictetus"
+  id: 597,
+  quote: "I am not bothered by the fact that I am unknown. I am bothered when I do not know others.",
+  author: "Confucius"
 }
 ```
 
