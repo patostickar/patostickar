@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 24,
-  quote: "Doing nothing is better than being busy doing nothing.",
-  author: "Lao Tzu"
+  id: 1578,
+  quote: "Begin, be bold, and venture to be wise.",
+  author: "Horace"
 }
 ```
 
