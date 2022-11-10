@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 451,
-  quote: "There is only one corner of the universe you can be certain of improving, and that's your own self.",
-  author: "Aldous Huxley"
+  id: 1277,
+  quote: "The world is but a canvas to the imagination.",
+  author: "Henry Thoreau"
 }
 ```
 
