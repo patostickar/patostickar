@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 472,
-  quote: "Patience is a virtue but you will never ever accomplish anything if you don't exercise action over patience.",
-  author: "Byron Pulsifer"
+  id: 912,
+  quote: "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.",
+  author: "Helen Keller"
 }
 ```
 
