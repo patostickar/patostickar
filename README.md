@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 663,
-  quote: "The poor man is not he who is without a cent, but he who is without a dream.",
-  author: "Harry Kemp"
+  id: 1289,
+  quote: "I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.",
+  author: "Buddha"
 }
 ```
 
