@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1136,
-  quote: "Always do your best. What you plant now, you will harvest later.",
-  author: "Og Mandino"
+  id: 621,
+  quote: "To free us from the expectations of others, to give us back to ourselves there lies the great, singular power of self-respect.",
+  author: "Joan Didion"
 }
 ```
 
