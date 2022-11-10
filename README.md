@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1509,
-  quote: "Bold is not the act of foolishness but the attribute and inner strength to act when others will not so as to move forward not backward.",
-  author: "Byron Pulsifer"
+  id: 287,
+  quote: "Think as a wise man but communicate in the language of the people.",
+  author: "William Yeats"
 }
 ```
 
