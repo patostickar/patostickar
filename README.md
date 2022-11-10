@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 237,
-  quote: "Efficiency is doing things right; effectiveness is doing the right things.",
-  author: "Peter Drucker"
+  id: 1483,
+  quote: "It is easier to live through someone else than to become complete yourself.",
+  author: "Betty Friedan"
 }
 ```
 
