@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 700,
-  quote: "All that we are is the result of what we have thought. The mind is everything. What we think we become.",
+  id: 1188,
+  quote: "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves.",
   author: "Buddha"
 }
 ```
