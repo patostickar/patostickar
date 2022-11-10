@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1289,
-  quote: "I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.",
-  author: "Buddha"
+  id: 451,
+  quote: "There is only one corner of the universe you can be certain of improving, and that's your own self.",
+  author: "Aldous Huxley"
 }
 ```
 
