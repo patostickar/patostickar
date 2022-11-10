@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1578,
-  quote: "Begin, be bold, and venture to be wise.",
-  author: "Horace"
+  id: 909,
+  quote: "I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.",
+  author: "Frederick Douglass"
 }
 ```
 
