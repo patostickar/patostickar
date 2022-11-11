@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 521,
-  quote: "Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.",
-  author: "Mother Teresa"
+  id: 867,
+  quote: "I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.",
+  author: "Michel de Montaigne"
 }
 ```
 
