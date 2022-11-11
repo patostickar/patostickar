@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 111,
-  quote: "All our knowledge has its origins in our perceptions.",
-  author: "Leonardo da Vinci"
+  id: 1328,
+  quote: "You are the only person on earth who can use your ability.",
+  author: "Zig Ziglar"
 }
 ```
 
