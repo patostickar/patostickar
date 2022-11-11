@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1306,
-  quote: "Spring is a time for rebirth and the fulfilment of new life.",
-  author: "Byron Pulsifer"
+  id: 96,
+  quote: "Every new day is another chance to change your life.",
+  author: "null"
 }
 ```
 
