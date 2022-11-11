@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1077,
-  quote: "Most of the shadows of life are caused by standing in our own sunshine.",
-  author: "Ralph Waldo Emerson"
+  id: 271,
+  quote: "The future belongs to those who believe in the beauty of their dreams.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
