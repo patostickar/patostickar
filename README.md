@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 96,
-  quote: "Every new day is another chance to change your life.",
-  author: "null"
+  id: 97,
+  quote: "Smile, breathe, and go slowly.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
