@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 111,
-  quote: "All our knowledge has its origins in our perceptions.",
-  author: "Leonardo da Vinci"
+  id: 521,
+  quote: "Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.",
+  author: "Mother Teresa"
 }
 ```
 
