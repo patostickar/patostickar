@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1328,
-  quote: "You are the only person on earth who can use your ability.",
-  author: "Zig Ziglar"
+  id: 1118,
+  quote: "Whenever something negative happens to you, there is a deep lesson concealed within it.",
+  author: "Eckhart Tolle"
 }
 ```
 
