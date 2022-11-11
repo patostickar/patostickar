@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 946,
-  quote: "The weak can never forgive. Forgiveness is the attribute of the strong.",
-  author: "Mohandas Gandhi"
+  id: 280,
+  quote: "All the great performers I have worked with are fuelled by a personal dream.",
+  author: "John Eliot"
 }
 ```
 
