@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 867,
-  quote: "I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.",
-  author: "Michel de Montaigne"
+  id: 946,
+  quote: "The weak can never forgive. Forgiveness is the attribute of the strong.",
+  author: "Mohandas Gandhi"
 }
 ```
 
