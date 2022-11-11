@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 425,
-  quote: "No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto.",
-  author: "W. Clement Stone"
+  id: 1357,
+  quote: "We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.",
+  author: "Ralph Emerson"
 }
 ```
 
