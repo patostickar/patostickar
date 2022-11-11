@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1212,
-  quote: "Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.",
-  author: "Charles A. Lindbergh"
+  id: 1077,
+  quote: "Most of the shadows of life are caused by standing in our own sunshine.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
