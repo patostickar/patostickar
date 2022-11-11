@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 271,
-  quote: "The future belongs to those who believe in the beauty of their dreams.",
-  author: "Eleanor Roosevelt"
+  id: 409,
+  quote: "By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.",
+  author: "Dalai Lama"
 }
 ```
 
