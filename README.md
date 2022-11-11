@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 950,
-  quote: "A good rest is half the work.",
-  author: "null"
+  id: 1157,
+  quote: "Speak when you are angry and you will make the best speech you will ever regret.",
+  author: "Ambrose Bierce"
 }
 ```
 
