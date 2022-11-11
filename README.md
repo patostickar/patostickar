@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1100,
-  quote: "Quality means doing it right when no one is looking.",
-  author: "Henry Ford"
+  id: 950,
+  quote: "A good rest is half the work.",
+  author: "null"
 }
 ```
 
