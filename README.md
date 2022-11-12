@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1438,
-  quote: "Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.",
-  author: "Aristotle"
+  id: 1371,
+  quote: "Weve got to have a dream if we are going to make a dream come true.",
+  author: "Walt Disney"
 }
 ```
 
