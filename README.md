@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 861,
-  quote: "If you have no respect for your own values how can you be worthy of respect from others.",
-  author: "Byron Pulsifer"
+  id: 1157,
+  quote: "Speak when you are angry and you will make the best speech you will ever regret.",
+  author: "Ambrose Bierce"
 }
 ```
 
