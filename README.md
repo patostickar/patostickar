@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1051,
-  quote: "It isn't where you come from, it's where you're going that counts.",
-  author: "Ella Fitzgerald"
+  id: 1101,
+  quote: "Change your words. Change your world.",
+  author: "null"
 }
 ```
 
