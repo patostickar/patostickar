@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1351,
-  quote: "All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.",
-  author: "Bruce Lee"
+  id: 591,
+  quote: "The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.",
+  author: "Helen Keller"
 }
 ```
 
