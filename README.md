@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 520,
-  quote: "Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!",
-  author: "Charlotte Gilman"
+  id: 25,
+  quote: "Trust yourself. You know more than you think you do.",
+  author: "Benjamin Spock"
 }
 ```
 
