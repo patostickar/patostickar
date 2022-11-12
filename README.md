@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1101,
-  quote: "Change your words. Change your world.",
-  author: "null"
+  id: 1222,
+  quote: "Never, never, never give up.",
+  author: "Winston Churchill"
 }
 ```
 
