@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 974,
-  quote: "Everything has beauty, but not everyone sees it.",
-  author: "Confucius"
+  id: 861,
+  quote: "If you have no respect for your own values how can you be worthy of respect from others.",
+  author: "Byron Pulsifer"
 }
 ```
 
