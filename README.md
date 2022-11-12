@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1157,
-  quote: "Speak when you are angry and you will make the best speech you will ever regret.",
-  author: "Ambrose Bierce"
+  id: 854,
+  quote: "It is surprising what a man can do when he has to, and how little most men will do when they don't have to.",
+  author: "Walter Linn"
 }
 ```
 
