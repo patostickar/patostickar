@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1444,
-  quote: "Sincerity is the way of Heaven. The attainment of sincerity is the way of men.",
-  author: "Confucius"
+  id: 520,
+  quote: "Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!",
+  author: "Charlotte Gilman"
 }
 ```
 
