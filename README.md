@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 386,
-  quote: "The only limit to our realization of tomorrow will be our doubts of today.",
-  author: "Franklin Roosevelt"
+  id: 1438,
+  quote: "Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.",
+  author: "Aristotle"
 }
 ```
 
