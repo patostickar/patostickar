@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1612,
-  quote: "He who knows that enough is enough will always have enough.",
-  author: "Lao Tzu"
+  id: 460,
+  quote: "All our talents increase in the using, and the every faculty, both good and bad, strengthen by exercise.",
+  author: "Anne Bronte"
 }
 ```
 
