@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1118,
-  quote: "Whenever something negative happens to you, there is a deep lesson concealed within it.",
-  author: "Eckhart Tolle"
+  id: 349,
+  quote: "The world makes way for the man who knows where he is going.",
+  author: "Ralph Emerson"
 }
 ```
 
