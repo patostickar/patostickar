@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 25,
-  quote: "Trust yourself. You know more than you think you do.",
-  author: "Benjamin Spock"
+  id: 659,
+  quote: "If you are patient in one moment of anger, you will escape one hundred days of sorrow.",
+  author: "Chinese proverb"
 }
 ```
 
