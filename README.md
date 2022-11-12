@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 322,
-  quote: "If you don't like something, change it. If you can't change it, change your attitude.",
-  author: "Maya Angelou"
+  id: 974,
+  quote: "Everything has beauty, but not everyone sees it.",
+  author: "Confucius"
 }
 ```
 
