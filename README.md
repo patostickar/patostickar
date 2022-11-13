@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 88,
-  quote: "Argue for your limitations, and sure enough theyre yours.",
-  author: "Richard Bach"
+  id: 1148,
+  quote: "Your work is to discover your work and then with all your heart to give yourself to it.",
+  author: "Buddha"
 }
 ```
 
