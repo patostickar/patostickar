@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1148,
-  quote: "Your work is to discover your work and then with all your heart to give yourself to it.",
-  author: "Buddha"
+  id: 1272,
+  quote: "When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.",
+  author: "Tenzin Gyatso"
 }
 ```
 
