@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 130,
-  quote: "You can't stop the waves, but you can learn to surf.",
-  author: "Jon Kabat-Zinn"
+  id: 1523,
+  quote: "Never tell me the sky is the limit when there are footprints on the moon.",
+  author: "null"
 }
 ```
 
