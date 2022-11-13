@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 961,
-  quote: "No day in which you learn something is a complete loss.",
-  author: "David Eddings"
+  id: 755,
+  quote: "Never be afraid to try, remember... Amateurs built the ark, Professionals built the Titanic.",
+  author: "null"
 }
 ```
 
