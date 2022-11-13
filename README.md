@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1435,
-  quote: "Your ability to learn faster than your competition is your only sustainable competitive advantage.",
-  author: "Arie de Gues"
+  id: 780,
+  quote: "Your future depends on many things, but mostly on you.",
+  author: "Frank Tyger"
 }
 ```
 
