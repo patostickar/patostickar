@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 707,
-  quote: "All I can say about life is, Oh God, enjoy it!",
-  author: "Bob Newhart"
+  id: 88,
+  quote: "Argue for your limitations, and sure enough theyre yours.",
+  author: "Richard Bach"
 }
 ```
 
