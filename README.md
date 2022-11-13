@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 485,
-  quote: "Learn all you can from the mistakes of others. You won't have time to make them all yourself.",
-  author: "Alfred Sheinwold"
+  id: 1435,
+  quote: "Your ability to learn faster than your competition is your only sustainable competitive advantage.",
+  author: "Arie de Gues"
 }
 ```
 
