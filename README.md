@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 831,
-  quote: "The power of intuitive understanding will protect you from harm until the end of your days.",
-  author: "Laozi"
+  id: 11,
+  quote: "What you give is what you get.",
+  author: "Byron Pulsifer"
 }
 ```
 
