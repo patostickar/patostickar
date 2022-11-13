@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 701,
-  quote: "Work while you have the light. You are responsible for the talent that has been entrusted to you.",
-  author: "Henri-Frederic Amiel"
+  id: 485,
+  quote: "Learn all you can from the mistakes of others. You won't have time to make them all yourself.",
+  author: "Alfred Sheinwold"
 }
 ```
 
