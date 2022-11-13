@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 11,
-  quote: "What you give is what you get.",
-  author: "Byron Pulsifer"
+  id: 707,
+  quote: "All I can say about life is, Oh God, enjoy it!",
+  author: "Bob Newhart"
 }
 ```
 
