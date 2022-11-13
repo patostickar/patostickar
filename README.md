@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 460,
-  quote: "All our talents increase in the using, and the every faculty, both good and bad, strengthen by exercise.",
-  author: "Anne Bronte"
+  id: 1015,
+  quote: "Don't talk about what you have done or what you are going to do.",
+  author: "Thomas Jefferson"
 }
 ```
 
