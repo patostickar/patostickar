@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1015,
-  quote: "Don't talk about what you have done or what you are going to do.",
-  author: "Thomas Jefferson"
+  id: 526,
+  quote: "I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.",
+  author: "Og Mandino"
 }
 ```
 
