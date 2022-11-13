@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1097,
-  quote: "No act of kindness, no matter how small, is ever wasted.",
-  author: "Aesop"
+  id: 1145,
+  quote: "No matter how hard the past, you can always begin again.",
+  author: "Buddha"
 }
 ```
 
