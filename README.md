@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 526,
-  quote: "I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.",
-  author: "Og Mandino"
+  id: 831,
+  quote: "The power of intuitive understanding will protect you from harm until the end of your days.",
+  author: "Laozi"
 }
 ```
 
