@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 323,
-  quote: "Reviewing what you have learned and learning anew, you are fit to be a teacher.",
-  author: "Confucius"
+  id: 722,
+  quote: "All is flux; nothing stays still.",
+  author: "Heraclitus"
 }
 ```
 
