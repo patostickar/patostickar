@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 550,
-  quote: "I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.",
-  author: "Albert Einstein"
+  id: 418,
+  quote: "Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.",
+  author: "William Shakespeare"
 }
 ```
 
