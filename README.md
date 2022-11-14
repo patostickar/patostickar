@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 893,
-  quote: "We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.",
-  author: "Uta Hagen"
+  id: 1286,
+  quote: "It takes courage to grow up and become who you really are.",
+  author: "E. E. Cummings"
 }
 ```
 
