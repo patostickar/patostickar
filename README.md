@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 90,
-  quote: "Victory belongs to the most persevering.",
-  author: "Napoleon Bonaparte"
+  id: 156,
+  quote: "Someone remembers, someone cares; your name is whispered in someone's prayers.",
+  author: "null"
 }
 ```
 
