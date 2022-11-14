@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 418,
-  quote: "Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.",
-  author: "William Shakespeare"
+  id: 1519,
+  quote: "If someone in your life talked to you the way you talk to yourself, you would have left them long ago.",
+  author: "Carla Gordon"
 }
 ```
 
