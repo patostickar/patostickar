@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 650,
-  quote: "There are two primary choices in life: to accept conditions as they exist, or accept responsibility for changing them.",
-  author: "Denis Waitley"
+  id: 611,
+  quote: "The grand essentials of happiness are: something to do, something to love, and something to hope for.",
+  author: "Chalmers"
 }
 ```
 
