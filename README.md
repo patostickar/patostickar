@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 92,
-  quote: "In order to win, you must expect to win.",
-  author: "Richard Bach"
+  id: 4,
+  quote: "Fate is in your hands and no one elses",
+  author: "Byron Pulsifer"
 }
 ```
 
