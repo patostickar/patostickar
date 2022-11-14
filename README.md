@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 763,
-  quote: "Our lives are a sum total of the choices we have made.",
-  author: "Wayne Dyer"
+  id: 893,
+  quote: "We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.",
+  author: "Uta Hagen"
 }
 ```
 
