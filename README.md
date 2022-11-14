@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1158,
-  quote: "Things do not change, we change.",
-  author: "Henry Thoreau"
+  id: 782,
+  quote: "The most important point is to accept yourself and stand on your two feet.",
+  author: "Shunryu Suzuki"
 }
 ```
 
