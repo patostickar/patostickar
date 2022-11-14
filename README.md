@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 4,
-  quote: "Fate is in your hands and no one elses",
-  author: "Byron Pulsifer"
+  id: 1556,
+  quote: "To get the full value of joy you must have someone to divide it with.",
+  author: "Mark Twain"
 }
 ```
 
