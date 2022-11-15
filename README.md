@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 357,
-  quote: "You have to do your own growing no matter how tall your grandfather was.",
-  author: "Abraham Lincoln"
+  id: 968,
+  quote: "In seed time learn, in harvest teach, in winter enjoy.",
+  author: "William Blake"
 }
 ```
 
