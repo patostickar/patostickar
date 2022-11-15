@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 209,
-  quote: "Difficulties are things that show a person what they are.",
-  author: "Epictetus"
+  id: 1118,
+  quote: "Whenever something negative happens to you, there is a deep lesson concealed within it.",
+  author: "Eckhart Tolle"
 }
 ```
 
