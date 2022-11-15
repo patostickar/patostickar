@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 504,
-  quote: "The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.",
-  author: "Honore de Balzac"
+  id: 209,
+  quote: "Difficulties are things that show a person what they are.",
+  author: "Epictetus"
 }
 ```
 
