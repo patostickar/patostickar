@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1222,
-  quote: "Never, never, never give up.",
-  author: "Winston Churchill"
+  id: 939,
+  quote: "We must not allow ourselves to become like the system we oppose.",
+  author: "Bishop Desmond Tutu"
 }
 ```
 
