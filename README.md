@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 968,
-  quote: "In seed time learn, in harvest teach, in winter enjoy.",
-  author: "William Blake"
+  id: 1222,
+  quote: "Never, never, never give up.",
+  author: "Winston Churchill"
 }
 ```
 
