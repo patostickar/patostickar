@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 782,
-  quote: "The most important point is to accept yourself and stand on your two feet.",
-  author: "Shunryu Suzuki"
+  id: 1011,
+  quote: "Act as if what you do makes a difference. It does.",
+  author: "William James"
 }
 ```
 
