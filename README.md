@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1118,
-  quote: "Whenever something negative happens to you, there is a deep lesson concealed within it.",
-  author: "Eckhart Tolle"
+  id: 855,
+  quote: "To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.",
+  author: "Tenzin Gyatso"
 }
 ```
 
