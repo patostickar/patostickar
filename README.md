@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 160,
-  quote: "Whatever we expect with confidence becomes our own self-fulfilling prophecy.",
-  author: "Brian Tracy"
+  id: 0,
+  quote: "Genius is one percent inspiration and ninety-nine percent perspiration.",
+  author: "Thomas Edison"
 }
 ```
 
