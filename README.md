@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1536,
-  quote: "Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.",
-  author: "Voltaire"
+  id: 357,
+  quote: "You have to do your own growing no matter how tall your grandfather was.",
+  author: "Abraham Lincoln"
 }
 ```
 
