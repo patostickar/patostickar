@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 430,
-  quote: "The person born with a talent they are meant to use will find their greatest happiness in using it.",
-  author: "Johann Wolfgang von Goethe"
+  id: 1633,
+  quote: "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.",
+  author: "Melody Beattie"
 }
 ```
 
