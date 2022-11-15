@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 4,
-  quote: "Fate is in your hands and no one elses",
-  author: "Byron Pulsifer"
+  id: 1536,
+  quote: "Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.",
+  author: "Voltaire"
 }
 ```
 
