@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 855,
-  quote: "To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.",
-  author: "Tenzin Gyatso"
+  id: 823,
+  quote: "A bend in the road is not the end of the road...unless you fail to make the turn.",
+  author: "null"
 }
 ```
 
