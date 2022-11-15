@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 0,
-  quote: "Genius is one percent inspiration and ninety-nine percent perspiration.",
-  author: "Thomas Edison"
+  id: 430,
+  quote: "The person born with a talent they are meant to use will find their greatest happiness in using it.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
