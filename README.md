@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 33,
-  quote: "Once you choose hope, anythings possible.",
-  author: "Christopher Reeve"
+  id: 92,
+  quote: "In order to win, you must expect to win.",
+  author: "Richard Bach"
 }
 ```
 
