@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 188,
-  quote: "No garden is without its weeds.",
-  author: "Thomas Fuller"
+  id: 319,
+  quote: "We all have problems. The way we solve them is what makes us different.",
+  author: "null"
 }
 ```
 
