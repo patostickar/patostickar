@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 761,
-  quote: "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
-  author: "Dalai Lama"
+  id: 81,
+  quote: "Those who are free of resentful thoughts surely find peace.",
+  author: "Buddha"
 }
 ```
 
