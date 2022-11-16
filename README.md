@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 307,
-  quote: "The universe is full of magical things, patiently waiting for our wits to grow sharper.",
-  author: "Eden Phillpotts"
+  id: 1572,
+  quote: "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
+  author: "Marcus Aurelius"
 }
 ```
 
