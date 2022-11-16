@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 320,
-  quote: "The secret to a rich life is to have more beginnings than endings.",
-  author: "Dave Weinbaum"
+  id: 188,
+  quote: "No garden is without its weeds.",
+  author: "Thomas Fuller"
 }
 ```
 
