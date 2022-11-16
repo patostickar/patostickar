@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1066,
-  quote: "Who we are never changes. Who we think we are does.",
-  author: "Mary Almanac"
+  id: 1366,
+  quote: "You cannot have what you do not want.",
+  author: "John Acosta"
 }
 ```
 
