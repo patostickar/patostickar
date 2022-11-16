@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 383,
-  quote: "The truth you believe and cling to makes you unavailable to hear anything new.",
-  author: "Pema Chodron"
+  id: 1236,
+  quote: "Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.",
+  author: "Douglas Adams"
 }
 ```
 
