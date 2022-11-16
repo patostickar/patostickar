@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1572,
-  quote: "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
-  author: "Marcus Aurelius"
+  id: 1402,
+  quote: "The important thing is this: to be able at any moment to sacrifice what we are for what we could become.",
+  author: "Charles Dubois"
 }
 ```
 
