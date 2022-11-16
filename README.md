@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1114,
-  quote: "Trust your hunches. They're usually based on facts filed away just below the conscious level.",
-  author: "Joyce Brothers"
+  id: 307,
+  quote: "The universe is full of magical things, patiently waiting for our wits to grow sharper.",
+  author: "Eden Phillpotts"
 }
 ```
 
