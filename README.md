@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 319,
-  quote: "We all have problems. The way we solve them is what makes us different.",
-  author: "null"
+  id: 383,
+  quote: "The truth you believe and cling to makes you unavailable to hear anything new.",
+  author: "Pema Chodron"
 }
 ```
 
