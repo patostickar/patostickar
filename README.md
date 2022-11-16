@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1402,
-  quote: "The important thing is this: to be able at any moment to sacrifice what we are for what we could become.",
-  author: "Charles Dubois"
+  id: 552,
+  quote: "Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.",
+  author: "Paavo Nurmi"
 }
 ```
 
