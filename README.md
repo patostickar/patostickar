@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 953,
-  quote: "To be tested is good. The challenged life may be the best therapist.",
-  author: "Gail Sheehy"
+  id: 118,
+  quote: "The simplest things are often the truest.",
+  author: "Richard Bach"
 }
 ```
 
