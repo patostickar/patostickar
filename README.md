@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 70,
-  quote: "I believe that every person is born with talent.",
-  author: "Maya Angelou"
+  id: 764,
+  quote: "Time stays long enough for anyone who will use it.",
+  author: "Leonardo da Vinci"
 }
 ```
 
