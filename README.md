@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 137,
-  quote: "You can do what's reasonable or you can decide what's possible.",
-  author: "null"
+  id: 664,
+  quote: "The greatest good you can do for another is not just share your riches, but reveal to them their own.",
+  author: "Benjamin Disraeli"
 }
 ```
 
