@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 228,
-  quote: "The heart has its reasons which reason knows not of.",
-  author: "Blaise Pascal"
+  id: 1133,
+  quote: "Progress always involves risks. You can't steal second base and keep your foot on first.",
+  author: "Frederick Wilcox"
 }
 ```
 
