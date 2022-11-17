@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1174,
-  quote: "If we could see the miracle of a single flower clearly, our whole life would change.",
-  author: "Buddha"
+  id: 910,
+  quote: "No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.",
+  author: "Helen Keller"
 }
 ```
 
