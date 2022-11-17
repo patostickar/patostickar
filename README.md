@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1041,
-  quote: "Winners have simply formed the habit of doing things losers don't like to do.",
-  author: "Albert Gray"
+  id: 428,
+  quote: "I'm a great believer in luck and I find the harder I work, the more I have of it.",
+  author: "Thomas Jefferson"
 }
 ```
 
