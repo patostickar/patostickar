@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 428,
-  quote: "I'm a great believer in luck and I find the harder I work, the more I have of it.",
-  author: "Thomas Jefferson"
+  id: 525,
+  quote: "Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.",
+  author: "Ovid"
 }
 ```
 
