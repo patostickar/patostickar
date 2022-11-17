@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 856,
-  quote: "Nobody made a greater mistake than he who did nothing because he could do only a little.",
-  author: "Edmund Burke"
+  id: 1605,
+  quote: "Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong.",
+  author: "Richard Needham"
 }
 ```
 
