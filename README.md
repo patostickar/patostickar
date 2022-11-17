@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 118,
-  quote: "The simplest things are often the truest.",
-  author: "Richard Bach"
+  id: 70,
+  quote: "I believe that every person is born with talent.",
+  author: "Maya Angelou"
 }
 ```
 
