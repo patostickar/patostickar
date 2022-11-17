@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 463,
-  quote: "Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.",
-  author: "Arthur Rubinstein"
+  id: 856,
+  quote: "Nobody made a greater mistake than he who did nothing because he could do only a little.",
+  author: "Edmund Burke"
 }
 ```
 
