@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 367,
-  quote: "Most people are about as happy as they make up their minds to be",
-  author: "Abraham Lincoln"
+  id: 1041,
+  quote: "Winners have simply formed the habit of doing things losers don't like to do.",
+  author: "Albert Gray"
 }
 ```
 
