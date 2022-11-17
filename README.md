@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 987,
-  quote: "More powerful than the will to win is the courage to begin.",
-  author: "null"
+  id: 1174,
+  quote: "If we could see the miracle of a single flower clearly, our whole life would change.",
+  author: "Buddha"
 }
 ```
 
