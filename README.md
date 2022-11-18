@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 204,
-  quote: "Write your plans in pencil and give God the eraser.",
-  author: "Paulo Coelho"
+  id: 121,
+  quote: "No alibi will save you from accepting the responsibility.",
+  author: "Napoleon Hill"
 }
 ```
 
