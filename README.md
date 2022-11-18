@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1415,
-  quote: "There is only one happiness in life, to love and be loved.",
-  author: "George Sand"
+  id: 204,
+  quote: "Write your plans in pencil and give God the eraser.",
+  author: "Paulo Coelho"
 }
 ```
 
