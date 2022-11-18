@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1081,
-  quote: "Every human being is the author of his own health or disease.",
-  author: "Buddha"
+  id: 1354,
+  quote: "Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were.",
+  author: "David Rockefeller"
 }
 ```
 
