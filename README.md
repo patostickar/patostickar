@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1075,
-  quote: "You only lose what you cling to.",
-  author: "Buddha"
+  id: 1520,
+  quote: "The cosmos is neither moral or immoral; only people are. He who would move the world must first move himself.",
+  author: "Edward Ericson"
 }
 ```
 
