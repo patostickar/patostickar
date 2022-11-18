@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 757,
-  quote: "Know, first, who you are, and then adorn yourself accordingly.",
-  author: "Epictetus"
+  id: 424,
+  quote: "The thoughts we choose to think are the tools we use to paint the canvas of our lives.",
+  author: "Louise Hay"
 }
 ```
 
