@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 424,
-  quote: "The thoughts we choose to think are the tools we use to paint the canvas of our lives.",
-  author: "Louise Hay"
+  id: 1404,
+  quote: "It is never too late. Even if you are going to die tomorrow, keep yourself straight and clear and be a happy human being today.",
+  author: "Lama Yeshe"
 }
 ```
 
