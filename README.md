@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 734,
-  quote: "The longer we dwell on our misfortunes, the greater is their power to harm us.",
-  author: "Voltaire"
+  id: 1123,
+  quote: "Nothing great was ever achieved without enthusiasm.",
+  author: "Ralph Emerson"
 }
 ```
 
