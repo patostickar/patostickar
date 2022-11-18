@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 202,
-  quote: "If you surrender to the wind, you can ride it.",
-  author: "Toni Morrison"
+  id: 734,
+  quote: "The longer we dwell on our misfortunes, the greater is their power to harm us.",
+  author: "Voltaire"
 }
 ```
 
