@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 417,
-  quote: "When you are content to be simply yourself and don't compare or compete, everybody will respect you.",
-  author: "Laozi"
+  id: 855,
+  quote: "To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.",
+  author: "Tenzin Gyatso"
 }
 ```
 
