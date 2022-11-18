@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 121,
-  quote: "No alibi will save you from accepting the responsibility.",
-  author: "Napoleon Hill"
+  id: 417,
+  quote: "When you are content to be simply yourself and don't compare or compete, everybody will respect you.",
+  author: "Laozi"
 }
 ```
 
