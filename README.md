@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 755,
-  quote: "Never be afraid to try, remember... Amateurs built the ark, Professionals built the Titanic.",
-  author: "null"
+  id: 1376,
+  quote: "The only real failure in life is not to be true to the best one knows.",
+  author: "Buddha"
 }
 ```
 
