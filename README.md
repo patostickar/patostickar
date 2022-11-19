@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 496,
-  quote: "Those who try to do something and fail are infinitely better than those who try nothing and succeed.",
-  author: "Lloyd Jones"
+  id: 1165,
+  quote: "It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.",
+  author: "Dalai Lama"
 }
 ```
 
