@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1165,
-  quote: "It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.",
-  author: "Dalai Lama"
+  id: 610,
+  quote: "The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.",
+  author: "Seneca"
 }
 ```
 
