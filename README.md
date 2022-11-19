@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1528,
-  quote: "He who knows others is wise. He who knows himself is enlightened.",
-  author: "Lao Tzu"
+  id: 12,
+  quote: "We can only learn to love by loving.",
+  author: "Iris Murdoch"
 }
 ```
 
