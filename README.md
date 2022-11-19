@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1520,
-  quote: "The cosmos is neither moral or immoral; only people are. He who would move the world must first move himself.",
-  author: "Edward Ericson"
+  id: 508,
+  quote: "With the realization of ones own potential and self-confidence in ones ability, one can build a better world.",
+  author: "Dalai Lama"
 }
 ```
 
