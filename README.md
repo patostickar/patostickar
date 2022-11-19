@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 597,
-  quote: "I am not bothered by the fact that I am unknown. I am bothered when I do not know others.",
-  author: "Confucius"
+  id: 1064,
+  quote: "Everything you are against weakens you. Everything you are for empowers you.",
+  author: "Wayne Dyer"
 }
 ```
 
