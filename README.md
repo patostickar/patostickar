@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 111,
-  quote: "All our knowledge has its origins in our perceptions.",
-  author: "Leonardo da Vinci"
+  id: 540,
+  quote: "Keeping a little ahead of conditions is one of the secrets of business, the trailer seldom goes far.",
+  author: "Charles Schwab"
 }
 ```
 
