@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1093,
-  quote: "I never worry about action, but only inaction.",
-  author: "Winston Churchill"
+  id: 1528,
+  quote: "He who knows others is wise. He who knows himself is enlightened.",
+  author: "Lao Tzu"
 }
 ```
 
