@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 858,
-  quote: "The greatest minds are capable of the greatest vices as well as of the greatest virtues.",
-  author: "Rene Descartes"
+  id: 1634,
+  quote: "Into each life rain must fall but rain can be the giver of life and it is all in your attitude that makes rain produce sunshine.",
+  author: "Byron Pulsifer"
 }
 ```
 
