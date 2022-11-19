@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 959,
-  quote: "He who obtains has little. He who scatters has much.",
-  author: "Lao Tzu"
+  id: 858,
+  quote: "The greatest minds are capable of the greatest vices as well as of the greatest virtues.",
+  author: "Rene Descartes"
 }
 ```
 
