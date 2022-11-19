@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 610,
-  quote: "The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.",
-  author: "Seneca"
+  id: 1151,
+  quote: "Never apologize for showing feeling. When you do so, you apologize for truth.",
+  author: "Benjamin Disraeli"
 }
 ```
 
