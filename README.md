@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 540,
-  quote: "Keeping a little ahead of conditions is one of the secrets of business, the trailer seldom goes far.",
-  author: "Charles Schwab"
+  id: 1093,
+  quote: "I never worry about action, but only inaction.",
+  author: "Winston Churchill"
 }
 ```
 
