@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1294,
-  quote: "The difference between what we do and what we are capable of doing would suffice to solve most of the worlds problems.",
-  author: "Mohandas Gandhi"
+  id: 1642,
+  quote: "Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on.",
+  author: "Tom Jackson"
 }
 ```
 
