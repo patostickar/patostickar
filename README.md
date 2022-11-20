@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1277,
-  quote: "The world is but a canvas to the imagination.",
-  author: "Henry Thoreau"
+  id: 422,
+  quote: "Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.",
+  author: "Marcel Proust"
 }
 ```
 
