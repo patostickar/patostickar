@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 441,
-  quote: "Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.",
-  author: "Jane Addams"
+  id: 505,
+  quote: "Consider how hard it is to change yourself and you'll understand what little chance you have in trying to change others.",
+  author: "Jacob Braude"
 }
 ```
 
