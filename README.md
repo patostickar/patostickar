@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 540,
-  quote: "Keeping a little ahead of conditions is one of the secrets of business, the trailer seldom goes far.",
-  author: "Charles Schwab"
+  id: 72,
+  quote: "The undertaking of a new action brings new strength.",
+  author: "Richard Evans"
 }
 ```
 
