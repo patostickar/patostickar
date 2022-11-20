@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1469,
-  quote: "Love is the master key that opens the gates of happiness.",
-  author: "Oliver Holmes"
+  id: 945,
+  quote: "When fate hands us a lemon, lets try to make lemonade.",
+  author: "Dale Carnegie"
 }
 ```
 
