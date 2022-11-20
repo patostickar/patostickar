@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 174,
-  quote: "He who talks more is sooner exhausted.",
-  author: "Lao Tzu"
+  id: 1277,
+  quote: "The world is but a canvas to the imagination.",
+  author: "Henry Thoreau"
 }
 ```
 
