@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 72,
-  quote: "The undertaking of a new action brings new strength.",
-  author: "Richard Evans"
+  id: 1280,
+  quote: "Strength to carry on despite the odds means you have faith in your own abilities and know how.",
+  author: "Byron Pulsifer"
 }
 ```
 
