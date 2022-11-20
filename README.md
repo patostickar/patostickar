@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1257,
-  quote: "Be your own hero, it's cheaper than a movie ticket.",
-  author: "Doug Horton"
+  id: 350,
+  quote: "When your desires are strong enough you will appear to possess superhuman powers to achieve.",
+  author: "Napoleon Hill"
 }
 ```
 
