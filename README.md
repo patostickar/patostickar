@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1623,
-  quote: "What we see depends mainly on what we look for.",
-  author: "John Lubbock"
+  id: 1110,
+  quote: "The future is completely open, and we are writing it moment to moment.",
+  author: "Pema Chodron"
 }
 ```
 
