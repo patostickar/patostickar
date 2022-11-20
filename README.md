@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1280,
-  quote: "Strength to carry on despite the odds means you have faith in your own abilities and know how.",
-  author: "Byron Pulsifer"
+  id: 1294,
+  quote: "The difference between what we do and what we are capable of doing would suffice to solve most of the worlds problems.",
+  author: "Mohandas Gandhi"
 }
 ```
 
