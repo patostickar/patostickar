@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1485,
-  quote: "Remember that failure is an event, not a person.",
-  author: "Zig Ziglar"
+  id: 900,
+  quote: "Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.",
+  author: "Epictetus"
 }
 ```
 
