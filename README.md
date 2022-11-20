@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 326,
-  quote: "I'm not afraid of storms, for I'm learning how to sail my ship.",
-  author: "Louisa Alcott"
+  id: 441,
+  quote: "Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.",
+  author: "Jane Addams"
 }
 ```
 
