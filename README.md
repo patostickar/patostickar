@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 505,
-  quote: "Consider how hard it is to change yourself and you'll understand what little chance you have in trying to change others.",
-  author: "Jacob Braude"
+  id: 645,
+  quote: "To accomplish great things, we must not only act, but also dream; not only plan, but also believe.",
+  author: "Anatole France"
 }
 ```
 
