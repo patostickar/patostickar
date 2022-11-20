@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 900,
-  quote: "Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.",
-  author: "Epictetus"
+  id: 1257,
+  quote: "Be your own hero, it's cheaper than a movie ticket.",
+  author: "Doug Horton"
 }
 ```
 
