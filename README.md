@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1110,
-  quote: "The future is completely open, and we are writing it moment to moment.",
-  author: "Pema Chodron"
+  id: 695,
+  quote: "You can't create in a vacuum. Life gives you the material and dreams can propel new beginnings.",
+  author: "Byron Pulsifer"
 }
 ```
 
