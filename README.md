@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 683,
-  quote: "All difficult things have their origin in that which is easy, and great things in that which is small.",
-  author: "Lao Tzu"
+  id: 255,
+  quote: "Never put off till tomorrow what you can do today.",
+  author: "Thomas Jefferson"
 }
 ```
 
