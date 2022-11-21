@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 255,
-  quote: "Never put off till tomorrow what you can do today.",
-  author: "Thomas Jefferson"
+  id: 1110,
+  quote: "The future is completely open, and we are writing it moment to moment.",
+  author: "Pema Chodron"
 }
 ```
 
