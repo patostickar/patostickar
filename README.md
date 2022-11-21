@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1109,
-  quote: "The one who always loses, is the only person who gets the reward.",
-  author: "Claire Charmont"
+  id: 1442,
+  quote: "It is with words as with sunbeams. The more they are condensed, the deeper they burn.",
+  author: "Robert Southey"
 }
 ```
 
