@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 159,
-  quote: "Don't be pushed by your problems; be led by your dreams.",
-  author: "null"
+  id: 803,
+  quote: "The least movement is of importance to all nature. The entire ocean is affected by a pebble.",
+  author: "Blaise Pascal"
 }
 ```
 
