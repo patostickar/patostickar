@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 945,
-  quote: "When fate hands us a lemon, lets try to make lemonade.",
-  author: "Dale Carnegie"
+  id: 1109,
+  quote: "The one who always loses, is the only person who gets the reward.",
+  author: "Claire Charmont"
 }
 ```
 
