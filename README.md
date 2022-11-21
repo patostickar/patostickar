@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 569,
-  quote: "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.",
-  author: "Nikola Tesla"
+  id: 1220,
+  quote: "To be great is to be misunderstood.",
+  author: "Ralph Emerson"
 }
 ```
 
