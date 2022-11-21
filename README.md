@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1442,
-  quote: "It is with words as with sunbeams. The more they are condensed, the deeper they burn.",
-  author: "Robert Southey"
+  id: 224,
+  quote: "The mind is everything. What you think you become.",
+  author: "Buddha"
 }
 ```
 
