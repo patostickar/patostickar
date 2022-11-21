@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1511,
-  quote: "In skating over thin ice our safety is in our speed.",
-  author: "Ralph Emerson"
+  id: 683,
+  quote: "All difficult things have their origin in that which is easy, and great things in that which is small.",
+  author: "Lao Tzu"
 }
 ```
 
