@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 945,
-  quote: "When fate hands us a lemon, lets try to make lemonade.",
-  author: "Dale Carnegie"
+  id: 1511,
+  quote: "In skating over thin ice our safety is in our speed.",
+  author: "Ralph Emerson"
 }
 ```
 
