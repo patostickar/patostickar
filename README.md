@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 717,
-  quote: "When you realize there is nothing lacking, the whole world belongs to you.",
-  author: "Lao Tzu"
+  id: 151,
+  quote: "While we stop to think, we often miss our opportunity.",
+  author: "Publilius Syrus"
 }
 ```
 
