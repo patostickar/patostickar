@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 459,
-  quote: "You cannot find yourself by going into the past. You can find yourself by coming into the present.",
-  author: "Eckhart Tolle"
+  id: 619,
+  quote: "The greatest good you can do for another is not just to share your riches but to reveal to him his own.",
+  author: "Benjamin Disraeli"
 }
 ```
 
