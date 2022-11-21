@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1220,
-  quote: "To be great is to be misunderstood.",
-  author: "Ralph Emerson"
+  id: 266,
+  quote: "Love doesn't make the world go round, love is what makes the ride worthwhile.",
+  author: "Elizabeth Browning"
 }
 ```
 
