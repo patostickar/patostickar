@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1110,
-  quote: "The future is completely open, and we are writing it moment to moment.",
-  author: "Pema Chodron"
+  id: 717,
+  quote: "When you realize there is nothing lacking, the whole world belongs to you.",
+  author: "Lao Tzu"
 }
 ```
 
