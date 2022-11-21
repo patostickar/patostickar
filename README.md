@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 151,
-  quote: "While we stop to think, we often miss our opportunity.",
-  author: "Publilius Syrus"
+  id: 459,
+  quote: "You cannot find yourself by going into the past. You can find yourself by coming into the present.",
+  author: "Eckhart Tolle"
 }
 ```
 
