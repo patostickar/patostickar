@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 378,
-  quote: "No man can succeed in a line of endeavor which he does not like.",
-  author: "Napoleon Hill"
+  id: 1520,
+  quote: "The cosmos is neither moral or immoral; only people are. He who would move the world must first move himself.",
+  author: "Edward Ericson"
 }
 ```
 
