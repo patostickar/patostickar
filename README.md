@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 646,
-  quote: "The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.",
-  author: "Thomas Edison"
+  id: 2,
+  quote: "A house divided against itself cannot stand.",
+  author: "Abraham Lincoln"
 }
 ```
 
