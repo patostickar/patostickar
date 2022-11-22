@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 299,
-  quote: "We learn what we have said from those who listen to our speaking.",
-  author: "Kenneth Patton"
+  id: 646,
+  quote: "The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.",
+  author: "Thomas Edison"
 }
 ```
 
