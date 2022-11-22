@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1583,
-  quote: "Numberless are the worlds wonders, but none more wonderful than man.",
-  author: "Sophocles"
+  id: 155,
+  quote: "The more you know yourself, the more you forgive yourself.",
+  author: "Confucius"
 }
 ```
 
