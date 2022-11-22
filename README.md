@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 338,
-  quote: "Slow down and everything you are chasing will come around and catch you.",
-  author: "John De Paola"
+  id: 289,
+  quote: "If one does not know to which port is sailing, no wind is favorable.",
+  author: "Seneca"
 }
 ```
 
