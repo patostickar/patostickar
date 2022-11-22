@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 229,
-  quote: "Be great in act, as you have been in thought.",
-  author: "William Shakespeare"
+  id: 299,
+  quote: "We learn what we have said from those who listen to our speaking.",
+  author: "Kenneth Patton"
 }
 ```
 
