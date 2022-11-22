@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 771,
-  quote: "The more light you allow within you, the brighter the world you live in will be.",
-  author: "Shakti Gawain"
+  id: 682,
+  quote: "Try not to become a man of success, but rather try to become a man of value.",
+  author: "Albert Einstein"
 }
 ```
 
