@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1335,
-  quote: "We are what we repeatedly do. Excellence, then, is not an act but a habit.",
-  author: "Aristotle"
+  id: 669,
+  quote: "You have power over your mind not outside events. Realize this, and you will find strength.",
+  author: "Marcus Aurelius"
 }
 ```
 
