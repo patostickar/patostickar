@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1111,
-  quote: "Each time we face a fear, we gain strength, courage, and confidence in the doing.",
-  author: "null"
+  id: 1335,
+  quote: "We are what we repeatedly do. Excellence, then, is not an act but a habit.",
+  author: "Aristotle"
 }
 ```
 
