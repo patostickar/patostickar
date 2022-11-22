@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 266,
-  quote: "Love doesn't make the world go round, love is what makes the ride worthwhile.",
-  author: "Elizabeth Browning"
+  id: 1264,
+  quote: "Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.",
+  author: "Henry Reed"
 }
 ```
 
