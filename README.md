@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1637,
-  quote: "If one way be better than another, that you may be sure is natures way.",
-  author: "Aristotle"
+  id: 475,
+  quote: "Money was never a big motivation for me, except as a way to keep score. The real excitement is playing the game.",
+  author: "Donald Trump"
 }
 ```
 
