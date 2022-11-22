@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 98,
-  quote: "Nobody will believe in you unless you believe in yourself.",
-  author: "Liberace"
+  id: 378,
+  quote: "No man can succeed in a line of endeavor which he does not like.",
+  author: "Napoleon Hill"
 }
 ```
 
