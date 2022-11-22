@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 289,
-  quote: "If one does not know to which port is sailing, no wind is favorable.",
-  author: "Seneca"
+  id: 1637,
+  quote: "If one way be better than another, that you may be sure is natures way.",
+  author: "Aristotle"
 }
 ```
 
