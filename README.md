@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1264,
-  quote: "Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.",
-  author: "Henry Reed"
+  id: 338,
+  quote: "Slow down and everything you are chasing will come around and catch you.",
+  author: "John De Paola"
 }
 ```
 
