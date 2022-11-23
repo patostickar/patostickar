@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 969,
-  quote: "Happiness does not come from having much, but from being attached to little.",
-  author: "Cheng Yen"
+  id: 742,
+  quote: "Watch the little things; a small leak will sink a great ship.",
+  author: "Benjamin Franklin"
 }
 ```
 
