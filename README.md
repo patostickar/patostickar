@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 408,
-  quote: "Don't leave a stone unturned. It's always something, to know you have done the most you could.",
-  author: "Charles Dickens"
+  id: 184,
+  quote: "I believe in one thing only, the power of human will.",
+  author: "Joseph Stalin"
 }
 ```
 
