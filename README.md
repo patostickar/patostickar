@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 319,
-  quote: "We all have problems. The way we solve them is what makes us different.",
-  author: "null"
+  id: 428,
+  quote: "I'm a great believer in luck and I find the harder I work, the more I have of it.",
+  author: "Thomas Jefferson"
 }
 ```
 
