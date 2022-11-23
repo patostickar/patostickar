@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1032,
-  quote: "We shall never know all the good that a simple smile can do.",
-  author: "Mother Teresa"
+  id: 766,
+  quote: "Give whatever you are doing and whoever you are with the gift of your attention.",
+  author: "Jim Rohn"
 }
 ```
 
