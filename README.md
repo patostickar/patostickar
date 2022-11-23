@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1273,
-  quote: "We may encounter many defeats but we must not be defeated.",
-  author: "Maya Angelou"
+  id: 800,
+  quote: "A smile is a light in the window of your face to show your heart is at home.",
+  author: "null"
 }
 ```
 
