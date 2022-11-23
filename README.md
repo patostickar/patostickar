@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1474,
-  quote: "However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?",
-  author: "Buddha"
+  id: 1418,
+  quote: "Reason and free inquiry are the only effectual agents against error.",
+  author: "Thomas Jefferson"
 }
 ```
 
