@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 2,
-  quote: "A house divided against itself cannot stand.",
-  author: "Abraham Lincoln"
+  id: 319,
+  quote: "We all have problems. The way we solve them is what makes us different.",
+  author: "null"
 }
 ```
 
