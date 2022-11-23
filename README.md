@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1410,
-  quote: "All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.",
-  author: "Albert Camus"
+  id: 354,
+  quote: "Never bend your head. Always hold it high. Look the world right in the eye.",
+  author: "Helen Keller"
 }
 ```
 
