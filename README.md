@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 41,
-  quote: "What worries you masters you.",
-  author: "Haddon Robinson"
+  id: 1474,
+  quote: "However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?",
+  author: "Buddha"
 }
 ```
 
