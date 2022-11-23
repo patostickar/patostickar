@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1205,
-  quote: "There is no scarcity of opportunity to make a living at what you love; theres only scarcity of resolve to make it happen.",
-  author: "Wayne Dyer"
+  id: 297,
+  quote: "Life is a process. We are a process. The universe is a process.",
+  author: "Anne Schaef"
 }
 ```
 
