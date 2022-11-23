@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 354,
-  quote: "Never bend your head. Always hold it high. Look the world right in the eye.",
-  author: "Helen Keller"
+  id: 25,
+  quote: "Trust yourself. You know more than you think you do.",
+  author: "Benjamin Spock"
 }
 ```
 
