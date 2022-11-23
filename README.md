@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 766,
-  quote: "Give whatever you are doing and whoever you are with the gift of your attention.",
-  author: "Jim Rohn"
+  id: 1205,
+  quote: "There is no scarcity of opportunity to make a living at what you love; theres only scarcity of resolve to make it happen.",
+  author: "Wayne Dyer"
 }
 ```
 
