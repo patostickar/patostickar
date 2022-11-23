@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 25,
-  quote: "Trust yourself. You know more than you think you do.",
-  author: "Benjamin Spock"
+  id: 299,
+  quote: "We learn what we have said from those who listen to our speaking.",
+  author: "Kenneth Patton"
 }
 ```
 
