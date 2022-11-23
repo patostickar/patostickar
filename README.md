@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 184,
-  quote: "I believe in one thing only, the power of human will.",
-  author: "Joseph Stalin"
+  id: 119,
+  quote: "Everyone smiles in the same language.",
+  author: "null"
 }
 ```
 
