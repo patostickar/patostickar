@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1351,
-  quote: "All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.",
-  author: "Bruce Lee"
+  id: 398,
+  quote: "Time changes everything except something within us which is always surprised by change.",
+  author: "Thomas Hardy"
 }
 ```
 
