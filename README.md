@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 179,
-  quote: "Happiness is found in doing, not merely possessing.",
-  author: "Napoleon Hill"
+  id: 225,
+  quote: "To enjoy life, we must touch much of it lightly.",
+  author: "Voltaire"
 }
 ```
 
