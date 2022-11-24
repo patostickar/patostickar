@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1421,
-  quote: "By accepting yourself and being fully what you are, your presence can make others happy.",
-  author: "Jane Roberts"
+  id: 381,
+  quote: "They say that time changes things, but you actually have to change them yourself.",
+  author: "Andy Warhol"
 }
 ```
 
