@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 300,
-  quote: "A little knowledge that acts is worth infinitely more than much knowledge that is idle.",
-  author: "Kahlil Gibran"
+  id: 1012,
+  quote: "Passion creates the desire for more and action fuelled by passion creates a future.",
+  author: "Byron Pulsifer"
 }
 ```
 
