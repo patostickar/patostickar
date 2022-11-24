@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 225,
-  quote: "To enjoy life, we must touch much of it lightly.",
-  author: "Voltaire"
+  id: 1421,
+  quote: "By accepting yourself and being fully what you are, your presence can make others happy.",
+  author: "Jane Roberts"
 }
 ```
 
