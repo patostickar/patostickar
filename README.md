@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 398,
-  quote: "Time changes everything except something within us which is always surprised by change.",
-  author: "Thomas Hardy"
+  id: 989,
+  quote: "Saying thank you is more than good manners. It is good spirituality.",
+  author: "Alfred Painter"
 }
 ```
 
