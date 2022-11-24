@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 201,
-  quote: "Autumn is a second spring when every leaf is a flower.",
-  author: "Albert Camus"
+  id: 269,
+  quote: "I believe that we are fundamentally the same and have the same basic potential.",
+  author: "Dalai Lama"
 }
 ```
 
