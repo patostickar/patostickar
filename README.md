@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 297,
-  quote: "Life is a process. We are a process. The universe is a process.",
-  author: "Anne Schaef"
+  id: 590,
+  quote: "Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.",
+  author: "Winston Churchill"
 }
 ```
 
