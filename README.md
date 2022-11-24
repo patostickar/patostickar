@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 2,
-  quote: "A house divided against itself cannot stand.",
-  author: "Abraham Lincoln"
+  id: 179,
+  quote: "Happiness is found in doing, not merely possessing.",
+  author: "Napoleon Hill"
 }
 ```
 
