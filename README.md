@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 944,
-  quote: "Everything that irritates us about others can lead us to an understanding of ourselves.",
-  author: "Carl Jung"
+  id: 1476,
+  quote: "If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception, it is a prevailing attitude.",
+  author: "Colin Powell"
 }
 ```
 
