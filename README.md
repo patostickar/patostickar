@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 590,
-  quote: "Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.",
-  author: "Winston Churchill"
+  id: 144,
+  quote: "Time is the most valuable thing a man can spend.",
+  author: "Theophrastus"
 }
 ```
 
