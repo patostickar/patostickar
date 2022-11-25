@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 603,
-  quote: "Give it all you've got because you never know if there's going to be a next time.",
-  author: "Danielle Ingrum"
+  id: 413,
+  quote: "A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.",
+  author: "Elbert Hubbard"
 }
 ```
 
