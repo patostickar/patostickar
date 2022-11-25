@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1028,
-  quote: "There are no failures just experiences and your reactions to them.",
-  author: "Tom Krause"
+  id: 603,
+  quote: "Give it all you've got because you never know if there's going to be a next time.",
+  author: "Danielle Ingrum"
 }
 ```
 
