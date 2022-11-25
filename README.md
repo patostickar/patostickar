@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 335,
-  quote: "Everyone thinks of changing the world, but no one thinks of changing himself.",
-  author: "Leo Tolstoy"
+  id: 1490,
+  quote: "Do not wait for leaders; do it alone, person to person.",
+  author: "Mother Teresa"
 }
 ```
 
