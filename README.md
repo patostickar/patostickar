@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1529,
-  quote: "The best way to predict your future is to create it.",
-  author: "Peter Drucker"
+  id: 1433,
+  quote: "I gave my life to become the person I am right now. Was it worth it?",
+  author: "Richard Bach"
 }
 ```
 
