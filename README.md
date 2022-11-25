@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 164,
-  quote: "Life is the flower for which love is the honey.",
-  author: "Victor Hugo"
+  id: 1529,
+  quote: "The best way to predict your future is to create it.",
+  author: "Peter Drucker"
 }
 ```
 
