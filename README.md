@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 587,
-  quote: "Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.",
-  author: "Doug Larson"
+  id: 335,
+  quote: "Everyone thinks of changing the world, but no one thinks of changing himself.",
+  author: "Leo Tolstoy"
 }
 ```
 
