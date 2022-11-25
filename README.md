@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 108,
-  quote: "Who looks outside, dreams; who looks inside, awakes.",
-  author: "Carl Jung"
+  id: 1558,
+  quote: "We lost because we told ourselves we lost.",
+  author: "Leo Tolstoy"
 }
 ```
 
