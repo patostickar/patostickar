@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1490,
-  quote: "Do not wait for leaders; do it alone, person to person.",
-  author: "Mother Teresa"
+  id: 814,
+  quote: "There is one thing you have got to learn about our movement. Three people are better than no people.",
+  author: "Fannie Hamer"
 }
 ```
 
