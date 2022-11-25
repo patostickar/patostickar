@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 734,
-  quote: "The longer we dwell on our misfortunes, the greater is their power to harm us.",
-  author: "Voltaire"
+  id: 587,
+  quote: "Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.",
+  author: "Doug Larson"
 }
 ```
 
