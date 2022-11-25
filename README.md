@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1558,
-  quote: "We lost because we told ourselves we lost.",
-  author: "Leo Tolstoy"
+  id: 1028,
+  quote: "There are no failures just experiences and your reactions to them.",
+  author: "Tom Krause"
 }
 ```
 
