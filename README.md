@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 413,
-  quote: "A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.",
-  author: "Elbert Hubbard"
+  id: 450,
+  quote: "Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.",
+  author: "Alan Cohen"
 }
 ```
 
