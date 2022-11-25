@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 366,
-  quote: "The way is not in the sky. The way is in the heart.",
-  author: "Buddha"
+  id: 630,
+  quote: "This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.",
+  author: "Thomas Carlyle"
 }
 ```
 
