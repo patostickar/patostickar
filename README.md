@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 362,
-  quote: "Love and compassion open our own inner life, reducing stress, distrust and loneliness.",
-  author: "Dalai Lama"
+  id: 540,
+  quote: "Keeping a little ahead of conditions is one of the secrets of business, the trailer seldom goes far.",
+  author: "Charles Schwab"
 }
 ```
 
