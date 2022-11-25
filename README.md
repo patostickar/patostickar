@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 814,
-  quote: "There is one thing you have got to learn about our movement. Three people are better than no people.",
-  author: "Fannie Hamer"
+  id: 362,
+  quote: "Love and compassion open our own inner life, reducing stress, distrust and loneliness.",
+  author: "Dalai Lama"
 }
 ```
 
