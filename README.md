@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1353,
-  quote: "The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.",
-  author: "Helen Keller"
+  id: 885,
+  quote: "He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye.",
+  author: "Buddha"
 }
 ```
 
