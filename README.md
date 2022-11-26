@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 103,
-  quote: "Don't ruin the present with the ruined past.",
-  author: "Ellen Gilchrist"
+  id: 35,
+  quote: "One fails forward toward success.",
+  author: "Charles Kettering"
 }
 ```
 
