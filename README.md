@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 35,
-  quote: "One fails forward toward success.",
-  author: "Charles Kettering"
+  id: 748,
+  quote: "Your big opportunity may be right where you are now.",
+  author: "Napoleon Hill"
 }
 ```
 
