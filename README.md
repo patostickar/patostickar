@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 804,
-  quote: "I am always doing that which I can not do, in order that I may learn how to do it.",
-  author: "Pablo Picasso"
+  id: 755,
+  quote: "Never be afraid to try, remember... Amateurs built the ark, Professionals built the Titanic.",
+  author: "null"
 }
 ```
 
