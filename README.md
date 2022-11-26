@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1444,
-  quote: "Sincerity is the way of Heaven. The attainment of sincerity is the way of men.",
-  author: "Confucius"
+  id: 1353,
+  quote: "The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.",
+  author: "Helen Keller"
 }
 ```
 
