@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 73,
-  quote: "The years teach much which the days never know.",
-  author: "Ralph Emerson"
+  id: 1292,
+  quote: "The superior man acts before he speaks, and afterwards speaks according to his action.",
+  author: "Confucius"
 }
 ```
 
