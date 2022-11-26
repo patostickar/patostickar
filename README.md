@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1210,
-  quote: "Don't let what you can't do stop you from doing what you can do.",
-  author: "null"
+  id: 1630,
+  quote: "Nothing will work unless you do.",
+  author: "Maya Angelou"
 }
 ```
 
