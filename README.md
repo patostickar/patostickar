@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 58,
-  quote: "Time is the wisest counsellor of all.",
-  author: "Pericles"
+  id: 804,
+  quote: "I am always doing that which I can not do, in order that I may learn how to do it.",
+  author: "Pablo Picasso"
 }
 ```
 
