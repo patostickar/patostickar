@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1292,
-  quote: "The superior man acts before he speaks, and afterwards speaks according to his action.",
-  author: "Confucius"
+  id: 402,
+  quote: "Transformation doesn't take place with a vacuum; instead, it occurs when we are indirectly and directly connected to all those around us.",
+  author: "Byron Pulsifer"
 }
 ```
 
