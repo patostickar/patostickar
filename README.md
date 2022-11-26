@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1630,
-  quote: "Nothing will work unless you do.",
-  author: "Maya Angelou"
+  id: 711,
+  quote: "You won't skid if you stay in a rut.",
+  author: "Kin Hubbard"
 }
 ```
 
