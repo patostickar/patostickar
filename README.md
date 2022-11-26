@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 755,
-  quote: "Never be afraid to try, remember... Amateurs built the ark, Professionals built the Titanic.",
+  id: 1210,
+  quote: "Don't let what you can't do stop you from doing what you can do.",
   author: "null"
 }
 ```
