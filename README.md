@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 711,
-  quote: "You won't skid if you stay in a rut.",
-  author: "Kin Hubbard"
+  id: 12,
+  quote: "We can only learn to love by loving.",
+  author: "Iris Murdoch"
 }
 ```
 
