@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1432,
-  quote: "Let yourself be silently drawn by the stronger pull of what you really love.",
-  author: "Rumi"
+  id: 413,
+  quote: "A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.",
+  author: "Elbert Hubbard"
 }
 ```
 
