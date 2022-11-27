@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 631,
-  quote: "Every great mistake has a halfway moment, a split second when it can be recalled and perhaps remedied.",
-  author: "Pearl Buck"
+  id: 1084,
+  quote: "The path to success is to take massive, determined action.",
+  author: "Anthony Robbins"
 }
 ```
 
