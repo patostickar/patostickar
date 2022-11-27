@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1241,
-  quote: "The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.",
-  author: "Will Durant"
+  id: 1206,
+  quote: "Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.",
+  author: "Wolfgang Amadeus Mozart"
 }
 ```
 
