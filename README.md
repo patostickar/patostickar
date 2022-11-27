@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 433,
-  quote: "Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigour of the mind.",
-  author: "Leonardo da Vinci"
+  id: 740,
+  quote: "Silence is the true friend that never betrays.",
+  author: "Confucius"
 }
 ```
 
