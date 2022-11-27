@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1075,
-  quote: "You only lose what you cling to.",
-  author: "Buddha"
+  id: 548,
+  quote: "The road leading to a goal does not separate you from the destination; it is essentially a part of it.",
+  author: "Charles DeLint"
 }
 ```
 
