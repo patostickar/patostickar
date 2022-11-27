@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1611,
-  quote: "Either I will find a way, or I will make one.",
-  author: "Philip Sidney"
+  id: 631,
+  quote: "Every great mistake has a halfway moment, a split second when it can be recalled and perhaps remedied.",
+  author: "Pearl Buck"
 }
 ```
 
