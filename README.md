@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1273,
-  quote: "We may encounter many defeats but we must not be defeated.",
-  author: "Maya Angelou"
+  id: 1241,
+  quote: "The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.",
+  author: "Will Durant"
 }
 ```
 
