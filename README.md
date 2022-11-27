@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1551,
-  quote: "I endeavour to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.",
-  author: "Elizabeth Montagu"
+  id: 386,
+  quote: "The only limit to our realization of tomorrow will be our doubts of today.",
+  author: "Franklin Roosevelt"
 }
 ```
 
