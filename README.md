@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 586,
-  quote: "To speak gratitude is courteous and pleasant, to enact gratitude is generous and noble, but to live gratitude is to touch Heaven.",
-  author: "Johannes Gaertner"
+  id: 376,
+  quote: "Life is so constructed that an event does not, cannot, will not, match the expectation.",
+  author: "Charlotte Bronte"
 }
 ```
 
