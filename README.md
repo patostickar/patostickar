@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 941,
-  quote: "Reality is merely an illusion, albeit a very persistent one.",
-  author: "Albert Einstein"
+  id: 1399,
+  quote: "Moments of complete apathy are the best for new creations.",
+  author: "Philip Breedveld"
 }
 ```
 
