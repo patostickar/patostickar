@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 946,
-  quote: "The weak can never forgive. Forgiveness is the attribute of the strong.",
-  author: "Mohandas Gandhi"
+  id: 1389,
+  quote: "I love my past. I love my present. I'm not ashamed of what Ive had, and I'm not sad because I have it no longer.",
+  author: "Colette"
 }
 ```
 
