@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 831,
-  quote: "The power of intuitive understanding will protect you from harm until the end of your days.",
-  author: "Laozi"
+  id: 936,
+  quote: "You are special, you are unique, you are the best!",
+  author: "Cathy Pulsifer"
 }
 ```
 
