@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 197,
-  quote: "You're never a loser until you quit trying.",
-  author: "Mike Ditka"
+  id: 1288,
+  quote: "Rather than wishing for change, you first must be prepared to change.",
+  author: "Catherine Pulsifer"
 }
 ```
 
