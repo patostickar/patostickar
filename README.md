@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 769,
-  quote: "The eye sees only what the mind is prepared to comprehend.",
-  author: "Henri Bergson"
+  id: 1209,
+  quote: "You are the only person on Earth who can use your ability.",
+  author: "Zig Ziglar"
 }
 ```
 
