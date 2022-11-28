@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 744,
-  quote: "To be wronged is nothing unless you continue to remember it.",
-  author: "Confucius"
+  id: 1190,
+  quote: "An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is colour-blind.",
+  author: "Albert Schweitzer"
 }
 ```
 
