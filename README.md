@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1399,
-  quote: "Moments of complete apathy are the best for new creations.",
-  author: "Philip Breedveld"
+  id: 263,
+  quote: "Absence makes the heart grow fonder.",
+  author: "Haynes Bayly"
 }
 ```
 
