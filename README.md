@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1635,
-  quote: "We are all inclined to judge ourselves by our ideals; others, by their acts.",
-  author: "Harold Nicolson"
+  id: 415,
+  quote: "I will not be concerned at other men is not knowing me;I will be concerned at my own want of ability.",
+  author: "Confucius"
 }
 ```
 
