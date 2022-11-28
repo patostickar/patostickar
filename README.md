@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1556,
-  quote: "To get the full value of joy you must have someone to divide it with.",
-  author: "Mark Twain"
+  id: 941,
+  quote: "Reality is merely an illusion, albeit a very persistent one.",
+  author: "Albert Einstein"
 }
 ```
 
