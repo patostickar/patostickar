@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 41,
-  quote: "What worries you masters you.",
-  author: "Haddon Robinson"
+  id: 744,
+  quote: "To be wronged is nothing unless you continue to remember it.",
+  author: "Confucius"
 }
 ```
 
