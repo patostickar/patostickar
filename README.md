@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 112,
-  quote: "The harder you fall, the higher you bounce.",
-  author: "null"
+  id: 1014,
+  quote: "Opportunity often comes disguised in the form of misfortune, or temporary defeat.",
+  author: "Napoleon Hill"
 }
 ```
 
