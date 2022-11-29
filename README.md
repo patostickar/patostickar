@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 664,
-  quote: "The greatest good you can do for another is not just share your riches, but reveal to them their own.",
-  author: "Benjamin Disraeli"
+  id: 1510,
+  quote: "If we look at the world with a love of life, the world will reveal its beauty to us.",
+  author: "Daisaku Ikeda"
 }
 ```
 
