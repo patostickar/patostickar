@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 421,
-  quote: "It is only with the heart that one can see rightly, what is essential is invisible to the eye.",
-  author: "Antoine de Saint-Exupery"
+  id: 1535,
+  quote: "Translation is the paradigm, the exemplar of all writing. It is translation that demonstrates most vividly the yearning for transformation that underlies every act involving speech, that supremely human gift.",
+  author: "Harry Burchell Mathews"
 }
 ```
 
