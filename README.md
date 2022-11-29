@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 740,
-  quote: "Silence is the true friend that never betrays.",
-  author: "Confucius"
+  id: 1637,
+  quote: "If one way be better than another, that you may be sure is natures way.",
+  author: "Aristotle"
 }
 ```
 
