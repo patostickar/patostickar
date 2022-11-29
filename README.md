@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 948,
-  quote: "Success is getting what you want. Happiness is wanting what you get.",
-  author: "Dale Carnegie"
+  id: 1056,
+  quote: "He who lives in harmony with himself lives in harmony with the world.",
+  author: "Marcus Aurelius"
 }
 ```
 
