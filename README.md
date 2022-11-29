@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1123,
-  quote: "Nothing great was ever achieved without enthusiasm.",
-  author: "Ralph Emerson"
+  id: 1450,
+  quote: "If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.",
+  author: "Jim Rohn"
 }
 ```
 
