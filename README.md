@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1641,
-  quote: "I will prepare and some day my chance will come.",
-  author: "Abraham Lincoln"
+  id: 664,
+  quote: "The greatest good you can do for another is not just share your riches, but reveal to them their own.",
+  author: "Benjamin Disraeli"
 }
 ```
 
