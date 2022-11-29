@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1567,
-  quote: "If you have knowledge, let others light their candles in it.",
-  author: "Margaret Fuller"
+  id: 1641,
+  quote: "I will prepare and some day my chance will come.",
+  author: "Abraham Lincoln"
 }
 ```
 
