@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 35,
-  quote: "One fails forward toward success.",
-  author: "Charles Kettering"
+  id: 1508,
+  quote: "Never tell a young person that anything cannot be done. God may have been waiting centuries for someone ignorant enough of the impossible to do that very thing.",
+  author: "John Holmes"
 }
 ```
 
