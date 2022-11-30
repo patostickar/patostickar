@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 356,
-  quote: "We cannot do everything at once, but we can do something at once.",
-  author: "Calvin Coolidge"
+  id: 343,
+  quote: "Life is like riding a bicycle. To keep your balance you must keep moving.",
+  author: "Albert Einstein"
 }
 ```
 
