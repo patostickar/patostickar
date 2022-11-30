@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 493,
-  quote: "It is the greatest of all mistakes to do nothing because you can only do little do what you can.",
-  author: "Sydney Smith"
+  id: 194,
+  quote: "May our hearts garden of awakening bloom with hundreds of flowers.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
