@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 762,
-  quote: "History will be kind to me for I intend to write it.",
-  author: "Winston Churchill"
+  id: 521,
+  quote: "Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.",
+  author: "Mother Teresa"
 }
 ```
 
