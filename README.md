@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 574,
-  quote: "People take different roads seeking fulfilment and happiness. Just because theyre not on your road doesn't mean they've gotten lost.",
-  author: "Dalai Lama"
+  id: 540,
+  quote: "Keeping a little ahead of conditions is one of the secrets of business, the trailer seldom goes far.",
+  author: "Charles Schwab"
 }
 ```
 
