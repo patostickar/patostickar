@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1198,
-  quote: "When I let go of what I am, I become what I might be.",
-  author: "Lao Tzu"
+  id: 1564,
+  quote: "The only person who never makes mistakes is the person who never does anything.",
+  author: "Denis Waitley"
 }
 ```
 
