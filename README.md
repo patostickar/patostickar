@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 521,
-  quote: "Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.",
-  author: "Mother Teresa"
+  id: 1234,
+  quote: "To see things in the seed, that is genius.",
+  author: "Lao Tzu"
 }
 ```
 
