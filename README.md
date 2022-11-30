@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 939,
-  quote: "We must not allow ourselves to become like the system we oppose.",
-  author: "Bishop Desmond Tutu"
+  id: 1198,
+  quote: "When I let go of what I am, I become what I might be.",
+  author: "Lao Tzu"
 }
 ```
 
