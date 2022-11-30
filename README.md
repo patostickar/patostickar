@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1582,
-  quote: "Miracles come in moments. Be ready and willing.",
-  author: "Wayne Dyer"
+  id: 1380,
+  quote: "The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.",
+  author: "Carlos Castaneda"
 }
 ```
 
