@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1042,
-  quote: "Nature is a mutable cloud which is always and never the same.",
-  author: "Ralph Emerson"
+  id: 574,
+  quote: "People take different roads seeking fulfilment and happiness. Just because theyre not on your road doesn't mean they've gotten lost.",
+  author: "Dalai Lama"
 }
 ```
 
