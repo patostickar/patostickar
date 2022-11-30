@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1520,
-  quote: "The cosmos is neither moral or immoral; only people are. He who would move the world must first move himself.",
-  author: "Edward Ericson"
+  id: 1140,
+  quote: "It is not only for what we do that we are held responsible, but also for what we do not do.",
+  author: "Moliere"
 }
 ```
 
