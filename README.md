@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1014,
-  quote: "Opportunity often comes disguised in the form of misfortune, or temporary defeat.",
-  author: "Napoleon Hill"
+  id: 164,
+  quote: "Life is the flower for which love is the honey.",
+  author: "Victor Hugo"
 }
 ```
 
