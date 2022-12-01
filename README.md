@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 72,
-  quote: "The undertaking of a new action brings new strength.",
-  author: "Richard Evans"
+  id: 963,
+  quote: "Real success is finding your lifework in the work that you love.",
+  author: "David McCullough"
 }
 ```
 
