@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 530,
-  quote: "Take no thought of who is right or wrong or who is better than. Be not for or against.",
-  author: "Bruce Lee"
+  id: 928,
+  quote: "The foolish man seeks happiness in the distance, the wise grows it under his feet.",
+  author: "James Oppenheim"
 }
 ```
 
