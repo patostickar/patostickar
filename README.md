@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 963,
-  quote: "Real success is finding your lifework in the work that you love.",
-  author: "David McCullough"
+  id: 775,
+  quote: "Can you imagine what I would do if I could do all I can?",
+  author: "Sun Tzu"
 }
 ```
 
