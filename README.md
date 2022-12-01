@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1338,
-  quote: "The best place to find a helping hand is at the end of your own arm.",
-  author: "null"
+  id: 600,
+  quote: "If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.",
+  author: "Barack Obama"
 }
 ```
 
