@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 679,
-  quote: "Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.",
-  author: "Franklin Roosevelt"
+  id: 1338,
+  quote: "The best place to find a helping hand is at the end of your own arm.",
+  author: "null"
 }
 ```
 
