@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 912,
-  quote: "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.",
-  author: "Helen Keller"
+  id: 72,
+  quote: "The undertaking of a new action brings new strength.",
+  author: "Richard Evans"
 }
 ```
 
