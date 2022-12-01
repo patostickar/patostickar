@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 775,
-  quote: "Can you imagine what I would do if I could do all I can?",
-  author: "Sun Tzu"
+  id: 127,
+  quote: "Silence is a true friend who never betrays.",
+  author: "Confucius"
 }
 ```
 
