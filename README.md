@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1373,
-  quote: "There is nothing impossible to him who will try.",
-  author: "Alexander the Great"
+  id: 1612,
+  quote: "He who knows that enough is enough will always have enough.",
+  author: "Lao Tzu"
 }
 ```
 
