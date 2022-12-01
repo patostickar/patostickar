@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 204,
-  quote: "Write your plans in pencil and give God the eraser.",
-  author: "Paulo Coelho"
+  id: 1301,
+  quote: "Kind words can be short and easy to speak but their echoes are truly endless.",
+  author: "Mother Teresa"
 }
 ```
 
