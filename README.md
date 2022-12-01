@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 127,
-  quote: "Silence is a true friend who never betrays.",
-  author: "Confucius"
+  id: 750,
+  quote: "The day you decide to do it is your lucky day.",
+  author: "Japanese proverb"
 }
 ```
 
