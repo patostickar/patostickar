@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1301,
-  quote: "Kind words can be short and easy to speak but their echoes are truly endless.",
-  author: "Mother Teresa"
+  id: 912,
+  quote: "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.",
+  author: "Helen Keller"
 }
 ```
 
