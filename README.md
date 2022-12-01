@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 965,
-  quote: "All the flowers of all the tomorrows are in the seeds of today.",
-  author: "null"
+  id: 598,
+  quote: "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.",
+  author: "Epictetus"
 }
 ```
 
