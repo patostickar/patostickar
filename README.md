@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 488,
-  quote: "We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.",
-  author: "James Freeman Clarke"
+  id: 965,
+  quote: "All the flowers of all the tomorrows are in the seeds of today.",
+  author: "null"
 }
 ```
 
