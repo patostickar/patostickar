@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 76,
-  quote: "Great talent finds happiness in execution.",
-  author: "Johann Wolfgang von Goethe"
+  id: 530,
+  quote: "Take no thought of who is right or wrong or who is better than. Be not for or against.",
+  author: "Bruce Lee"
 }
 ```
 
