@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 72,
-  quote: "The undertaking of a new action brings new strength.",
-  author: "Richard Evans"
+  id: 1238,
+  quote: "The universe is made of stories, not atoms.",
+  author: "Muriel Rukeyser"
 }
 ```
 
