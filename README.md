@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1569,
-  quote: "If you find yourself in a hole, the first thing to do is stop digging.",
-  author: "Will Rogers"
+  id: 294,
+  quote: "Nothing in life is to be feared. It is only to be understood.",
+  author: "Marie Curie"
 }
 ```
 
