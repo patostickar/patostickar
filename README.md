@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1392,
-  quote: "Prosperity depends more on wanting what you have than having what you want.",
-  author: "Geoffrey F. Abert"
+  id: 130,
+  quote: "You can't stop the waves, but you can learn to surf.",
+  author: "Jon Kabat-Zinn"
 }
 ```
 
