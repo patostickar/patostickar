@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 294,
-  quote: "Nothing in life is to be feared. It is only to be understood.",
-  author: "Marie Curie"
+  id: 863,
+  quote: "To choose what is difficult all ones days, as if it were easy, that is faith.",
+  author: "W. H. Auden"
 }
 ```
 
