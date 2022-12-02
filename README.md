@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 716,
-  quote: "Never idealize others. They will never live up to your expectations.",
-  author: "Leo Buscaglia"
+  id: 5,
+  quote: "Be the chief but never the lord.",
+  author: "Lao Tzu"
 }
 ```
 
