@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 354,
-  quote: "Never bend your head. Always hold it high. Look the world right in the eye.",
-  author: "Helen Keller"
+  id: 1169,
+  quote: "We do not quit playing because we grow old, we grow old because we quit playing.",
+  author: "Oliver Holmes"
 }
 ```
 
