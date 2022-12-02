@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 632,
-  quote: "You can adopt the attitude there is nothing you can do, or you can see the challenge as your call to action.",
-  author: "Catherine Pulsifer"
+  id: 1392,
+  quote: "Prosperity depends more on wanting what you have than having what you want.",
+  author: "Geoffrey F. Abert"
 }
 ```
 
