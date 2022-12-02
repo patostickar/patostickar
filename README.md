@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 394,
-  quote: "It is on our failures that we base a new and different and better success.",
-  author: "Havelock Ellis"
+  id: 1569,
+  quote: "If you find yourself in a hole, the first thing to do is stop digging.",
+  author: "Will Rogers"
 }
 ```
 
