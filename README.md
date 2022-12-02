@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1,
-  quote: "You can observe a lot just by watching.",
-  author: "Yogi Berra"
+  id: 632,
+  quote: "You can adopt the attitude there is nothing you can do, or you can see the challenge as your call to action.",
+  author: "Catherine Pulsifer"
 }
 ```
 
