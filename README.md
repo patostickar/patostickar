@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1438,
-  quote: "Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.",
-  author: "Aristotle"
+  id: 72,
+  quote: "The undertaking of a new action brings new strength.",
+  author: "Richard Evans"
 }
 ```
 
