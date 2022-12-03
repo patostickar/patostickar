@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 618,
-  quote: "The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.",
-  author: "Henry Thoreau"
+  id: 1594,
+  quote: "The greatest mistake you can make in life is to be continually fearing you will make one.",
+  author: "Elbert Hubbard"
 }
 ```
 
