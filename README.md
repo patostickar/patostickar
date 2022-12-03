@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 647,
-  quote: "If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.",
-  author: "John Steinbeck"
+  id: 1116,
+  quote: "Listen to your intuition. It will tell you everything you need to know.",
+  author: "Anthony D'Angelo"
 }
 ```
 
