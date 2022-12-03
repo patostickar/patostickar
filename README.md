@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 502,
-  quote: "The only thing to do with good advice is to pass it on. It is never of any use to oneself.",
-  author: "Oscar Wilde"
+  id: 945,
+  quote: "When fate hands us a lemon, lets try to make lemonade.",
+  author: "Dale Carnegie"
 }
 ```
 
