@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1044,
-  quote: "Worry often gives a small thing a big shadow.",
-  author: "Swedish proverb"
+  id: 809,
+  quote: "Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.",
+  author: "Denis Waitley"
 }
 ```
 
