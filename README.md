@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 58,
-  quote: "Time is the wisest counsellor of all.",
-  author: "Pericles"
+  id: 618,
+  quote: "The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.",
+  author: "Henry Thoreau"
 }
 ```
 
