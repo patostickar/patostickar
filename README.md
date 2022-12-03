@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 655,
-  quote: "The truth of the matter is that you always know the right thing to do. The hard part is doing it.",
-  author: "Norman Schwarzkopf"
+  id: 1544,
+  quote: "Count your joys instead of your woes. Count your friends instead of your foes.",
+  author: "null"
 }
 ```
 
