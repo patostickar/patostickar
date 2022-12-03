@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1225,
-  quote: "Failure doesn't mean you are a failure it just means you haven't succeeded yet.",
-  author: "Robert Schuller"
+  id: 647,
+  quote: "If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.",
+  author: "John Steinbeck"
 }
 ```
 
