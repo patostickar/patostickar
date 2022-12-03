@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 809,
-  quote: "Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.",
-  author: "Denis Waitley"
+  id: 655,
+  quote: "The truth of the matter is that you always know the right thing to do. The hard part is doing it.",
+  author: "Norman Schwarzkopf"
 }
 ```
 
