@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1149,
-  quote: "It's not what happens to you, but how you react to it that matters.",
-  author: "Epictetus"
+  id: 502,
+  quote: "The only thing to do with good advice is to pass it on. It is never of any use to oneself.",
+  author: "Oscar Wilde"
 }
 ```
 
