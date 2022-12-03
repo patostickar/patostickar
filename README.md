@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 145,
-  quote: "Whatever happens, take responsibility.",
-  author: "Tony Robbins"
+  id: 1225,
+  quote: "Failure doesn't mean you are a failure it just means you haven't succeeded yet.",
+  author: "Robert Schuller"
 }
 ```
 
