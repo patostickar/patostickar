@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1116,
-  quote: "Listen to your intuition. It will tell you everything you need to know.",
-  author: "Anthony D'Angelo"
+  id: 160,
+  quote: "Whatever we expect with confidence becomes our own self-fulfilling prophecy.",
+  author: "Brian Tracy"
 }
 ```
 
