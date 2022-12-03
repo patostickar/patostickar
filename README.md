@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 403,
-  quote: "The only difference between your abilities and others is the ability to put yourself in their shoes and actually try.",
-  author: "Leonardo Ruiz"
+  id: 58,
+  quote: "Time is the wisest counsellor of all.",
+  author: "Pericles"
 }
 ```
 
