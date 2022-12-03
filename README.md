@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1336,
-  quote: "I walk slowly, but I never walk backward.",
-  author: "Abraham Lincoln"
+  id: 677,
+  quote: "Take time to deliberate, but when the time for action has arrived, stop thinking and go in.",
+  author: "Napoleon Bonaparte"
 }
 ```
 
