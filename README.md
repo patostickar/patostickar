@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1401,
-  quote: "To dream of the person you would like to be is to waste the person you are.",
-  author: "Tim Menchen"
+  id: 403,
+  quote: "The only difference between your abilities and others is the ability to put yourself in their shoes and actually try.",
+  author: "Leonardo Ruiz"
 }
 ```
 
