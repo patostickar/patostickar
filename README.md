@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 907,
-  quote: "With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble. Courage is the foundation of integrity.",
-  author: "Keshavan Nair"
+  id: 136,
+  quote: "Growth itself contains the germ of happiness.",
+  author: "Pearl Buck"
 }
 ```
 
