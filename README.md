@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 726,
-  quote: "When the solution is simple, God is answering.",
+  id: 1251,
+  quote: "Setting an example is not the main means of influencing another, it is the only means.",
   author: "Albert Einstein"
 }
 ```
