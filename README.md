@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1251,
-  quote: "Setting an example is not the main means of influencing another, it is the only means.",
-  author: "Albert Einstein"
+  id: 333,
+  quote: "If you think you can, you can. And if you think you can't, you're right.",
+  author: "Henry Ford"
 }
 ```
 
