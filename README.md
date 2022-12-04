@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1578,
-  quote: "Begin, be bold, and venture to be wise.",
-  author: "Horace"
+  id: 241,
+  quote: "To be wrong is nothing unless you continue to remember it.",
+  author: "Confucius"
 }
 ```
 
