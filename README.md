@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1427,
-  quote: "Risk more than others think is safe. Care more than others think is wise. Dream more than others think is practical.Expect more than others think is possible.",
-  author: "Cadet Maxim"
+  id: 954,
+  quote: "Take heed: you do not find what you do not seek.",
+  author: "English proverb"
 }
 ```
 
