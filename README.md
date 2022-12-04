@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 879,
-  quote: "Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.",
-  author: "Albert Einstein"
+  id: 1456,
+  quote: "Truth is generally the best vindication against slander.",
+  author: "Abraham Lincoln"
 }
 ```
 
