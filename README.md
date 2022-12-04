@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1456,
-  quote: "Truth is generally the best vindication against slander.",
-  author: "Abraham Lincoln"
+  id: 1341,
+  quote: "Anybody can make history. Only a great man can write it.",
+  author: "Oscar Wilde"
 }
 ```
 
