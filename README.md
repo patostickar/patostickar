@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 35,
-  quote: "One fails forward toward success.",
-  author: "Charles Kettering"
+  id: 726,
+  quote: "When the solution is simple, God is answering.",
+  author: "Albert Einstein"
 }
 ```
 
