@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 62,
-  quote: "Change in all things is sweet.",
-  author: "Aristotle"
+  id: 18,
+  quote: "To lead people walk behind them.",
+  author: "Lao Tzu"
 }
 ```
 
