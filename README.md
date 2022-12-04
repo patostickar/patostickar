@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 241,
-  quote: "To be wrong is nothing unless you continue to remember it.",
+  id: 974,
+  quote: "Everything has beauty, but not everyone sees it.",
   author: "Confucius"
 }
 ```
