@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 997,
-  quote: "All men who have achieved great things have been great dreamers.",
-  author: "Orison Marden"
+  id: 161,
+  quote: "Everything you can imagine is real.",
+  author: "Pablo Picasso"
 }
 ```
 
