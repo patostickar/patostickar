@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 478,
-  quote: "A wise man can learn more from a foolish question than a fool can learn from a wise answer.",
-  author: "Bruce Lee"
+  id: 1195,
+  quote: "The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.",
+  author: "Booker Washington"
 }
 ```
 
