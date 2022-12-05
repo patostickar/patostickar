@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 334,
-  quote: "Better to have loved and lost, than to have never loved at all.",
-  author: "St. Augustine"
+  id: 997,
+  quote: "All men who have achieved great things have been great dreamers.",
+  author: "Orison Marden"
 }
 ```
 
