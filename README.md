@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 431,
-  quote: "Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.",
-  author: "William Saroyan"
+  id: 801,
+  quote: "Look forward to spring as a time when you can start to see what nature has to offer once again.",
+  author: "Byron Pulsifer"
 }
 ```
 
