@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1110,
-  quote: "The future is completely open, and we are writing it moment to moment.",
-  author: "Pema Chodron"
+  id: 544,
+  quote: "You were not born a winner, and you were not born a loser. You are what you make yourself be.",
+  author: "Lou Holtz"
 }
 ```
 
