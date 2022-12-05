@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 828,
-  quote: "A failure is a man who has blundered but is not capable of cashing in on the experience.",
-  author: "Elbert Hubbard"
+  id: 1557,
+  quote: "Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
