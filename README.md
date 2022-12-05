@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1496,
-  quote: "There is not one big cosmic meaning for all, there is only the meaning we each give to our life.",
-  author: "Anais Nin"
+  id: 298,
+  quote: "I think somehow we learn who we really are and then live with that decision.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
