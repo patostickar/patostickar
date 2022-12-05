@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1639,
-  quote: "It is not in the stars to hold our destiny but in ourselves.",
-  author: "William Shakespeare"
+  id: 1496,
+  quote: "There is not one big cosmic meaning for all, there is only the meaning we each give to our life.",
+  author: "Anais Nin"
 }
 ```
 
