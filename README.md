@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1195,
-  quote: "The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.",
-  author: "Booker Washington"
+  id: 889,
+  quote: "The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be.",
+  author: "William James"
 }
 ```
 
