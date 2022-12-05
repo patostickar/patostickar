@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 560,
-  quote: "Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?",
-  author: "Confucius"
+  id: 828,
+  quote: "A failure is a man who has blundered but is not capable of cashing in on the experience.",
+  author: "Elbert Hubbard"
 }
 ```
 
