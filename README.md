@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1470,
-  quote: "The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.",
-  author: "Cecil B. DeMille"
+  id: 1165,
+  quote: "It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.",
+  author: "Dalai Lama"
 }
 ```
 
