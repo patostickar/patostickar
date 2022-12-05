@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 136,
-  quote: "Growth itself contains the germ of happiness.",
-  author: "Pearl Buck"
+  id: 284,
+  quote: "If you don't know where you are going, you will probably end up somewhere else.",
+  author: "Lawrence Peter"
 }
 ```
 
