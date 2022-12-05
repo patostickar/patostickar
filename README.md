@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 544,
-  quote: "You were not born a winner, and you were not born a loser. You are what you make yourself be.",
-  author: "Lou Holtz"
+  id: 87,
+  quote: "No one can make you feel inferior without your consent.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
