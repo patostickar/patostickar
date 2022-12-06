@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 124,
-  quote: "Life shrinks or expands in proportion to one's courage.",
-  author: "Anais Nin"
+  id: 768,
+  quote: "Formula for success: under promise and over deliver.",
+  author: "Tom Peters"
 }
 ```
 
