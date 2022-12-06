@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 889,
-  quote: "The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be.",
-  author: "William James"
+  id: 124,
+  quote: "Life shrinks or expands in proportion to one's courage.",
+  author: "Anais Nin"
 }
 ```
 
