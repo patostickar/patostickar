@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 768,
-  quote: "Formula for success: under promise and over deliver.",
-  author: "Tom Peters"
+  id: 929,
+  quote: "The greatest part of our happiness depends on our dispositions, not our circumstances.",
+  author: "Martha Washington"
 }
 ```
 
