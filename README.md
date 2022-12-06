@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1428,
-  quote: "Failure will never overtake me if my determination to succeed is strong enough.",
-  author: "Og Mandino"
+  id: 1193,
+  quote: "To change ones life, start immediately, do it flamboyantly, no exceptions.",
+  author: "William James"
 }
 ```
 
