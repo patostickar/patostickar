@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 637,
-  quote: "Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.",
-  author: "Richard Bach"
+  id: 1502,
+  quote: "A man's dreams are an index to his greatness.",
+  author: "Zadok Rabinowitz"
 }
 ```
 
