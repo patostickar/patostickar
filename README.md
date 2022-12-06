@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1387,
-  quote: "All action results from thought, so it is thoughts that matter.",
-  author: "Sai Baba"
+  id: 97,
+  quote: "Smile, breathe, and go slowly.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
