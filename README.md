@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 929,
-  quote: "The greatest part of our happiness depends on our dispositions, not our circumstances.",
-  author: "Martha Washington"
+  id: 1047,
+  quote: "Freedom is what you do with what's been done to you.",
+  author: "Jean-Paul Sartre"
 }
 ```
 
