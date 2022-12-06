@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1443,
-  quote: "When people are like each other they tend to like each other.",
-  author: "Tony Robbins"
+  id: 1428,
+  quote: "Failure will never overtake me if my determination to succeed is strong enough.",
+  author: "Og Mandino"
 }
 ```
 
