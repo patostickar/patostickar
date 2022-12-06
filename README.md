@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 788,
-  quote: "The foot feels the foot when it feels the ground.",
-  author: "Buddha"
+  id: 585,
+  quote: "You can be what you want to be. You have the power within and we will help you always.",
+  author: "Byron Pulsifer"
 }
 ```
 
