@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1502,
-  quote: "A man's dreams are an index to his greatness.",
-  author: "Zadok Rabinowitz"
+  id: 419,
+  quote: "Success means having the courage, the determination, and the will to become the person you believe you were meant to be.",
+  author: "George Sheehan"
 }
 ```
 
