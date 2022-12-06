@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1156,
-  quote: "Why worry about tomorrow, when today is all we have?",
-  author: "null"
+  id: 1170,
+  quote: "You can't choose up sides on a round world.",
+  author: "Wayne Dyer"
 }
 ```
 
