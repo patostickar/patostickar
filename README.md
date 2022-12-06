@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 24,
-  quote: "Doing nothing is better than being busy doing nothing.",
-  author: "Lao Tzu"
+  id: 637,
+  quote: "Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.",
+  author: "Richard Bach"
 }
 ```
 
