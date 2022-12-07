@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 107,
-  quote: "If you cannot be silent be brilliant and thoughtful.",
-  author: "Byron Pulsifer"
+  id: 1009,
+  quote: "What we see is mainly what we look for.",
+  author: "null"
 }
 ```
 
