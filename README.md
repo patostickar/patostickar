@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1039,
-  quote: "The place to improve the world is first in one's own heart and head and hands.",
-  author: "Robert M. Pirsig"
+  id: 157,
+  quote: "Without faith, nothing is possible. With it, nothing is impossible.",
+  author: "Mary Bethune"
 }
 ```
 
