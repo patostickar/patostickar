@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 670,
-  quote: "Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.",
-  author: "Louis Pasteur"
+  id: 417,
+  quote: "When you are content to be simply yourself and don't compare or compete, everybody will respect you.",
+  author: "Laozi"
 }
 ```
 
