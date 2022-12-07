@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1009,
-  quote: "What we see is mainly what we look for.",
-  author: "null"
+  id: 670,
+  quote: "Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.",
+  author: "Louis Pasteur"
 }
 ```
 
