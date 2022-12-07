@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1317,
-  quote: "There is nothing so useless as doing efficiently that which should not be done at all.",
-  author: "Peter Drucker"
+  id: 449,
+  quote: "Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.",
+  author: "Hannah Arendt"
 }
 ```
 
