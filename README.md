@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 974,
-  quote: "Everything has beauty, but not everyone sees it.",
-  author: "Confucius"
+  id: 575,
+  quote: "The shoe that fits one person pinches another; there is no recipe for living that suits all cases.",
+  author: "Carl Jung"
 }
 ```
 
