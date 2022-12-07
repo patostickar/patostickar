@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 157,
-  quote: "Without faith, nothing is possible. With it, nothing is impossible.",
-  author: "Mary Bethune"
+  id: 974,
+  quote: "Everything has beauty, but not everyone sees it.",
+  author: "Confucius"
 }
 ```
 
