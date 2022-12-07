@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 890,
-  quote: "If one advances confidently in the direction of his dream, and endeavours to live the life which he had imagines, he will meet with a success unexpected in common hours.",
-  author: "Henry David Thoreau"
+  id: 1322,
+  quote: "Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.",
+  author: "Aristotle"
 }
 ```
 
