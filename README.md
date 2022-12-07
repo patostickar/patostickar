@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 628,
-  quote: "Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.",
-  author: "Margaret Cousins"
+  id: 1413,
+  quote: "You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.",
+  author: "Anatole France"
 }
 ```
 
