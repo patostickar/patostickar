@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 417,
-  quote: "When you are content to be simply yourself and don't compare or compete, everybody will respect you.",
-  author: "Laozi"
+  id: 203,
+  quote: "Keep yourself to the sunshine and you cannot see the shadow.",
+  author: "Helen Keller"
 }
 ```
 
