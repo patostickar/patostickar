@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 363,
-  quote: "Ideals are an imaginative understanding of that which is desirable in that which is possible.",
-  author: "Walter Lippmann"
+  id: 958,
+  quote: "I have always thought the actions of men the best interpreters of their thoughts.",
+  author: "John Locke"
 }
 ```
 
