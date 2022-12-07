@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 161,
-  quote: "Everything you can imagine is real.",
-  author: "Pablo Picasso"
+  id: 363,
+  quote: "Ideals are an imaginative understanding of that which is desirable in that which is possible.",
+  author: "Walter Lippmann"
 }
 ```
 
