@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1470,
-  quote: "The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.",
-  author: "Cecil B. DeMille"
+  id: 1344,
+  quote: "Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.",
+  author: "Barack Obama"
 }
 ```
 
