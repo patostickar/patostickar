@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1344,
-  quote: "Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.",
-  author: "Barack Obama"
+  id: 684,
+  quote: "Men of perverse opinion do not know the excellence of what is in their hands, till some one dash it from them.",
+  author: "Sophocles"
 }
 ```
 
