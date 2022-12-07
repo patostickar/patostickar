@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1048,
-  quote: "The truth which has made us free will in the end make us glad also.",
-  author: "Felix Adler"
+  id: 628,
+  quote: "Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.",
+  author: "Margaret Cousins"
 }
 ```
 
