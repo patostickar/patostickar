@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 483,
-  quote: "Life is like a sewer. What you get out of it depends on what you put into it.",
-  author: "Tom Lehrer"
+  id: 350,
+  quote: "When your desires are strong enough you will appear to possess superhuman powers to achieve.",
+  author: "Napoleon Hill"
 }
 ```
 
