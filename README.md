@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1075,
-  quote: "You only lose what you cling to.",
-  author: "Buddha"
+  id: 483,
+  quote: "Life is like a sewer. What you get out of it depends on what you put into it.",
+  author: "Tom Lehrer"
 }
 ```
 
