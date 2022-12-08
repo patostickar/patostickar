@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 514,
-  quote: "Many people think of prosperity that concerns money only to forget that true prosperity is of the mind.",
-  author: "Byron Pulsifer"
+  id: 1486,
+  quote: "Don't settle for a relationship that won't let you be yourself.",
+  author: "Oprah Winfrey"
 }
 ```
 
