@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 502,
-  quote: "The only thing to do with good advice is to pass it on. It is never of any use to oneself.",
-  author: "Oscar Wilde"
+  id: 1138,
+  quote: "We are the leaves of one branch, the drops of one sea, the flowers of one garden.",
+  author: "Jean Lacordaire"
 }
 ```
 
