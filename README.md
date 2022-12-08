@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 338,
-  quote: "Slow down and everything you are chasing will come around and catch you.",
-  author: "John De Paola"
+  id: 1317,
+  quote: "There is nothing so useless as doing efficiently that which should not be done at all.",
+  author: "Peter Drucker"
 }
 ```
 
