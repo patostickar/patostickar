@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1447,
-  quote: "Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.",
-  author: "Oprah Winfrey"
+  id: 502,
+  quote: "The only thing to do with good advice is to pass it on. It is never of any use to oneself.",
+  author: "Oscar Wilde"
 }
 ```
 
