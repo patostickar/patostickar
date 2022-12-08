@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1337,
-  quote: "Divide each difficulty into as many parts as is feasible and necessary to resolve it.",
-  author: "Rene Descartes"
+  id: 1118,
+  quote: "Whenever something negative happens to you, there is a deep lesson concealed within it.",
+  author: "Eckhart Tolle"
 }
 ```
 
