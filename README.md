@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1561,
-  quote: "The winner ain't the one with the fastest car it's the one who refuses to lose.",
-  author: "Dale Earnhardt"
+  id: 1128,
+  quote: "Life is not measured by the breaths you take, but by its breathtaking moments.",
+  author: "Michael Vance"
 }
 ```
 
