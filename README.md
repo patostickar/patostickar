@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1486,
-  quote: "Don't settle for a relationship that won't let you be yourself.",
-  author: "Oprah Winfrey"
+  id: 811,
+  quote: "When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.",
+  author: "Joseph Campbell"
 }
 ```
 
