@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1157,
-  quote: "Speak when you are angry and you will make the best speech you will ever regret.",
-  author: "Ambrose Bierce"
+  id: 695,
+  quote: "You can't create in a vacuum. Life gives you the material and dreams can propel new beginnings.",
+  author: "Byron Pulsifer"
 }
 ```
 
