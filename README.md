@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 851,
-  quote: "The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.",
-  author: "Mortimer Adler"
+  id: 1157,
+  quote: "Speak when you are angry and you will make the best speech you will ever regret.",
+  author: "Ambrose Bierce"
 }
 ```
 
