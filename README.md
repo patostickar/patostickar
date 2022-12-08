@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 135,
-  quote: "The greatest remedy for anger is delay.",
-  author: "Seneca"
+  id: 1561,
+  quote: "The winner ain't the one with the fastest car it's the one who refuses to lose.",
+  author: "Dale Earnhardt"
 }
 ```
 
