@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 522,
-  quote: "Silences make the real conversations between friends. Not the saying but the never needing to say is what counts.",
-  author: "Margaret Runbeck"
+  id: 514,
+  quote: "Many people think of prosperity that concerns money only to forget that true prosperity is of the mind.",
+  author: "Byron Pulsifer"
 }
 ```
 
