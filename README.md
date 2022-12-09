@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1174,
-  quote: "If we could see the miracle of a single flower clearly, our whole life would change.",
-  author: "Buddha"
+  id: 1020,
+  quote: "From wonder into wonder existence opens.",
+  author: "Lao Tzu"
 }
 ```
 
