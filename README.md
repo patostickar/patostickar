@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 287,
-  quote: "Think as a wise man but communicate in the language of the people.",
-  author: "William Yeats"
+  id: 1620,
+  quote: "Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.",
+  author: "Gordon Hinckley"
 }
 ```
 
