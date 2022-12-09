@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 554,
-  quote: "A friend is someone who understands your past, believes in your future, and accepts you just the way you are.",
-  author: "null"
+  id: 342,
+  quote: "Knowledge is a process of piling up facts; wisdom lies in their simplification.",
+  author: "Martin Fischer"
 }
 ```
 
