@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 695,
-  quote: "You can't create in a vacuum. Life gives you the material and dreams can propel new beginnings.",
-  author: "Byron Pulsifer"
+  id: 300,
+  quote: "A little knowledge that acts is worth infinitely more than much knowledge that is idle.",
+  author: "Kahlil Gibran"
 }
 ```
 
