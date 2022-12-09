@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 300,
-  quote: "A little knowledge that acts is worth infinitely more than much knowledge that is idle.",
-  author: "Kahlil Gibran"
+  id: 1429,
+  quote: "Let go of your attachment to being right, and suddenly your mind is more open. You're able to benefit from the unique viewpoints of others, without being crippled by your own judgement.",
+  author: "Ralph Marston"
 }
 ```
 
