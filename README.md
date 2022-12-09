@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1096,
-  quote: "If we are not fully ourselves, truly in the present moment, we miss everything.",
-  author: "Thich Nhat Hanh"
+  id: 1174,
+  quote: "If we could see the miracle of a single flower clearly, our whole life would change.",
+  author: "Buddha"
 }
 ```
 
