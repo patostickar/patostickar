@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 716,
-  quote: "Never idealize others. They will never live up to your expectations.",
-  author: "Leo Buscaglia"
+  id: 449,
+  quote: "Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.",
+  author: "Hannah Arendt"
 }
 ```
 
