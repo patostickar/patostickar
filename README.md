@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 139,
-  quote: "Wherever you go, go with all your heart.",
-  author: "Confucius"
+  id: 848,
+  quote: "The greatest antidote to insecurity and the sense of fear is compassion it brings one back to the basis of one's inner strength",
+  author: "Dalai Lama"
 }
 ```
 
