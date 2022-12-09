@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1226,
-  quote: "It is the quality of our work which will please God, not the quantity.",
-  author: "Mahatma Gandhi"
+  id: 139,
+  quote: "Wherever you go, go with all your heart.",
+  author: "Confucius"
 }
 ```
 
