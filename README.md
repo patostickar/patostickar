@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1266,
-  quote: "Courage is not the absence of fear, but simply moving on with dignity despite that fear.",
-  author: "Pat Riley"
+  id: 44,
+  quote: "Who sows virtue reaps honour.",
+  author: "Leonardo da Vinci"
 }
 ```
 
