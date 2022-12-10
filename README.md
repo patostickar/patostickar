@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 460,
-  quote: "All our talents increase in the using, and the every faculty, both good and bad, strengthen by exercise.",
-  author: "Anne Bronte"
+  id: 1544,
+  quote: "Count your joys instead of your woes. Count your friends instead of your foes.",
+  author: "null"
 }
 ```
 
