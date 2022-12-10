@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 104,
-  quote: "Do something wonderful, people may imitate it.",
-  author: "Albert Schweitzer"
+  id: 1149,
+  quote: "It's not what happens to you, but how you react to it that matters.",
+  author: "Epictetus"
 }
 ```
 
