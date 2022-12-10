@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 679,
-  quote: "Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.",
-  author: "Franklin Roosevelt"
+  id: 1208,
+  quote: "As an organizer I start from where the world is, as it is, not as I would like it to be.",
+  author: "Saul Alinsky"
 }
 ```
 
