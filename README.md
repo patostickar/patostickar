@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1004,
-  quote: "Lose an hour in the morning, and you will spend all day looking for it.",
-  author: "Richard Whately"
+  id: 1320,
+  quote: "As we are liberated from our own fear, our presence automatically liberates others.",
+  author: "Nelson Mandela"
 }
 ```
 
