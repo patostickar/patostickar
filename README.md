@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1233,
-  quote: "If you kick a stone in anger, you'll hurt your own foot.",
-  author: "Korean proverb"
+  id: 833,
+  quote: "We have two ears and one mouth so that we can listen twice as much as we speak.",
+  author: "Epictetus"
 }
 ```
 
