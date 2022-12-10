@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 300,
-  quote: "A little knowledge that acts is worth infinitely more than much knowledge that is idle.",
-  author: "Kahlil Gibran"
+  id: 1049,
+  quote: "He who has imagination without learning has wings but no feet.",
+  author: "Joseph Joubert"
 }
 ```
 
