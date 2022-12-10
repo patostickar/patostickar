@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 36,
-  quote: "From small beginnings come great things.",
-  author: "null"
+  id: 1004,
+  quote: "Lose an hour in the morning, and you will spend all day looking for it.",
+  author: "Richard Whately"
 }
 ```
 
