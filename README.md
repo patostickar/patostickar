@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1595,
-  quote: "I have never been hurt by anything I didn't say.",
-  author: "Calvin Coolidge"
+  id: 1563,
+  quote: "No one has a finer command of language than the person who keeps his mouth shut.",
+  author: "Sam Rayburn"
 }
 ```
 
