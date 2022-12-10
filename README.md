@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 538,
-  quote: "Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.",
-  author: "Gloria Steinem"
+  id: 880,
+  quote: "When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points.",
+  author: "Confucius"
 }
 ```
 
