@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1164,
-  quote: "Nothing is softer or more flexible than water, yet nothing can resist it.",
-  author: "Lao Tzu"
+  id: 36,
+  quote: "From small beginnings come great things.",
+  author: "null"
 }
 ```
 
