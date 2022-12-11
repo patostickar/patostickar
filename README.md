@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1532,
-  quote: "Never mistake motion for action.",
-  author: "Ernest Hemingway"
+  id: 169,
+  quote: "Someone is special only if you tell them.",
+  author: "Byron Pulsifer"
 }
 ```
 
