@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 301,
-  quote: "If you get up one more time than you fall, you will make it through.",
-  author: "null"
+  id: 531,
+  quote: "I am a man of fixed and unbending principles, the first of which is to be flexible at all times.",
+  author: "Everett Dirksen"
 }
 ```
 
