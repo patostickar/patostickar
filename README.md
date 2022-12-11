@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 605,
-  quote: "Nothing is predestined: The obstacles of your past can become the gateways that lead to new beginnings.",
-  author: "Ralph Blum"
+  id: 348,
+  quote: "If you correct your mind, the rest of your life will fall into place.",
+  author: "Lao Tzu"
 }
 ```
 
