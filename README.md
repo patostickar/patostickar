@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 722,
-  quote: "All is flux; nothing stays still.",
-  author: "Heraclitus"
+  id: 959,
+  quote: "He who obtains has little. He who scatters has much.",
+  author: "Lao Tzu"
 }
 ```
 
