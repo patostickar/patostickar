@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 959,
-  quote: "He who obtains has little. He who scatters has much.",
-  author: "Lao Tzu"
+  id: 784,
+  quote: "As long as your going to be thinking anyway, think big.",
+  author: "Donald Trump"
 }
 ```
 
