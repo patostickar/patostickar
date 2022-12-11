@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 977,
-  quote: "Only when we are no longer afraid do we begin to live.",
-  author: "Dorothy Thompson"
+  id: 3,
+  quote: "Difficulties increase the nearer we get to the goal.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
