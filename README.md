@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 251,
-  quote: "Time you enjoy wasting, was not wasted.",
-  author: "John Lennon"
+  id: 179,
+  quote: "Happiness is found in doing, not merely possessing.",
+  author: "Napoleon Hill"
 }
 ```
 
