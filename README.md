@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1184,
-  quote: "If you aren't going all the way, why go at all?",
-  author: "Joe Namath"
+  id: 251,
+  quote: "Time you enjoy wasting, was not wasted.",
+  author: "John Lennon"
 }
 ```
 
