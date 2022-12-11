@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1613,
-  quote: "The only way to have a friend is to be one.",
-  author: "Ralph Emerson"
+  id: 644,
+  quote: "The aim of life is self-development. To realize ones nature perfectly that is what each of us is here for.",
+  author: "Oscar Wilde"
 }
 ```
 
