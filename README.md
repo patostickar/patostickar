@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 900,
-  quote: "Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.",
-  author: "Epictetus"
+  id: 1236,
+  quote: "Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.",
+  author: "Douglas Adams"
 }
 ```
 
