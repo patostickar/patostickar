@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 3,
-  quote: "Difficulties increase the nearer we get to the goal.",
-  author: "Johann Wolfgang von Goethe"
+  id: 605,
+  quote: "Nothing is predestined: The obstacles of your past can become the gateways that lead to new beginnings.",
+  author: "Ralph Blum"
 }
 ```
 
