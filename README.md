@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 169,
-  quote: "Someone is special only if you tell them.",
-  author: "Byron Pulsifer"
+  id: 1613,
+  quote: "The only way to have a friend is to be one.",
+  author: "Ralph Emerson"
 }
 ```
 
