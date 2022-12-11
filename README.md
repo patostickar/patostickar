@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 644,
-  quote: "The aim of life is self-development. To realize ones nature perfectly that is what each of us is here for.",
-  author: "Oscar Wilde"
+  id: 301,
+  quote: "If you get up one more time than you fall, you will make it through.",
+  author: "null"
 }
 ```
 
