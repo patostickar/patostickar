@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1217,
-  quote: "Beauty is not in the face; beauty is a light in the heart.",
-  author: "Kahlil Gibran"
+  id: 1480,
+  quote: "Almost everything comes from nothing.",
+  author: "Henri Amiel"
 }
 ```
 
