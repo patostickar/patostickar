@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1480,
-  quote: "Almost everything comes from nothing.",
-  author: "Henri Amiel"
+  id: 1345,
+  quote: "Compassion and happiness are not a sign of weakness but a sign of strength.",
+  author: "Dalai Lama"
 }
 ```
 
