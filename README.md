@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1342,
-  quote: "If I know what love is, it is because of you.",
-  author: "Hermann Hesse"
+  id: 1600,
+  quote: "Example has more followers than reason.",
+  author: "Christian Bovee"
 }
 ```
 
