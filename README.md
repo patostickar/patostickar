@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 793,
-  quote: "Self-trust is the first secret of success.",
-  author: "Ralph Emerson"
+  id: 1342,
+  quote: "If I know what love is, it is because of you.",
+  author: "Hermann Hesse"
 }
 ```
 
