@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 192,
-  quote: "Life is just a chance to grow a soul.",
-  author: "A. Powell Davies"
+  id: 1084,
+  quote: "The path to success is to take massive, determined action.",
+  author: "Anthony Robbins"
 }
 ```
 
