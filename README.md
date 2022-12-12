@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1347,
-  quote: "Be here now. Be someplace else later. Is that so complicated?",
-  author: "David Bader"
+  id: 462,
+  quote: "The fox has many tricks. The hedgehog has but one. But that is the best of all.",
+  author: "Desiderius Erasmus"
 }
 ```
 
