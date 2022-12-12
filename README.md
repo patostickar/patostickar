@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 179,
-  quote: "Happiness is found in doing, not merely possessing.",
-  author: "Napoleon Hill"
+  id: 80,
+  quote: "Anticipate the difficult by managing the easy.",
+  author: "Lao Tzu"
 }
 ```
 
