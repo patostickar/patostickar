@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 729,
-  quote: "You can't trust without risk but neither can you live in a cocoon.",
-  author: "Byron Pulsifer"
+  id: 149,
+  quote: "If the shoe doesn't fit, must we change the foot?",
+  author: "Gloria Steinem"
 }
 ```
 
