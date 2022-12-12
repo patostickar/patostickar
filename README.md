@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1084,
-  quote: "The path to success is to take massive, determined action.",
-  author: "Anthony Robbins"
+  id: 429,
+  quote: "Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.",
+  author: "Ralph Emerson"
 }
 ```
 
