@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 462,
-  quote: "The fox has many tricks. The hedgehog has but one. But that is the best of all.",
-  author: "Desiderius Erasmus"
+  id: 192,
+  quote: "Life is just a chance to grow a soul.",
+  author: "A. Powell Davies"
 }
 ```
 
