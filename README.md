@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 149,
-  quote: "If the shoe doesn't fit, must we change the foot?",
-  author: "Gloria Steinem"
+  id: 962,
+  quote: "Peace cannot be kept by force. It can only be achieved by understanding.",
+  author: "Albert Einstein"
 }
 ```
 
