@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 205,
-  quote: "Inspiration exists, but it has to find us working.",
-  author: "Pablo Picasso"
+  id: 1347,
+  quote: "Be here now. Be someplace else later. Is that so complicated?",
+  author: "David Bader"
 }
 ```
 
