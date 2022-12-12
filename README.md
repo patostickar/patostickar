@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 429,
-  quote: "Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.",
-  author: "Ralph Emerson"
+  id: 205,
+  quote: "Inspiration exists, but it has to find us working.",
+  author: "Pablo Picasso"
 }
 ```
 
