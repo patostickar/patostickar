@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 350,
-  quote: "When your desires are strong enough you will appear to possess superhuman powers to achieve.",
-  author: "Napoleon Hill"
+  id: 1217,
+  quote: "Beauty is not in the face; beauty is a light in the heart.",
+  author: "Kahlil Gibran"
 }
 ```
 
