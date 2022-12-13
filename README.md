@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 399,
-  quote: "You are important enough to ask and you are blessed enough to receive back.",
-  author: "Wayne Dyer"
+  id: 949,
+  quote: "Truth isn't all about what actually happens but more about how what has happened is interpreted.",
+  author: "Byron Pulsifer"
 }
 ```
 
