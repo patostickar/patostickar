@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 208,
-  quote: "A short saying oft contains much wisdom.",
-  author: "Sophocles"
+  id: 45,
+  quote: "Be kind whenever possible. It is always possible.",
+  author: "Dalai Lama"
 }
 ```
 
