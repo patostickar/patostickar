@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1389,
-  quote: "I love my past. I love my present. I'm not ashamed of what Ive had, and I'm not sad because I have it no longer.",
-  author: "Colette"
+  id: 559,
+  quote: "We cannot change our memories, but we can change their meaning and the power they have over us.",
+  author: "David Seamans"
 }
 ```
 
