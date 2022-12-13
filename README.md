@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 559,
-  quote: "We cannot change our memories, but we can change their meaning and the power they have over us.",
-  author: "David Seamans"
+  id: 773,
+  quote: "Man cannot discover new oceans unless he has the courage to lose sight of the shore.",
+  author: "Andre Gide"
 }
 ```
 
