@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 239,
-  quote: "Don't cry because it's over. Smile because it happened.",
-  author: "Dr. Seuss"
+  id: 208,
+  quote: "A short saying oft contains much wisdom.",
+  author: "Sophocles"
 }
 ```
 
