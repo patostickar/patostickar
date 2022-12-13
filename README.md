@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 945,
-  quote: "When fate hands us a lemon, lets try to make lemonade.",
-  author: "Dale Carnegie"
+  id: 1121,
+  quote: "Chaos is inherent in all compounded things. Strive on with diligence.",
+  author: "Buddha"
 }
 ```
 
