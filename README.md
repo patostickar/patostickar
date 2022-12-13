@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1066,
-  quote: "Who we are never changes. Who we think we are does.",
-  author: "Mary Almanac"
+  id: 497,
+  quote: "Snowflakes are one of natures most fragile things, but just look what they can do when they stick together.",
+  author: "Vista Kelly"
 }
 ```
 
