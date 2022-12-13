@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 475,
-  quote: "Money was never a big motivation for me, except as a way to keep score. The real excitement is playing the game.",
-  author: "Donald Trump"
+  id: 555,
+  quote: "It is one of the blessings of old friends that you can afford to be stupid with them.",
+  author: "Ralph Emerson"
 }
 ```
 
