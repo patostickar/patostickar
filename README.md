@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 45,
-  quote: "Be kind whenever possible. It is always possible.",
-  author: "Dalai Lama"
+  id: 399,
+  quote: "You are important enough to ask and you are blessed enough to receive back.",
+  author: "Wayne Dyer"
 }
 ```
 
