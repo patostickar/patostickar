@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 773,
-  quote: "Man cannot discover new oceans unless he has the courage to lose sight of the shore.",
-  author: "Andre Gide"
+  id: 1159,
+  quote: "The exercise of an extraordinary gift is the supremest pleasure in life.",
+  author: "Mark Twain"
 }
 ```
 
