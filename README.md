@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 757,
-  quote: "Know, first, who you are, and then adorn yourself accordingly.",
-  author: "Epictetus"
+  id: 735,
+  quote: "Those who will play with cats must expect to be scratched.",
+  author: "Cervantes"
 }
 ```
 
