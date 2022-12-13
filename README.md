@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1121,
-  quote: "Chaos is inherent in all compounded things. Strive on with diligence.",
-  author: "Buddha"
+  id: 757,
+  quote: "Know, first, who you are, and then adorn yourself accordingly.",
+  author: "Epictetus"
 }
 ```
 
