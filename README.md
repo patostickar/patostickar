@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 735,
-  quote: "Those who will play with cats must expect to be scratched.",
-  author: "Cervantes"
+  id: 1625,
+  quote: "The truest greatness lies in being kind, the truest wisdom in a happy mind.",
+  author: "Ella Wilcox"
 }
 ```
 
