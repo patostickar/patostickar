@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 395,
-  quote: "Quality is never an accident; it is always the result of intelligent effort.",
-  author: "John Ruskin"
+  id: 1634,
+  quote: "Into each life rain must fall but rain can be the giver of life and it is all in your attitude that makes rain produce sunshine.",
+  author: "Byron Pulsifer"
 }
 ```
 
