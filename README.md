@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1605,
-  quote: "Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong.",
-  author: "Richard Needham"
+  id: 1452,
+  quote: "Giving up doesn't always mean you are weak; sometimes it means that you are strong enough to let go.",
+  author: "null"
 }
 ```
 
