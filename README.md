@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1527,
-  quote: "Blessed is the man who expects nothing, for he shall never be disappointed.",
-  author: "Alexander Pope"
+  id: 1524,
+  quote: "I cannot say whether things will get better if we change; what I can say is they must change if they are to get better.",
+  author: "Georg Lichtenberg"
 }
 ```
 
