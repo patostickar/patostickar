@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 461,
-  quote: "In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.",
-  author: "Richard Bach"
+  id: 645,
+  quote: "To accomplish great things, we must not only act, but also dream; not only plan, but also believe.",
+  author: "Anatole France"
 }
 ```
 
