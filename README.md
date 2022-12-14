@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 847,
-  quote: "Happiness is when what you think, what you say, and what you do are in harmony.",
-  author: "Mohandas Gandhi"
+  id: 1038,
+  quote: "Each day can be one of triumph if you keep up your interests.",
+  author: "George Matthew Adams"
 }
 ```
 
