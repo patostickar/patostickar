@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 592,
-  quote: "To live a pure unselfish life, one must count nothing as ones own in the midst of abundance.",
-  author: "Buddha"
+  id: 472,
+  quote: "Patience is a virtue but you will never ever accomplish anything if you don't exercise action over patience.",
+  author: "Byron Pulsifer"
 }
 ```
 
