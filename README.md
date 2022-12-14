@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 76,
-  quote: "Great talent finds happiness in execution.",
-  author: "Johann Wolfgang von Goethe"
+  id: 1527,
+  quote: "Blessed is the man who expects nothing, for he shall never be disappointed.",
+  author: "Alexander Pope"
 }
 ```
 
