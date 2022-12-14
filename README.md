@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1066,
-  quote: "Who we are never changes. Who we think we are does.",
-  author: "Mary Almanac"
+  id: 1364,
+  quote: "Gratitude is the fairest blossom which springs from the soul.",
+  author: "Henry Beecher"
 }
 ```
 
