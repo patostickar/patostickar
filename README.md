@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 313,
-  quote: "Short words are best and the old words when short are best of all.",
-  author: "Winston Churchill"
+  id: 442,
+  quote: "By nature man hates change; seldom will he quit his old home till it has actually fallen around his ears.",
+  author: "Thomas Carlyle"
 }
 ```
 
