@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1381,
-  quote: "Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.",
-  author: "Dhammapada"
+  id: 347,
+  quote: "In the end we retain from our studies only that which we practically apply.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
