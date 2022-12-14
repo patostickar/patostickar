@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1452,
-  quote: "Giving up doesn't always mean you are weak; sometimes it means that you are strong enough to let go.",
-  author: "null"
+  id: 847,
+  quote: "Happiness is when what you think, what you say, and what you do are in harmony.",
+  author: "Mohandas Gandhi"
 }
 ```
 
