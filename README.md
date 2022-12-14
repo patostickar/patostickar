@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 645,
-  quote: "To accomplish great things, we must not only act, but also dream; not only plan, but also believe.",
-  author: "Anatole France"
+  id: 1066,
+  quote: "Who we are never changes. Who we think we are does.",
+  author: "Mary Almanac"
 }
 ```
 
