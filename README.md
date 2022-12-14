@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1617,
-  quote: "There is never enough time to do everything, but there is always enough time to do the most important thing.",
-  author: "Brian Tracy"
+  id: 1382,
+  quote: "Things that were hard to bear are sweet to remember.",
+  author: "Seneca"
 }
 ```
 
