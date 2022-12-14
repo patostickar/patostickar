@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1364,
-  quote: "Gratitude is the fairest blossom which springs from the soul.",
-  author: "Henry Beecher"
+  id: 1532,
+  quote: "Never mistake motion for action.",
+  author: "Ernest Hemingway"
 }
 ```
 
