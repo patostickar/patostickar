@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 347,
-  quote: "In the end we retain from our studies only that which we practically apply.",
-  author: "Johann Wolfgang von Goethe"
+  id: 1617,
+  quote: "There is never enough time to do everything, but there is always enough time to do the most important thing.",
+  author: "Brian Tracy"
 }
 ```
 
