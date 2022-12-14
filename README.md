@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1532,
-  quote: "Never mistake motion for action.",
-  author: "Ernest Hemingway"
+  id: 313,
+  quote: "Short words are best and the old words when short are best of all.",
+  author: "Winston Churchill"
 }
 ```
 
