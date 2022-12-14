@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 472,
-  quote: "Patience is a virtue but you will never ever accomplish anything if you don't exercise action over patience.",
-  author: "Byron Pulsifer"
+  id: 461,
+  quote: "In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.",
+  author: "Richard Bach"
 }
 ```
 
