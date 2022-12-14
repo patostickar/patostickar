@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1038,
-  quote: "Each day can be one of triumph if you keep up your interests.",
-  author: "George Matthew Adams"
+  id: 668,
+  quote: "Change is the law of life. And those who look only to the past or present are certain to miss the future.",
+  author: "John Kennedy"
 }
 ```
 
