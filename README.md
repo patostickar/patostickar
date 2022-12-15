@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1586,
-  quote: "When you judge another, you do not define them, you define yourself.",
-  author: "Wayne Dyer"
+  id: 1439,
+  quote: "The deepest craving of human nature is the need to be appreciated.",
+  author: "William James"
 }
 ```
 
