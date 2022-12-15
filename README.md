@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 239,
-  quote: "Don't cry because it's over. Smile because it happened.",
-  author: "Dr. Seuss"
+  id: 883,
+  quote: "You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.",
+  author: "John Lennon"
 }
 ```
 
