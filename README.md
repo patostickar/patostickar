@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 705,
-  quote: "An obstacle may be either a stepping stone or a stumbling block.",
-  author: "null"
+  id: 1621,
+  quote: "There surely is in human nature an inherent propensity to extract all the good out of all the evil.",
+  author: "Benjamin Haydon"
 }
 ```
 
