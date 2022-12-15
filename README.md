@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 743,
-  quote: "God has given you one face, and you make yourself another.",
-  author: "William Shakespeare"
+  id: 239,
+  quote: "Don't cry because it's over. Smile because it happened.",
+  author: "Dr. Seuss"
 }
 ```
 
