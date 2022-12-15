@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 209,
-  quote: "Difficulties are things that show a person what they are.",
-  author: "Epictetus"
+  id: 210,
+  quote: "When you doubt your power, you give power to your doubt.",
+  author: "Honore de Balzac"
 }
 ```
 
