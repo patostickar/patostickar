@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 152,
-  quote: "Life isn't about finding yourself. Life is about creating yourself.",
-  author: "Bernard Shaw"
+  id: 1586,
+  quote: "When you judge another, you do not define them, you define yourself.",
+  author: "Wayne Dyer"
 }
 ```
 
