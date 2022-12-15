@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 328,
-  quote: "How we spend our days is, of course, how we spend our lives.",
-  author: "Annie Dillard"
+  id: 1202,
+  quote: "Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.",
+  author: "Buddha"
 }
 ```
 
