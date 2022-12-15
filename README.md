@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1202,
-  quote: "Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.",
-  author: "Buddha"
+  id: 1068,
+  quote: "An invasion of armies can be resisted, but not an idea whose time has come.",
+  author: "Victor Hugo"
 }
 ```
 
