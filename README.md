@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 883,
-  quote: "You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.",
-  author: "John Lennon"
+  id: 1106,
+  quote: "You have to think anyway, so why not think big?",
+  author: "Donald Trump"
 }
 ```
 
