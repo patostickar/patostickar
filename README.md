@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1550,
-  quote: "I have no special talent. I am only passionately curious.",
-  author: "Albert Einstein"
+  id: 705,
+  quote: "An obstacle may be either a stepping stone or a stumbling block.",
+  author: "null"
 }
 ```
 
