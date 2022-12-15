@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 630,
-  quote: "This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.",
-  author: "Thomas Carlyle"
+  id: 152,
+  quote: "Life isn't about finding yourself. Life is about creating yourself.",
+  author: "Bernard Shaw"
 }
 ```
 
