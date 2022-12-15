@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1106,
-  quote: "You have to think anyway, so why not think big?",
-  author: "Donald Trump"
+  id: 678,
+  quote: "With realization of ones own potential and self-confidence in ones ability, one can build a better world.",
+  author: "Dalai Lama"
 }
 ```
 
