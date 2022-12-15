@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 210,
-  quote: "When you doubt your power, you give power to your doubt.",
-  author: "Honore de Balzac"
+  id: 630,
+  quote: "This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.",
+  author: "Thomas Carlyle"
 }
 ```
 
