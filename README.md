@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 20,
-  quote: "Trouble is only opportunity in work clothes.",
-  author: "Henry J. Kaiser"
+  id: 167,
+  quote: "Never ignore a gut feeling, but never believe that it's enough.",
+  author: "Robert Heller"
 }
 ```
 
