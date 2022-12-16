@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 122,
-  quote: "If you can dream it, you can do it.",
-  author: "Walt Disney"
+  id: 389,
+  quote: "It does not matter how slowly you go as long as you do not stop.",
+  author: "Confucius"
 }
 ```
 
