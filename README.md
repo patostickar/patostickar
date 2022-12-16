@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 111,
-  quote: "All our knowledge has its origins in our perceptions.",
-  author: "Leonardo da Vinci"
+  id: 122,
+  quote: "If you can dream it, you can do it.",
+  author: "Walt Disney"
 }
 ```
 
