@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 263,
-  quote: "Absence makes the heart grow fonder.",
-  author: "Haynes Bayly"
+  id: 111,
+  quote: "All our knowledge has its origins in our perceptions.",
+  author: "Leonardo da Vinci"
 }
 ```
 
