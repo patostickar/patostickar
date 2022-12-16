@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1493,
-  quote: "We never live; we are always in the expectation of living.",
-  author: "Voltaire"
+  id: 1071,
+  quote: "People may doubt what you say, but they will believe what you do.",
+  author: "Lewis Cass"
 }
 ```
 
