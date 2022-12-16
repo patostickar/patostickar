@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1456,
-  quote: "Truth is generally the best vindication against slander.",
-  author: "Abraham Lincoln"
+  id: 1493,
+  quote: "We never live; we are always in the expectation of living.",
+  author: "Voltaire"
 }
 ```
 
