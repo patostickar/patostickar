@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 412,
-  quote: "There are things so deep and complex that only intuition can reach it in our stage of development as human beings.",
-  author: "John Astin"
+  id: 275,
+  quote: "Each misfortune you encounter will carry in it the seed of tomorrows good luck.",
+  author: "Og Mandino"
 }
 ```
 
