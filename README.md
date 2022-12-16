@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1113,
-  quote: "Don't frown because you never know who is falling in love with your smile.",
-  author: "Sinvyest Tan"
+  id: 533,
+  quote: "The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
+  author: "Henry Miller"
 }
 ```
 
