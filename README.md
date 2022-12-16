@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 389,
-  quote: "It does not matter how slowly you go as long as you do not stop.",
-  author: "Confucius"
+  id: 1432,
+  quote: "Let yourself be silently drawn by the stronger pull of what you really love.",
+  author: "Rumi"
 }
 ```
 
