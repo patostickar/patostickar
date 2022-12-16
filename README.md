@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 312,
-  quote: "What you do not want done to yourself, do not do to others.",
-  author: "Confucius"
+  id: 1038,
+  quote: "Each day can be one of triumph if you keep up your interests.",
+  author: "George Matthew Adams"
 }
 ```
 
