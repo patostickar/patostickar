@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1071,
-  quote: "People may doubt what you say, but they will believe what you do.",
-  author: "Lewis Cass"
+  id: 1233,
+  quote: "If you kick a stone in anger, you'll hurt your own foot.",
+  author: "Korean proverb"
 }
 ```
 
