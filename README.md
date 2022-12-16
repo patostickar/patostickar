@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1492,
-  quote: "Love vanquishes time. To lovers, a moment can be eternity, eternity can be the tick of a clock.",
-  author: "Mary Parrish"
+  id: 412,
+  quote: "There are things so deep and complex that only intuition can reach it in our stage of development as human beings.",
+  author: "John Astin"
 }
 ```
 
