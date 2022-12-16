@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 533,
-  quote: "The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
-  author: "Henry Miller"
+  id: 557,
+  quote: "Give me six hours to chop down a tree and I will spend the first four sharpening the axe.",
+  author: "Abraham Lincoln"
 }
 ```
 
