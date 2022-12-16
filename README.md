@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1233,
-  quote: "If you kick a stone in anger, you'll hurt your own foot.",
-  author: "Korean proverb"
+  id: 1113,
+  quote: "Don't frown because you never know who is falling in love with your smile.",
+  author: "Sinvyest Tan"
 }
 ```
 
