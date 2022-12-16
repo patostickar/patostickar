@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 490,
-  quote: "Everything that happens happens as it should, and if you observe carefully, you will find this to be so.",
-  author: "Marcus Aurelius"
+  id: 312,
+  quote: "What you do not want done to yourself, do not do to others.",
+  author: "Confucius"
 }
 ```
 
