@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 45,
-  quote: "Be kind whenever possible. It is always possible.",
-  author: "Dalai Lama"
+  id: 401,
+  quote: "If you want your life to be more rewarding, you have to change the way you think.",
+  author: "Oprah Winfrey"
 }
 ```
 
