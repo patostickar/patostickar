@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 401,
-  quote: "If you want your life to be more rewarding, you have to change the way you think.",
-  author: "Oprah Winfrey"
+  id: 263,
+  quote: "Absence makes the heart grow fonder.",
+  author: "Haynes Bayly"
 }
 ```
 
