@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 529,
-  quote: "To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.",
-  author: "Buddha"
+  id: 1203,
+  quote: "When there is no enemy within, the enemies outside cannot hurt you.",
+  author: "African proverb"
 }
 ```
 
