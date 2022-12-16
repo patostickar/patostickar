@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 557,
-  quote: "Give me six hours to chop down a tree and I will spend the first four sharpening the axe.",
-  author: "Abraham Lincoln"
+  id: 490,
+  quote: "Everything that happens happens as it should, and if you observe carefully, you will find this to be so.",
+  author: "Marcus Aurelius"
 }
 ```
 
