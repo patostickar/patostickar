@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1297,
-  quote: "Knowledge rests not upon truth alone, but upon error also.",
-  author: "Carl Jung"
+  id: 1374,
+  quote: "Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.",
+  author: "Theodore Rubin"
 }
 ```
 
