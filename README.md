@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1149,
-  quote: "It's not what happens to you, but how you react to it that matters.",
-  author: "Epictetus"
+  id: 370,
+  quote: "Before you put on a frown, make absolutely sure there are no smiles available.",
+  author: "Jim Beggs"
 }
 ```
 
