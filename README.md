@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1073,
-  quote: "It's important to know that words don't move mountains. Work, exacting work moves mountains.",
-  author: "Danilo Dolci"
+  id: 971,
+  quote: "Go put your creed into the deed. Nor speak with double tongue.",
+  author: "Ralph Emerson"
 }
 ```
 
