@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 245,
-  quote: "An ant on the move does more than a dozing ox",
-  author: "Lao Tzu"
+  id: 958,
+  quote: "I have always thought the actions of men the best interpreters of their thoughts.",
+  author: "John Locke"
 }
 ```
 
