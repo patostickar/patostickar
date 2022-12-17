@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1256,
-  quote: "Peace begins with a smile.",
-  author: "Mother Teresa"
+  id: 1106,
+  quote: "You have to think anyway, so why not think big?",
+  author: "Donald Trump"
 }
 ```
 
