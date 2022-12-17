@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1374,
-  quote: "Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.",
-  author: "Theodore Rubin"
+  id: 1149,
+  quote: "It's not what happens to you, but how you react to it that matters.",
+  author: "Epictetus"
 }
 ```
 
