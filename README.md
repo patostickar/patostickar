@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 971,
-  quote: "Go put your creed into the deed. Nor speak with double tongue.",
-  author: "Ralph Emerson"
+  id: 1299,
+  quote: "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
+  author: "Victoria Holt"
 }
 ```
 
