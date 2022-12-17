@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1258,
-  quote: "Turn your face toward the sun and the shadows will fall behind you.",
-  author: "Maori proverb"
+  id: 624,
+  quote: "Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.",
+  author: "Robert Graves"
 }
 ```
 
