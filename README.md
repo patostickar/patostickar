@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 640,
-  quote: "If you love someone, set them free. If they come back they're yours; if they don't they never were.",
-  author: "Richard Bach"
+  id: 887,
+  quote: "You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.",
+  author: "Caroline Myss"
 }
 ```
 
