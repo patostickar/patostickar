@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1275,
-  quote: "Logic will get you from A to B. Imagination will take you everywhere.",
-  author: "Albert Einstein"
+  id: 1073,
+  quote: "It's important to know that words don't move mountains. Work, exacting work moves mountains.",
+  author: "Danilo Dolci"
 }
 ```
 
