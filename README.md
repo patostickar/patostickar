@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1299,
-  quote: "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
-  author: "Victoria Holt"
+  id: 657,
+  quote: "Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.",
+  author: "Blaise Pascal"
 }
 ```
 
