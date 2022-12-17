@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 887,
-  quote: "You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.",
-  author: "Caroline Myss"
+  id: 1228,
+  quote: "First say to yourself what you would be; and then do what you have to do.",
+  author: "Epictetus"
 }
 ```
 
