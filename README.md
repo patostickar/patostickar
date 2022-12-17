@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 247,
-  quote: "A good decision is based on knowledge and not on numbers.",
-  author: "Plato"
+  id: 1297,
+  quote: "Knowledge rests not upon truth alone, but upon error also.",
+  author: "Carl Jung"
 }
 ```
 
