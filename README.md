@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 370,
-  quote: "Before you put on a frown, make absolutely sure there are no smiles available.",
-  author: "Jim Beggs"
+  id: 245,
+  quote: "An ant on the move does more than a dozing ox",
+  author: "Lao Tzu"
 }
 ```
 
