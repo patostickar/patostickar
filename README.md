@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 851,
-  quote: "The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.",
-  author: "Mortimer Adler"
+  id: 123,
+  quote: "It is better to travel well than to arrive.",
+  author: "Buddha"
 }
 ```
 
