@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 744,
-  quote: "To be wronged is nothing unless you continue to remember it.",
-  author: "Confucius"
+  id: 1311,
+  quote: "If you want to study yourself look into the hearts of other people. If you want to study other people look into your own heart.",
+  author: "Friedrich von Schiller"
 }
 ```
 
