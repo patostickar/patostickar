@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 547,
-  quote: "To be what we are, and to become what we are capable of becoming, is the only end of life.",
-  author: "Robert Stevenson"
+  id: 583,
+  quote: "There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.",
+  author: "Denis Waitley"
 }
 ```
 
