@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1263,
-  quote: "Never say there is nothing beautiful in the world any more. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.",
-  author: "Albert Schweitzer"
+  id: 174,
+  quote: "He who talks more is sooner exhausted.",
+  author: "Lao Tzu"
 }
 ```
 
