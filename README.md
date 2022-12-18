@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1086,
-  quote: "He who has health has hope, and he who has hope has everything.",
-  author: "null"
+  id: 1443,
+  quote: "When people are like each other they tend to like each other.",
+  author: "Tony Robbins"
 }
 ```
 
