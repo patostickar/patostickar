@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 981,
-  quote: "A man is not where he lives but where he loves.",
-  author: "null"
+  id: 1029,
+  quote: "Action is the foundational key to all success.",
+  author: "Pablo Picasso"
 }
 ```
 
