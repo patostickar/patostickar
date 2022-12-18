@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 174,
-  quote: "He who talks more is sooner exhausted.",
-  author: "Lao Tzu"
+  id: 744,
+  quote: "To be wronged is nothing unless you continue to remember it.",
+  author: "Confucius"
 }
 ```
 
