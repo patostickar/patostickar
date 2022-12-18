@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 583,
-  quote: "There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.",
-  author: "Denis Waitley"
+  id: 861,
+  quote: "If you have no respect for your own values how can you be worthy of respect from others.",
+  author: "Byron Pulsifer"
 }
 ```
 
