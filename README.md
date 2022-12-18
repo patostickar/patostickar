@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 20,
-  quote: "Trouble is only opportunity in work clothes.",
-  author: "Henry J. Kaiser"
+  id: 3,
+  quote: "Difficulties increase the nearer we get to the goal.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
