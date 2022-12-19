@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1562,
-  quote: "Spirituality can be severed from both vicious sectarianism and thoughtless banalities. Spirituality, I have come to see, is nothing less than the thoughtful love of life.",
-  author: "Robert C. Solomon"
+  id: 146,
+  quote: "Experience is simply the name we give our mistakes.",
+  author: "Oscar Wilde"
 }
 ```
 
