@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1015,
-  quote: "Don't talk about what you have done or what you are going to do.",
-  author: "Thomas Jefferson"
+  id: 438,
+  quote: "Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more",
+  author: "Anthony Robbins"
 }
 ```
 
