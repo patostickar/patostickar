@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1137,
-  quote: "My mama always said: life's like a box of chocolate you never know what you gonna get.",
-  author: "Forrest Gump"
+  id: 727,
+  quote: "All achievements, all earned riches, have their beginning in an idea.",
+  author: "Napoleon Hill"
 }
 ```
 
