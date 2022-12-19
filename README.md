@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 146,
-  quote: "Experience is simply the name we give our mistakes.",
-  author: "Oscar Wilde"
+  id: 362,
+  quote: "Love and compassion open our own inner life, reducing stress, distrust and loneliness.",
+  author: "Dalai Lama"
 }
 ```
 
