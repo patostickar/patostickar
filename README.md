@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 264,
-  quote: "Imagination is the highest kite one can fly.",
-  author: "Lauren Bacall"
+  id: 1015,
+  quote: "Don't talk about what you have done or what you are going to do.",
+  author: "Thomas Jefferson"
 }
 ```
 
