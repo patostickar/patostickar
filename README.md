@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1062,
-  quote: "Don't let today's disappointments cast a shadow on tomorrow's dreams.",
-  author: "null"
+  id: 1065,
+  quote: "As we risk ourselves, we grow. Each new experience is a risk.",
+  author: "Fran Watson"
 }
 ```
 
