@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 399,
-  quote: "You are important enough to ask and you are blessed enough to receive back.",
-  author: "Wayne Dyer"
+  id: 1551,
+  quote: "I endeavour to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.",
+  author: "Elizabeth Montagu"
 }
 ```
 
