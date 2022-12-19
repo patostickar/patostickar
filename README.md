@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1567,
-  quote: "If you have knowledge, let others light their candles in it.",
-  author: "Margaret Fuller"
+  id: 1516,
+  quote: "There are no limitations to the mind except those we acknowledge.",
+  author: "Napoleon Hill"
 }
 ```
 
