@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1435,
-  quote: "Your ability to learn faster than your competition is your only sustainable competitive advantage.",
-  author: "Arie de Gues"
+  id: 1591,
+  quote: "The future is an opaque mirror. Anyone who tries to look into it sees nothing but the dim outlines of an old and worried face.",
+  author: "Jim Bishop"
 }
 ```
 
