@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 534,
-  quote: "At the center of your being you have the answer; you know who you are and you know what you want.",
-  author: "Lao Tzu"
+  id: 1093,
+  quote: "I never worry about action, but only inaction.",
+  author: "Winston Churchill"
 }
 ```
 
