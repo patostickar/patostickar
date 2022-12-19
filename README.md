@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1065,
-  quote: "As we risk ourselves, we grow. Each new experience is a risk.",
-  author: "Fran Watson"
+  id: 1567,
+  quote: "If you have knowledge, let others light their candles in it.",
+  author: "Margaret Fuller"
 }
 ```
 
