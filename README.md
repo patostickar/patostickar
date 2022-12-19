@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1559,
-  quote: "Success is determined by those whom prove the impossible, possible.",
-  author: "James Pence"
+  id: 1562,
+  quote: "Spirituality can be severed from both vicious sectarianism and thoughtless banalities. Spirituality, I have come to see, is nothing less than the thoughtful love of life.",
+  author: "Robert C. Solomon"
 }
 ```
 
