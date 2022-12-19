@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 727,
-  quote: "All achievements, all earned riches, have their beginning in an idea.",
-  author: "Napoleon Hill"
+  id: 1435,
+  quote: "Your ability to learn faster than your competition is your only sustainable competitive advantage.",
+  author: "Arie de Gues"
 }
 ```
 
