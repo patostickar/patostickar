@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 350,
-  quote: "When your desires are strong enough you will appear to possess superhuman powers to achieve.",
-  author: "Napoleon Hill"
+  id: 1446,
+  quote: "The more you care, the stronger you can be.",
+  author: "Jim Rohn"
 }
 ```
 
