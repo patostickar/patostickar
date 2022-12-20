@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 227,
-  quote: "What you see depends on what you're looking for.",
-  author: "null"
+  id: 54,
+  quote: "The best teacher is experience learned from failures.",
+  author: "Byron Pulsifer"
 }
 ```
 
