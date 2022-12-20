@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 198,
-  quote: "Science is organized knowledge. Wisdom is organized life.",
-  author: "Immanuel Kant"
+  id: 476,
+  quote: "Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
