@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1151,
-  quote: "Never apologize for showing feeling. When you do so, you apologize for truth.",
-  author: "Benjamin Disraeli"
+  id: 580,
+  quote: "The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
