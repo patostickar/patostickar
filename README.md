@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1544,
-  quote: "Count your joys instead of your woes. Count your friends instead of your foes.",
-  author: "null"
+  id: 1151,
+  quote: "Never apologize for showing feeling. When you do so, you apologize for truth.",
+  author: "Benjamin Disraeli"
 }
 ```
 
