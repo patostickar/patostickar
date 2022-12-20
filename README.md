@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 628,
-  quote: "Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.",
-  author: "Margaret Cousins"
+  id: 527,
+  quote: "We never understand how little we need in this world until we know the loss of it.",
+  author: "James Barrie"
 }
 ```
 
