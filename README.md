@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 88,
-  quote: "Argue for your limitations, and sure enough theyre yours.",
-  author: "Richard Bach"
+  id: 74,
+  quote: "Our distrust is very expensive.",
+  author: "Ralph Emerson"
 }
 ```
 
