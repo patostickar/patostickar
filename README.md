@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1012,
-  quote: "Passion creates the desire for more and action fuelled by passion creates a future.",
-  author: "Byron Pulsifer"
+  id: 217,
+  quote: "There is no way to prosperity, prosperity is the way.",
+  author: "Wayne Dyer"
 }
 ```
 
