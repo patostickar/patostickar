@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 208,
-  quote: "A short saying oft contains much wisdom.",
-  author: "Sophocles"
+  id: 88,
+  quote: "Argue for your limitations, and sure enough theyre yours.",
+  author: "Richard Bach"
 }
 ```
 
