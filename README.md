@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 130,
-  quote: "You can't stop the waves, but you can learn to surf.",
-  author: "Jon Kabat-Zinn"
+  id: 208,
+  quote: "A short saying oft contains much wisdom.",
+  author: "Sophocles"
 }
 ```
 
