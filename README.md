@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 632,
-  quote: "You can adopt the attitude there is nothing you can do, or you can see the challenge as your call to action.",
-  author: "Catherine Pulsifer"
+  id: 350,
+  quote: "When your desires are strong enough you will appear to possess superhuman powers to achieve.",
+  author: "Napoleon Hill"
 }
 ```
 
