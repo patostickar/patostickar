@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 74,
-  quote: "Our distrust is very expensive.",
-  author: "Ralph Emerson"
+  id: 1012,
+  quote: "Passion creates the desire for more and action fuelled by passion creates a future.",
+  author: "Byron Pulsifer"
 }
 ```
 
