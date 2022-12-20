@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 476,
-  quote: "Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.",
-  author: "Eleanor Roosevelt"
+  id: 632,
+  quote: "You can adopt the attitude there is nothing you can do, or you can see the challenge as your call to action.",
+  author: "Catherine Pulsifer"
 }
 ```
 
