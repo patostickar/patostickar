@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 362,
-  quote: "Love and compassion open our own inner life, reducing stress, distrust and loneliness.",
-  author: "Dalai Lama"
+  id: 688,
+  quote: "I can't change the direction of the wind, but I can adjust my sails to always reach my destination.",
+  author: "Jimmy Dean"
 }
 ```
 
