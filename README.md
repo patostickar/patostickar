@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 217,
-  quote: "There is no way to prosperity, prosperity is the way.",
-  author: "Wayne Dyer"
+  id: 628,
+  quote: "Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.",
+  author: "Margaret Cousins"
 }
 ```
 
