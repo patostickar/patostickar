@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 580,
-  quote: "The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.",
-  author: "Thich Nhat Hanh"
+  id: 130,
+  quote: "You can't stop the waves, but you can learn to surf.",
+  author: "Jon Kabat-Zinn"
 }
 ```
 
