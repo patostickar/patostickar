@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 422,
-  quote: "Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.",
-  author: "Marcel Proust"
+  id: 529,
+  quote: "To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.",
+  author: "Buddha"
 }
 ```
 
