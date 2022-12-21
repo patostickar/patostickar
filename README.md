@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1232,
-  quote: "We are Divine enough to ask and we are important enough to receive.",
-  author: "Wayne Dyer"
+  id: 1011,
+  quote: "Act as if what you do makes a difference. It does.",
+  author: "William James"
 }
 ```
 
