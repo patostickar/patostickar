@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 313,
-  quote: "Short words are best and the old words when short are best of all.",
-  author: "Winston Churchill"
+  id: 1223,
+  quote: "The most decisive actions of our life... are most often unconsidered actions.",
+  author: "Andre Gide"
 }
 ```
 
