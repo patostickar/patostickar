@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 529,
-  quote: "To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.",
-  author: "Buddha"
+  id: 765,
+  quote: "You must welcome change as the rule but not as your ruler.",
+  author: "Denis Waitley"
 }
 ```
 
