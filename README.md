@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1145,
-  quote: "No matter how hard the past, you can always begin again.",
-  author: "Buddha"
+  id: 1002,
+  quote: "The heart has eyes which the brain knows nothing of.",
+  author: "Charles Perkhurst"
 }
 ```
 
