@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1002,
-  quote: "The heart has eyes which the brain knows nothing of.",
-  author: "Charles Perkhurst"
+  id: 499,
+  quote: "Why compare yourself with others? No one in the entire world can do a better job of being you than you.",
+  author: "null"
 }
 ```
 
