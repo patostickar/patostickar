@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1310,
-  quote: "We make a living by what we get, but we make a life by what we give.",
-  author: "Winston Churchill"
+  id: 1145,
+  quote: "No matter how hard the past, you can always begin again.",
+  author: "Buddha"
 }
 ```
 
