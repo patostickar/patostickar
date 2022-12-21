@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 765,
-  quote: "You must welcome change as the rule but not as your ruler.",
-  author: "Denis Waitley"
+  id: 1015,
+  quote: "Don't talk about what you have done or what you are going to do.",
+  author: "Thomas Jefferson"
 }
 ```
 
