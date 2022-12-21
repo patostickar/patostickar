@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1284,
-  quote: "We make our own fortunes and we call them fate.",
-  author: "Benjamin Disraeli"
+  id: 644,
+  quote: "The aim of life is self-development. To realize ones nature perfectly that is what each of us is here for.",
+  author: "Oscar Wilde"
 }
 ```
 
