@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 642,
-  quote: "Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!",
-  author: "Richard Bach"
+  id: 1183,
+  quote: "Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather.",
+  author: "John Ruskin"
 }
 ```
 
