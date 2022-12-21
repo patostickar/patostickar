@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1591,
-  quote: "The future is an opaque mirror. Anyone who tries to look into it sees nothing but the dim outlines of an old and worried face.",
-  author: "Jim Bishop"
+  id: 1116,
+  quote: "Listen to your intuition. It will tell you everything you need to know.",
+  author: "Anthony D'Angelo"
 }
 ```
 
