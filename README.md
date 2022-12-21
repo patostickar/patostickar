@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 327,
-  quote: "Think for yourselves and let others enjoy the privilege to do so too.",
-  author: "Voltaire"
+  id: 422,
+  quote: "Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.",
+  author: "Marcel Proust"
 }
 ```
 
