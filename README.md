@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 644,
-  quote: "The aim of life is self-development. To realize ones nature perfectly that is what each of us is here for.",
-  author: "Oscar Wilde"
+  id: 642,
+  quote: "Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!",
+  author: "Richard Bach"
 }
 ```
 
