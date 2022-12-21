@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1011,
-  quote: "Act as if what you do makes a difference. It does.",
-  author: "William James"
+  id: 1591,
+  quote: "The future is an opaque mirror. Anyone who tries to look into it sees nothing but the dim outlines of an old and worried face.",
+  author: "Jim Bishop"
 }
 ```
 
