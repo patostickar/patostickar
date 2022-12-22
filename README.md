@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 480,
-  quote: "One does not discover new lands without consenting to lose sight of the shore for a very long time.",
-  author: "Andre Gide"
+  id: 388,
+  quote: "Shoot for the moon. Even if you miss, you'll land among the stars.",
+  author: "Les Brown"
 }
 ```
 
