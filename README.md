@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 134,
-  quote: "Reality leaves a lot to the imagination.",
-  author: "John Lennon"
+  id: 766,
+  quote: "Give whatever you are doing and whoever you are with the gift of your attention.",
+  author: "Jim Rohn"
 }
 ```
 
