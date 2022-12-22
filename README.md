@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 388,
-  quote: "Shoot for the moon. Even if you miss, you'll land among the stars.",
-  author: "Les Brown"
+  id: 688,
+  quote: "I can't change the direction of the wind, but I can adjust my sails to always reach my destination.",
+  author: "Jimmy Dean"
 }
 ```
 
