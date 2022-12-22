@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1343,
-  quote: "Allow the world to live as it chooses, and allow yourself to live as you choose.",
-  author: "Richard Bach"
+  id: 923,
+  quote: "My advice to you is not to inquire why or whither, but just enjoy your ice cream while its on your plate that's my philosophy.",
+  author: "Thornton Wilder"
 }
 ```
 
