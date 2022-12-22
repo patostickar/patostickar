@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 388,
-  quote: "Shoot for the moon. Even if you miss, you'll land among the stars.",
-  author: "Les Brown"
+  id: 317,
+  quote: "Give thanks for the rain of life that propels us to reach new horizons.",
+  author: "Byron Pulsifer"
 }
 ```
 
