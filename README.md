@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1633,
-  quote: "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.",
-  author: "Melody Beattie"
+  id: 457,
+  quote: "All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.",
+  author: "Kathleen Norris"
 }
 ```
 
