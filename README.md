@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 915,
-  quote: "Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.",
-  author: "Marcus Aurelius"
+  id: 1501,
+  quote: "To give ones self earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.",
+  author: "Confucius"
 }
 ```
 
