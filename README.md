@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 317,
-  quote: "Give thanks for the rain of life that propels us to reach new horizons.",
-  author: "Byron Pulsifer"
+  id: 1601,
+  quote: "One that desires to excel should endeavour in those things that are in themselves most excellent.",
+  author: "Epictetus"
 }
 ```
 
