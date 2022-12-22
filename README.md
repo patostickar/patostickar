@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 956,
-  quote: "Be slow of tongue and quick of eye.",
-  author: "Cervantes"
+  id: 56,
+  quote: "Love is the flower you've got to let grow.",
+  author: "John Lennon"
 }
 ```
 
