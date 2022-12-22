@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1167,
-  quote: "We can only be said to be alive in those moments when our hearts are conscious of our treasures.",
-  author: "Thornton Wilder"
+  id: 480,
+  quote: "One does not discover new lands without consenting to lose sight of the shore for a very long time.",
+  author: "Andre Gide"
 }
 ```
 
