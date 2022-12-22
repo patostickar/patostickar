@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 933,
-  quote: "Believe deep down in your heart that you're destined to do great things.",
-  author: "Joe Paterno"
+  id: 134,
+  quote: "Reality leaves a lot to the imagination.",
+  author: "John Lennon"
 }
 ```
 
