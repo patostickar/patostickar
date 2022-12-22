@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 766,
-  quote: "Give whatever you are doing and whoever you are with the gift of your attention.",
-  author: "Jim Rohn"
+  id: 1633,
+  quote: "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.",
+  author: "Melody Beattie"
 }
 ```
 
