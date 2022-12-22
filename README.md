@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 56,
-  quote: "Love is the flower you've got to let grow.",
-  author: "John Lennon"
+  id: 753,
+  quote: "It is better to understand a little than to misunderstand a lot.",
+  author: "Anatole France"
 }
 ```
 
