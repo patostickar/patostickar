@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 920,
-  quote: "If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.",
-  author: "Robert Fulghum"
+  id: 277,
+  quote: "In separateness lies the world's great misery, in compassion lies the world's true strength.",
+  author: "Buddha"
 }
 ```
 
