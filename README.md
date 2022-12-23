@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 719,
-  quote: "Meaning is not what you start with but what you end up with.",
-  author: "Peter Elbow"
+  id: 920,
+  quote: "If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.",
+  author: "Robert Fulghum"
 }
 ```
 
