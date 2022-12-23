@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1287,
-  quote: "Always seek out the seed of triumph in every adversity.",
-  author: "Og Mandino"
+  id: 798,
+  quote: "Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.",
+  author: "Blaise Pascal"
 }
 ```
 
