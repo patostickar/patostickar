@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 474,
-  quote: "If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.",
-  author: "Ralph Emerson"
+  id: 640,
+  quote: "If you love someone, set them free. If they come back they're yours; if they don't they never were.",
+  author: "Richard Bach"
 }
 ```
 
