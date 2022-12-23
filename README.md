@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 244,
-  quote: "Don't smother each other. No one can grow in the shade.",
-  author: "Leo F. Buscaglia"
+  id: 1287,
+  quote: "Always seek out the seed of triumph in every adversity.",
+  author: "Og Mandino"
 }
 ```
 
