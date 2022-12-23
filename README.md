@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1600,
-  quote: "Example has more followers than reason.",
-  author: "Christian Bovee"
+  id: 789,
+  quote: "Not what we have but what we enjoy constitutes our abundance.",
+  author: "John Petit-Senn"
 }
 ```
 
