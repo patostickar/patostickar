@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 825,
-  quote: "Living at risk is jumping off the cliff and building your wings on the way down.",
-  author: "Ray Bradbury"
+  id: 89,
+  quote: "Luck is what happens when preparation meets opportunity.",
+  author: "Seneca"
 }
 ```
 
