@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 170,
-  quote: "Today is the tomorrow you worried about yesterday.",
-  author: "null"
+  id: 1495,
+  quote: "You can complain because roses have thorns, or you can rejoice because thorns have roses.",
+  author: "Ziggy"
 }
 ```
 
