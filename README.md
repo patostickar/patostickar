@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1507,
-  quote: "Go for it now. The future is promised to no one.",
-  author: "Wayne Dyer"
+  id: 474,
+  quote: "If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.",
+  author: "Ralph Emerson"
 }
 ```
 
