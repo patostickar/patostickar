@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1136,
-  quote: "Always do your best. What you plant now, you will harvest later.",
-  author: "Og Mandino"
+  id: 23,
+  quote: "Everything in life is luck.",
+  author: "Donald Trump"
 }
 ```
 
