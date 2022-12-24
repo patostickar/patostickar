@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 785,
-  quote: "Without some goals and some efforts to reach it, no man can live.",
-  author: "John Dewey"
+  id: 263,
+  quote: "Absence makes the heart grow fonder.",
+  author: "Haynes Bayly"
 }
 ```
 
