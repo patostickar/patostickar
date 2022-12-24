@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 310,
-  quote: "Action may not always bring happiness; but there is no happiness without action.",
-  author: "Benjamin Disraeli"
+  id: 1140,
+  quote: "It is not only for what we do that we are held responsible, but also for what we do not do.",
+  author: "Moliere"
 }
 ```
 
