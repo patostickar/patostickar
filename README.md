@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 553,
-  quote: "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
-  author: "Anne Frank"
+  id: 327,
+  quote: "Think for yourselves and let others enjoy the privilege to do so too.",
+  author: "Voltaire"
 }
 ```
 
