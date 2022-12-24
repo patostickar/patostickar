@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1623,
-  quote: "What we see depends mainly on what we look for.",
-  author: "John Lubbock"
+  id: 553,
+  quote: "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+  author: "Anne Frank"
 }
 ```
 
