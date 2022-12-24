@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 23,
-  quote: "Everything in life is luck.",
-  author: "Donald Trump"
+  id: 987,
+  quote: "More powerful than the will to win is the courage to begin.",
+  author: "null"
 }
 ```
 
