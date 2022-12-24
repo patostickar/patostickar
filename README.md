@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 251,
-  quote: "Time you enjoy wasting, was not wasted.",
-  author: "John Lennon"
+  id: 1136,
+  quote: "Always do your best. What you plant now, you will harvest later.",
+  author: "Og Mandino"
 }
 ```
 
