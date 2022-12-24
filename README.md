@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 987,
-  quote: "More powerful than the will to win is the courage to begin.",
-  author: "null"
+  id: 220,
+  quote: "Follow your instincts. That is where true wisdom manifests itself.",
+  author: "Oprah Winfrey"
 }
 ```
 
