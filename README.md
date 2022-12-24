@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 220,
-  quote: "Follow your instincts. That is where true wisdom manifests itself.",
-  author: "Oprah Winfrey"
+  id: 593,
+  quote: "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+  author: "Thomas Edison"
 }
 ```
 
