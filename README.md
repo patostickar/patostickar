@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 737,
-  quote: "In all things of nature there is something of the marvellous.",
-  author: "Aristotle"
+  id: 938,
+  quote: "To know oneself is to study oneself in action with another person.",
+  author: "Bruce Lee"
 }
 ```
 
