@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1441,
-  quote: "We have committed the Golden Rule to memory; let us now commit it to life.",
-  author: "Edwin Markham"
+  id: 597,
+  quote: "I am not bothered by the fact that I am unknown. I am bothered when I do not know others.",
+  author: "Confucius"
 }
 ```
 
