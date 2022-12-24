@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 593,
-  quote: "Many of life's failures are people who did not realize how close they were to success when they gave up.",
-  author: "Thomas Edison"
+  id: 310,
+  quote: "Action may not always bring happiness; but there is no happiness without action.",
+  author: "Benjamin Disraeli"
 }
 ```
 
