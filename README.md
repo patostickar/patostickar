@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 114,
-  quote: "Truth is powerful and it prevails.",
-  author: "Sojourner Truth"
+  id: 695,
+  quote: "You can't create in a vacuum. Life gives you the material and dreams can propel new beginnings.",
+  author: "Byron Pulsifer"
 }
 ```
 
