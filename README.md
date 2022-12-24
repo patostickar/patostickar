@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 327,
-  quote: "Think for yourselves and let others enjoy the privilege to do so too.",
-  author: "Voltaire"
+  id: 1441,
+  quote: "We have committed the Golden Rule to memory; let us now commit it to life.",
+  author: "Edwin Markham"
 }
 ```
 
