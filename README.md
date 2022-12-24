@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 597,
-  quote: "I am not bothered by the fact that I am unknown. I am bothered when I do not know others.",
-  author: "Confucius"
+  id: 1031,
+  quote: "Positive thinking will let you do everything better than negative thinking will.",
+  author: "Zig Ziglar"
 }
 ```
 
