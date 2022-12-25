@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 938,
-  quote: "To know oneself is to study oneself in action with another person.",
-  author: "Bruce Lee"
+  id: 323,
+  quote: "Reviewing what you have learned and learning anew, you are fit to be a teacher.",
+  author: "Confucius"
 }
 ```
 
