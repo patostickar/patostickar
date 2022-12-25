@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 165,
-  quote: "Freedom is the right to live as we wish.",
-  author: "Epictetus"
+  id: 697,
+  quote: "The person who lives life fully, glowing with life's energy, is the person who lives a successful life.",
+  author: "Daisaku Ikeda"
 }
 ```
 
