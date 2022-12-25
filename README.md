@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 993,
-  quote: "A jug fills drop by drop.",
+  id: 943,
+  quote: "Always be mindful of the kindness and not the faults of others.",
   author: "Buddha"
 }
 ```
