@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1600,
-  quote: "Example has more followers than reason.",
-  author: "Christian Bovee"
+  id: 165,
+  quote: "Freedom is the right to live as we wish.",
+  author: "Epictetus"
 }
 ```
 
