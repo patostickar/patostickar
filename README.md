@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 538,
-  quote: "Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.",
-  author: "Gloria Steinem"
+  id: 380,
+  quote: "Don't judge each day by the harvest you reap but by the seeds you plant.",
+  author: "Robert Stevenson"
 }
 ```
 
