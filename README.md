@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 215,
-  quote: "Nature takes away any faculty that is not used.",
-  author: "William R. Inge"
+  id: 1374,
+  quote: "Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.",
+  author: "Theodore Rubin"
 }
 ```
 
