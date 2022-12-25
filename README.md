@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 323,
-  quote: "Reviewing what you have learned and learning anew, you are fit to be a teacher.",
-  author: "Confucius"
+  id: 1199,
+  quote: "Transformation does not start with some one else changing you; transformation is an inner self reworking of what you are now to what you will be.",
+  author: "Byron Pulsifer"
 }
 ```
 
