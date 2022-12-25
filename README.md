@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 380,
-  quote: "Don't judge each day by the harvest you reap but by the seeds you plant.",
-  author: "Robert Stevenson"
+  id: 1027,
+  quote: "No yesterdays are ever wasted for those who give themselves to today.",
+  author: "Brendan Francis"
 }
 ```
 
