@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 166,
-  quote: "Change your thoughts, change your life!",
-  author: "null"
+  id: 11,
+  quote: "What you give is what you get.",
+  author: "Byron Pulsifer"
 }
 ```
 
