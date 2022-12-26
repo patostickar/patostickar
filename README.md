@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 395,
-  quote: "Quality is never an accident; it is always the result of intelligent effort.",
-  author: "John Ruskin"
+  id: 118,
+  quote: "The simplest things are often the truest.",
+  author: "Richard Bach"
 }
 ```
 
