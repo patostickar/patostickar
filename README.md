@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1268,
-  quote: "The smallest act of kindness is worth more than the grandest intention.",
-  author: "Oscar Wilde"
+  id: 1574,
+  quote: "I have an everyday religion that works for me. Love yourself first, and everything else falls into line.",
+  author: "Lucille Ball"
 }
 ```
 
