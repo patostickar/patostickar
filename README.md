@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 861,
-  quote: "If you have no respect for your own values how can you be worthy of respect from others.",
+  id: 1280,
+  quote: "Strength to carry on despite the odds means you have faith in your own abilities and know how.",
   author: "Byron Pulsifer"
 }
 ```
