@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1456,
-  quote: "Truth is generally the best vindication against slander.",
-  author: "Abraham Lincoln"
+  id: 722,
+  quote: "All is flux; nothing stays still.",
+  author: "Heraclitus"
 }
 ```
 
