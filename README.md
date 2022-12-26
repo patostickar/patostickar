@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1530,
-  quote: "A garden is always a series of losses set against a few triumphs, like life itself.",
-  author: "May Sarton"
+  id: 530,
+  quote: "Take no thought of who is right or wrong or who is better than. Be not for or against.",
+  author: "Bruce Lee"
 }
 ```
 
