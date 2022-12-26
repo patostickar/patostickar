@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1374,
-  quote: "Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.",
-  author: "Theodore Rubin"
+  id: 655,
+  quote: "The truth of the matter is that you always know the right thing to do. The hard part is doing it.",
+  author: "Norman Schwarzkopf"
 }
 ```
 
