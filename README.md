@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1618,
-  quote: "You really can change the world if you care enough.",
-  author: "Marian Edelman"
+  id: 1235,
+  quote: "The happiness that is genuinely satisfying is accompanied by the fullest exercise of our faculties and the fullest realization of the world in which we live.",
+  author: "Bertrand Russell"
 }
 ```
 
