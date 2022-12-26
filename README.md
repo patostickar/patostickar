@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 530,
-  quote: "Take no thought of who is right or wrong or who is better than. Be not for or against.",
-  author: "Bruce Lee"
+  id: 861,
+  quote: "If you have no respect for your own values how can you be worthy of respect from others.",
+  author: "Byron Pulsifer"
 }
 ```
 
