@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1063,
-  quote: "You always succeed in producing a result.",
-  author: "Tony Robbins"
+  id: 1342,
+  quote: "If I know what love is, it is because of you.",
+  author: "Hermann Hesse"
 }
 ```
 
