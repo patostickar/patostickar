@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1286,
-  quote: "It takes courage to grow up and become who you really are.",
-  author: "E. E. Cummings"
+  id: 1063,
+  quote: "You always succeed in producing a result.",
+  author: "Tony Robbins"
 }
 ```
 
