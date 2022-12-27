@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 240,
-  quote: "No is easier to do. Yes is easier to say.",
-  author: "Jason Fried"
+  id: 397,
+  quote: "Life is a succession of lessons, which must be lived to be understood.",
+  author: "Ralph Emerson"
 }
 ```
 
