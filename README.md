@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 784,
-  quote: "As long as your going to be thinking anyway, think big.",
-  author: "Donald Trump"
+  id: 968,
+  quote: "In seed time learn, in harvest teach, in winter enjoy.",
+  author: "William Blake"
 }
 ```
 
