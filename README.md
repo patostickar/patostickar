@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 550,
-  quote: "I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.",
-  author: "Albert Einstein"
+  id: 1114,
+  quote: "Trust your hunches. They're usually based on facts filed away just below the conscious level.",
+  author: "Joyce Brothers"
 }
 ```
 
