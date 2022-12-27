@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1098,
-  quote: "Every man is a volume if you know how to read him.",
-  author: "Channing"
+  id: 841,
+  quote: "The Creator has not given you a longing to do that which you have no ability to do.",
+  author: "Orison Marden"
 }
 ```
 
