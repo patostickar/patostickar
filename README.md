@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1342,
-  quote: "If I know what love is, it is because of you.",
-  author: "Hermann Hesse"
+  id: 1072,
+  quote: "The most formidable weapon against errors of every kind is reason.",
+  author: "Thomas Paine"
 }
 ```
 
