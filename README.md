@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1100,
-  quote: "Quality means doing it right when no one is looking.",
-  author: "Henry Ford"
+  id: 460,
+  quote: "All our talents increase in the using, and the every faculty, both good and bad, strengthen by exercise.",
+  author: "Anne Bronte"
 }
 ```
 
