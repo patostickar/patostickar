@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 397,
-  quote: "Life is a succession of lessons, which must be lived to be understood.",
-  author: "Ralph Emerson"
+  id: 17,
+  quote: "Every man dies. Not every man really lives.",
+  author: "null"
 }
 ```
 
