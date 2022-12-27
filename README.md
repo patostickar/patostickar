@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1114,
-  quote: "Trust your hunches. They're usually based on facts filed away just below the conscious level.",
-  author: "Joyce Brothers"
+  id: 1133,
+  quote: "Progress always involves risks. You can't steal second base and keep your foot on first.",
+  author: "Frederick Wilcox"
 }
 ```
 
