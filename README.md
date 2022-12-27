@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 576,
-  quote: "There are only two mistakes one can make along the road to truth; not going all the way, and not starting.",
-  author: "Buddha"
+  id: 1286,
+  quote: "It takes courage to grow up and become who you really are.",
+  author: "E. E. Cummings"
 }
 ```
 
