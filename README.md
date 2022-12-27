@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1585,
-  quote: "The true way to render ourselves happy is to love our work and find in it our pleasure.",
-  author: "Francoise de Motteville"
+  id: 893,
+  quote: "We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.",
+  author: "Uta Hagen"
 }
 ```
 
