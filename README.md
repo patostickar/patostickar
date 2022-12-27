@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1133,
-  quote: "Progress always involves risks. You can't steal second base and keep your foot on first.",
-  author: "Frederick Wilcox"
+  id: 1373,
+  quote: "There is nothing impossible to him who will try.",
+  author: "Alexander the Great"
 }
 ```
 
