@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 427,
-  quote: "If your actions inspire others to dream more, learn more, do more and become more, you are a leader.",
-  author: "John Quincy Adams"
+  id: 966,
+  quote: "Your sacred space is where you can find yourself again and again.",
+  author: "Joseph Campbell"
 }
 ```
 
