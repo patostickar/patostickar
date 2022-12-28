@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 117,
-  quote: "Society develops wit, but its contemplation alone forms genius.",
-  author: "Madame de Stael"
+  id: 1085,
+  quote: "The ladder of success is never crowded at the top.",
+  author: "Napoleon Hill"
 }
 ```
 
