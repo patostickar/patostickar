@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1340,
-  quote: "We choose our joys and sorrows long before we experience them.",
-  author: "Kahlil Gibran"
+  id: 634,
+  quote: "Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.",
+  author: "Margaret Mead"
 }
 ```
 
