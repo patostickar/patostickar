@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 966,
-  quote: "Your sacred space is where you can find yourself again and again.",
-  author: "Joseph Campbell"
+  id: 0,
+  quote: "Genius is one percent inspiration and ninety-nine percent perspiration.",
+  author: "Thomas Edison"
 }
 ```
 
