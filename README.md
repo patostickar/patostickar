@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 4,
-  quote: "Fate is in your hands and no one elses",
-  author: "Byron Pulsifer"
+  id: 1315,
+  quote: "Thought is the blossom; language the bud; action the fruit behind it.",
+  author: "Ralph Emerson"
 }
 ```
 
