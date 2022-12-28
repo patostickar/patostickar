@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 327,
-  quote: "Think for yourselves and let others enjoy the privilege to do so too.",
-  author: "Voltaire"
+  id: 117,
+  quote: "Society develops wit, but its contemplation alone forms genius.",
+  author: "Madame de Stael"
 }
 ```
 
