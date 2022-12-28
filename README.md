@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 292,
-  quote: "To be upset over what you don't have is to waste what you do have.",
-  author: "Ken S. Keyes"
+  id: 1186,
+  quote: "The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.",
+  author: "Pierre Abelard"
 }
 ```
 
