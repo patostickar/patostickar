@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 87,
-  quote: "No one can make you feel inferior without your consent.",
-  author: "Eleanor Roosevelt"
+  id: 1340,
+  quote: "We choose our joys and sorrows long before we experience them.",
+  author: "Kahlil Gibran"
 }
 ```
 
