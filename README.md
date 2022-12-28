@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1276,
-  quote: "Our deepest wishes are whispers of our authentic selves. We must learn to respect them. We must learn to listen.",
-  author: "Sarah Breathnach"
+  id: 257,
+  quote: "If a man does his best, what else is there?",
+  author: "George Patton"
 }
 ```
 
