@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 904,
-  quote: "A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.",
-  author: "Chuck Norris"
+  id: 538,
+  quote: "Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.",
+  author: "Gloria Steinem"
 }
 ```
 
