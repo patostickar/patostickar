@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 0,
-  quote: "Genius is one percent inspiration and ninety-nine percent perspiration.",
-  author: "Thomas Edison"
+  id: 4,
+  quote: "Fate is in your hands and no one elses",
+  author: "Byron Pulsifer"
 }
 ```
 
