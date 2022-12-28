@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 205,
-  quote: "Inspiration exists, but it has to find us working.",
-  author: "Pablo Picasso"
+  id: 1276,
+  quote: "Our deepest wishes are whispers of our authentic selves. We must learn to respect them. We must learn to listen.",
+  author: "Sarah Breathnach"
 }
 ```
 
