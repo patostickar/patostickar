@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 77,
-  quote: "Faith in oneself is the best and safest course.",
-  author: "Michelangelo"
+  id: 522,
+  quote: "Silences make the real conversations between friends. Not the saying but the never needing to say is what counts.",
+  author: "Margaret Runbeck"
 }
 ```
 
