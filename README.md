@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 414,
-  quote: "There is no retirement for an artist, it's your way of living so there is no end to it.",
-  author: "Henry Moore"
+  id: 1051,
+  quote: "It isn't where you come from, it's where you're going that counts.",
+  author: "Ella Fitzgerald"
 }
 ```
 
