@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1051,
-  quote: "It isn't where you come from, it's where you're going that counts.",
-  author: "Ella Fitzgerald"
+  id: 1425,
+  quote: "I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.",
+  author: "G. K. Chesterton"
 }
 ```
 
