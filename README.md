@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 543,
-  quote: "You are always free to change your mind and choose a different future, or a different past.",
-  author: "Richard Bach"
+  id: 414,
+  quote: "There is no retirement for an artist, it's your way of living so there is no end to it.",
+  author: "Henry Moore"
 }
 ```
 
