@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 774,
-  quote: "Everything that irritates us about others can lead us to an understanding about ourselves.",
-  author: "Carl Jung"
+  id: 1572,
+  quote: "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
+  author: "Marcus Aurelius"
 }
 ```
 
