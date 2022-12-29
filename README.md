@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 146,
-  quote: "Experience is simply the name we give our mistakes.",
-  author: "Oscar Wilde"
+  id: 57,
+  quote: "Don't wait. The time will never be just right.",
+  author: "Napoleon Hill"
 }
 ```
 
