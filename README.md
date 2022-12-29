@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1368,
-  quote: "It is not fair to ask of others what you are unwilling to do yourself.",
-  author: "Eleanor Roosevelt"
+  id: 543,
+  quote: "You are always free to change your mind and choose a different future, or a different past.",
+  author: "Richard Bach"
 }
 ```
 
