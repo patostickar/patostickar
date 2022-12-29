@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1065,
-  quote: "As we risk ourselves, we grow. Each new experience is a risk.",
-  author: "Fran Watson"
+  id: 753,
+  quote: "It is better to understand a little than to misunderstand a lot.",
+  author: "Anatole France"
 }
 ```
 
