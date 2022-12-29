@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 43,
-  quote: "Goals are the fuel in the furnace of achievement.",
-  author: "Brian Tracy"
+  id: 1065,
+  quote: "As we risk ourselves, we grow. Each new experience is a risk.",
+  author: "Fran Watson"
 }
 ```
 
