@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 363,
-  quote: "Ideals are an imaginative understanding of that which is desirable in that which is possible.",
-  author: "Walter Lippmann"
+  id: 683,
+  quote: "All difficult things have their origin in that which is easy, and great things in that which is small.",
+  author: "Lao Tzu"
 }
 ```
 
