@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1546,
-  quote: "Staying in one place is the best path to be taken over and surpassed by many.",
-  author: "Byron Pulsifer"
+  id: 640,
+  quote: "If you love someone, set them free. If they come back they're yours; if they don't they never were.",
+  author: "Richard Bach"
 }
 ```
 
