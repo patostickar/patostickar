@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 640,
-  quote: "If you love someone, set them free. If they come back they're yours; if they don't they never were.",
-  author: "Richard Bach"
+  id: 775,
+  quote: "Can you imagine what I would do if I could do all I can?",
+  author: "Sun Tzu"
 }
 ```
 
