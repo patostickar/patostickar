@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 753,
-  quote: "It is better to understand a little than to misunderstand a lot.",
-  author: "Anatole France"
+  id: 903,
+  quote: "Thousands of candles can be lit from a single, and the life of the candle will not be shortened. Happiness never decreases by being shared.",
+  author: "Buddha"
 }
 ```
 
