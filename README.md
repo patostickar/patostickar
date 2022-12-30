@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1388,
-  quote: "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
-  author: "Albert Einstein"
+  id: 981,
+  quote: "A man is not where he lives but where he loves.",
+  author: "null"
 }
 ```
 
