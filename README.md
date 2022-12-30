@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1330,
-  quote: "The least of things with a meaning is worth more in life than the greatest of things without it.",
-  author: "Carl Jung"
+  id: 892,
+  quote: "When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.",
+  author: "Confucius"
 }
 ```
 
