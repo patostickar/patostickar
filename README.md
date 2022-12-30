@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 585,
-  quote: "You can be what you want to be. You have the power within and we will help you always.",
-  author: "Byron Pulsifer"
+  id: 1388,
+  quote: "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
+  author: "Albert Einstein"
 }
 ```
 
