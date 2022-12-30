@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 996,
-  quote: "Being angry never solves anything.",
-  author: "Catherine Pulsifer"
+  id: 1330,
+  quote: "The least of things with a meaning is worth more in life than the greatest of things without it.",
+  author: "Carl Jung"
 }
 ```
 
