@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1419,
-  quote: "The best cure for the body is a quiet mind.",
-  author: "Napoleon Bonaparte"
+  id: 536,
+  quote: "Everyone is a genius at least once a year. A real genius has his original ideas closer together.",
+  author: "Georg Lichtenberg"
 }
 ```
 
