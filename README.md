@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 957,
-  quote: "Freedom is not worth having if it does not connote freedom to err.",
-  author: "Mohandas Gandhi"
+  id: 1558,
+  quote: "We lost because we told ourselves we lost.",
+  author: "Leo Tolstoy"
 }
 ```
 
