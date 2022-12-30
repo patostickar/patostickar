@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 854,
-  quote: "It is surprising what a man can do when he has to, and how little most men will do when they don't have to.",
-  author: "Walter Linn"
+  id: 1238,
+  quote: "The universe is made of stories, not atoms.",
+  author: "Muriel Rukeyser"
 }
 ```
 
