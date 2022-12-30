@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 981,
-  quote: "A man is not where he lives but where he loves.",
-  author: "null"
+  id: 1127,
+  quote: "The time you think you're missing, misses you too.",
+  author: "Ymber Delecto"
 }
 ```
 
