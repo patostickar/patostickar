@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 57,
-  quote: "Don't wait. The time will never be just right.",
-  author: "Napoleon Hill"
+  id: 666,
+  quote: "Peace of mind is not the absence of conflict from life, but the ability to cope with it.",
+  author: "null"
 }
 ```
 
