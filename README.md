@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 666,
-  quote: "Peace of mind is not the absence of conflict from life, but the ability to cope with it.",
-  author: "null"
+  id: 1145,
+  quote: "No matter how hard the past, you can always begin again.",
+  author: "Buddha"
 }
 ```
 
