@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 991,
-  quote: "Joy is the best makeup.",
-  author: "Anne Lamott"
+  id: 585,
+  quote: "You can be what you want to be. You have the power within and we will help you always.",
+  author: "Byron Pulsifer"
 }
 ```
 
