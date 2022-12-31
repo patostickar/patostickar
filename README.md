@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1516,
-  quote: "There are no limitations to the mind except those we acknowledge.",
-  author: "Napoleon Hill"
+  id: 711,
+  quote: "You won't skid if you stay in a rut.",
+  author: "Kin Hubbard"
 }
 ```
 
