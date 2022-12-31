@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 610,
-  quote: "The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.",
-  author: "Seneca"
+  id: 1244,
+  quote: "People are not lazy. They simply have impotent goals that is, goals that do not inspire them.",
+  author: "Tony Robbins"
 }
 ```
 
