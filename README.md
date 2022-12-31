@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 580,
-  quote: "The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.",
-  author: "Thich Nhat Hanh"
+  id: 812,
+  quote: "Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.",
+  author: "Peter Drucker"
 }
 ```
 
