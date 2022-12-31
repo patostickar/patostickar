@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 520,
-  quote: "Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!",
-  author: "Charlotte Gilman"
+  id: 1167,
+  quote: "We can only be said to be alive in those moments when our hearts are conscious of our treasures.",
+  author: "Thornton Wilder"
 }
 ```
 
