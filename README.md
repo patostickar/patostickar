@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 951,
-  quote: "Don't judge each day by the harvest you reap but by the seeds that you plant.",
-  author: "Robert Stevenson"
+  id: 610,
+  quote: "The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.",
+  author: "Seneca"
 }
 ```
 
