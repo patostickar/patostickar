@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1414,
-  quote: "To listen well is as powerful a means of communication and influence as to talk well.",
-  author: "John Marshall"
+  id: 1488,
+  quote: "Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.",
+  author: "Thomas Carlyle"
 }
 ```
 
