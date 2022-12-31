@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1045,
-  quote: "I want you to be everything that's you, deep at the center of your being.",
-  author: "Confucius"
+  id: 580,
+  quote: "The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
