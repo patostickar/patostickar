@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 794,
-  quote: "Don't look back. Something might be gaining on you.",
-  author: "Satchel Paige"
+  id: 520,
+  quote: "Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!",
+  author: "Charlotte Gilman"
 }
 ```
 
