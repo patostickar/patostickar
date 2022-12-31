@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 981,
-  quote: "A man is not where he lives but where he loves.",
-  author: "null"
+  id: 259,
+  quote: "Life is a progress, and not a station.",
+  author: "Ralph Emerson"
 }
 ```
 
