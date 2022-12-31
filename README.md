@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 760,
-  quote: "To want to be what one can be is purpose in life.",
-  author: "Cynthia Ozick"
+  id: 1439,
+  quote: "The deepest craving of human nature is the need to be appreciated.",
+  author: "William James"
 }
 ```
 
