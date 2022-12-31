@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 791,
-  quote: "The beginning is always today.",
-  author: "Mary Wollstonecraft"
+  id: 1516,
+  quote: "There are no limitations to the mind except those we acknowledge.",
+  author: "Napoleon Hill"
 }
 ```
 
