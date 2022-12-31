@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 334,
-  quote: "Better to have loved and lost, than to have never loved at all.",
-  author: "St. Augustine"
+  id: 1414,
+  quote: "To listen well is as powerful a means of communication and influence as to talk well.",
+  author: "John Marshall"
 }
 ```
 
