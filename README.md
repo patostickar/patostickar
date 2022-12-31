@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 456,
-  quote: "Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven.",
-  author: "Lao Tzu"
+  id: 1553,
+  quote: "If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?",
+  author: "Rabbi Hillel"
 }
 ```
 
