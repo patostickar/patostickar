@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1244,
-  quote: "People are not lazy. They simply have impotent goals that is, goals that do not inspire them.",
-  author: "Tony Robbins"
+  id: 1045,
+  quote: "I want you to be everything that's you, deep at the center of your being.",
+  author: "Confucius"
 }
 ```
 
