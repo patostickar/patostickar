@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1182,
-  quote: "The greatest barrier to success is the fear of failure.",
-  author: "Eriksson"
+  id: 6,
+  quote: "Nothing happens unless first we dream.",
+  author: "Carl Sandburg"
 }
 ```
 
