@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1540,
-  quote: "Those who dream by day are cognizant of many things which escape those who dream only by night.",
-  author: "Edgar Allan Poe"
+  id: 173,
+  quote: "A stumble may prevent a fall.",
+  author: "null"
 }
 ```
 
