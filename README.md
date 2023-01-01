@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1341,
-  quote: "Anybody can make history. Only a great man can write it.",
-  author: "Oscar Wilde"
+  id: 313,
+  quote: "Short words are best and the old words when short are best of all.",
+  author: "Winston Churchill"
 }
 ```
 
