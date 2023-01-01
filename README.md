@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1526,
-  quote: "Take it easy but take it.",
-  author: "Woody Guthrie"
+  id: 687,
+  quote: "Never do things others can do and will do, if there are things others cannot do or will not do.",
+  author: "Amelia Earhart"
 }
 ```
 
