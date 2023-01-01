@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1117,
-  quote: "The personal life deeply lived always expands into truths beyond itself.",
-  author: "Anais Nin"
+  id: 803,
+  quote: "The least movement is of importance to all nature. The entire ocean is affected by a pebble.",
+  author: "Blaise Pascal"
 }
 ```
 
