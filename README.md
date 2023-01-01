@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 173,
-  quote: "A stumble may prevent a fall.",
-  author: "null"
+  id: 1182,
+  quote: "The greatest barrier to success is the fear of failure.",
+  author: "Eriksson"
 }
 ```
 
