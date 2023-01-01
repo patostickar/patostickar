@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1167,
-  quote: "We can only be said to be alive in those moments when our hearts are conscious of our treasures.",
-  author: "Thornton Wilder"
+  id: 887,
+  quote: "You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.",
+  author: "Caroline Myss"
 }
 ```
 
