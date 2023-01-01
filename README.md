@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 889,
-  quote: "The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be.",
-  author: "William James"
+  id: 639,
+  quote: "When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.",
+  author: "Pema Chodron"
 }
 ```
 
