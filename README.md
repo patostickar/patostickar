@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 119,
-  quote: "Everyone smiles in the same language.",
-  author: "null"
+  id: 490,
+  quote: "Everything that happens happens as it should, and if you observe carefully, you will find this to be so.",
+  author: "Marcus Aurelius"
 }
 ```
 
