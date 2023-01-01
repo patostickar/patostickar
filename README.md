@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1155,
-  quote: "There are people who have money and people who are rich.",
-  author: "Coco Chanel"
+  id: 1540,
+  quote: "Those who dream by day are cognizant of many things which escape those who dream only by night.",
+  author: "Edgar Allan Poe"
 }
 ```
 
