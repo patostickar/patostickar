@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 67,
-  quote: "I never think of the future. It comes soon enough.",
-  author: "Albert Einstein"
+  id: 992,
+  quote: "There is no great genius without some touch of madness.",
+  author: "Seneca"
 }
 ```
 
