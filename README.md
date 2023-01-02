@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 218,
-  quote: "Either you run the day or the day runs you.",
-  author: "Jim Rohn"
+  id: 1141,
+  quote: "Nobody can do everything, but everybody can do something.",
+  author: "null"
 }
 ```
 
