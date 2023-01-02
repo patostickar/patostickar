@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 358,
-  quote: "Invent your world. Surround yourself with people, color, sounds, and work that nourish you.",
-  author: "null"
+  id: 1267,
+  quote: "All truths are easy to understand once they are discovered; the point is to discover them.",
+  author: "Galileo Galilei"
 }
 ```
 
