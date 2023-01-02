@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 408,
-  quote: "Don't leave a stone unturned. It's always something, to know you have done the most you could.",
-  author: "Charles Dickens"
+  id: 1097,
+  quote: "No act of kindness, no matter how small, is ever wasted.",
+  author: "Aesop"
 }
 ```
 
