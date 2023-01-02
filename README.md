@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 308,
-  quote: "Just as a candle cannot burn without fire, men cannot live without a spiritual life.",
-  author: "Buddha"
+  id: 358,
+  quote: "Invent your world. Surround yourself with people, color, sounds, and work that nourish you.",
+  author: "null"
 }
 ```
 
