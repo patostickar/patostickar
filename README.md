@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1083,
-  quote: "Every great advance in science has issued from a new audacity of the imagination.",
-  author: "John Dewey"
+  id: 1503,
+  quote: "This is the final test of a gentleman: his respect for those who can be of no possible value to him.",
+  author: "William Lyon Phelps"
 }
 ```
 
