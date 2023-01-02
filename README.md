@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1118,
-  quote: "Whenever something negative happens to you, there is a deep lesson concealed within it.",
-  author: "Eckhart Tolle"
+  id: 67,
+  quote: "I never think of the future. It comes soon enough.",
+  author: "Albert Einstein"
 }
 ```
 
