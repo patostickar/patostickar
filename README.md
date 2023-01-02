@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 63,
-  quote: "What you fear is that which requires action to overcome.",
-  author: "Byron Pulsifer"
+  id: 713,
+  quote: "Happiness depends upon ourselves.",
+  author: "Aristotle"
 }
 ```
 
