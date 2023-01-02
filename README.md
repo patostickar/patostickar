@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1096,
-  quote: "If we are not fully ourselves, truly in the present moment, we miss everything.",
-  author: "Thich Nhat Hanh"
+  id: 436,
+  quote: "You got to be careful if you don't know where you're going, because you might not get there.",
+  author: "Yogi Berra"
 }
 ```
 
