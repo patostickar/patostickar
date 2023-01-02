@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 812,
-  quote: "Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.",
-  author: "Peter Drucker"
+  id: 543,
+  quote: "You are always free to change your mind and choose a different future, or a different past.",
+  author: "Richard Bach"
 }
 ```
 
