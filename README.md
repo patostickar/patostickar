@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1223,
-  quote: "The most decisive actions of our life... are most often unconsidered actions.",
-  author: "Andre Gide"
+  id: 1083,
+  quote: "Every great advance in science has issued from a new audacity of the imagination.",
+  author: "John Dewey"
 }
 ```
 
