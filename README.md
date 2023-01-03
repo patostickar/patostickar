@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1243,
-  quote: "Sometimes the biggest act of courage is a small one.",
-  author: "Lauren Raffo"
+  id: 1324,
+  quote: "Obstacles are those things you see when you take your eyes off the goal.",
+  author: "Hannah More"
 }
 ```
 
