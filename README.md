@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 982,
-  quote: "The price of greatness is responsibility.",
-  author: "Winston Churchill"
+  id: 834,
+  quote: "Fear of failure is one attitude that will keep you at the same point in your life.",
+  author: "Byron Pulsifer"
 }
 ```
 
