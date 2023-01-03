@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 491,
-  quote: "What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.",
+  id: 399,
+  quote: "You are important enough to ask and you are blessed enough to receive back.",
   author: "Wayne Dyer"
 }
 ```
