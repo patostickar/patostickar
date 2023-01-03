@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 781,
-  quote: "Fear grows in darkness; if you think theres a bogeyman around, turn on the light.",
-  author: "Dorothy Thompson"
+  id: 0,
+  quote: "Genius is one percent inspiration and ninety-nine percent perspiration.",
+  author: "Thomas Edison"
 }
 ```
 
