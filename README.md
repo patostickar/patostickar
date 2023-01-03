@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1295,
-  quote: "You can never cross the ocean unless you have the courage to lose sight of the shore.",
-  author: "null"
+  id: 188,
+  quote: "No garden is without its weeds.",
+  author: "Thomas Fuller"
 }
 ```
 
