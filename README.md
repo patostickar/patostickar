@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1324,
-  quote: "Obstacles are those things you see when you take your eyes off the goal.",
-  author: "Hannah More"
+  id: 491,
+  quote: "What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.",
+  author: "Wayne Dyer"
 }
 ```
 
