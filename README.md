@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 820,
-  quote: "The way we communicate with others and with ourselves ultimately determines the quality of our lives.",
-  author: "Tony Robbins"
+  id: 1491,
+  quote: "Knowledge has three degrees opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.",
+  author: "Plotinus"
 }
 ```
 
