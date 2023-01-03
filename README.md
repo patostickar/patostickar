@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 188,
-  quote: "No garden is without its weeds.",
-  author: "Thomas Fuller"
+  id: 1449,
+  quote: "To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.",
+  author: "Pema Chodron"
 }
 ```
 
