@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 0,
-  quote: "Genius is one percent inspiration and ninety-nine percent perspiration.",
-  author: "Thomas Edison"
+  id: 1310,
+  quote: "We make a living by what we get, but we make a life by what we give.",
+  author: "Winston Churchill"
 }
 ```
 
