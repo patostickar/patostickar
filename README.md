@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 399,
-  quote: "You are important enough to ask and you are blessed enough to receive back.",
-  author: "Wayne Dyer"
+  id: 357,
+  quote: "You have to do your own growing no matter how tall your grandfather was.",
+  author: "Abraham Lincoln"
 }
 ```
 
