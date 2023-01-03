@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1449,
-  quote: "To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.",
-  author: "Pema Chodron"
+  id: 781,
+  quote: "Fear grows in darkness; if you think theres a bogeyman around, turn on the light.",
+  author: "Dorothy Thompson"
 }
 ```
 
