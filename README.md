@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 888,
-  quote: "Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.",
-  author: "Winston Churchill"
+  id: 36,
+  quote: "From small beginnings come great things.",
+  author: "null"
 }
 ```
 
