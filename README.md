@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1230,
-  quote: "Keep silence for the most part, and speak only when you must, and then briefly.",
-  author: "Epictetus"
+  id: 864,
+  quote: "Ability is what you're capable of doing. Motivation determines what you do.Attitude determines how well you do it.",
+  author: "Lou Holtz"
 }
 ```
 
