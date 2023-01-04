@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 864,
-  quote: "Ability is what you're capable of doing. Motivation determines what you do.Attitude determines how well you do it.",
-  author: "Lou Holtz"
+  id: 201,
+  quote: "Autumn is a second spring when every leaf is a flower.",
+  author: "Albert Camus"
 }
 ```
 
