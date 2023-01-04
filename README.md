@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 52,
-  quote: "Do, or do not. There is no try.",
-  author: "Yoda"
+  id: 1495,
+  quote: "You can complain because roses have thorns, or you can rejoice because thorns have roses.",
+  author: "Ziggy"
 }
 ```
 
