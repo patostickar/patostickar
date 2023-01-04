@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 943,
-  quote: "Always be mindful of the kindness and not the faults of others.",
-  author: "Buddha"
+  id: 212,
+  quote: "A prudent question is one half of wisdom.",
+  author: "Francis Bacon"
 }
 ```
 
