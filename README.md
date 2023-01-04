@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1310,
-  quote: "We make a living by what we get, but we make a life by what we give.",
-  author: "Winston Churchill"
+  id: 1230,
+  quote: "Keep silence for the most part, and speak only when you must, and then briefly.",
+  author: "Epictetus"
 }
 ```
 
