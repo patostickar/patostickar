@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1536,
-  quote: "Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.",
-  author: "Voltaire"
+  id: 293,
+  quote: "If we did the things we are capable of, we would astound ourselves.",
+  author: "Thomas Edison"
 }
 ```
 
