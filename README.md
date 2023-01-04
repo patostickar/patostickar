@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 36,
-  quote: "From small beginnings come great things.",
-  author: "null"
+  id: 1465,
+  quote: "Be yourself; everyone else is already taken.",
+  author: "Oscar Wilde"
 }
 ```
 
