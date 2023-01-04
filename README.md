@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 293,
-  quote: "If we did the things we are capable of, we would astound ourselves.",
-  author: "Thomas Edison"
+  id: 370,
+  quote: "Before you put on a frown, make absolutely sure there are no smiles available.",
+  author: "Jim Beggs"
 }
 ```
 
