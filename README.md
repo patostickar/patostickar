@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 986,
-  quote: "We cannot solve our problems with the same thinking we used when we created them.",
-  author: "Albert Einstein"
+  id: 470,
+  quote: "The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.",
+  author: "Buddha"
 }
 ```
 
