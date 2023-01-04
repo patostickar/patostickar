@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1323,
-  quote: "To fly as fast as thought, you must begin by knowing that you have already arrived.",
-  author: "Richard Bach"
+  id: 943,
+  quote: "Always be mindful of the kindness and not the faults of others.",
+  author: "Buddha"
 }
 ```
 
