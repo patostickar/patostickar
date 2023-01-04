@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 195,
-  quote: "Fortune befriends the bold.",
-  author: "John Dryden"
+  id: 1536,
+  quote: "Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.",
+  author: "Voltaire"
 }
 ```
 
