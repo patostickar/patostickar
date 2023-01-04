@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 51,
-  quote: "A weed is no more than a flower in disguise.",
-  author: "James Lowell"
+  id: 986,
+  quote: "We cannot solve our problems with the same thinking we used when we created them.",
+  author: "Albert Einstein"
 }
 ```
 
