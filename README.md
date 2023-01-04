@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1495,
-  quote: "You can complain because roses have thorns, or you can rejoice because thorns have roses.",
-  author: "Ziggy"
+  id: 1381,
+  quote: "Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.",
+  author: "Dhammapada"
 }
 ```
 
