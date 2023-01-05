@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1328,
-  quote: "You are the only person on earth who can use your ability.",
-  author: "Zig Ziglar"
+  id: 535,
+  quote: "How wonderful that we have met with a paradox. Now we have some hope of making progress.",
+  author: "Niels Bohr"
 }
 ```
 
