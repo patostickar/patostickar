@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 28,
-  quote: "From error to error one discovers the entire truth.",
-  author: "Sigmund Freud"
+  id: 213,
+  quote: "The path to success is to take massive, determined action.",
+  author: "Tony Robbins"
 }
 ```
 
