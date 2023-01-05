@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1220,
-  quote: "To be great is to be misunderstood.",
-  author: "Ralph Emerson"
+  id: 301,
+  quote: "If you get up one more time than you fall, you will make it through.",
+  author: "null"
 }
 ```
 
