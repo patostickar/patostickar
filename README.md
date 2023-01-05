@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 212,
-  quote: "A prudent question is one half of wisdom.",
-  author: "Francis Bacon"
+  id: 806,
+  quote: "You may only be someone in the world, but to someone else, you may be the world.",
+  author: "null"
 }
 ```
 
