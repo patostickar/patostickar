@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1083,
-  quote: "Every great advance in science has issued from a new audacity of the imagination.",
-  author: "John Dewey"
+  id: 1039,
+  quote: "The place to improve the world is first in one's own heart and head and hands.",
+  author: "Robert M. Pirsig"
 }
 ```
 
