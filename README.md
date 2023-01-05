@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 844,
-  quote: "Until you make peace with who you are, you will never be content with what you have.",
-  author: "Doris Mortman"
+  id: 1000,
+  quote: "Everything that exists is in a manner the seed of that which will be.",
+  author: "Marcus Aurelius"
 }
 ```
 
