@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 868,
-  quote: "Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.",
-  author: "Margaret Laurence"
+  id: 191,
+  quote: "Problems are only opportunities with thorns on them.",
+  author: "Hugh Miller"
 }
 ```
 
