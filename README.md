@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1003,
-  quote: "Only those who dare to fail greatly can ever achieve greatly.",
-  author: "Robert Kennedy"
+  id: 1053,
+  quote: "When anger use your energy to do something productive.",
+  author: "C. Pulsifer"
 }
 ```
 
