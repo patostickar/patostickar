@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1266,
-  quote: "Courage is not the absence of fear, but simply moving on with dignity despite that fear.",
-  author: "Pat Riley"
+  id: 489,
+  quote: "The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.",
+  author: "Anais Nin"
 }
 ```
 
