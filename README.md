@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 308,
-  quote: "Just as a candle cannot burn without fire, men cannot live without a spiritual life.",
-  author: "Buddha"
+  id: 844,
+  quote: "Until you make peace with who you are, you will never be content with what you have.",
+  author: "Doris Mortman"
 }
 ```
 
