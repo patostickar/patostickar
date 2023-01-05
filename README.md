@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 191,
-  quote: "Problems are only opportunities with thorns on them.",
-  author: "Hugh Miller"
+  id: 1028,
+  quote: "There are no failures just experiences and your reactions to them.",
+  author: "Tom Krause"
 }
 ```
 
