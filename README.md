@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 116,
-  quote: "Silence is a fence around wisdom.",
-  author: "German proverb"
+  id: 177,
+  quote: "Our strength grows out of our weaknesses.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
