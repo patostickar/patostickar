@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 54,
-  quote: "The best teacher is experience learned from failures.",
-  author: "Byron Pulsifer"
+  id: 1260,
+  quote: "Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.",
+  author: "Whoopi Goldberg"
 }
 ```
 
