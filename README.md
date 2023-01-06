@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 206,
-  quote: "Pick battles big enough to matter, small enough to win.",
-  author: "Jonathan Kozol"
+  id: 54,
+  quote: "The best teacher is experience learned from failures.",
+  author: "Byron Pulsifer"
 }
 ```
 
