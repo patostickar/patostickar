@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1622,
-  quote: "Music in the soul can be heard by the universe.",
-  author: "Lao Tzu"
+  id: 472,
+  quote: "Patience is a virtue but you will never ever accomplish anything if you don't exercise action over patience.",
+  author: "Byron Pulsifer"
 }
 ```
 
