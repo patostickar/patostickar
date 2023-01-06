@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 820,
-  quote: "The way we communicate with others and with ourselves ultimately determines the quality of our lives.",
-  author: "Tony Robbins"
+  id: 637,
+  quote: "Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.",
+  author: "Richard Bach"
 }
 ```
 
