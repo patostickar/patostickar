@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1070,
-  quote: "Excellence is not a skill. It is an attitude.",
-  author: "Ralph Marston"
+  id: 17,
+  quote: "Every man dies. Not every man really lives.",
+  author: "null"
 }
 ```
 
