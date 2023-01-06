@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1275,
-  quote: "Logic will get you from A to B. Imagination will take you everywhere.",
-  author: "Albert Einstein"
+  id: 1497,
+  quote: "A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.",
+  author: "Lao Tzu"
 }
 ```
 
