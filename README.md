@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1613,
-  quote: "The only way to have a friend is to be one.",
-  author: "Ralph Emerson"
+  id: 925,
+  quote: "He who conquers others is strong; He who conquers himself is mighty.",
+  author: "Lao Tzu"
 }
 ```
 
