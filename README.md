@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 207,
-  quote: "Don't compromise yourself. You are all you've got.",
-  author: "Janis Joplin"
+  id: 1173,
+  quote: "I may not know everything, but everything is not known yet anyway.",
+  author: "Byron Pulsifer"
 }
 ```
 
