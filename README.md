@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1198,
-  quote: "When I let go of what I am, I become what I might be.",
-  author: "Lao Tzu"
+  id: 697,
+  quote: "The person who lives life fully, glowing with life's energy, is the person who lives a successful life.",
+  author: "Daisaku Ikeda"
 }
 ```
 
