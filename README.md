@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 323,
-  quote: "Reviewing what you have learned and learning anew, you are fit to be a teacher.",
-  author: "Confucius"
+  id: 1421,
+  quote: "By accepting yourself and being fully what you are, your presence can make others happy.",
+  author: "Jane Roberts"
 }
 ```
 
