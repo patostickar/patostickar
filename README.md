@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1433,
-  quote: "I gave my life to become the person I am right now. Was it worth it?",
-  author: "Richard Bach"
+  id: 676,
+  quote: "Everyone has been made for some particular work, and the desire for that work has been put in every heart.",
+  author: "Rumi"
 }
 ```
 
