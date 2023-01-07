@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 97,
-  quote: "Smile, breathe, and go slowly.",
-  author: "Thich Nhat Hanh"
+  id: 443,
+  quote: "Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.",
+  author: "M. Scott Peck"
 }
 ```
 
