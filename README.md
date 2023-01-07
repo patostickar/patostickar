@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1358,
-  quote: "The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.",
-  author: "Anais Nin"
+  id: 590,
+  quote: "Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.",
+  author: "Winston Churchill"
 }
 ```
 
