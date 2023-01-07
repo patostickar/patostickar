@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 472,
-  quote: "Patience is a virtue but you will never ever accomplish anything if you don't exercise action over patience.",
-  author: "Byron Pulsifer"
+  id: 864,
+  quote: "Ability is what you're capable of doing. Motivation determines what you do.Attitude determines how well you do it.",
+  author: "Lou Holtz"
 }
 ```
 
