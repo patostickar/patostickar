@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1070,
-  quote: "Excellence is not a skill. It is an attitude.",
-  author: "Ralph Marston"
+  id: 528,
+  quote: "The real measure of your wealth is how much youd be worth if you lost all your money.",
+  author: "null"
 }
 ```
 
