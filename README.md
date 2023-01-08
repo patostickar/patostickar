@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 729,
-  quote: "You can't trust without risk but neither can you live in a cocoon.",
-  author: "Byron Pulsifer"
+  id: 951,
+  quote: "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+  author: "Robert Stevenson"
 }
 ```
 
