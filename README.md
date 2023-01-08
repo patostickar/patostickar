@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1165,
-  quote: "It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.",
-  author: "Dalai Lama"
+  id: 729,
+  quote: "You can't trust without risk but neither can you live in a cocoon.",
+  author: "Byron Pulsifer"
 }
 ```
 
