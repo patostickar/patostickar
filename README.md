@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1606,
-  quote: "To know your purpose is to live a life of direction, and in that direction is found peace and tranquillity.",
-  author: "Byron Pulsifer"
+  id: 542,
+  quote: "Don't wait for your feelings to change to take the action. Take the action and your feelings will change.",
+  author: "Barbara Baron"
 }
 ```
 
