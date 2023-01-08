@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 547,
-  quote: "To be what we are, and to become what we are capable of becoming, is the only end of life.",
-  author: "Robert Stevenson"
+  id: 729,
+  quote: "You can't trust without risk but neither can you live in a cocoon.",
+  author: "Byron Pulsifer"
 }
 ```
 
