@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 307,
-  quote: "The universe is full of magical things, patiently waiting for our wits to grow sharper.",
-  author: "Eden Phillpotts"
+  id: 1407,
+  quote: "We must learn our limits. We are all something, but none of us are everything.",
+  author: "Blaise Pascal"
 }
 ```
 
