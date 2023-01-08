@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 528,
-  quote: "The real measure of your wealth is how much youd be worth if you lost all your money.",
+  id: 985,
+  quote: "The world does not happen to you it happens from you.",
   author: "null"
 }
 ```
