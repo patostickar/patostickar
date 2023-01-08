@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1517,
-  quote: "It is through science that we prove, but through intuition that we discover.",
-  author: "Jules Poincare"
+  id: 1070,
+  quote: "Excellence is not a skill. It is an attitude.",
+  author: "Ralph Marston"
 }
 ```
 
