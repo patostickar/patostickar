@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 166,
-  quote: "Change your thoughts, change your life!",
-  author: "null"
+  id: 1517,
+  quote: "It is through science that we prove, but through intuition that we discover.",
+  author: "Jules Poincare"
 }
 ```
 
