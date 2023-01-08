@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 304,
-  quote: "Happiness comes when your work and words are of benefit to yourself and others.",
-  author: "Buddha"
+  id: 547,
+  quote: "To be what we are, and to become what we are capable of becoming, is the only end of life.",
+  author: "Robert Stevenson"
 }
 ```
 
