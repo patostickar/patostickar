@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 951,
-  quote: "Don't judge each day by the harvest you reap but by the seeds that you plant.",
-  author: "Robert Stevenson"
+  id: 229,
+  quote: "Be great in act, as you have been in thought.",
+  author: "William Shakespeare"
 }
 ```
 
