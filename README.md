@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 985,
-  quote: "The world does not happen to you it happens from you.",
-  author: "null"
+  id: 750,
+  quote: "The day you decide to do it is your lucky day.",
+  author: "Japanese proverb"
 }
 ```
 
