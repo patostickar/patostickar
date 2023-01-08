@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 750,
-  quote: "The day you decide to do it is your lucky day.",
-  author: "Japanese proverb"
+  id: 307,
+  quote: "The universe is full of magical things, patiently waiting for our wits to grow sharper.",
+  author: "Eden Phillpotts"
 }
 ```
 
