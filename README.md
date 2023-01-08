@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 251,
-  quote: "Time you enjoy wasting, was not wasted.",
-  author: "John Lennon"
+  id: 1101,
+  quote: "Change your words. Change your world.",
+  author: "null"
 }
 ```
 
