@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 55,
-  quote: "Think how hard physics would be if particles could think.",
-  author: "Murray Gell-Mann"
+  id: 1259,
+  quote: "Things turn out best for those who make the best of the way things turn out.",
+  author: "Jack Buck"
 }
 ```
 
