@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 193,
-  quote: "Mountains cannot be surmounted except by winding paths.",
-  author: "Johann Wolfgang von Goethe"
+  id: 800,
+  quote: "A smile is a light in the window of your face to show your heart is at home.",
+  author: "null"
 }
 ```
 
