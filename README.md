@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1477,
-  quote: "A person who never made a mistake never tried anything new.",
-  author: "Albert Einstein"
+  id: 1151,
+  quote: "Never apologize for showing feeling. When you do so, you apologize for truth.",
+  author: "Benjamin Disraeli"
 }
 ```
 
