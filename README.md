@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 269,
-  quote: "I believe that we are fundamentally the same and have the same basic potential.",
-  author: "Dalai Lama"
+  id: 973,
+  quote: "Hope arouses, as nothing else can arouse, a passion for the possible.",
+  author: "William Sloane Coffin"
 }
 ```
 
