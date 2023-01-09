@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 466,
-  quote: "We must never forget that it is through our actions, words, and thoughts that we have a choice.",
-  author: "Sogyal Rinpoche"
+  id: 1437,
+  quote: "Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.",
+  author: "Nikola Tesla"
 }
 ```
 
