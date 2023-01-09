@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 288,
-  quote: "Practice yourself, for heavens sake in little things, and then proceed to greater.",
-  author: "Epictetus"
+  id: 1178,
+  quote: "I am not afraid of tomorrow, for I have seen yesterday and I love today.",
+  author: "William White"
 }
 ```
 
