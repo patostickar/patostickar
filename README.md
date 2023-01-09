@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1178,
-  quote: "I am not afraid of tomorrow, for I have seen yesterday and I love today.",
-  author: "William White"
+  id: 466,
+  quote: "We must never forget that it is through our actions, words, and thoughts that we have a choice.",
+  author: "Sogyal Rinpoche"
 }
 ```
 
