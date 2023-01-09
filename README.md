@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 728,
-  quote: "Do not turn back when you are just at the goal.",
-  author: "Publilius Syrus"
+  id: 193,
+  quote: "Mountains cannot be surmounted except by winding paths.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
