@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1437,
-  quote: "Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.",
-  author: "Nikola Tesla"
+  id: 340,
+  quote: "I always wanted to be somebody, but I should have been more specific.",
+  author: "Lily Tomlin"
 }
 ```
 
