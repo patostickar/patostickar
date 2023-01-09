@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 800,
-  quote: "A smile is a light in the window of your face to show your heart is at home.",
-  author: "null"
+  id: 1145,
+  quote: "No matter how hard the past, you can always begin again.",
+  author: "Buddha"
 }
 ```
 
