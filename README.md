@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1259,
-  quote: "Things turn out best for those who make the best of the way things turn out.",
-  author: "Jack Buck"
+  id: 312,
+  quote: "What you do not want done to yourself, do not do to others.",
+  author: "Confucius"
 }
 ```
 
