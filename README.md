@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 312,
-  quote: "What you do not want done to yourself, do not do to others.",
-  author: "Confucius"
+  id: 497,
+  quote: "Snowflakes are one of natures most fragile things, but just look what they can do when they stick together.",
+  author: "Vista Kelly"
 }
 ```
 
