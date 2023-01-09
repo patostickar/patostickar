@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1262,
-  quote: "Ability will never catch up with the demand for it.",
-  author: "Confucius"
+  id: 1477,
+  quote: "A person who never made a mistake never tried anything new.",
+  author: "Albert Einstein"
 }
 ```
 
