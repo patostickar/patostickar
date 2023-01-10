@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1460,
-  quote: "Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.",
-  author: "Ralph Emerson"
+  id: 39,
+  quote: "The world is always in movement.",
+  author: "V. Naipaul"
 }
 ```
 
