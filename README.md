@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1423,
-  quote: "The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.",
-  author: "Johann Wolfgang von Goethe"
+  id: 1403,
+  quote: "Gratitude is not only the greatest of virtues, but the paren't of all the others.",
+  author: "Cicero"
 }
 ```
 
