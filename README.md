@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1499,
-  quote: "You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.",
-  author: "Albert Camus"
+  id: 1423,
+  quote: "The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
