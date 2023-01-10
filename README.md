@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1506,
-  quote: "Obstacles are those frightful things you see when you take your eyes off your goal.",
-  author: "Henry Ford"
+  id: 975,
+  quote: "Nothing ever goes away until it has taught us what we need to know.",
+  author: "Pema Chodron"
 }
 ```
 
