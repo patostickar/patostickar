@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 924,
-  quote: "Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving.",
-  author: "John Dewey"
+  id: 1361,
+  quote: "Be like the flower, turn your face to the sun.",
+  author: "Kahlil Gibran"
 }
 ```
 
