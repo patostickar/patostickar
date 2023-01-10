@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1566,
-  quote: "Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.",
-  author: "Jonathan Swift"
+  id: 1249,
+  quote: "The things that one most wants to do are the things that are probably most worth doing.",
+  author: "Winifred Holtby"
 }
 ```
 
