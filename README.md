@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1337,
-  quote: "Divide each difficulty into as many parts as is feasible and necessary to resolve it.",
-  author: "Rene Descartes"
+  id: 924,
+  quote: "Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving.",
+  author: "John Dewey"
 }
 ```
 
