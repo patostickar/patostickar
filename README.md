@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1015,
-  quote: "Don't talk about what you have done or what you are going to do.",
-  author: "Thomas Jefferson"
+  id: 1566,
+  quote: "Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.",
+  author: "Jonathan Swift"
 }
 ```
 
