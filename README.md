@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 103,
-  quote: "Don't ruin the present with the ruined past.",
-  author: "Ellen Gilchrist"
+  id: 1506,
+  quote: "Obstacles are those frightful things you see when you take your eyes off your goal.",
+  author: "Henry Ford"
 }
 ```
 
