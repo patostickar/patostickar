@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 377,
-  quote: "If you change the way you look at things, the things you look at change.",
-  author: "Wayne Dyer"
+  id: 1015,
+  quote: "Don't talk about what you have done or what you are going to do.",
+  author: "Thomas Jefferson"
 }
 ```
 
