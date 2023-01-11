@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 441,
-  quote: "Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.",
-  author: "Jane Addams"
+  id: 1623,
+  quote: "What we see depends mainly on what we look for.",
+  author: "John Lubbock"
 }
 ```
 
