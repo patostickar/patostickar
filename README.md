@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 243,
-  quote: "Silence is deep as Eternity, Speech is shallow as Time.",
-  author: "Carlyle"
+  id: 1448,
+  quote: "Just trust yourself, then you will know how to live.",
+  author: "Goethe"
 }
 ```
 
