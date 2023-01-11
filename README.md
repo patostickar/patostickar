@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 630,
-  quote: "This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.",
-  author: "Thomas Carlyle"
+  id: 1043,
+  quote: "Life is what you make of it. Always has been, always will be.",
+  author: "Grandma Moses"
 }
 ```
 
