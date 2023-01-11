@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 736,
-  quote: "I've never seen a smiling face that was not beautiful.",
-  author: "null"
+  id: 1186,
+  quote: "The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.",
+  author: "Pierre Abelard"
 }
 ```
 
