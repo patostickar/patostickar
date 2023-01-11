@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1623,
-  quote: "What we see depends mainly on what we look for.",
-  author: "John Lubbock"
+  id: 1190,
+  quote: "An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is colour-blind.",
+  author: "Albert Schweitzer"
 }
 ```
 
