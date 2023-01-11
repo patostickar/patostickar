@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 80,
-  quote: "Anticipate the difficult by managing the easy.",
-  author: "Lao Tzu"
+  id: 441,
+  quote: "Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.",
+  author: "Jane Addams"
 }
 ```
 
