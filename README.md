@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1094,
-  quote: "No man is free who is not master of himself.",
-  author: "Epictetus"
+  id: 736,
+  quote: "I've never seen a smiling face that was not beautiful.",
+  author: "null"
 }
 ```
 
