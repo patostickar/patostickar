@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 615,
-  quote: "There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.",
-  author: "Robert Louis Stevenson"
+  id: 1461,
+  quote: "Many people have gone further than they thought they could because someone else thought they could.",
+  author: "null"
 }
 ```
 
