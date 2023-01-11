@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 39,
-  quote: "The world is always in movement.",
-  author: "V. Naipaul"
+  id: 532,
+  quote: "Today, give a stranger a smile without waiting for it may be the joy they need to have a great day.",
+  author: "Byron Pulsifer"
 }
 ```
 
