@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1081,
-  quote: "Every human being is the author of his own health or disease.",
-  author: "Buddha"
+  id: 1501,
+  quote: "To give ones self earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.",
+  author: "Confucius"
 }
 ```
 
