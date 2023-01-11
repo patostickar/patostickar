@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1311,
-  quote: "If you want to study yourself look into the hearts of other people. If you want to study other people look into your own heart.",
-  author: "Friedrich von Schiller"
+  id: 587,
+  quote: "Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.",
+  author: "Doug Larson"
 }
 ```
 
