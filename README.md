@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1627,
-  quote: "We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.",
-  author: "Barbara De Angelis"
+  id: 816,
+  quote: "It is not the mistake that has the most power, instead, it is learning from the mistake to advance your own attributes.",
+  author: "Byron Roberts"
 }
 ```
 
