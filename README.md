@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 621,
-  quote: "To free us from the expectations of others, to give us back to ourselves there lies the great, singular power of self-respect.",
-  author: "Joan Didion"
+  id: 202,
+  quote: "If you surrender to the wind, you can ride it.",
+  author: "Toni Morrison"
 }
 ```
 
