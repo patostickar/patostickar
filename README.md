@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 387,
-  quote: "Every action of our lives touches on some chord that will vibrate in eternity.",
-  author: "Edwin Chapin"
+  id: 1219,
+  quote: "Truth, and goodness, and beauty are but different faces of the same all.",
+  author: "Ralph Emerson"
 }
 ```
 
