@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 189,
-  quote: "There is no failure except in no longer trying.",
-  author: "Elbert Hubbard"
+  id: 1433,
+  quote: "I gave my life to become the person I am right now. Was it worth it?",
+  author: "Richard Bach"
 }
 ```
 
