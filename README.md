@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 202,
-  quote: "If you surrender to the wind, you can ride it.",
-  author: "Toni Morrison"
+  id: 715,
+  quote: "If one is lucky, a solitary fantasy can totally transform one million realities.",
+  author: "Maya Angelou"
 }
 ```
 
