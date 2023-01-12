@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1219,
-  quote: "Truth, and goodness, and beauty are but different faces of the same all.",
-  author: "Ralph Emerson"
+  id: 322,
+  quote: "If you don't like something, change it. If you can't change it, change your attitude.",
+  author: "Maya Angelou"
 }
 ```
 
