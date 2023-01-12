@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1056,
-  quote: "He who lives in harmony with himself lives in harmony with the world.",
-  author: "Marcus Aurelius"
+  id: 695,
+  quote: "You can't create in a vacuum. Life gives you the material and dreams can propel new beginnings.",
+  author: "Byron Pulsifer"
 }
 ```
 
