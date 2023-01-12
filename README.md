@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1003,
-  quote: "Only those who dare to fail greatly can ever achieve greatly.",
-  author: "Robert Kennedy"
+  id: 1056,
+  quote: "He who lives in harmony with himself lives in harmony with the world.",
+  author: "Marcus Aurelius"
 }
 ```
 
