@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 718,
-  quote: "Happiness is not something ready made. It comes from your own actions.",
-  author: "Dalai Lama"
+  id: 105,
+  quote: "We do what we do because we believe.",
+  author: "null"
 }
 ```
 
