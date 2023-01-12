@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1052,
-  quote: "The greatest obstacle to connecting with our joy is resentment.",
+  id: 1449,
+  quote: "To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.",
   author: "Pema Chodron"
 }
 ```
