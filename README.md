@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 925,
-  quote: "He who conquers others is strong; He who conquers himself is mighty.",
+  id: 1234,
+  quote: "To see things in the seed, that is genius.",
   author: "Lao Tzu"
 }
 ```
