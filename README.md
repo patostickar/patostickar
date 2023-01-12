@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1433,
-  quote: "I gave my life to become the person I am right now. Was it worth it?",
-  author: "Richard Bach"
+  id: 621,
+  quote: "To free us from the expectations of others, to give us back to ourselves there lies the great, singular power of self-respect.",
+  author: "Joan Didion"
 }
 ```
 
