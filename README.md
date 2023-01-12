@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 715,
-  quote: "If one is lucky, a solitary fantasy can totally transform one million realities.",
-  author: "Maya Angelou"
+  id: 718,
+  quote: "Happiness is not something ready made. It comes from your own actions.",
+  author: "Dalai Lama"
 }
 ```
 
