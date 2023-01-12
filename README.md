@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 845,
-  quote: "No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.",
-  author: "Buddha"
+  id: 1627,
+  quote: "We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.",
+  author: "Barbara De Angelis"
 }
 ```
 
