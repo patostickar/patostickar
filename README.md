@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 322,
-  quote: "If you don't like something, change it. If you can't change it, change your attitude.",
-  author: "Maya Angelou"
+  id: 183,
+  quote: "Fortune favours the brave.",
+  author: "Virgil"
 }
 ```
 
