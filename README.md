@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1449,
-  quote: "To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.",
-  author: "Pema Chodron"
+  id: 1433,
+  quote: "I gave my life to become the person I am right now. Was it worth it?",
+  author: "Richard Bach"
 }
 ```
 
