@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 183,
-  quote: "Fortune favours the brave.",
-  author: "Virgil"
+  id: 845,
+  quote: "No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.",
+  author: "Buddha"
 }
 ```
 
