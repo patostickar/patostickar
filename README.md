@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 105,
-  quote: "We do what we do because we believe.",
-  author: "null"
+  id: 1052,
+  quote: "The greatest obstacle to connecting with our joy is resentment.",
+  author: "Pema Chodron"
 }
 ```
 
