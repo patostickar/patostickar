@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 695,
-  quote: "You can't create in a vacuum. Life gives you the material and dreams can propel new beginnings.",
-  author: "Byron Pulsifer"
+  id: 387,
+  quote: "Every action of our lives touches on some chord that will vibrate in eternity.",
+  author: "Edwin Chapin"
 }
 ```
 
