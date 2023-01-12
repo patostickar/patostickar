@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 236,
-  quote: "The journey of a thousand miles begins with one step.",
+  id: 925,
+  quote: "He who conquers others is strong; He who conquers himself is mighty.",
   author: "Lao Tzu"
 }
 ```
