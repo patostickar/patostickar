@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 238,
-  quote: "Blaze with the fire that is never extinguished.",
-  author: "Luisa Sigea"
+  id: 851,
+  quote: "The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.",
+  author: "Mortimer Adler"
 }
 ```
 
