@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 688,
-  quote: "I can't change the direction of the wind, but I can adjust my sails to always reach my destination.",
-  author: "Jimmy Dean"
+  id: 323,
+  quote: "Reviewing what you have learned and learning anew, you are fit to be a teacher.",
+  author: "Confucius"
 }
 ```
 
