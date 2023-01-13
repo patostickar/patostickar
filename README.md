@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 802,
-  quote: "Trust your own instinct. Your mistakes might as well be your own, instead of someone elses.",
-  author: "Billy Wilder"
+  id: 856,
+  quote: "Nobody made a greater mistake than he who did nothing because he could do only a little.",
+  author: "Edmund Burke"
 }
 ```
 
