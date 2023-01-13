@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1279,
-  quote: "To be happy is to be able to become aware of oneself without fright.",
-  author: "Walter Benjamin"
+  id: 688,
+  quote: "I can't change the direction of the wind, but I can adjust my sails to always reach my destination.",
+  author: "Jimmy Dean"
 }
 ```
 
