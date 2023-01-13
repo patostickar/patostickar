@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 964,
-  quote: "Better than a thousand hollow words, is one word that brings peace.",
-  author: "Buddha"
+  id: 351,
+  quote: "Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.",
+  author: "John Adams"
 }
 ```
 
