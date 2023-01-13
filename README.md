@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 187,
-  quote: "I destroy my enemies when I make them my friends.",
-  author: "Abraham Lincoln"
+  id: 1279,
+  quote: "To be happy is to be able to become aware of oneself without fright.",
+  author: "Walter Benjamin"
 }
 ```
 
