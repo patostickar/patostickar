@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1617,
-  quote: "There is never enough time to do everything, but there is always enough time to do the most important thing.",
-  author: "Brian Tracy"
+  id: 597,
+  quote: "I am not bothered by the fact that I am unknown. I am bothered when I do not know others.",
+  author: "Confucius"
 }
 ```
 
