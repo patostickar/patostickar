@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 323,
-  quote: "Reviewing what you have learned and learning anew, you are fit to be a teacher.",
-  author: "Confucius"
+  id: 505,
+  quote: "Consider how hard it is to change yourself and you'll understand what little chance you have in trying to change others.",
+  author: "Jacob Braude"
 }
 ```
 
