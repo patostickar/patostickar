@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1589,
-  quote: "Wise men talk because they have something to say; fools, because they have to say something.",
-  author: "Plato"
+  id: 1575,
+  quote: "Flow with whatever is happening and let your mind be free. Stay centred by accepting whatever you are doing. This is the ultimate.",
+  author: "Chuang Tzu"
 }
 ```
 
