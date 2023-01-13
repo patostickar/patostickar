@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 641,
-  quote: "Wisdom is knowing what to do next; Skill is knowing how ot do it, and Virtue is doing it.",
-  author: "David Jordan"
+  id: 873,
+  quote: "Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.",
+  author: "Jean-Paul Sartre"
 }
 ```
 
