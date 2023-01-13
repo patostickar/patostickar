@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 789,
-  quote: "Not what we have but what we enjoy constitutes our abundance.",
-  author: "John Petit-Senn"
+  id: 964,
+  quote: "Better than a thousand hollow words, is one word that brings peace.",
+  author: "Buddha"
 }
 ```
 
