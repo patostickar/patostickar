@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 638,
-  quote: "When you are content to be simply yourself and don't compare or compete, everybody will respect you.",
-  author: "Lao Tzu"
+  id: 641,
+  quote: "Wisdom is knowing what to do next; Skill is knowing how ot do it, and Virtue is doing it.",
+  author: "David Jordan"
 }
 ```
 
