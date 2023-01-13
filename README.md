@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 77,
-  quote: "Faith in oneself is the best and safest course.",
-  author: "Michelangelo"
+  id: 187,
+  quote: "I destroy my enemies when I make them my friends.",
+  author: "Abraham Lincoln"
 }
 ```
 
