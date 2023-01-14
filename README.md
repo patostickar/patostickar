@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1365,
-  quote: "If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?",
-  author: "Confucius"
+  id: 292,
+  quote: "To be upset over what you don't have is to waste what you do have.",
+  author: "Ken S. Keyes"
 }
 ```
 
