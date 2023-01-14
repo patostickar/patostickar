@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 775,
-  quote: "Can you imagine what I would do if I could do all I can?",
-  author: "Sun Tzu"
+  id: 551,
+  quote: "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.",
+  author: "null"
 }
 ```
 
