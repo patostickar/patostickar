@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 67,
-  quote: "I never think of the future. It comes soon enough.",
-  author: "Albert Einstein"
+  id: 1365,
+  quote: "If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?",
+  author: "Confucius"
 }
 ```
 
