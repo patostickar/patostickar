@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1127,
-  quote: "The time you think you're missing, misses you too.",
-  author: "Ymber Delecto"
+  id: 1585,
+  quote: "The true way to render ourselves happy is to love our work and find in it our pleasure.",
+  author: "Francoise de Motteville"
 }
 ```
 
