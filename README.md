@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1200,
-  quote: "Time is not a measure the length of a day or month or year but more a measure of what you have accomplished.",
-  author: "Byron Pulsifer"
+  id: 204,
+  quote: "Write your plans in pencil and give God the eraser.",
+  author: "Paulo Coelho"
 }
 ```
 
