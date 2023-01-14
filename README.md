@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1585,
-  quote: "The true way to render ourselves happy is to love our work and find in it our pleasure.",
-  author: "Francoise de Motteville"
+  id: 494,
+  quote: "When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.",
+  author: "Confucius"
 }
 ```
 
