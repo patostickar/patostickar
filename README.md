@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1487,
-  quote: "What the caterpillar calls the end of the world, the master calls a butterfly.",
-  author: "Richard Bach"
+  id: 255,
+  quote: "Never put off till tomorrow what you can do today.",
+  author: "Thomas Jefferson"
 }
 ```
 
