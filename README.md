@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1500,
-  quote: "Genuine sincerity opens people's hearts, while manipulation causes them to close.",
-  author: "Daisaku Ikeda"
+  id: 792,
+  quote: "In the long run we get no more than we have been willing to risk giving.",
+  author: "Sheldon Kopp"
 }
 ```
 
