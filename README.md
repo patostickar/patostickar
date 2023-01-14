@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 217,
-  quote: "There is no way to prosperity, prosperity is the way.",
-  author: "Wayne Dyer"
+  id: 67,
+  quote: "I never think of the future. It comes soon enough.",
+  author: "Albert Einstein"
 }
 ```
 
