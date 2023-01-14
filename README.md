@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 494,
-  quote: "When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.",
-  author: "Confucius"
+  id: 1531,
+  quote: "If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow.",
+  author: "Rachel Carson"
 }
 ```
 
