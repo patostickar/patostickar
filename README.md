@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 695,
-  quote: "You can't create in a vacuum. Life gives you the material and dreams can propel new beginnings.",
-  author: "Byron Pulsifer"
+  id: 1500,
+  quote: "Genuine sincerity opens people's hearts, while manipulation causes them to close.",
+  author: "Daisaku Ikeda"
 }
 ```
 
