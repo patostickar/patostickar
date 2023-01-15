@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 328,
-  quote: "How we spend our days is, of course, how we spend our lives.",
-  author: "Annie Dillard"
+  id: 1497,
+  quote: "A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.",
+  author: "Lao Tzu"
 }
 ```
 
