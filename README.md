@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 21,
-  quote: "A rolling stone gathers no moss.",
-  author: "Publilius Syrus"
+  id: 841,
+  quote: "The Creator has not given you a longing to do that which you have no ability to do.",
+  author: "Orison Marden"
 }
 ```
 
