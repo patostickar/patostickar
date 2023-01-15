@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 348,
-  quote: "If you correct your mind, the rest of your life will fall into place.",
-  author: "Lao Tzu"
+  id: 742,
+  quote: "Watch the little things; a small leak will sink a great ship.",
+  author: "Benjamin Franklin"
 }
 ```
 
