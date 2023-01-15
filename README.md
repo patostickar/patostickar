@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 796,
-  quote: "A life spent making mistakes is not only more honourable, but more useful than a life spent doing nothing.",
-  author: "George Bernard Shaw"
+  id: 1030,
+  quote: "What is necessary to change a person is to change his awareness of himself.",
+  author: "Abraham Maslow"
 }
 ```
 
