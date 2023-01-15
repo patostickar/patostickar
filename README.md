@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 835,
-  quote: "Friends are those rare people who ask how we are and then wait to hear the answer.",
-  author: "Ed Cunningham"
+  id: 600,
+  quote: "If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.",
+  author: "Barack Obama"
 }
 ```
 
