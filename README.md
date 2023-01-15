@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 479,
-  quote: "Every man takes the limits of his own field of vision for the limits of the world.",
-  author: "Arthur Schopenhauer"
+  id: 348,
+  quote: "If you correct your mind, the rest of your life will fall into place.",
+  author: "Lao Tzu"
 }
 ```
 
