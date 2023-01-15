@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 742,
-  quote: "Watch the little things; a small leak will sink a great ship.",
-  author: "Benjamin Franklin"
+  id: 796,
+  quote: "A life spent making mistakes is not only more honourable, but more useful than a life spent doing nothing.",
+  author: "George Bernard Shaw"
 }
 ```
 
