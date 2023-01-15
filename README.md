@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 645,
-  quote: "To accomplish great things, we must not only act, but also dream; not only plan, but also believe.",
-  author: "Anatole France"
+  id: 836,
+  quote: "If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.",
+  author: "Pema Chodron"
 }
 ```
 
