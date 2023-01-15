@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1133,
-  quote: "Progress always involves risks. You can't steal second base and keep your foot on first.",
-  author: "Frederick Wilcox"
+  id: 835,
+  quote: "Friends are those rare people who ask how we are and then wait to hear the answer.",
+  author: "Ed Cunningham"
 }
 ```
 
