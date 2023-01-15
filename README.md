@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 983,
-  quote: "Decision is a risk rooted in the courage of being free.",
-  author: "Paul Tillich"
+  id: 1281,
+  quote: "Make the most of yourself for that is all there is of you.",
+  author: "Ralph Emerson"
 }
 ```
 
