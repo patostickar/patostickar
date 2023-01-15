@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 600,
-  quote: "If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.",
-  author: "Barack Obama"
+  id: 645,
+  quote: "To accomplish great things, we must not only act, but also dream; not only plan, but also believe.",
+  author: "Anatole France"
 }
 ```
 
