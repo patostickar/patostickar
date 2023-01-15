@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 836,
-  quote: "If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.",
-  author: "Pema Chodron"
+  id: 1386,
+  quote: "Learn to listen. Opportunity could be knocking at your door very softly.",
+  author: "Frank Tyger"
 }
 ```
 
