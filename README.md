@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1030,
-  quote: "What is necessary to change a person is to change his awareness of himself.",
-  author: "Abraham Maslow"
+  id: 328,
+  quote: "How we spend our days is, of course, how we spend our lives.",
+  author: "Annie Dillard"
 }
 ```
 
