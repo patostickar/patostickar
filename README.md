@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1472,
-  quote: "Good thoughts are no better than good dreams, unless they be executed.",
-  author: "Ralph Emerson"
+  id: 21,
+  quote: "A rolling stone gathers no moss.",
+  author: "Publilius Syrus"
 }
 ```
 
