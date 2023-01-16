@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 29,
-  quote: "Well done is better than well said.",
-  author: "Benjamin Franklin"
+  id: 453,
+  quote: "Everyone can taste success when the going is easy, but few know how to taste victory when times get tough.",
+  author: "Byron Pulsifer"
 }
 ```
 
