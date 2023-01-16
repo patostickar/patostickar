@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 239,
-  quote: "Don't cry because it's over. Smile because it happened.",
-  author: "Dr. Seuss"
+  id: 1030,
+  quote: "What is necessary to change a person is to change his awareness of himself.",
+  author: "Abraham Maslow"
 }
 ```
 
