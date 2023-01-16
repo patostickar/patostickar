@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 971,
-  quote: "Go put your creed into the deed. Nor speak with double tongue.",
-  author: "Ralph Emerson"
+  id: 1109,
+  quote: "The one who always loses, is the only person who gets the reward.",
+  author: "Claire Charmont"
 }
 ```
 
