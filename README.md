@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1053,
-  quote: "When anger use your energy to do something productive.",
-  author: "C. Pulsifer"
+  id: 254,
+  quote: "I have often regretted my speech, never my silence.",
+  author: "Publilius Syrus"
 }
 ```
 
