@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 845,
-  quote: "No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.",
-  author: "Buddha"
+  id: 951,
+  quote: "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+  author: "Robert Stevenson"
 }
 ```
 
