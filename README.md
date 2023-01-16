@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 841,
-  quote: "The Creator has not given you a longing to do that which you have no ability to do.",
-  author: "Orison Marden"
+  id: 1373,
+  quote: "There is nothing impossible to him who will try.",
+  author: "Alexander the Great"
 }
 ```
 
