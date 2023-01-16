@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1030,
-  quote: "What is necessary to change a person is to change his awareness of himself.",
-  author: "Abraham Maslow"
+  id: 1177,
+  quote: "Keep your eyes on the stars and your feet on the ground.",
+  author: "Theodore Roosevelt"
 }
 ```
 
