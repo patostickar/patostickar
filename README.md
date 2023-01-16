@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 109,
-  quote: "What we think, we become.",
-  author: "Buddha"
+  id: 1053,
+  quote: "When anger use your energy to do something productive.",
+  author: "C. Pulsifer"
 }
 ```
 
