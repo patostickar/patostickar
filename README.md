@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1373,
-  quote: "There is nothing impossible to him who will try.",
-  author: "Alexander the Great"
+  id: 1136,
+  quote: "Always do your best. What you plant now, you will harvest later.",
+  author: "Og Mandino"
 }
 ```
 
