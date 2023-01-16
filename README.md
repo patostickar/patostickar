@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 67,
-  quote: "I never think of the future. It comes soon enough.",
-  author: "Albert Einstein"
+  id: 998,
+  quote: "Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.",
+  author: "Arthur Conan Doyle"
 }
 ```
 
