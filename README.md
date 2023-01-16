@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 254,
-  quote: "I have often regretted my speech, never my silence.",
-  author: "Publilius Syrus"
+  id: 239,
+  quote: "Don't cry because it's over. Smile because it happened.",
+  author: "Dr. Seuss"
 }
 ```
 
