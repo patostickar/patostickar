@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1236,
-  quote: "Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.",
-  author: "Douglas Adams"
+  id: 845,
+  quote: "No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.",
+  author: "Buddha"
 }
 ```
 
