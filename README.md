@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 656,
-  quote: "Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.",
-  author: "Julie Morgenstern"
+  id: 67,
+  quote: "I never think of the future. It comes soon enough.",
+  author: "Albert Einstein"
 }
 ```
 
