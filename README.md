@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 456,
-  quote: "Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven.",
-  author: "Lao Tzu"
+  id: 1365,
+  quote: "If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?",
+  author: "Confucius"
 }
 ```
 
