@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1142,
-  quote: "The world has the habit of making room for the man whose actions show that he knows where he is going.",
-  author: "Napoleon Hill"
+  id: 1372,
+  quote: "If you want things to be different, perhaps the answer is to become different yourself.",
+  author: "Norman Peale"
 }
 ```
 
