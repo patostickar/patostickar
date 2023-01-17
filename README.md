@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1228,
-  quote: "First say to yourself what you would be; and then do what you have to do.",
-  author: "Epictetus"
+  id: 855,
+  quote: "To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.",
+  author: "Tenzin Gyatso"
 }
 ```
 
