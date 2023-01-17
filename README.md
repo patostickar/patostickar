@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 208,
-  quote: "A short saying oft contains much wisdom.",
-  author: "Sophocles"
+  id: 1142,
+  quote: "The world has the habit of making room for the man whose actions show that he knows where he is going.",
+  author: "Napoleon Hill"
 }
 ```
 
