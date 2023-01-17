@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 860,
-  quote: "Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.",
-  author: "William Channing"
+  id: 332,
+  quote: "Most great people have attained their greatest success just one step beyond their greatest failure.",
+  author: "Napoleon Hill"
 }
 ```
 
