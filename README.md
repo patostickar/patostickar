@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1024,
-  quote: "Kindness is the golden chain by which society is bound together.",
-  author: "Johann Wolfgang von Goethe"
+  id: 208,
+  quote: "A short saying oft contains much wisdom.",
+  author: "Sophocles"
 }
 ```
 
