@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1372,
-  quote: "If you want things to be different, perhaps the answer is to become different yourself.",
-  author: "Norman Peale"
+  id: 456,
+  quote: "Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven.",
+  author: "Lao Tzu"
 }
 ```
 
