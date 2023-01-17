@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 951,
-  quote: "Don't judge each day by the harvest you reap but by the seeds that you plant.",
-  author: "Robert Stevenson"
+  id: 611,
+  quote: "The grand essentials of happiness are: something to do, something to love, and something to hope for.",
+  author: "Chalmers"
 }
 ```
 
