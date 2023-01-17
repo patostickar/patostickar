@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 90,
-  quote: "Victory belongs to the most persevering.",
-  author: "Napoleon Bonaparte"
+  id: 1528,
+  quote: "He who knows others is wise. He who knows himself is enlightened.",
+  author: "Lao Tzu"
 }
 ```
 
