@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 350,
-  quote: "When your desires are strong enough you will appear to possess superhuman powers to achieve.",
-  author: "Napoleon Hill"
+  id: 1052,
+  quote: "The greatest obstacle to connecting with our joy is resentment.",
+  author: "Pema Chodron"
 }
 ```
 
