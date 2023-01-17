@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 298,
-  quote: "I think somehow we learn who we really are and then live with that decision.",
-  author: "Eleanor Roosevelt"
+  id: 1439,
+  quote: "The deepest craving of human nature is the need to be appreciated.",
+  author: "William James"
 }
 ```
 
