@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1365,
-  quote: "If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?",
-  author: "Confucius"
+  id: 1239,
+  quote: "Respect should be earned by actions, and not acquired by years.",
+  author: "Frank Wright"
 }
 ```
 
