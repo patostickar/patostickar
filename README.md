@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 855,
-  quote: "To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.",
-  author: "Tenzin Gyatso"
+  id: 708,
+  quote: "Creativity comes from trust. Trust your instincts. And never hope more than you work.",
+  author: "Rita Mae Brown"
 }
 ```
 
