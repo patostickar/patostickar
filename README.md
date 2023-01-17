@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1528,
-  quote: "He who knows others is wise. He who knows himself is enlightened.",
-  author: "Lao Tzu"
+  id: 860,
+  quote: "Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.",
+  author: "William Channing"
 }
 ```
 
