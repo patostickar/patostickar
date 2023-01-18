@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 215,
-  quote: "Nature takes away any faculty that is not used.",
-  author: "William R. Inge"
+  id: 891,
+  quote: "The secret of joy in work is contained in one word excellence. To know how to do something well is to enjoy it.",
+  author: "Pearl Buck"
 }
 ```
 
