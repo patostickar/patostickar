@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 720,
-  quote: "No one has ever become poor by giving.",
-  author: "Anne Frank"
+  id: 1432,
+  quote: "Let yourself be silently drawn by the stronger pull of what you really love.",
+  author: "Rumi"
 }
 ```
 
