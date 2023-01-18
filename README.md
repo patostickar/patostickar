@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1147,
-  quote: "Whoever is happy will make others happy, too.",
-  author: "Mark Twain"
+  id: 1283,
+  quote: "A man who doesn't trust himself can never really trust anyone else.",
+  author: "Cardinal Retz"
 }
 ```
 
