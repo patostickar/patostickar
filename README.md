@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1495,
-  quote: "You can complain because roses have thorns, or you can rejoice because thorns have roses.",
-  author: "Ziggy"
+  id: 1147,
+  quote: "Whoever is happy will make others happy, too.",
+  author: "Mark Twain"
 }
 ```
 
