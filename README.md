@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1432,
-  quote: "Let yourself be silently drawn by the stronger pull of what you really love.",
-  author: "Rumi"
+  id: 68,
+  quote: "Skill to do comes of doing.",
+  author: "Ralph Emerson"
 }
 ```
 
