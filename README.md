@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1151,
-  quote: "Never apologize for showing feeling. When you do so, you apologize for truth.",
-  author: "Benjamin Disraeli"
+  id: 720,
+  quote: "No one has ever become poor by giving.",
+  author: "Anne Frank"
 }
 ```
 
