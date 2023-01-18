@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 770,
-  quote: "People seldom notice old clothes if you wear a big smile.",
-  author: "Lee Mildon"
+  id: 1232,
+  quote: "We are Divine enough to ask and we are important enough to receive.",
+  author: "Wayne Dyer"
 }
 ```
 
