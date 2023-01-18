@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 663,
-  quote: "The poor man is not he who is without a cent, but he who is without a dream.",
-  author: "Harry Kemp"
+  id: 1495,
+  quote: "You can complain because roses have thorns, or you can rejoice because thorns have roses.",
+  author: "Ziggy"
 }
 ```
 
