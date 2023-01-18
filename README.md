@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1466,
-  quote: "The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly.",
-  author: "Richard Bach"
+  id: 663,
+  quote: "The poor man is not he who is without a cent, but he who is without a dream.",
+  author: "Harry Kemp"
 }
 ```
 
