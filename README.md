@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1336,
-  quote: "I walk slowly, but I never walk backward.",
-  author: "Abraham Lincoln"
+  id: 717,
+  quote: "When you realize there is nothing lacking, the whole world belongs to you.",
+  author: "Lao Tzu"
 }
 ```
 
