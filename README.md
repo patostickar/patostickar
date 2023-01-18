@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 527,
-  quote: "We never understand how little we need in this world until we know the loss of it.",
-  author: "James Barrie"
+  id: 1336,
+  quote: "I walk slowly, but I never walk backward.",
+  author: "Abraham Lincoln"
 }
 ```
 
