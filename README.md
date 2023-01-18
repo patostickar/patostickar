@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1110,
-  quote: "The future is completely open, and we are writing it moment to moment.",
-  author: "Pema Chodron"
+  id: 407,
+  quote: "The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.",
+  author: "Lao Tzu"
 }
 ```
 
