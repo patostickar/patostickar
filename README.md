@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 717,
-  quote: "When you realize there is nothing lacking, the whole world belongs to you.",
-  author: "Lao Tzu"
+  id: 770,
+  quote: "People seldom notice old clothes if you wear a big smile.",
+  author: "Lee Mildon"
 }
 ```
 
