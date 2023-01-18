@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 129,
-  quote: "From little acorns mighty oaks do grow.",
-  author: "American proverb"
+  id: 30,
+  quote: "Bite off more than you can chew, then chew it.",
+  author: "Ella Williams"
 }
 ```
 
