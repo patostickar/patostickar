@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 76,
-  quote: "Great talent finds happiness in execution.",
-  author: "Johann Wolfgang von Goethe"
+  id: 412,
+  quote: "There are things so deep and complex that only intuition can reach it in our stage of development as human beings.",
+  author: "John Astin"
 }
 ```
 
