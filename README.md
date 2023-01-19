@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1539,
-  quote: "It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.",
-  author: "Pema Chodron"
+  id: 494,
+  quote: "When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.",
+  author: "Confucius"
 }
 ```
 
