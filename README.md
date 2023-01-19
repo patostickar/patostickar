@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1558,
-  quote: "We lost because we told ourselves we lost.",
-  author: "Leo Tolstoy"
+  id: 324,
+  quote: "The world is a book, and those who do not travel read only a page.",
+  author: "Augustinus Sanctus"
 }
 ```
 
