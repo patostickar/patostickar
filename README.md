@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 91,
-  quote: "Love all, trust a few, do wrong to none.",
-  author: "William Shakespeare"
+  id: 1168,
+  quote: "Fine words and an insinuating appearance are seldom associated with true virtue",
+  author: "Confucius"
 }
 ```
 
