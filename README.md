@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 517,
-  quote: "It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.",
-  author: "Jessamyn West"
+  id: 1064,
+  quote: "Everything you are against weakens you. Everything you are for empowers you.",
+  author: "Wayne Dyer"
 }
 ```
 
