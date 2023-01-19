@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1054,
-  quote: "We are all something, but none of us are everything.",
-  author: "Blaise Pascal"
+  id: 884,
+  quote: "Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you.",
+  author: "Nathaniel Hawthorne"
 }
 ```
 
