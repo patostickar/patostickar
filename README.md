@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 258,
-  quote: "The secret of success is constancy to purpose.",
-  author: "Benjamin Disraeli"
+  id: 291,
+  quote: "Being right is highly overrated. Even a stopped clock is right twice a day.",
+  author: "null"
 }
 ```
 
