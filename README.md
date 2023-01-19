@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1168,
-  quote: "Fine words and an insinuating appearance are seldom associated with true virtue",
-  author: "Confucius"
+  id: 148,
+  quote: "A good plan today is better than a perfect plan tomorrow.",
+  author: "null"
 }
 ```
 
