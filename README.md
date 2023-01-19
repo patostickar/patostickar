@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 289,
-  quote: "If one does not know to which port is sailing, no wind is favorable.",
-  author: "Seneca"
+  id: 12,
+  quote: "We can only learn to love by loving.",
+  author: "Iris Murdoch"
 }
 ```
 
