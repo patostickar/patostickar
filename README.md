@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 927,
-  quote: "Arriving at one point is the starting point to another.",
-  author: "John Dewey"
+  id: 721,
+  quote: "Be faithful in small things because it is in them that your strength lies.",
+  author: "Mother Teresa"
 }
 ```
 
