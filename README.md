@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 387,
-  quote: "Every action of our lives touches on some chord that will vibrate in eternity.",
-  author: "Edwin Chapin"
+  id: 649,
+  quote: "Remember always that you not only have the right to be an individual, you have an obligation to be one.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
