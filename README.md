@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 3,
-  quote: "Difficulties increase the nearer we get to the goal.",
-  author: "Johann Wolfgang von Goethe"
+  id: 1558,
+  quote: "We lost because we told ourselves we lost.",
+  author: "Leo Tolstoy"
 }
 ```
 
