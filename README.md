@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 291,
-  quote: "Being right is highly overrated. Even a stopped clock is right twice a day.",
-  author: "null"
+  id: 1054,
+  quote: "We are all something, but none of us are everything.",
+  author: "Blaise Pascal"
 }
 ```
 
