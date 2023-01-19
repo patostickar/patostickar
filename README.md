@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 466,
-  quote: "We must never forget that it is through our actions, words, and thoughts that we have a choice.",
-  author: "Sogyal Rinpoche"
+  id: 517,
+  quote: "It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.",
+  author: "Jessamyn West"
 }
 ```
 
