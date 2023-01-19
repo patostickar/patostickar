@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1137,
-  quote: "My mama always said: life's like a box of chocolate you never know what you gonna get.",
-  author: "Forrest Gump"
+  id: 927,
+  quote: "Arriving at one point is the starting point to another.",
+  author: "John Dewey"
 }
 ```
 
