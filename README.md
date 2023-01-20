@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 279,
-  quote: "Letting go is not the end of the world; it is the beginning of a new life.",
-  author: "null"
+  id: 840,
+  quote: "When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.",
+  author: "Wayne Dyer"
 }
 ```
 
