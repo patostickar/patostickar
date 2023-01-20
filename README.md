@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1152,
-  quote: "Take rest; a field that has rested gives a bountiful crop.",
-  author: "Ovid"
+  id: 279,
+  quote: "Letting go is not the end of the world; it is the beginning of a new life.",
+  author: "null"
 }
 ```
 
