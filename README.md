@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 414,
-  quote: "There is no retirement for an artist, it's your way of living so there is no end to it.",
-  author: "Henry Moore"
+  id: 1459,
+  quote: "What is a weed? A plant whose virtues have not yet been discovered.",
+  author: "Ralph Emerson"
 }
 ```
 
