@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 904,
-  quote: "A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.",
-  author: "Chuck Norris"
+  id: 607,
+  quote: "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
