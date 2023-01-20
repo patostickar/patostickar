@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1180,
-  quote: "When you lose, don't lose the lesson.",
-  author: "null"
+  id: 1257,
+  quote: "Be your own hero, it's cheaper than a movie ticket.",
+  author: "Doug Horton"
 }
 ```
 
