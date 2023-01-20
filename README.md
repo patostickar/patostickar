@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 494,
-  quote: "When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.",
-  author: "Confucius"
+  id: 1570,
+  quote: "To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.",
+  author: "Plutarch"
 }
 ```
 
