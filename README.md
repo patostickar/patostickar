@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1115,
-  quote: "Nothing is at last sacred but the integrity of your own mind.",
-  author: "Ralph Emerson"
+  id: 6,
+  quote: "Nothing happens unless first we dream.",
+  author: "Carl Sandburg"
 }
 ```
 
