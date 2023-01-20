@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 6,
-  quote: "Nothing happens unless first we dream.",
-  author: "Carl Sandburg"
+  id: 1152,
+  quote: "Take rest; a field that has rested gives a bountiful crop.",
+  author: "Ovid"
 }
 ```
 
