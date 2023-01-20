@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1626,
-  quote: "An ounce of emotion is equal to a ton of facts.",
-  author: "John Junor"
+  id: 904,
+  quote: "A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.",
+  author: "Chuck Norris"
 }
 ```
 
