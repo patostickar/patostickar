@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1459,
-  quote: "What is a weed? A plant whose virtues have not yet been discovered.",
-  author: "Ralph Emerson"
+  id: 82,
+  quote: "A short saying often contains much wisdom.",
+  author: "Sophocles"
 }
 ```
 
