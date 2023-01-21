@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1144,
-  quote: "Excellence is to do a common thing in an uncommon way.",
-  author: "Booker Washington"
+  id: 281,
+  quote: "One of the advantages of being disorderly is that one is constantly making exciting discoveries.",
+  author: "A. A. Milne"
 }
 ```
 
