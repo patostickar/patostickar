@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 18,
-  quote: "To lead people walk behind them.",
-  author: "Lao Tzu"
+  id: 1238,
+  quote: "The universe is made of stories, not atoms.",
+  author: "Muriel Rukeyser"
 }
 ```
 
