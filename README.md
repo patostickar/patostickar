@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 511,
-  quote: "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
-  author: "Aristotle"
+  id: 141,
+  quote: "Good luck is another name for tenacity of purpose.",
+  author: "Ralph Emerson"
 }
 ```
 
