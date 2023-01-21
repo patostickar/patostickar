@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 86,
-  quote: "Life is movement-we breathe, we eat, we walk, we move!",
-  author: "John Pierrakos"
+  id: 1395,
+  quote: "We cannot direct the wind but we can adjust the sails.",
+  author: "null"
 }
 ```
 
