@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 215,
-  quote: "Nature takes away any faculty that is not used.",
-  author: "William R. Inge"
+  id: 555,
+  quote: "It is one of the blessings of old friends that you can afford to be stupid with them.",
+  author: "Ralph Emerson"
 }
 ```
 
