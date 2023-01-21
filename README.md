@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 979,
-  quote: "Love is the only force capable of transforming an enemy into friend.",
-  author: "Martin Luther King, Jr."
+  id: 215,
+  quote: "Nature takes away any faculty that is not used.",
+  author: "William R. Inge"
 }
 ```
 
