@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 243,
-  quote: "Silence is deep as Eternity, Speech is shallow as Time.",
-  author: "Carlyle"
+  id: 1144,
+  quote: "Excellence is to do a common thing in an uncommon way.",
+  author: "Booker Washington"
 }
 ```
 
