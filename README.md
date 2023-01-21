@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 918,
-  quote: "Parents can only give good advice or put them on the right paths, but the final forming of a persons character lies in their own hands.",
-  author: "Anne Frank"
+  id: 287,
+  quote: "Think as a wise man but communicate in the language of the people.",
+  author: "William Yeats"
 }
 ```
 
