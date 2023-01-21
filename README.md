@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 967,
-  quote: "As you think, so shall you become.",
-  author: "Bruce Lee"
+  id: 944,
+  quote: "Everything that irritates us about others can lead us to an understanding of ourselves.",
+  author: "Carl Jung"
 }
 ```
 
