@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 555,
-  quote: "It is one of the blessings of old friends that you can afford to be stupid with them.",
-  author: "Ralph Emerson"
+  id: 824,
+  quote: "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+  author: "Aristotle"
 }
 ```
 
