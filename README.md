@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 596,
-  quote: "A man may fulfil the object of his existence by asking a question he cannot answer, and attempting a task he cannot achieve.",
-  author: "Oliver Holmes"
+  id: 86,
+  quote: "Life is movement-we breathe, we eat, we walk, we move!",
+  author: "John Pierrakos"
 }
 ```
 
