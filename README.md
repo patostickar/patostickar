@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1398,
-  quote: "Our greatness lies not so much in being able to remake the world as being able to remake ourselves.",
-  author: "Mahatma Gandhi"
+  id: 1196,
+  quote: "The steeper the mountain the harder the climb the better the view from the finishing line",
+  author: "null"
 }
 ```
 
