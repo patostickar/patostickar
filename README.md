@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 944,
-  quote: "Everything that irritates us about others can lead us to an understanding of ourselves.",
-  author: "Carl Jung"
+  id: 511,
+  quote: "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+  author: "Aristotle"
 }
 ```
 
