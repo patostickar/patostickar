@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 996,
-  quote: "Being angry never solves anything.",
-  author: "Catherine Pulsifer"
+  id: 672,
+  quote: "He that respects himself is safe from others; he wears a coat of mail that none can pierce.",
+  author: "Henry Longfellow"
 }
 ```
 
