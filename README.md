@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1060,
-  quote: "If you can't feed a hundred people, then feed just one.",
-  author: "Mother Teresa"
+  id: 921,
+  quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+  author: "Albert Schweitzer"
 }
 ```
 
