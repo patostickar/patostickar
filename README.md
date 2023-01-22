@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 309,
-  quote: "A thing long expected takes the form of the unexpected when at last it comes.",
-  author: "Mark Twain"
+  id: 397,
+  quote: "Life is a succession of lessons, which must be lived to be understood.",
+  author: "Ralph Emerson"
 }
 ```
 
