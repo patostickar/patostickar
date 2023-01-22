@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1529,
-  quote: "The best way to predict your future is to create it.",
-  author: "Peter Drucker"
+  id: 1342,
+  quote: "If I know what love is, it is because of you.",
+  author: "Hermann Hesse"
 }
 ```
 
