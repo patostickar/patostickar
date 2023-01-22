@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 734,
-  quote: "The longer we dwell on our misfortunes, the greater is their power to harm us.",
-  author: "Voltaire"
+  id: 990,
+  quote: "Silence is a source of great strength.",
+  author: "Lao Tzu"
 }
 ```
 
