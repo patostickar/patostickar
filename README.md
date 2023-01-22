@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 205,
-  quote: "Inspiration exists, but it has to find us working.",
-  author: "Pablo Picasso"
+  id: 1432,
+  quote: "Let yourself be silently drawn by the stronger pull of what you really love.",
+  author: "Rumi"
 }
 ```
 
