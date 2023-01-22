@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1216,
-  quote: "The world turns aside to let any man pass who knows where he is going.",
-  author: "Epictetus"
+  id: 142,
+  quote: "Rainbows apologize for angry skies.",
+  author: "Sylvia Voirol"
 }
 ```
 
