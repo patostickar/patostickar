@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1432,
-  quote: "Let yourself be silently drawn by the stronger pull of what you really love.",
-  author: "Rumi"
+  id: 996,
+  quote: "Being angry never solves anything.",
+  author: "Catherine Pulsifer"
 }
 ```
 
