@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1234,
-  quote: "To see things in the seed, that is genius.",
-  author: "Lao Tzu"
+  id: 1219,
+  quote: "Truth, and goodness, and beauty are but different faces of the same all.",
+  author: "Ralph Emerson"
 }
 ```
 
