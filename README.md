@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 142,
-  quote: "Rainbows apologize for angry skies.",
-  author: "Sylvia Voirol"
+  id: 391,
+  quote: "Most folks are about as happy as they make up their minds to be.",
+  author: "Abraham Lincoln"
 }
 ```
 
