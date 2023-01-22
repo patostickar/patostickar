@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 927,
-  quote: "Arriving at one point is the starting point to another.",
-  author: "John Dewey"
+  id: 1216,
+  quote: "The world turns aside to let any man pass who knows where he is going.",
+  author: "Epictetus"
 }
 ```
 
