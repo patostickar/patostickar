@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1342,
-  quote: "If I know what love is, it is because of you.",
-  author: "Hermann Hesse"
+  id: 309,
+  quote: "A thing long expected takes the form of the unexpected when at last it comes.",
+  author: "Mark Twain"
 }
 ```
 
