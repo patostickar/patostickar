@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1635,
-  quote: "We are all inclined to judge ourselves by our ideals; others, by their acts.",
-  author: "Harold Nicolson"
+  id: 499,
+  quote: "Why compare yourself with others? No one in the entire world can do a better job of being you than you.",
+  author: "null"
 }
 ```
 
