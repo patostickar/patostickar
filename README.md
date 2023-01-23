@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 94,
-  quote: "You can do it if you believe you can!",
-  author: "Napoleon Hill"
+  id: 874,
+  quote: "Don't believe what your eyes are telling you. All they show is limitation. Look with your understanding, find out what you already know, and you'll see the way to fly.",
+  author: "Richard Bach"
 }
 ```
 
