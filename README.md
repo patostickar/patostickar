@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 742,
-  quote: "Watch the little things; a small leak will sink a great ship.",
-  author: "Benjamin Franklin"
+  id: 1451,
+  quote: "It all depends on how we look at things, and not how they are in themselves.",
+  author: "Carl Jung"
 }
 ```
 
