@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 499,
-  quote: "Why compare yourself with others? No one in the entire world can do a better job of being you than you.",
+  id: 27,
+  quote: "The day is already blessed, find peace within it.",
   author: "null"
 }
 ```
