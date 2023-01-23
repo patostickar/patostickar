@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1468,
-  quote: "Most folks are as happy as they make up their minds to be.",
-  author: "Abraham Lincoln"
+  id: 351,
+  quote: "Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.",
+  author: "John Adams"
 }
 ```
 
