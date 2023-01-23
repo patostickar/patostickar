@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1219,
-  quote: "Truth, and goodness, and beauty are but different faces of the same all.",
-  author: "Ralph Emerson"
+  id: 449,
+  quote: "Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.",
+  author: "Hannah Arendt"
 }
 ```
 
