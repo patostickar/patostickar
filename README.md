@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 351,
-  quote: "Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.",
-  author: "John Adams"
+  id: 1327,
+  quote: "We can change our lives. We can do, have, and be exactly what we wish.",
+  author: "Tony Robbins"
 }
 ```
 
