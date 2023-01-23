@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 449,
-  quote: "Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.",
-  author: "Hannah Arendt"
+  id: 707,
+  quote: "All I can say about life is, Oh God, enjoy it!",
+  author: "Bob Newhart"
 }
 ```
 
