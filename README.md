@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1079,
-  quote: "I know but one freedom and that is the freedom of the mind.",
-  author: "Antoine de Saint-Exupery"
+  id: 1542,
+  quote: "You are never given a wish without also being given the power to make it come true. You may have to work for it, however.",
+  author: "Richard Bach"
 }
 ```
 
