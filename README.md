@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 632,
-  quote: "You can adopt the attitude there is nothing you can do, or you can see the challenge as your call to action.",
-  author: "Catherine Pulsifer"
+  id: 822,
+  quote: "Let us always meet each other with smile, for the smile is the beginning of love.",
+  author: "Mother Teresa"
 }
 ```
 
