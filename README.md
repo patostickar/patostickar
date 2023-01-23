@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1542,
-  quote: "You are never given a wish without also being given the power to make it come true. You may have to work for it, however.",
-  author: "Richard Bach"
+  id: 1635,
+  quote: "We are all inclined to judge ourselves by our ideals; others, by their acts.",
+  author: "Harold Nicolson"
 }
 ```
 
