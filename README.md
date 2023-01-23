@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 501,
-  quote: "A good teacher is like a candle it consumes itself to light the way for others.",
-  author: "null"
+  id: 1079,
+  quote: "I know but one freedom and that is the freedom of the mind.",
+  author: "Antoine de Saint-Exupery"
 }
 ```
 
