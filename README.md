@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1327,
-  quote: "We can change our lives. We can do, have, and be exactly what we wish.",
-  author: "Tony Robbins"
+  id: 742,
+  quote: "Watch the little things; a small leak will sink a great ship.",
+  author: "Benjamin Franklin"
 }
 ```
 
