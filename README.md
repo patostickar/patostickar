@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 27,
-  quote: "The day is already blessed, find peace within it.",
-  author: "null"
+  id: 852,
+  quote: "When you realize how perfect everything is you will tilt your head back and laugh at the sky.",
+  author: "Buddha"
 }
 ```
 
