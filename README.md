@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1312,
-  quote: "Maxim for life: You get treated in life the way you teach people to treat you.",
-  author: "Wayne Dyer"
+  id: 1120,
+  quote: "Our kindness may be the most persuasive argument for that which we believe.",
+  author: "Gordon Hinckley"
 }
 ```
 
