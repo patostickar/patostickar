@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 946,
-  quote: "The weak can never forgive. Forgiveness is the attribute of the strong.",
-  author: "Mohandas Gandhi"
+  id: 489,
+  quote: "The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.",
+  author: "Anais Nin"
 }
 ```
 
