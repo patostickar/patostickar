@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 724,
-  quote: "He who lives in harmony with himself lives in harmony with the universe.",
-  author: "Marcus Aurelius"
+  id: 667,
+  quote: "Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.",
+  author: "Helen Keller"
 }
 ```
 
