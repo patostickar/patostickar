@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1577,
-  quote: "The energy of the mind is the essence of life.",
-  author: "Aristotle"
+  id: 837,
+  quote: "People grow through experience if they meet life honestly and courageously. This is how character is built.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
