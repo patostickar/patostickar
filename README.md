@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 43,
-  quote: "Goals are the fuel in the furnace of achievement.",
-  author: "Brian Tracy"
+  id: 18,
+  quote: "To lead people walk behind them.",
+  author: "Lao Tzu"
 }
 ```
 
