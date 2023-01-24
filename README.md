@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 489,
-  quote: "The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.",
-  author: "Anais Nin"
+  id: 1609,
+  quote: "It's not who you are that holds you back, it's who you think you're not.",
+  author: "null"
 }
 ```
 
