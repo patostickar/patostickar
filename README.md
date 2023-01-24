@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1579,
-  quote: "Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.",
-  author: "Lao Tzu"
+  id: 43,
+  quote: "Goals are the fuel in the furnace of achievement.",
+  author: "Brian Tracy"
 }
 ```
 
