@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1308,
-  quote: "There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.",
-  author: "Alfred Korzybski"
+  id: 1607,
+  quote: "You can stand tall without standing on someone. You can be a victor without having victims.",
+  author: "Harriet Woods"
 }
 ```
 
