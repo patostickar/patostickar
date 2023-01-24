@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1607,
-  quote: "You can stand tall without standing on someone. You can be a victor without having victims.",
-  author: "Harriet Woods"
+  id: 243,
+  quote: "Silence is deep as Eternity, Speech is shallow as Time.",
+  author: "Carlyle"
 }
 ```
 
