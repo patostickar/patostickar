@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 578,
-  quote: "Giving up doesn't always mean you are weak. Sometimes it means that you are strong enough to let go.",
-  author: "null"
+  id: 703,
+  quote: "Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.",
+  author: "Napoleon Hill"
 }
 ```
 
