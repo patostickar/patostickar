@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 471,
-  quote: "As the rest of the world is walking out the door, your best friends are the ones walking in.",
-  author: "null"
+  id: 247,
+  quote: "A good decision is based on knowledge and not on numbers.",
+  author: "Plato"
 }
 ```
 
