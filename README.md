@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1064,
-  quote: "Everything you are against weakens you. Everything you are for empowers you.",
-  author: "Wayne Dyer"
+  id: 507,
+  quote: "What lies behind us and what lies before us are small matters compared to what lies within us.",
+  author: "Oliver Holmes"
 }
 ```
 
