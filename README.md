@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 173,
-  quote: "A stumble may prevent a fall.",
-  author: "null"
+  id: 108,
+  quote: "Who looks outside, dreams; who looks inside, awakes.",
+  author: "Carl Jung"
 }
 ```
 
