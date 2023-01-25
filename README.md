@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 645,
-  quote: "To accomplish great things, we must not only act, but also dream; not only plan, but also believe.",
-  author: "Anatole France"
+  id: 444,
+  quote: "The minute you settle for less than you deserve, you get even less than you settled for.",
+  author: "Maureen Dowd"
 }
 ```
 
