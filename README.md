@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 108,
-  quote: "Who looks outside, dreams; who looks inside, awakes.",
-  author: "Carl Jung"
+  id: 1048,
+  quote: "The truth which has made us free will in the end make us glad also.",
+  author: "Felix Adler"
 }
 ```
 
