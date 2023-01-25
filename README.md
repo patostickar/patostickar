@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 247,
-  quote: "A good decision is based on knowledge and not on numbers.",
-  author: "Plato"
+  id: 542,
+  quote: "Don't wait for your feelings to change to take the action. Take the action and your feelings will change.",
+  author: "Barbara Baron"
 }
 ```
 
