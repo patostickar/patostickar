@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 221,
-  quote: "There never was a good knife made of bad steel.",
-  author: "Benjamin Franklin"
+  id: 766,
+  quote: "Give whatever you are doing and whoever you are with the gift of your attention.",
+  author: "Jim Rohn"
 }
 ```
 
