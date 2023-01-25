@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1048,
-  quote: "The truth which has made us free will in the end make us glad also.",
-  author: "Felix Adler"
+  id: 471,
+  quote: "As the rest of the world is walking out the door, your best friends are the ones walking in.",
+  author: "null"
 }
 ```
 
