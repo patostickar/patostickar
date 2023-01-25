@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 220,
-  quote: "Follow your instincts. That is where true wisdom manifests itself.",
-  author: "Oprah Winfrey"
+  id: 173,
+  quote: "A stumble may prevent a fall.",
+  author: "null"
 }
 ```
 
