@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 444,
-  quote: "The minute you settle for less than you deserve, you get even less than you settled for.",
-  author: "Maureen Dowd"
+  id: 1064,
+  quote: "Everything you are against weakens you. Everything you are for empowers you.",
+  author: "Wayne Dyer"
 }
 ```
 
