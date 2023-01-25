@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 507,
-  quote: "What lies behind us and what lies before us are small matters compared to what lies within us.",
-  author: "Oliver Holmes"
+  id: 402,
+  quote: "Transformation doesn't take place with a vacuum; instead, it occurs when we are indirectly and directly connected to all those around us.",
+  author: "Byron Pulsifer"
 }
 ```
 
