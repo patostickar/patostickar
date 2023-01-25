@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 966,
-  quote: "Your sacred space is where you can find yourself again and again.",
-  author: "Joseph Campbell"
+  id: 1504,
+  quote: "You teach best what you most need to learn.",
+  author: "Richard Bach"
 }
 ```
 
