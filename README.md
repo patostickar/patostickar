@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1026,
-  quote: "It can't be spring if your heart is filled with past failures.",
-  author: "Byron Pulsifer"
+  id: 1532,
+  quote: "Never mistake motion for action.",
+  author: "Ernest Hemingway"
 }
 ```
 
