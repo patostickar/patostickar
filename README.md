@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 984,
-  quote: "Your mind will answer most questions if you learn to relax and wait for the answer.",
-  author: "William Burroughs"
+  id: 1026,
+  quote: "It can't be spring if your heart is filled with past failures.",
+  author: "Byron Pulsifer"
 }
 ```
 
