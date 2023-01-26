@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 494,
-  quote: "When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.",
-  author: "Confucius"
+  id: 668,
+  quote: "Change is the law of life. And those who look only to the past or present are certain to miss the future.",
+  author: "John Kennedy"
 }
 ```
 
