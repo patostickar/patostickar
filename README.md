@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1111,
-  quote: "Each time we face a fear, we gain strength, courage, and confidence in the doing.",
-  author: "null"
+  id: 424,
+  quote: "The thoughts we choose to think are the tools we use to paint the canvas of our lives.",
+  author: "Louise Hay"
 }
 ```
 
