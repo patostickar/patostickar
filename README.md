@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 593,
-  quote: "Many of life's failures are people who did not realize how close they were to success when they gave up.",
-  author: "Thomas Edison"
+  id: 829,
+  quote: "I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.",
+  author: "Herbert Swope"
 }
 ```
 
