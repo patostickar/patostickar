@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 662,
-  quote: "Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?",
-  author: "Richard Bach"
+  id: 736,
+  quote: "I've never seen a smiling face that was not beautiful.",
+  author: "null"
 }
 ```
 
