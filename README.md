@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 736,
-  quote: "I've never seen a smiling face that was not beautiful.",
-  author: "null"
+  id: 656,
+  quote: "Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.",
+  author: "Julie Morgenstern"
 }
 ```
 
