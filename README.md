@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1504,
-  quote: "You teach best what you most need to learn.",
-  author: "Richard Bach"
+  id: 1456,
+  quote: "Truth is generally the best vindication against slander.",
+  author: "Abraham Lincoln"
 }
 ```
 
