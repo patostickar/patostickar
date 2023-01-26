@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 235,
-  quote: "Fears are nothing more than a state of mind.",
-  author: "Napoleon Hill"
+  id: 1550,
+  quote: "I have no special talent. I am only passionately curious.",
+  author: "Albert Einstein"
 }
 ```
 
