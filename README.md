@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 486,
-  quote: "Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.",
-  author: "Sri Chinmoy"
+  id: 1237,
+  quote: "Make the most of yourself, for that is all there is of you.",
+  author: "Ralph Emerson"
 }
 ```
 
