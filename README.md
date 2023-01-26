@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 424,
-  quote: "The thoughts we choose to think are the tools we use to paint the canvas of our lives.",
-  author: "Louise Hay"
+  id: 662,
+  quote: "Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?",
+  author: "Richard Bach"
 }
 ```
 
