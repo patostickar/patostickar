@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1353,
-  quote: "The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.",
-  author: "Helen Keller"
+  id: 1177,
+  quote: "Keep your eyes on the stars and your feet on the ground.",
+  author: "Theodore Roosevelt"
 }
 ```
 
