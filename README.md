@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 668,
-  quote: "Change is the law of life. And those who look only to the past or present are certain to miss the future.",
-  author: "John Kennedy"
+  id: 593,
+  quote: "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+  author: "Thomas Edison"
 }
 ```
 
