@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 152,
-  quote: "Life isn't about finding yourself. Life is about creating yourself.",
-  author: "Bernard Shaw"
+  id: 429,
+  quote: "Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.",
+  author: "Ralph Emerson"
 }
 ```
 
