@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 405,
-  quote: "Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.",
-  author: "Ralph Emerson"
+  id: 1580,
+  quote: "A wise man will make more opportunities than he finds.",
+  author: "Francis Bacon"
 }
 ```
 
