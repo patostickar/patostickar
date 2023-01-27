@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1616,
-  quote: "Your vision will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
-  author: "Carl Jung"
+  id: 882,
+  quote: "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.",
+  author: "Dale Carnegie"
 }
 ```
 
