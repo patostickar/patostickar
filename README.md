@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1222,
-  quote: "Never, never, never give up.",
-  author: "Winston Churchill"
+  id: 223,
+  quote: "Patience is the companion of wisdom.",
+  author: "Saint Augustine"
 }
 ```
 
