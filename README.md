@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 648,
-  quote: "If we are facing in the right direction, all we have to do is keep on walking.",
-  author: "null"
+  id: 1222,
+  quote: "Never, never, never give up.",
+  author: "Winston Churchill"
 }
 ```
 
