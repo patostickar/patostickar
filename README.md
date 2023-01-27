@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1580,
-  quote: "A wise man will make more opportunities than he finds.",
-  author: "Francis Bacon"
+  id: 1602,
+  quote: "If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose.",
+  author: "Mary Pickford"
 }
 ```
 
