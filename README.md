@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 601,
-  quote: "The world is round and the place which may seem like the end may also be the beginning.",
-  author: "Ivy Baker Priest"
+  id: 263,
+  quote: "Absence makes the heart grow fonder.",
+  author: "Haynes Bayly"
 }
 ```
 
