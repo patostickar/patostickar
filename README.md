@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 429,
-  quote: "Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.",
-  author: "Ralph Emerson"
+  id: 656,
+  quote: "Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.",
+  author: "Julie Morgenstern"
 }
 ```
 
