@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1036,
-  quote: "Don't wait for people to be friendly. Show them how.",
-  author: "null"
+  id: 152,
+  quote: "Life isn't about finding yourself. Life is about creating yourself.",
+  author: "Bernard Shaw"
 }
 ```
 
