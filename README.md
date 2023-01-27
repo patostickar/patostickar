@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 882,
-  quote: "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.",
-  author: "Dale Carnegie"
+  id: 1036,
+  quote: "Don't wait for people to be friendly. Show them how.",
+  author: "null"
 }
 ```
 
