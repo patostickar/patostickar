@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 922,
-  quote: "If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.",
-  author: "Albert Einstein"
+  id: 1274,
+  quote: "Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.",
+  author: "Richard Bach"
 }
 ```
 
