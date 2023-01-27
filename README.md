@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 829,
-  quote: "I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.",
-  author: "Herbert Swope"
+  id: 1616,
+  quote: "Your vision will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
+  author: "Carl Jung"
 }
 ```
 
