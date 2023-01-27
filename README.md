@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1602,
-  quote: "If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose.",
-  author: "Mary Pickford"
+  id: 922,
+  quote: "If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.",
+  author: "Albert Einstein"
 }
 ```
 
