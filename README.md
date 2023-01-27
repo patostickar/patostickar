@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1032,
-  quote: "We shall never know all the good that a simple smile can do.",
-  author: "Mother Teresa"
+  id: 917,
+  quote: "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+  author: "Marie Curie"
 }
 ```
 
