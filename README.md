@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 579,
-  quote: "Treat people as if they were what they ought to be and you help them to become what they are capable of being.",
-  author: "Johann Wolfgang von Goethe"
+  id: 158,
+  quote: "Once we accept our limits, we go beyond them.",
+  author: "Albert Einstein"
 }
 ```
 
