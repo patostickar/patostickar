@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 263,
-  quote: "Absence makes the heart grow fonder.",
-  author: "Haynes Bayly"
+  id: 1370,
+  quote: "The best thing in every noble dream is the dreamer...",
+  author: "Moncure Conway"
 }
 ```
 
