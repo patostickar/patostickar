@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 711,
-  quote: "You won't skid if you stay in a rut.",
-  author: "Kin Hubbard"
+  id: 535,
+  quote: "How wonderful that we have met with a paradox. Now we have some hope of making progress.",
+  author: "Niels Bohr"
 }
 ```
 
