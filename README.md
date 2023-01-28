@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 108,
-  quote: "Who looks outside, dreams; who looks inside, awakes.",
-  author: "Carl Jung"
+  id: 1067,
+  quote: "The final proof of greatness lies in being able to endure criticism without resentment.",
+  author: "Elbert Hubbard"
 }
 ```
 
