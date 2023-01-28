@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 261,
-  quote: "To avoid criticism, do nothing, say nothing, be nothing.",
-  author: "Elbert Hubbard"
+  id: 463,
+  quote: "Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.",
+  author: "Arthur Rubinstein"
 }
 ```
 
