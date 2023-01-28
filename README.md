@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 268,
-  quote: "Good timber does not grow with ease; the stronger the wind, the stronger the trees.",
-  author: "J. Willard Marriott"
+  id: 316,
+  quote: "Through perseverance many people win success out of what seemed destined to be certain failure.",
+  author: "Benjamin Disraeli"
 }
 ```
 
