@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1436,
-  quote: "Forgiveness does not change the past, but it does enlarge the future.",
-  author: "Paul Boese"
+  id: 710,
+  quote: "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.",
+  author: "Lao Tzu"
 }
 ```
 
