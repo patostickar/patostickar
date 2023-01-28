@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 535,
-  quote: "How wonderful that we have met with a paradox. Now we have some hope of making progress.",
-  author: "Niels Bohr"
+  id: 898,
+  quote: "By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.",
+  author: "Lao Tzu"
 }
 ```
 
