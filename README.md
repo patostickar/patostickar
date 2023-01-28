@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1035,
-  quote: "We must embrace pain and burn it as fuel for our journey.",
-  author: "Kenji Miyazawa"
+  id: 1436,
+  quote: "Forgiveness does not change the past, but it does enlarge the future.",
+  author: "Paul Boese"
 }
 ```
 
