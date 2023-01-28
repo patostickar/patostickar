@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 158,
-  quote: "Once we accept our limits, we go beyond them.",
-  author: "Albert Einstein"
+  id: 1229,
+  quote: "Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, Something is out of tune.",
+  author: "Carl Jung"
 }
 ```
 
