@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 898,
-  quote: "By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.",
-  author: "Lao Tzu"
+  id: 995,
+  quote: "We aim above the mark to hit the mark.",
+  author: "Ralph Emerson"
 }
 ```
 
