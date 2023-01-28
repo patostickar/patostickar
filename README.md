@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 995,
-  quote: "We aim above the mark to hit the mark.",
-  author: "Ralph Emerson"
+  id: 575,
+  quote: "The shoe that fits one person pinches another; there is no recipe for living that suits all cases.",
+  author: "Carl Jung"
 }
 ```
 
