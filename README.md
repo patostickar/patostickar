@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 463,
-  quote: "Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.",
-  author: "Arthur Rubinstein"
+  id: 579,
+  quote: "Treat people as if they were what they ought to be and you help them to become what they are capable of being.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
