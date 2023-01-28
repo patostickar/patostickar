@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 412,
-  quote: "There are things so deep and complex that only intuition can reach it in our stage of development as human beings.",
-  author: "John Astin"
+  id: 152,
+  quote: "Life isn't about finding yourself. Life is about creating yourself.",
+  author: "Bernard Shaw"
 }
 ```
 
