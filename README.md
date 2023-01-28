@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1370,
-  quote: "The best thing in every noble dream is the dreamer...",
-  author: "Moncure Conway"
+  id: 1634,
+  quote: "Into each life rain must fall but rain can be the giver of life and it is all in your attitude that makes rain produce sunshine.",
+  author: "Byron Pulsifer"
 }
 ```
 
