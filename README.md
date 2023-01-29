@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1046,
-  quote: "We know what we are, but know not what we may be.",
-  author: "William Shakespeare"
+  id: 932,
+  quote: "Action may not always bring happiness, but there is no happiness without action.",
+  author: "Benjamin Disraeli"
 }
 ```
 
