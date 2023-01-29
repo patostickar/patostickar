@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 932,
-  quote: "Action may not always bring happiness, but there is no happiness without action.",
-  author: "Benjamin Disraeli"
+  id: 221,
+  quote: "There never was a good knife made of bad steel.",
+  author: "Benjamin Franklin"
 }
 ```
 
