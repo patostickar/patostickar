@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 55,
-  quote: "Think how hard physics would be if particles could think.",
-  author: "Murray Gell-Mann"
+  id: 1035,
+  quote: "We must embrace pain and burn it as fuel for our journey.",
+  author: "Kenji Miyazawa"
 }
 ```
 
