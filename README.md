@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1510,
-  quote: "If we look at the world with a love of life, the world will reveal its beauty to us.",
-  author: "Daisaku Ikeda"
+  id: 507,
+  quote: "What lies behind us and what lies before us are small matters compared to what lies within us.",
+  author: "Oliver Holmes"
 }
 ```
 
