@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1527,
-  quote: "Blessed is the man who expects nothing, for he shall never be disappointed.",
-  author: "Alexander Pope"
+  id: 1046,
+  quote: "We know what we are, but know not what we may be.",
+  author: "William Shakespeare"
 }
 ```
 
