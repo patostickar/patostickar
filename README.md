@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 31,
-  quote: "Work out your own salvation. Do not depend on others.",
-  author: "Buddha"
+  id: 1510,
+  quote: "If we look at the world with a love of life, the world will reveal its beauty to us.",
+  author: "Daisaku Ikeda"
 }
 ```
 
