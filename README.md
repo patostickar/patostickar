@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1238,
-  quote: "The universe is made of stories, not atoms.",
-  author: "Muriel Rukeyser"
+  id: 203,
+  quote: "Keep yourself to the sunshine and you cannot see the shadow.",
+  author: "Helen Keller"
 }
 ```
 
