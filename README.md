@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1583,
-  quote: "Numberless are the worlds wonders, but none more wonderful than man.",
-  author: "Sophocles"
+  id: 1178,
+  quote: "I am not afraid of tomorrow, for I have seen yesterday and I love today.",
+  author: "William White"
 }
 ```
 
