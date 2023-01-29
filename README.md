@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1035,
-  quote: "We must embrace pain and burn it as fuel for our journey.",
-  author: "Kenji Miyazawa"
+  id: 1413,
+  quote: "You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.",
+  author: "Anatole France"
 }
 ```
 
