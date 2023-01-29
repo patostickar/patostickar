@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 203,
-  quote: "Keep yourself to the sunshine and you cannot see the shadow.",
-  author: "Helen Keller"
+  id: 1219,
+  quote: "Truth, and goodness, and beauty are but different faces of the same all.",
+  author: "Ralph Emerson"
 }
 ```
 
