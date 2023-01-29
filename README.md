@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1550,
-  quote: "I have no special talent. I am only passionately curious.",
-  author: "Albert Einstein"
+  id: 55,
+  quote: "Think how hard physics would be if particles could think.",
+  author: "Murray Gell-Mann"
 }
 ```
 
