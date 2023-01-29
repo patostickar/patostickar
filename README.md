@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 507,
-  quote: "What lies behind us and what lies before us are small matters compared to what lies within us.",
-  author: "Oliver Holmes"
+  id: 211,
+  quote: "The cause is hidden. The effect is visible to all.",
+  author: "Ovid"
 }
 ```
 
