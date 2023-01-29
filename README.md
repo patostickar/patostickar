@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1219,
-  quote: "Truth, and goodness, and beauty are but different faces of the same all.",
-  author: "Ralph Emerson"
+  id: 31,
+  quote: "Work out your own salvation. Do not depend on others.",
+  author: "Buddha"
 }
 ```
 
