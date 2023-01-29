@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1178,
-  quote: "I am not afraid of tomorrow, for I have seen yesterday and I love today.",
-  author: "William White"
+  id: 1325,
+  quote: "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.",
+  author: "Michelangelo"
 }
 ```
 
