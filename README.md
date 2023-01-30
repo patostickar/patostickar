@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 985,
-  quote: "The world does not happen to you it happens from you.",
-  author: "null"
+  id: 721,
+  quote: "Be faithful in small things because it is in them that your strength lies.",
+  author: "Mother Teresa"
 }
 ```
 
