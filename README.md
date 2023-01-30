@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1628,
-  quote: "Great is the art of beginning, but greater is the art of ending.",
-  author: "Lazurus Long"
+  id: 1345,
+  quote: "Compassion and happiness are not a sign of weakness but a sign of strength.",
+  author: "Dalai Lama"
 }
 ```
 
