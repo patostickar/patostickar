@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1299,
-  quote: "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
-  author: "Victoria Holt"
+  id: 1612,
+  quote: "He who knows that enough is enough will always have enough.",
+  author: "Lao Tzu"
 }
 ```
 
