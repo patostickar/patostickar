@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 939,
-  quote: "We must not allow ourselves to become like the system we oppose.",
-  author: "Bishop Desmond Tutu"
+  id: 1019,
+  quote: "Always tell the truth. That way, you don't have to remember what you said.",
+  author: "Mark Twain"
 }
 ```
 
