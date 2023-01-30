@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 743,
-  quote: "God has given you one face, and you make yourself another.",
-  author: "William Shakespeare"
+  id: 1531,
+  quote: "If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow.",
+  author: "Rachel Carson"
 }
 ```
 
