@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 732,
-  quote: "The truth is always exciting. Speak it, then. Life is dull without it.",
-  author: "Pearl Buck"
+  id: 708,
+  quote: "Creativity comes from trust. Trust your instincts. And never hope more than you work.",
+  author: "Rita Mae Brown"
 }
 ```
 
