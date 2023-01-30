@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 236,
-  quote: "The journey of a thousand miles begins with one step.",
-  author: "Lao Tzu"
+  id: 1018,
+  quote: "Experience can only be gained by doing not by thinking or dreaming.",
+  author: "Byron Pulsifer"
 }
 ```
 
