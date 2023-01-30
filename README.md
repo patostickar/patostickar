@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 548,
-  quote: "The road leading to a goal does not separate you from the destination; it is essentially a part of it.",
-  author: "Charles DeLint"
+  id: 1330,
+  quote: "The least of things with a meaning is worth more in life than the greatest of things without it.",
+  author: "Carl Jung"
 }
 ```
 
