@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 272,
-  quote: "To get something you never had, you have to do something you never did.",
-  author: "null"
+  id: 236,
+  quote: "The journey of a thousand miles begins with one step.",
+  author: "Lao Tzu"
 }
 ```
 
