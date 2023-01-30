@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 344,
-  quote: "We should all be thankful for those people who rekindle the inner spirit.",
-  author: "Albert Schweitzer"
+  id: 939,
+  quote: "We must not allow ourselves to become like the system we oppose.",
+  author: "Bishop Desmond Tutu"
 }
 ```
 
