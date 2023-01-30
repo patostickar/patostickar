@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 770,
-  quote: "People seldom notice old clothes if you wear a big smile.",
-  author: "Lee Mildon"
+  id: 1299,
+  quote: "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
+  author: "Victoria Holt"
 }
 ```
 
