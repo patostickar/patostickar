@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1345,
-  quote: "Compassion and happiness are not a sign of weakness but a sign of strength.",
-  author: "Dalai Lama"
+  id: 743,
+  quote: "God has given you one face, and you make yourself another.",
+  author: "William Shakespeare"
 }
 ```
 
