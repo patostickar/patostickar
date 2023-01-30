@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1448,
-  quote: "Just trust yourself, then you will know how to live.",
-  author: "Goethe"
+  id: 985,
+  quote: "The world does not happen to you it happens from you.",
+  author: "null"
 }
 ```
 
