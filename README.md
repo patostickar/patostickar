@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1118,
-  quote: "Whenever something negative happens to you, there is a deep lesson concealed within it.",
-  author: "Eckhart Tolle"
+  id: 770,
+  quote: "People seldom notice old clothes if you wear a big smile.",
+  author: "Lee Mildon"
 }
 ```
 
