@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1330,
-  quote: "The least of things with a meaning is worth more in life than the greatest of things without it.",
-  author: "Carl Jung"
+  id: 69,
+  quote: "Wisdom is the supreme part of happiness.",
+  author: "Sophocles"
 }
 ```
 
