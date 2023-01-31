@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 961,
-  quote: "No day in which you learn something is a complete loss.",
-  author: "David Eddings"
+  id: 973,
+  quote: "Hope arouses, as nothing else can arouse, a passion for the possible.",
+  author: "William Sloane Coffin"
 }
 ```
 
