@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 670,
-  quote: "Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.",
-  author: "Louis Pasteur"
+  id: 1057,
+  quote: "He who knows himself is enlightened.",
+  author: "Lao Tzu"
 }
 ```
 
