@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1431,
-  quote: "Your attitude, not your aptitude, will determine your altitude.",
-  author: "Zig Ziglar"
+  id: 961,
+  quote: "No day in which you learn something is a complete loss.",
+  author: "David Eddings"
 }
 ```
 
