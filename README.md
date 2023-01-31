@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 783,
-  quote: "Do not expect the world to look bright, if you habitually wear gray-brown glasses.",
-  author: "Tomas Eliot"
+  id: 280,
+  quote: "All the great performers I have worked with are fuelled by a personal dream.",
+  author: "John Eliot"
 }
 ```
 
