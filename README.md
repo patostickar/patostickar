@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 869,
-  quote: "To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god.",
-  author: "Napoleon Bonaparte"
+  id: 1168,
+  quote: "Fine words and an insinuating appearance are seldom associated with true virtue",
+  author: "Confucius"
 }
 ```
 
