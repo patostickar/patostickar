@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1486,
-  quote: "Don't settle for a relationship that won't let you be yourself.",
-  author: "Oprah Winfrey"
+  id: 1467,
+  quote: "I am glad that I paid so little attention to good advice; had I abided by it I might have been saved from some of my most valuable mistakes.",
+  author: "Edna Millay"
 }
 ```
 
