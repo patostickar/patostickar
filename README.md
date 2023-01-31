@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1467,
-  quote: "I am glad that I paid so little attention to good advice; had I abided by it I might have been saved from some of my most valuable mistakes.",
-  author: "Edna Millay"
+  id: 1325,
+  quote: "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.",
+  author: "Michelangelo"
 }
 ```
 
