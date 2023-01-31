@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1057,
-  quote: "He who knows himself is enlightened.",
-  author: "Lao Tzu"
+  id: 1567,
+  quote: "If you have knowledge, let others light their candles in it.",
+  author: "Margaret Fuller"
 }
 ```
 
