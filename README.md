@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1116,
-  quote: "Listen to your intuition. It will tell you everything you need to know.",
-  author: "Anthony D'Angelo"
+  id: 783,
+  quote: "Do not expect the world to look bright, if you habitually wear gray-brown glasses.",
+  author: "Tomas Eliot"
 }
 ```
 
