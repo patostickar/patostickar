@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 973,
-  quote: "Hope arouses, as nothing else can arouse, a passion for the possible.",
-  author: "William Sloane Coffin"
+  id: 869,
+  quote: "To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god.",
+  author: "Napoleon Bonaparte"
 }
 ```
 
