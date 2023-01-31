@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 692,
-  quote: "The greatest way to live with honour in this world is to be what we pretend to be.",
-  author: "Socrates"
+  id: 1143,
+  quote: "You cannot step twice into the same river, for other waters are continually flowing in.",
+  author: "Heraclitus"
 }
 ```
 
