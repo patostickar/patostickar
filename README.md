@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 515,
-  quote: "To be beautiful means to be yourself. You do not need to be accepted by others. You need to accept yourself.",
-  author: "Thich Nhat Hanh"
+  id: 670,
+  quote: "Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.",
+  author: "Louis Pasteur"
 }
 ```
 
