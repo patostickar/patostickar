@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 122,
-  quote: "If you can dream it, you can do it.",
-  author: "Walt Disney"
+  id: 692,
+  quote: "The greatest way to live with honour in this world is to be what we pretend to be.",
+  author: "Socrates"
 }
 ```
 
