@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 69,
-  quote: "Wisdom is the supreme part of happiness.",
-  author: "Sophocles"
+  id: 539,
+  quote: "Sadness may be part of life but there is no need to let it dominate your entire life.",
+  author: "Byron Pulsifer"
 }
 ```
 
