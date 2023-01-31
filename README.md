@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 45,
-  quote: "Be kind whenever possible. It is always possible.",
-  author: "Dalai Lama"
+  id: 515,
+  quote: "To be beautiful means to be yourself. You do not need to be accepted by others. You need to accept yourself.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
