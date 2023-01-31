@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 280,
-  quote: "All the great performers I have worked with are fuelled by a personal dream.",
-  author: "John Eliot"
+  id: 1606,
+  quote: "To know your purpose is to live a life of direction, and in that direction is found peace and tranquillity.",
+  author: "Byron Pulsifer"
 }
 ```
 
