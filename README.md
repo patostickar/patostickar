@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 262,
-  quote: "All things change; nothing perishes.",
-  author: "Ovid"
+  id: 1305,
+  quote: "In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.",
+  author: "Leonardo da Vinci"
 }
 ```
 
