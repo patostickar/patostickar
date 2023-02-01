@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1210,
-  quote: "Don't let what you can't do stop you from doing what you can do.",
-  author: "null"
+  id: 140,
+  quote: "The only real valuable thing is intuition.",
+  author: "Albert Einstein"
 }
 ```
 
