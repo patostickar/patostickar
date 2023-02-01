@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 188,
-  quote: "No garden is without its weeds.",
-  author: "Thomas Fuller"
+  id: 423,
+  quote: "Make the best use of what is in your power, and take the rest as it happens.",
+  author: "Epictetus"
 }
 ```
 
