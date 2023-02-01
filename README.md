@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1355,
-  quote: "The man who trusts men will make fewer mistakes than he who distrusts them.",
-  author: "Cavour"
+  id: 1498,
+  quote: "Time you enjoyed wasting was not wasted.",
+  author: "John Lennon"
 }
 ```
 
