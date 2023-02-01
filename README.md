@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1384,
-  quote: "However many holy words you read, However many you speak, What good will they do you If you do not act on upon them?",
-  author: "Buddha"
+  id: 1355,
+  quote: "The man who trusts men will make fewer mistakes than he who distrusts them.",
+  author: "Cavour"
 }
 ```
 
