@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 915,
-  quote: "Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.",
-  author: "Marcus Aurelius"
+  id: 394,
+  quote: "It is on our failures that we base a new and different and better success.",
+  author: "Havelock Ellis"
 }
 ```
 
