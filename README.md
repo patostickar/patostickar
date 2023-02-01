@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 423,
-  quote: "Make the best use of what is in your power, and take the rest as it happens.",
-  author: "Epictetus"
+  id: 777,
+  quote: "The awareness of our own strength makes us modest.",
+  author: "Paul Cezanne"
 }
 ```
 
