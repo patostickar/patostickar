@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1582,
-  quote: "Miracles come in moments. Be ready and willing.",
-  author: "Wayne Dyer"
+  id: 1384,
+  quote: "However many holy words you read, However many you speak, What good will they do you If you do not act on upon them?",
+  author: "Buddha"
 }
 ```
 
