@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 140,
-  quote: "The only real valuable thing is intuition.",
-  author: "Albert Einstein"
+  id: 577,
+  quote: "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+  author: "Marcus Aurelius"
 }
 ```
 
