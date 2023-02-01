@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1234,
-  quote: "To see things in the seed, that is genius.",
-  author: "Lao Tzu"
+  id: 906,
+  quote: "Love at first sight is easy to understand; its when two people have been looking at each other for a lifetime that it becomes a miracle.",
+  author: "Amy Bloom"
 }
 ```
 
