@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1443,
-  quote: "When people are like each other they tend to like each other.",
-  author: "Tony Robbins"
+  id: 10,
+  quote: "Peace comes from within. Do not seek it without.",
+  author: "Buddha"
 }
 ```
 
