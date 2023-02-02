@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 89,
-  quote: "Luck is what happens when preparation meets opportunity.",
-  author: "Seneca"
+  id: 315,
+  quote: "I have done my best: that is about all the philosophy of living one needs.",
+  author: "Lin-yutang"
 }
 ```
 
