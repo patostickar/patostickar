@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 515,
-  quote: "To be beautiful means to be yourself. You do not need to be accepted by others. You need to accept yourself.",
-  author: "Thich Nhat Hanh"
+  id: 760,
+  quote: "To want to be what one can be is purpose in life.",
+  author: "Cynthia Ozick"
 }
 ```
 
