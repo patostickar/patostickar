@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 490,
-  quote: "Everything that happens happens as it should, and if you observe carefully, you will find this to be so.",
-  author: "Marcus Aurelius"
+  id: 679,
+  quote: "Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.",
+  author: "Franklin Roosevelt"
 }
 ```
 
