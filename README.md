@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 142,
-  quote: "Rainbows apologize for angry skies.",
-  author: "Sylvia Voirol"
+  id: 1443,
+  quote: "When people are like each other they tend to like each other.",
+  author: "Tony Robbins"
 }
 ```
 
