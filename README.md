@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1151,
-  quote: "Never apologize for showing feeling. When you do so, you apologize for truth.",
-  author: "Benjamin Disraeli"
+  id: 554,
+  quote: "A friend is someone who understands your past, believes in your future, and accepts you just the way you are.",
+  author: "null"
 }
 ```
 
