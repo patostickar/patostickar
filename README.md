@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 45,
-  quote: "Be kind whenever possible. It is always possible.",
-  author: "Dalai Lama"
+  id: 340,
+  quote: "I always wanted to be somebody, but I should have been more specific.",
+  author: "Lily Tomlin"
 }
 ```
 
