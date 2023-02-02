@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 906,
-  quote: "Love at first sight is easy to understand; its when two people have been looking at each other for a lifetime that it becomes a miracle.",
-  author: "Amy Bloom"
+  id: 515,
+  quote: "To be beautiful means to be yourself. You do not need to be accepted by others. You need to accept yourself.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
