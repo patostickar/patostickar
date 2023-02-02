@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 10,
-  quote: "Peace comes from within. Do not seek it without.",
-  author: "Buddha"
+  id: 767,
+  quote: "Always be smarter than the people who hire you.",
+  author: "Lena Horne"
 }
 ```
 
