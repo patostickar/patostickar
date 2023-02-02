@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 767,
-  quote: "Always be smarter than the people who hire you.",
-  author: "Lena Horne"
+  id: 1594,
+  quote: "The greatest mistake you can make in life is to be continually fearing you will make one.",
+  author: "Elbert Hubbard"
 }
 ```
 
