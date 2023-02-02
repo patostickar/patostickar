@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1114,
-  quote: "Trust your hunches. They're usually based on facts filed away just below the conscious level.",
-  author: "Joyce Brothers"
+  id: 89,
+  quote: "Luck is what happens when preparation meets opportunity.",
+  author: "Seneca"
 }
 ```
 
