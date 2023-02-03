@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1154,
-  quote: "Do what you can. Want what you have. Be who you are.",
-  author: "Forrest Church"
+  id: 1405,
+  quote: "Respect is not something that you can ask for, buy or borrow. Respect is what you earn from each person no matter their background or status.",
+  author: "Byron Pulsifer"
 }
 ```
 
