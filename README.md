@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1020,
-  quote: "From wonder into wonder existence opens.",
-  author: "Lao Tzu"
+  id: 714,
+  quote: "Wherever a man turns he can find someone who needs him.",
+  author: "Albert Schweitzer"
 }
 ```
 
