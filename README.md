@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 850,
-  quote: "To be thoughtful and kind only takes a few seconds compared to the timeless hurt caused by one rude gesture.",
-  author: "Byron Pulsifer"
+  id: 1195,
+  quote: "The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.",
+  author: "Booker Washington"
 }
 ```
 
