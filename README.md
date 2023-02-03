@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1367,
-  quote: "Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.",
-  author: "Ralph Waldo Emerson"
+  id: 471,
+  quote: "As the rest of the world is walking out the door, your best friends are the ones walking in.",
+  author: "null"
 }
 ```
 
