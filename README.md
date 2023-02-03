@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1405,
-  quote: "Respect is not something that you can ask for, buy or borrow. Respect is what you earn from each person no matter their background or status.",
-  author: "Byron Pulsifer"
+  id: 22,
+  quote: "Ideas are the beginning points of all fortunes.",
+  author: "Napoleon Hill"
 }
 ```
 
