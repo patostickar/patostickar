@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1152,
-  quote: "Take rest; a field that has rested gives a bountiful crop.",
-  author: "Ovid"
+  id: 1154,
+  quote: "Do what you can. Want what you have. Be who you are.",
+  author: "Forrest Church"
 }
 ```
 
