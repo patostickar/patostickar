@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 637,
-  quote: "Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.",
-  author: "Richard Bach"
+  id: 911,
+  quote: "When you arise in the morning, think of what a precious privilege it is to be alive to breathe, to think, to enjoy, to love.",
+  author: "Marcus Aurelius"
 }
 ```
 
