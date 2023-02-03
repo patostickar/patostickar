@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 301,
-  quote: "If you get up one more time than you fall, you will make it through.",
-  author: "null"
+  id: 637,
+  quote: "Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.",
+  author: "Richard Bach"
 }
 ```
 
