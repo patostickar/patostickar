@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 943,
-  quote: "Always be mindful of the kindness and not the faults of others.",
-  author: "Buddha"
+  id: 560,
+  quote: "Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?",
+  author: "Confucius"
 }
 ```
 
