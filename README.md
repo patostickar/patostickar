@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 400,
-  quote: "If you cannot do great things, do small things in a great way.",
-  author: "Napoleon Hill"
+  id: 1099,
+  quote: "The difficulties of life are intended to make us better, not bitter.",
+  author: "null"
 }
 ```
 
