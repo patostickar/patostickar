@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 372,
-  quote: "You, yourself, as much as anybody in the entire universe, deserve your love and affection.",
-  author: "Buddha"
+  id: 1477,
+  quote: "A person who never made a mistake never tried anything new.",
+  author: "Albert Einstein"
 }
 ```
 
