@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1120,
-  quote: "Our kindness may be the most persuasive argument for that which we believe.",
-  author: "Gordon Hinckley"
+  id: 1367,
+  quote: "Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
