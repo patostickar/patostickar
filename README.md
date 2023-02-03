@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 560,
-  quote: "Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?",
-  author: "Confucius"
+  id: 372,
+  quote: "You, yourself, as much as anybody in the entire universe, deserve your love and affection.",
+  author: "Buddha"
 }
 ```
 
