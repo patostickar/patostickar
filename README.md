@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 315,
-  quote: "I have done my best: that is about all the philosophy of living one needs.",
-  author: "Lin-yutang"
+  id: 464,
+  quote: "Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity",
+  author: "Louis Pasteur"
 }
 ```
 
