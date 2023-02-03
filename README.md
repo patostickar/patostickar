@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 22,
-  quote: "Ideas are the beginning points of all fortunes.",
+  id: 400,
+  quote: "If you cannot do great things, do small things in a great way.",
   author: "Napoleon Hill"
 }
 ```
