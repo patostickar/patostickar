@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 464,
-  quote: "Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity",
-  author: "Louis Pasteur"
+  id: 1059,
+  quote: "As our case is new, we must think and act anew.",
+  author: "Abraham Lincoln"
 }
 ```
 
