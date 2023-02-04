@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1477,
-  quote: "A person who never made a mistake never tried anything new.",
-  author: "Albert Einstein"
+  id: 1108,
+  quote: "Your body is precious. It is our vehicle for awakening. Treat it with care.",
+  author: "Buddha"
 }
 ```
 
