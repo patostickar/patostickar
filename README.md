@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 663,
-  quote: "The poor man is not he who is without a cent, but he who is without a dream.",
-  author: "Harry Kemp"
+  id: 343,
+  quote: "Life is like riding a bicycle. To keep your balance you must keep moving.",
+  author: "Albert Einstein"
 }
 ```
 
