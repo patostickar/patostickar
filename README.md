@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1307,
-  quote: "There is nothing happens to any person but what was in his power to go through with.",
-  author: "Marcus Aurelius"
+  id: 1285,
+  quote: "Leaders aren't born they are made. And they are made just like anything else, through hard work. And that's the price well have to pay to achieve that goal, or any goal.",
+  author: "Vince Lombardi"
 }
 ```
 
