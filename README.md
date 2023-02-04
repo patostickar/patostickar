@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 157,
-  quote: "Without faith, nothing is possible. With it, nothing is impossible.",
-  author: "Mary Bethune"
+  id: 143,
+  quote: "Friendship isn't a big thing. It's a million little things.",
+  author: "null"
 }
 ```
 
