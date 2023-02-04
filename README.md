@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 476,
-  quote: "Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.",
-  author: "Eleanor Roosevelt"
+  id: 266,
+  quote: "Love doesn't make the world go round, love is what makes the ride worthwhile.",
+  author: "Elizabeth Browning"
 }
 ```
 
