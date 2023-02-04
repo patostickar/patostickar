@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1039,
-  quote: "The place to improve the world is first in one's own heart and head and hands.",
-  author: "Robert M. Pirsig"
+  id: 592,
+  quote: "To live a pure unselfish life, one must count nothing as ones own in the midst of abundance.",
+  author: "Buddha"
 }
 ```
 
