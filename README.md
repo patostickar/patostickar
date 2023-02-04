@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1351,
-  quote: "All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.",
-  author: "Bruce Lee"
+  id: 320,
+  quote: "The secret to a rich life is to have more beginnings than endings.",
+  author: "Dave Weinbaum"
 }
 ```
 
