@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 320,
-  quote: "The secret to a rich life is to have more beginnings than endings.",
-  author: "Dave Weinbaum"
+  id: 476,
+  quote: "Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
