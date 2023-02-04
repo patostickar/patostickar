@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 538,
-  quote: "Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.",
-  author: "Gloria Steinem"
+  id: 1626,
+  quote: "An ounce of emotion is equal to a ton of facts.",
+  author: "John Junor"
 }
 ```
 
