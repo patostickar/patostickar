@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1358,
-  quote: "The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.",
-  author: "Anais Nin"
+  id: 663,
+  quote: "The poor man is not he who is without a cent, but he who is without a dream.",
+  author: "Harry Kemp"
 }
 ```
 
