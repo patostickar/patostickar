@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 592,
-  quote: "To live a pure unselfish life, one must count nothing as ones own in the midst of abundance.",
-  author: "Buddha"
+  id: 1307,
+  quote: "There is nothing happens to any person but what was in his power to go through with.",
+  author: "Marcus Aurelius"
 }
 ```
 
