@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 894,
-  quote: "Most of our obstacles would melt away if, instead of cowering before them, we should make up our minds to walk boldly through them.",
-  author: "Orison Marden"
+  id: 671,
+  quote: "We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world.",
+  author: "Buddha"
 }
 ```
 
