@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 671,
-  quote: "We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world.",
-  author: "Buddha"
+  id: 253,
+  quote: "Sadness flies away on the wings of time.",
+  author: "Jean de la Fontaine"
 }
 ```
 
