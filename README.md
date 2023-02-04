@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 253,
-  quote: "Sadness flies away on the wings of time.",
-  author: "Jean de la Fontaine"
+  id: 1447,
+  quote: "Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.",
+  author: "Oprah Winfrey"
 }
 ```
 
