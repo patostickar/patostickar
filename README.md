@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 732,
-  quote: "The truth is always exciting. Speak it, then. Life is dull without it.",
-  author: "Pearl Buck"
+  id: 1351,
+  quote: "All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.",
+  author: "Bruce Lee"
 }
 ```
 
