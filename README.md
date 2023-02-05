@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 896,
-  quote: "It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all.",
-  author: "Edward de Bono"
+  id: 797,
+  quote: "Men are disturbed not by things, but by the view which they take of them.",
+  author: "Epictetus"
 }
 ```
 
