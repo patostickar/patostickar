@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 466,
-  quote: "We must never forget that it is through our actions, words, and thoughts that we have a choice.",
-  author: "Sogyal Rinpoche"
+  id: 896,
+  quote: "It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all.",
+  author: "Edward de Bono"
 }
 ```
 
