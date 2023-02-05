@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 271,
-  quote: "The future belongs to those who believe in the beauty of their dreams.",
-  author: "Eleanor Roosevelt"
+  id: 578,
+  quote: "Giving up doesn't always mean you are weak. Sometimes it means that you are strong enough to let go.",
+  author: "null"
 }
 ```
 
