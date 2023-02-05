@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 291,
-  quote: "Being right is highly overrated. Even a stopped clock is right twice a day.",
-  author: "null"
+  id: 271,
+  quote: "The future belongs to those who believe in the beauty of their dreams.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
