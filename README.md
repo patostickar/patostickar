@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1433,
-  quote: "I gave my life to become the person I am right now. Was it worth it?",
-  author: "Richard Bach"
+  id: 623,
+  quote: "When you don't know what you believe, everything becomes an argument. Everything is debatable. But when you stand for something, decisions are obvious.",
+  author: "null"
 }
 ```
 
