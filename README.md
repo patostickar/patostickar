@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1510,
-  quote: "If we look at the world with a love of life, the world will reveal its beauty to us.",
-  author: "Daisaku Ikeda"
+  id: 428,
+  quote: "I'm a great believer in luck and I find the harder I work, the more I have of it.",
+  author: "Thomas Jefferson"
 }
 ```
 
