@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 913,
-  quote: "Although there may be tragedy in your life, there's always a possibility to triumph. It doesn't matter who you are, where you come from. The ability to triumph begins with you. Always.",
-  author: "Oprah Winfrey"
+  id: 1051,
+  quote: "It isn't where you come from, it's where you're going that counts.",
+  author: "Ella Fitzgerald"
 }
 ```
 
