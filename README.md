@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1258,
-  quote: "Turn your face toward the sun and the shadows will fall behind you.",
-  author: "Maori proverb"
+  id: 212,
+  quote: "A prudent question is one half of wisdom.",
+  author: "Francis Bacon"
 }
 ```
 
