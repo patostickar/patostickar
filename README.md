@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 503,
-  quote: "Life is not measured by the breaths we take, but by the moments that take our breath.",
-  author: "null"
+  id: 1150,
+  quote: "Take it easy, but take it.",
+  author: "Woody Guthrie"
 }
 ```
 
