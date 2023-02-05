@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1274,
-  quote: "Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.",
-  author: "Richard Bach"
+  id: 1636,
+  quote: "Nothing is a waste of time if you use the experience wisely.",
+  author: "Rodin"
 }
 ```
 
