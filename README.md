@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 797,
-  quote: "Men are disturbed not by things, but by the view which they take of them.",
-  author: "Epictetus"
+  id: 189,
+  quote: "There is no failure except in no longer trying.",
+  author: "Elbert Hubbard"
 }
 ```
 
