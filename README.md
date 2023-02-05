@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1636,
-  quote: "Nothing is a waste of time if you use the experience wisely.",
-  author: "Rodin"
+  id: 291,
+  quote: "Being right is highly overrated. Even a stopped clock is right twice a day.",
+  author: "null"
 }
 ```
 
