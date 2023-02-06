@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 166,
-  quote: "Change your thoughts, change your life!",
-  author: "null"
+  id: 886,
+  quote: "In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.",
+  author: "Buddha"
 }
 ```
 
