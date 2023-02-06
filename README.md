@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 24,
-  quote: "Doing nothing is better than being busy doing nothing.",
-  author: "Lao Tzu"
+  id: 390,
+  quote: "Every day may not be good, but there's something good in every day.",
+  author: "null"
 }
 ```
 
