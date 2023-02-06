@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 396,
-  quote: "To study and not think is a waste. To think and not study is dangerous.",
-  author: "Confucius"
+  id: 942,
+  quote: "When you come to the end of your rope, tie a knot and hang on.",
+  author: "Franklin Roosevelt"
 }
 ```
 
