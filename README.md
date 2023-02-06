@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 942,
-  quote: "When you come to the end of your rope, tie a knot and hang on.",
-  author: "Franklin Roosevelt"
+  id: 1545,
+  quote: "Dreams come true. Without that possibility, nature would not incite us to have them.",
+  author: "John Updike"
 }
 ```
 
