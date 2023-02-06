@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 593,
-  quote: "Many of life's failures are people who did not realize how close they were to success when they gave up.",
-  author: "Thomas Edison"
+  id: 759,
+  quote: "Life is 10% what happens to you and 90% how you react to it.",
+  author: "Charles Swindoll"
 }
 ```
 
