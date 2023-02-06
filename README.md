@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 861,
-  quote: "If you have no respect for your own values how can you be worthy of respect from others.",
-  author: "Byron Pulsifer"
+  id: 396,
+  quote: "To study and not think is a waste. To think and not study is dangerous.",
+  author: "Confucius"
 }
 ```
 
