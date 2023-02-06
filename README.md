@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 495,
-  quote: "Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that so it goes on flying anyway.",
-  author: "Mary Kay Ash"
+  id: 1192,
+  quote: "Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.",
+  author: "Ralph Emerson"
 }
 ```
 
