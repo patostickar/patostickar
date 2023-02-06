@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1064,
-  quote: "Everything you are against weakens you. Everything you are for empowers you.",
-  author: "Wayne Dyer"
+  id: 546,
+  quote: "Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements.",
+  author: "Napoleon Hill"
 }
 ```
 
