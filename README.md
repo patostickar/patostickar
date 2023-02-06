@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1346,
-  quote: "It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.",
-  author: "Franklin D. Roosevelt"
+  id: 861,
+  quote: "If you have no respect for your own values how can you be worthy of respect from others.",
+  author: "Byron Pulsifer"
 }
 ```
 
