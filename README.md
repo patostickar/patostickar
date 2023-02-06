@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 774,
-  quote: "Everything that irritates us about others can lead us to an understanding about ourselves.",
-  author: "Carl Jung"
+  id: 1346,
+  quote: "It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.",
+  author: "Franklin D. Roosevelt"
 }
 ```
 
