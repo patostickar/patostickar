@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 546,
-  quote: "Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements.",
-  author: "Napoleon Hill"
+  id: 774,
+  quote: "Everything that irritates us about others can lead us to an understanding about ourselves.",
+  author: "Carl Jung"
 }
 ```
 
