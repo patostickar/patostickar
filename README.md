@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 355,
-  quote: "One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.",
-  author: "Albert Schweitzer"
+  id: 329,
+  quote: "It has never been my object to record my dreams, just to realize them.",
+  author: "Man Ray"
 }
 ```
 
