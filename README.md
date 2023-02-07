@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 120,
-  quote: "Yesterday I dared to struggle. Today I dare to win.",
-  author: "Bernadette Devlin"
+  id: 163,
+  quote: "The truest wisdom is a resolute determination.",
+  author: "Napoleon Bonaparte"
 }
 ```
 
