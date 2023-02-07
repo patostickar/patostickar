@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1341,
-  quote: "Anybody can make history. Only a great man can write it.",
-  author: "Oscar Wilde"
+  id: 56,
+  quote: "Love is the flower you've got to let grow.",
+  author: "John Lennon"
 }
 ```
 
