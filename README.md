@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 526,
-  quote: "I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.",
-  author: "Og Mandino"
+  id: 355,
+  quote: "One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.",
+  author: "Albert Schweitzer"
 }
 ```
 
