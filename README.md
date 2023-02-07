@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 556,
-  quote: "He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.",
-  author: "Tryon Edwards"
+  id: 1176,
+  quote: "You cannot travel the path until you have become the path itself.",
+  author: "Buddha"
 }
 ```
 
