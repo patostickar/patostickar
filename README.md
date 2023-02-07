@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 975,
-  quote: "Nothing ever goes away until it has taught us what we need to know.",
-  author: "Pema Chodron"
+  id: 354,
+  quote: "Never bend your head. Always hold it high. Look the world right in the eye.",
+  author: "Helen Keller"
 }
 ```
 
