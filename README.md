@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1146,
-  quote: "I begin with an idea and then it becomes something else.",
-  author: "Pablo Picasso"
+  id: 556,
+  quote: "He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.",
+  author: "Tryon Edwards"
 }
 ```
 
