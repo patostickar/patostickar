@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 56,
-  quote: "Love is the flower you've got to let grow.",
-  author: "John Lennon"
+  id: 219,
+  quote: "Better be ignorant of a matter than half know it.",
+  author: "Publilius Syrus"
 }
 ```
 
