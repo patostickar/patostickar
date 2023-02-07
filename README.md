@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 163,
-  quote: "The truest wisdom is a resolute determination.",
-  author: "Napoleon Bonaparte"
+  id: 1092,
+  quote: "He who angers you conquers you.",
+  author: "Elizabeth Kenny"
 }
 ```
 
