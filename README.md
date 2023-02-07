@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 225,
-  quote: "To enjoy life, we must touch much of it lightly.",
-  author: "Voltaire"
+  id: 1341,
+  quote: "Anybody can make history. Only a great man can write it.",
+  author: "Oscar Wilde"
 }
 ```
 
