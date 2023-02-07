@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1534,
-  quote: "One who is too insistent on his own views, finds few to agree with him.",
+  id: 1234,
+  quote: "To see things in the seed, that is genius.",
   author: "Lao Tzu"
 }
 ```
