@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 237,
-  quote: "Efficiency is doing things right; effectiveness is doing the right things.",
-  author: "Peter Drucker"
+  id: 975,
+  quote: "Nothing ever goes away until it has taught us what we need to know.",
+  author: "Pema Chodron"
 }
 ```
 
