@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 649,
-  quote: "Remember always that you not only have the right to be an individual, you have an obligation to be one.",
-  author: "Eleanor Roosevelt"
+  id: 157,
+  quote: "Without faith, nothing is possible. With it, nothing is impossible.",
+  author: "Mary Bethune"
 }
 ```
 
