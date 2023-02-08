@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1378,
-  quote: "Change will not come if we wait for some other person or some other time. We are the ones weve been waiting for. We are the change that we seek.",
-  author: "Barack Obama"
+  id: 1337,
+  quote: "Divide each difficulty into as many parts as is feasible and necessary to resolve it.",
+  author: "Rene Descartes"
 }
 ```
 
