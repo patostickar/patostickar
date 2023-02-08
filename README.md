@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 668,
-  quote: "Change is the law of life. And those who look only to the past or present are certain to miss the future.",
-  author: "John Kennedy"
+  id: 118,
+  quote: "The simplest things are often the truest.",
+  author: "Richard Bach"
 }
 ```
 
