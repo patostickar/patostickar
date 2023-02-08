@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1454,
-  quote: "An idea that is developed and put into action is more important than an idea that exists only as an idea.",
-  author: "Buddha"
+  id: 214,
+  quote: "I allow my intuition to lead my path.",
+  author: "Manuel Puig"
 }
 ```
 
