@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1135,
-  quote: "A thing well said will be wit in all languages.",
-  author: "John Dryden"
+  id: 1302,
+  quote: "For everything that lives is holy, life delights in life.",
+  author: "William Blake"
 }
 ```
 
