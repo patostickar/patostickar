@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 664,
-  quote: "The greatest good you can do for another is not just share your riches, but reveal to them their own.",
-  author: "Benjamin Disraeli"
+  id: 1625,
+  quote: "The truest greatness lies in being kind, the truest wisdom in a happy mind.",
+  author: "Ella Wilcox"
 }
 ```
 
