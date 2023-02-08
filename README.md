@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 285,
-  quote: "It is not so important to know everything as to appreciate what we learn.",
-  author: "Hannah More"
+  id: 1260,
+  quote: "Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.",
+  author: "Whoopi Goldberg"
 }
 ```
 
