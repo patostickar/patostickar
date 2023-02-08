@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 968,
-  quote: "In seed time learn, in harvest teach, in winter enjoy.",
-  author: "William Blake"
+  id: 1454,
+  quote: "An idea that is developed and put into action is more important than an idea that exists only as an idea.",
+  author: "Buddha"
 }
 ```
 
