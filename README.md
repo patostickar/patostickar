@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1178,
-  quote: "I am not afraid of tomorrow, for I have seen yesterday and I love today.",
-  author: "William White"
+  id: 741,
+  quote: "You might well remember that nothing can bring you success but yourself.",
+  author: "Napoleon Hill"
 }
 ```
 
