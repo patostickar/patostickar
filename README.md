@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 214,
-  quote: "I allow my intuition to lead my path.",
-  author: "Manuel Puig"
+  id: 785,
+  quote: "Without some goals and some efforts to reach it, no man can live.",
+  author: "John Dewey"
 }
 ```
 
