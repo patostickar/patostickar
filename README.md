@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 172,
-  quote: "The day always looks brighter from behind a smile.",
-  author: "null"
+  id: 731,
+  quote: "Error is discipline through which we advance.",
+  author: "Channing"
 }
 ```
 
