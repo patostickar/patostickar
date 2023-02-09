@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 253,
-  quote: "Sadness flies away on the wings of time.",
-  author: "Jean de la Fontaine"
+  id: 1394,
+  quote: "He who knows, does not speak. He who speaks, does not know.",
+  author: "Lao Tzu"
 }
 ```
 
