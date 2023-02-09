@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 53,
-  quote: "All serious daring starts from within.",
-  author: "Harriet Beecher Stowe"
+  id: 1325,
+  quote: "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.",
+  author: "Michelangelo"
 }
 ```
 
