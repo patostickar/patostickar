@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 360,
-  quote: "Be what you are. This is the first step toward becoming better than you are.",
-  author: "Julius Charles Hare"
+  id: 28,
+  quote: "From error to error one discovers the entire truth.",
+  author: "Sigmund Freud"
 }
 ```
 
