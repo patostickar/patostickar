@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 343,
-  quote: "Life is like riding a bicycle. To keep your balance you must keep moving.",
-  author: "Albert Einstein"
+  id: 253,
+  quote: "Sadness flies away on the wings of time.",
+  author: "Jean de la Fontaine"
 }
 ```
 
