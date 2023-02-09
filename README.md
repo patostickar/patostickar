@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 93,
-  quote: "A goal is a dream with a deadline.",
-  author: "Napoleon Hill"
+  id: 704,
+  quote: "It is in your moments of decision that your destiny is shaped.",
+  author: "Tony Robbins"
 }
 ```
 
