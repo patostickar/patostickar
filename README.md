@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 836,
-  quote: "If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.",
-  author: "Pema Chodron"
+  id: 1331,
+  quote: "The noblest worship is to make yourself as good and as just as you can.",
+  author: "Isocrates"
 }
 ```
 
