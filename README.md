@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 302,
-  quote: "The doors we open and close each day decide the lives we live.",
-  author: "Flora Whittemore"
+  id: 872,
+  quote: "The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.",
+  author: "Vincent Lombardi"
 }
 ```
 
