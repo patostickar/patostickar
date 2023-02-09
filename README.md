@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1241,
-  quote: "The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.",
-  author: "Will Durant"
+  id: 172,
+  quote: "The day always looks brighter from behind a smile.",
+  author: "null"
 }
 ```
 
