@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 910,
-  quote: "No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.",
-  author: "Helen Keller"
+  id: 360,
+  quote: "Be what you are. This is the first step toward becoming better than you are.",
+  author: "Julius Charles Hare"
 }
 ```
 
