@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 731,
-  quote: "Error is discipline through which we advance.",
-  author: "Channing"
+  id: 249,
+  quote: "If there is no struggle, there is no progress.",
+  author: "Frederick Douglass"
 }
 ```
 
