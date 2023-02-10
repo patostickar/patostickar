@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 915,
-  quote: "Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.",
-  author: "Marcus Aurelius"
+  id: 850,
+  quote: "To be thoughtful and kind only takes a few seconds compared to the timeless hurt caused by one rude gesture.",
+  author: "Byron Pulsifer"
 }
 ```
 
