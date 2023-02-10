@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 437,
-  quote: "You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.",
-  author: "Naguib Mahfouz"
+  id: 152,
+  quote: "Life isn't about finding yourself. Life is about creating yourself.",
+  author: "Bernard Shaw"
 }
 ```
 
