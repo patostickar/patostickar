@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 162,
-  quote: "Fear is a darkroom where negatives develop.",
-  author: "Usman Asif"
+  id: 1300,
+  quote: "When deeds and words are in accord, the whole world is transformed.",
+  author: "Chuang Tzu"
 }
 ```
 
