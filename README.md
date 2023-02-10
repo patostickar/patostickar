@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1259,
-  quote: "Things turn out best for those who make the best of the way things turn out.",
-  author: "Jack Buck"
+  id: 1413,
+  quote: "You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.",
+  author: "Anatole France"
 }
 ```
 
