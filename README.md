@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 524,
-  quote: "If you must tell me your opinions, tell me what you believe in. I have plenty of douts of my own.",
-  author: "Johann Wolfgang von Goethe"
+  id: 571,
+  quote: "He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.",
+  author: "Pablo Picasso"
 }
 ```
 
