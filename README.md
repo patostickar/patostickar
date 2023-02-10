@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 152,
-  quote: "Life isn't about finding yourself. Life is about creating yourself.",
-  author: "Bernard Shaw"
+  id: 915,
+  quote: "Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.",
+  author: "Marcus Aurelius"
 }
 ```
 
