@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1005,
-  quote: "Mistakes are always forgivable, if one has the courage to admit them.",
-  author: "Bruce Lee"
+  id: 524,
+  quote: "If you must tell me your opinions, tell me what you believe in. I have plenty of douts of my own.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
