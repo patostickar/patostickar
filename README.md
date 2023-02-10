@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1084,
-  quote: "The path to success is to take massive, determined action.",
-  author: "Anthony Robbins"
+  id: 532,
+  quote: "Today, give a stranger a smile without waiting for it may be the joy they need to have a great day.",
+  author: "Byron Pulsifer"
 }
 ```
 
