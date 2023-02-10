@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 419,
-  quote: "Success means having the courage, the determination, and the will to become the person you believe you were meant to be.",
-  author: "George Sheehan"
+  id: 446,
+  quote: "It is better to take many small steps in the right direction than to make a great leap forward only to stumble backward.",
+  author: "null"
 }
 ```
 
