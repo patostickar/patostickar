@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 505,
-  quote: "Consider how hard it is to change yourself and you'll understand what little chance you have in trying to change others.",
-  author: "Jacob Braude"
+  id: 590,
+  quote: "Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.",
+  author: "Winston Churchill"
 }
 ```
 
