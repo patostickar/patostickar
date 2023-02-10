@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 249,
-  quote: "If there is no struggle, there is no progress.",
-  author: "Frederick Douglass"
+  id: 1230,
+  quote: "Keep silence for the most part, and speak only when you must, and then briefly.",
+  author: "Epictetus"
 }
 ```
 
