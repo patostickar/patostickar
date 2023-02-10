@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 940,
-  quote: "Smile, breathe and go slowly.",
-  author: "Thich Nhat Hanh"
+  id: 162,
+  quote: "Fear is a darkroom where negatives develop.",
+  author: "Usman Asif"
 }
 ```
 
