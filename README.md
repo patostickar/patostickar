@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 208,
-  quote: "A short saying oft contains much wisdom.",
-  author: "Sophocles"
+  id: 939,
+  quote: "We must not allow ourselves to become like the system we oppose.",
+  author: "Bishop Desmond Tutu"
 }
 ```
 
