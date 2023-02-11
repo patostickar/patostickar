@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1407,
-  quote: "We must learn our limits. We are all something, but none of us are everything.",
-  author: "Blaise Pascal"
+  id: 1231,
+  quote: "Fear not for the future, weep not for the past.",
+  author: "Percy Shelley"
 }
 ```
 
