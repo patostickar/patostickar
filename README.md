@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 939,
-  quote: "We must not allow ourselves to become like the system we oppose.",
-  author: "Bishop Desmond Tutu"
+  id: 539,
+  quote: "Sadness may be part of life but there is no need to let it dominate your entire life.",
+  author: "Byron Pulsifer"
 }
 ```
 
