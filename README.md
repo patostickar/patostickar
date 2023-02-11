@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 807,
-  quote: "Every artist dips his brush in his own soul, and paints his own nature into his pictures.",
-  author: "Henry Ward Beecher"
+  id: 1132,
+  quote: "It is impossible to feel grateful and depressed in the same moment.",
+  author: "Naomi Williams"
 }
 ```
 
