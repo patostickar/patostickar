@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 285,
-  quote: "It is not so important to know everything as to appreciate what we learn.",
-  author: "Hannah More"
+  id: 295,
+  quote: "Successful people ask better questions, and as a result, they get better answers.",
+  author: "Tony Robbins"
 }
 ```
 
