@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1052,
-  quote: "The greatest obstacle to connecting with our joy is resentment.",
-  author: "Pema Chodron"
+  id: 1001,
+  quote: "Be less curious about people and more curious about ideas.",
+  author: "Marie Curie"
 }
 ```
 
