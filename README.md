@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1231,
-  quote: "Fear not for the future, weep not for the past.",
-  author: "Percy Shelley"
+  id: 1234,
+  quote: "To see things in the seed, that is genius.",
+  author: "Lao Tzu"
 }
 ```
 
