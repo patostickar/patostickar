@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1076,
-  quote: "Life is a succession of moments. To live each one is to succeed.",
-  author: "Corita Kent"
+  id: 1094,
+  quote: "No man is free who is not master of himself.",
+  author: "Epictetus"
 }
 ```
 
