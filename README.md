@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1132,
-  quote: "It is impossible to feel grateful and depressed in the same moment.",
-  author: "Naomi Williams"
+  id: 517,
+  quote: "It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.",
+  author: "Jessamyn West"
 }
 ```
 
