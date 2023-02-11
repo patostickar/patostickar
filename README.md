@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 481,
-  quote: "What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.",
-  author: "Sai Baba"
+  id: 1052,
+  quote: "The greatest obstacle to connecting with our joy is resentment.",
+  author: "Pema Chodron"
 }
 ```
 
