@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 539,
-  quote: "Sadness may be part of life but there is no need to let it dominate your entire life.",
-  author: "Byron Pulsifer"
+  id: 1407,
+  quote: "We must learn our limits. We are all something, but none of us are everything.",
+  author: "Blaise Pascal"
 }
 ```
 
