@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 849,
-  quote: "Courage is the discovery that you may not win, and trying when you know you can lose.",
-  author: "null"
+  id: 481,
+  quote: "What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.",
+  author: "Sai Baba"
 }
 ```
 
