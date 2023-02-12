@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1539,
-  quote: "It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.",
-  author: "Pema Chodron"
+  id: 917,
+  quote: "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+  author: "Marie Curie"
 }
 ```
 
