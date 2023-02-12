@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 585,
-  quote: "You can be what you want to be. You have the power within and we will help you always.",
-  author: "Byron Pulsifer"
+  id: 815,
+  quote: "Happiness is a perfume you cannot pour on others without getting a few drops on yourself.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
