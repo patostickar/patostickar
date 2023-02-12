@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1061,
-  quote: "In three words I can sum up everything Ive learned about life: it goes on.",
-  author: "Robert Frost"
+  id: 1047,
+  quote: "Freedom is what you do with what's been done to you.",
+  author: "Jean-Paul Sartre"
 }
 ```
 
