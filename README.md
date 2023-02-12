@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 917,
-  quote: "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
-  author: "Marie Curie"
+  id: 860,
+  quote: "Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.",
+  author: "William Channing"
 }
 ```
 
