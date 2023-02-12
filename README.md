@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 929,
-  quote: "The greatest part of our happiness depends on our dispositions, not our circumstances.",
-  author: "Martha Washington"
+  id: 727,
+  quote: "All achievements, all earned riches, have their beginning in an idea.",
+  author: "Napoleon Hill"
 }
 ```
 
