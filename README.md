@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 727,
-  quote: "All achievements, all earned riches, have their beginning in an idea.",
-  author: "Napoleon Hill"
+  id: 152,
+  quote: "Life isn't about finding yourself. Life is about creating yourself.",
+  author: "Bernard Shaw"
 }
 ```
 
