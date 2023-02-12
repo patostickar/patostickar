@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 699,
-  quote: "A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.",
-  author: "David Brinkley"
+  id: 281,
+  quote: "One of the advantages of being disorderly is that one is constantly making exciting discoveries.",
+  author: "A. A. Milne"
 }
 ```
 
