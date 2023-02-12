@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 937,
-  quote: "Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.",
-  author: "William Arthur Ward"
+  id: 132,
+  quote: "Speak low, if you speak love.",
+  author: "William Shakespeare"
 }
 ```
 
