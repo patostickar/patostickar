@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 132,
-  quote: "Speak low, if you speak love.",
-  author: "William Shakespeare"
+  id: 1498,
+  quote: "Time you enjoyed wasting was not wasted.",
+  author: "John Lennon"
 }
 ```
 
