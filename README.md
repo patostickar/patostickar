@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 462,
-  quote: "The fox has many tricks. The hedgehog has but one. But that is the best of all.",
-  author: "Desiderius Erasmus"
+  id: 654,
+  quote: "If it is not right do not do it; if it is not true do not say it.",
+  author: "Marcus Aurelius"
 }
 ```
 
