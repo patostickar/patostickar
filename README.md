@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 623,
-  quote: "When you don't know what you believe, everything becomes an argument. Everything is debatable. But when you stand for something, decisions are obvious.",
-  author: "null"
+  id: 462,
+  quote: "The fox has many tricks. The hedgehog has but one. But that is the best of all.",
+  author: "Desiderius Erasmus"
 }
 ```
 
