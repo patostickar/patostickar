@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1498,
-  quote: "Time you enjoyed wasting was not wasted.",
-  author: "John Lennon"
+  id: 1507,
+  quote: "Go for it now. The future is promised to no one.",
+  author: "Wayne Dyer"
 }
 ```
 
