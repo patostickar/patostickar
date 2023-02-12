@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 908,
-  quote: "The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.",
-  author: "Margaret Smith"
+  id: 699,
+  quote: "A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.",
+  author: "David Brinkley"
 }
 ```
 
