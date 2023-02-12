@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 654,
-  quote: "If it is not right do not do it; if it is not true do not say it.",
-  author: "Marcus Aurelius"
+  id: 748,
+  quote: "Your big opportunity may be right where you are now.",
+  author: "Napoleon Hill"
 }
 ```
 
