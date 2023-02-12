@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1243,
-  quote: "Sometimes the biggest act of courage is a small one.",
-  author: "Lauren Raffo"
+  id: 1061,
+  quote: "In three words I can sum up everything Ive learned about life: it goes on.",
+  author: "Robert Frost"
 }
 ```
 
