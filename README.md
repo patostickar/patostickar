@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 637,
-  quote: "Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.",
-  author: "Richard Bach"
+  id: 1243,
+  quote: "Sometimes the biggest act of courage is a small one.",
+  author: "Lauren Raffo"
 }
 ```
 
