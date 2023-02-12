@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1507,
-  quote: "Go for it now. The future is promised to no one.",
-  author: "Wayne Dyer"
+  id: 585,
+  quote: "You can be what you want to be. You have the power within and we will help you always.",
+  author: "Byron Pulsifer"
 }
 ```
 
