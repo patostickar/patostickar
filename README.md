@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 846,
-  quote: "The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
-  author: "Henry Miller"
+  id: 435,
+  quote: "Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.",
+  author: "Henry Van Dyke"
 }
 ```
 
