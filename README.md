@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 530,
-  quote: "Take no thought of who is right or wrong or who is better than. Be not for or against.",
-  author: "Bruce Lee"
+  id: 770,
+  quote: "People seldom notice old clothes if you wear a big smile.",
+  author: "Lee Mildon"
 }
 ```
 
