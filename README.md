@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 235,
-  quote: "Fears are nothing more than a state of mind.",
-  author: "Napoleon Hill"
+  id: 200,
+  quote: "Strong beliefs win strong men, and then make them stronger.",
+  author: "Richard Bach"
 }
 ```
 
