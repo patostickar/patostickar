@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1118,
-  quote: "Whenever something negative happens to you, there is a deep lesson concealed within it.",
-  author: "Eckhart Tolle"
+  id: 846,
+  quote: "The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
+  author: "Henry Miller"
 }
 ```
 
