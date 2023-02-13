@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1060,
-  quote: "If you can't feed a hundred people, then feed just one.",
-  author: "Mother Teresa"
+  id: 1108,
+  quote: "Your body is precious. It is our vehicle for awakening. Treat it with care.",
+  author: "Buddha"
 }
 ```
 
