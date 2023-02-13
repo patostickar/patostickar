@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 929,
-  quote: "The greatest part of our happiness depends on our dispositions, not our circumstances.",
-  author: "Martha Washington"
+  id: 235,
+  quote: "Fears are nothing more than a state of mind.",
+  author: "Napoleon Hill"
 }
 ```
 
