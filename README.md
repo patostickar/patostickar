@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1500,
-  quote: "Genuine sincerity opens people's hearts, while manipulation causes them to close.",
-  author: "Daisaku Ikeda"
+  id: 1506,
+  quote: "Obstacles are those frightful things you see when you take your eyes off your goal.",
+  author: "Henry Ford"
 }
 ```
 
