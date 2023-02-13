@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1047,
-  quote: "Freedom is what you do with what's been done to you.",
-  author: "Jean-Paul Sartre"
+  id: 35,
+  quote: "One fails forward toward success.",
+  author: "Charles Kettering"
 }
 ```
 
