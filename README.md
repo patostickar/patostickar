@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 35,
-  quote: "One fails forward toward success.",
-  author: "Charles Kettering"
+  id: 1060,
+  quote: "If you can't feed a hundred people, then feed just one.",
+  author: "Mother Teresa"
 }
 ```
 
