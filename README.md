@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1545,
-  quote: "Dreams come true. Without that possibility, nature would not incite us to have them.",
-  author: "John Updike"
+  id: 675,
+  quote: "When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.",
+  author: "Epictetus"
 }
 ```
 
