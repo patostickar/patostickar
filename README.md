@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 200,
-  quote: "Strong beliefs win strong men, and then make them stronger.",
-  author: "Richard Bach"
+  id: 1118,
+  quote: "Whenever something negative happens to you, there is a deep lesson concealed within it.",
+  author: "Eckhart Tolle"
 }
 ```
 
