@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 675,
-  quote: "When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.",
-  author: "Epictetus"
+  id: 929,
+  quote: "The greatest part of our happiness depends on our dispositions, not our circumstances.",
+  author: "Martha Washington"
 }
 ```
 
