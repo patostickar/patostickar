@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 267,
-  quote: "Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.",
-  author: "Arthur Conan Doyle"
+  id: 1047,
+  quote: "Freedom is what you do with what's been done to you.",
+  author: "Jean-Paul Sartre"
 }
 ```
 
