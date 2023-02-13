@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 776,
-  quote: "Ignorance never settle a question.",
-  author: "Benjamin Disraeli"
+  id: 8,
+  quote: "Life is a learning experience, only if you learn.",
+  author: "Yogi Berra"
 }
 ```
 
