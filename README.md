@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1108,
-  quote: "Your body is precious. It is our vehicle for awakening. Treat it with care.",
-  author: "Buddha"
+  id: 1500,
+  quote: "Genuine sincerity opens people's hearts, while manipulation causes them to close.",
+  author: "Daisaku Ikeda"
 }
 ```
 
