@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 8,
-  quote: "Life is a learning experience, only if you learn.",
-  author: "Yogi Berra"
+  id: 267,
+  quote: "Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.",
+  author: "Arthur Conan Doyle"
 }
 ```
 
