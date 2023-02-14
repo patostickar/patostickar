@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 372,
-  quote: "You, yourself, as much as anybody in the entire universe, deserve your love and affection.",
-  author: "Buddha"
+  id: 272,
+  quote: "To get something you never had, you have to do something you never did.",
+  author: "null"
 }
 ```
 
