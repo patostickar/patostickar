@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 98,
-  quote: "Nobody will believe in you unless you believe in yourself.",
-  author: "Liberace"
+  id: 283,
+  quote: "Begin at once to live and count each separate day as a separate life.",
+  author: "Seneca"
 }
 ```
 
