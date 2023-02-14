@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 283,
-  quote: "Begin at once to live and count each separate day as a separate life.",
-  author: "Seneca"
+  id: 372,
+  quote: "You, yourself, as much as anybody in the entire universe, deserve your love and affection.",
+  author: "Buddha"
 }
 ```
 
