@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1180,
-  quote: "When you lose, don't lose the lesson.",
-  author: "null"
+  id: 423,
+  quote: "Make the best use of what is in your power, and take the rest as it happens.",
+  author: "Epictetus"
 }
 ```
 
