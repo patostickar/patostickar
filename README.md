@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 272,
-  quote: "To get something you never had, you have to do something you never did.",
-  author: "null"
+  id: 684,
+  quote: "Men of perverse opinion do not know the excellence of what is in their hands, till some one dash it from them.",
+  author: "Sophocles"
 }
 ```
 
