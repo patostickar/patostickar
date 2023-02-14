@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 66,
-  quote: "Real magic in relationships means an absence of judgement of others.",
-  author: "Wayne Dyer"
+  id: 887,
+  quote: "You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.",
+  author: "Caroline Myss"
 }
 ```
 
