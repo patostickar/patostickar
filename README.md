@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 53,
-  quote: "All serious daring starts from within.",
-  author: "Harriet Beecher Stowe"
+  id: 1542,
+  quote: "You are never given a wish without also being given the power to make it come true. You may have to work for it, however.",
+  author: "Richard Bach"
 }
 ```
 
