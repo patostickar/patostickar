@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 562,
-  quote: "Id rather regret the things that I have done than the things that I have not done.",
-  author: "Lucille Ball"
+  id: 172,
+  quote: "The day always looks brighter from behind a smile.",
+  author: "null"
 }
 ```
 
