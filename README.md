@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1068,
-  quote: "An invasion of armies can be resisted, but not an idea whose time has come.",
-  author: "Victor Hugo"
+  id: 1144,
+  quote: "Excellence is to do a common thing in an uncommon way.",
+  author: "Booker Washington"
 }
 ```
 
