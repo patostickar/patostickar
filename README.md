@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1580,
-  quote: "A wise man will make more opportunities than he finds.",
-  author: "Francis Bacon"
+  id: 1068,
+  quote: "An invasion of armies can be resisted, but not an idea whose time has come.",
+  author: "Victor Hugo"
 }
 ```
 
