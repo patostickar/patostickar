@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 899,
-  quote: "I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.",
-  author: "Amy Tan"
+  id: 87,
+  quote: "No one can make you feel inferior without your consent.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
