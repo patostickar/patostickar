@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1159,
-  quote: "The exercise of an extraordinary gift is the supremest pleasure in life.",
-  author: "Mark Twain"
+  id: 1031,
+  quote: "Positive thinking will let you do everything better than negative thinking will.",
+  author: "Zig Ziglar"
 }
 ```
 
