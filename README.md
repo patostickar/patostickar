@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1157,
-  quote: "Speak when you are angry and you will make the best speech you will ever regret.",
-  author: "Ambrose Bierce"
+  id: 449,
+  quote: "Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.",
+  author: "Hannah Arendt"
 }
 ```
 
