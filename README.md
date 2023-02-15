@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1294,
-  quote: "The difference between what we do and what we are capable of doing would suffice to solve most of the worlds problems.",
-  author: "Mohandas Gandhi"
+  id: 406,
+  quote: "A life spent making mistakes is not only more honourable but more useful than a life spent in doing nothing.",
+  author: "Bernard Shaw"
 }
 ```
 
