@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 87,
-  quote: "No one can make you feel inferior without your consent.",
-  author: "Eleanor Roosevelt"
+  id: 1394,
+  quote: "He who knows, does not speak. He who speaks, does not know.",
+  author: "Lao Tzu"
 }
 ```
 
