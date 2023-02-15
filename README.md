@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1275,
-  quote: "Logic will get you from A to B. Imagination will take you everywhere.",
-  author: "Albert Einstein"
+  id: 1159,
+  quote: "The exercise of an extraordinary gift is the supremest pleasure in life.",
+  author: "Mark Twain"
 }
 ```
 
