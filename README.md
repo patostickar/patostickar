@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 406,
-  quote: "A life spent making mistakes is not only more honourable but more useful than a life spent in doing nothing.",
-  author: "Bernard Shaw"
+  id: 243,
+  quote: "Silence is deep as Eternity, Speech is shallow as Time.",
+  author: "Carlyle"
 }
 ```
 
