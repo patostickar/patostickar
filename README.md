@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 267,
-  quote: "Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.",
-  author: "Arthur Conan Doyle"
+  id: 1431,
+  quote: "Your attitude, not your aptitude, will determine your altitude.",
+  author: "Zig Ziglar"
 }
 ```
 
