@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 367,
-  quote: "Most people are about as happy as they make up their minds to be",
-  author: "Abraham Lincoln"
+  id: 441,
+  quote: "Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.",
+  author: "Jane Addams"
 }
 ```
 
