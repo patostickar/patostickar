@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 441,
-  quote: "Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.",
-  author: "Jane Addams"
+  id: 1275,
+  quote: "Logic will get you from A to B. Imagination will take you everywhere.",
+  author: "Albert Einstein"
 }
 ```
 
