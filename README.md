@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1394,
-  quote: "He who knows, does not speak. He who speaks, does not know.",
-  author: "Lao Tzu"
+  id: 267,
+  quote: "Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.",
+  author: "Arthur Conan Doyle"
 }
 ```
 
