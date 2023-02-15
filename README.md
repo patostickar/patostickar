@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1458,
-  quote: "And as we let our own light shine, we unconsciously give other people permission to do the same.",
-  author: "Nelson Mandela"
+  id: 325,
+  quote: "So long as a person is capable of self-renewal they are a living being.",
+  author: "Henri-Frederic Amiel"
 }
 ```
 
