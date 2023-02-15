@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1031,
-  quote: "Positive thinking will let you do everything better than negative thinking will.",
-  author: "Zig Ziglar"
+  id: 1294,
+  quote: "The difference between what we do and what we are capable of doing would suffice to solve most of the worlds problems.",
+  author: "Mohandas Gandhi"
 }
 ```
 
