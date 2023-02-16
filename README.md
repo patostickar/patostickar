@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 123,
-  quote: "It is better to travel well than to arrive.",
-  author: "Buddha"
+  id: 159,
+  quote: "Don't be pushed by your problems; be led by your dreams.",
+  author: "null"
 }
 ```
 
