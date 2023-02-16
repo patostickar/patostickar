@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 159,
-  quote: "Don't be pushed by your problems; be led by your dreams.",
-  author: "null"
+  id: 404,
+  quote: "The free man is he who does not fear to go to the end of his thought.",
+  author: "Leon Blum"
 }
 ```
 
