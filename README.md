@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 62,
-  quote: "Change in all things is sweet.",
-  author: "Aristotle"
+  id: 331,
+  quote: "Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.",
+  author: "Wayne Dyer"
 }
 ```
 
