@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 331,
-  quote: "Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.",
-  author: "Wayne Dyer"
+  id: 483,
+  quote: "Life is like a sewer. What you get out of it depends on what you put into it.",
+  author: "Tom Lehrer"
 }
 ```
 
