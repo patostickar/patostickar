@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 483,
-  quote: "Life is like a sewer. What you get out of it depends on what you put into it.",
-  author: "Tom Lehrer"
+  id: 804,
+  quote: "I am always doing that which I can not do, in order that I may learn how to do it.",
+  author: "Pablo Picasso"
 }
 ```
 
