@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1554,
-  quote: "When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.",
-  author: "Audre Lorde"
+  id: 887,
+  quote: "You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.",
+  author: "Caroline Myss"
 }
 ```
 
