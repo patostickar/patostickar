@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 162,
-  quote: "Fear is a darkroom where negatives develop.",
-  author: "Usman Asif"
+  id: 721,
+  quote: "Be faithful in small things because it is in them that your strength lies.",
+  author: "Mother Teresa"
 }
 ```
 
