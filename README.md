@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 186,
-  quote: "The mind unlearns with difficulty what it has long learned.",
-  author: "Seneca"
+  id: 1554,
+  quote: "When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.",
+  author: "Audre Lorde"
 }
 ```
 
