@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1375,
-  quote: "Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.",
-  author: "Harriet Tubman"
+  id: 1085,
+  quote: "The ladder of success is never crowded at the top.",
+  author: "Napoleon Hill"
 }
 ```
 
