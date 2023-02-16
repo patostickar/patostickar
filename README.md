@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1528,
-  quote: "He who knows others is wise. He who knows himself is enlightened.",
-  author: "Lao Tzu"
+  id: 696,
+  quote: "Your work is to discover your world and then with all your heart give yourself to it.",
+  author: "Buddha"
 }
 ```
 
