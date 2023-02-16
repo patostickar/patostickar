@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1004,
-  quote: "Lose an hour in the morning, and you will spend all day looking for it.",
-  author: "Richard Whately"
+  id: 1534,
+  quote: "One who is too insistent on his own views, finds few to agree with him.",
+  author: "Lao Tzu"
 }
 ```
 
