@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1329,
-  quote: "Neither genius, fame, nor love show the greatness of the soul. Only kindness can do that.",
-  author: "Jean Lacordaire"
+  id: 62,
+  quote: "Change in all things is sweet.",
+  author: "Aristotle"
 }
 ```
 
