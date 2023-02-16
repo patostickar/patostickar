@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 188,
-  quote: "No garden is without its weeds.",
-  author: "Thomas Fuller"
+  id: 123,
+  quote: "It is better to travel well than to arrive.",
+  author: "Buddha"
 }
 ```
 
