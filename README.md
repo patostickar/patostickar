@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 721,
-  quote: "Be faithful in small things because it is in them that your strength lies.",
-  author: "Mother Teresa"
+  id: 266,
+  quote: "Love doesn't make the world go round, love is what makes the ride worthwhile.",
+  author: "Elizabeth Browning"
 }
 ```
 
