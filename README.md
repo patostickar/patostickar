@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 187,
-  quote: "I destroy my enemies when I make them my friends.",
-  author: "Abraham Lincoln"
+  id: 819,
+  quote: "Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.",
+  author: "Babatunde Olatunji"
 }
 ```
 
