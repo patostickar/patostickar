@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1006,
-  quote: "Go to your bosom: Knock there, and ask your heart what it doth know.",
-  author: "William Shakespeare"
+  id: 345,
+  quote: "Opportunity is missed by most because it is dressed in overalls and looks like work.",
+  author: "Thomas Edison"
 }
 ```
 
