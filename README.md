@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 170,
-  quote: "Today is the tomorrow you worried about yesterday.",
-  author: "null"
+  id: 946,
+  quote: "The weak can never forgive. Forgiveness is the attribute of the strong.",
+  author: "Mohandas Gandhi"
 }
 ```
 
