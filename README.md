@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1445,
-  quote: "Be the change that you want to see in the world.",
-  author: "Mohandas Gandhi"
+  id: 738,
+  quote: "The universe is transformation; our life is what our thoughts make it.",
+  author: "Marcus Aurelius"
 }
 ```
 
