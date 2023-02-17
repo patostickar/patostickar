@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 969,
-  quote: "Happiness does not come from having much, but from being attached to little.",
-  author: "Cheng Yen"
+  id: 1268,
+  quote: "The smallest act of kindness is worth more than the grandest intention.",
+  author: "Oscar Wilde"
 }
 ```
 
