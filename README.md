@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1268,
-  quote: "The smallest act of kindness is worth more than the grandest intention.",
-  author: "Oscar Wilde"
+  id: 170,
+  quote: "Today is the tomorrow you worried about yesterday.",
+  author: "null"
 }
 ```
 
