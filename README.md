@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 777,
-  quote: "The awareness of our own strength makes us modest.",
-  author: "Paul Cezanne"
+  id: 1262,
+  quote: "Ability will never catch up with the demand for it.",
+  author: "Confucius"
 }
 ```
 
