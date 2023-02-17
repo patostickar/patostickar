@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 281,
-  quote: "One of the advantages of being disorderly is that one is constantly making exciting discoveries.",
-  author: "A. A. Milne"
+  id: 1632,
+  quote: "To go against the dominant thinking of your friends, of most of the people you see every day, is perhaps the most difficult act of heroism you can perform.",
+  author: "Theodore H. White"
 }
 ```
 
