@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1262,
-  quote: "Ability will never catch up with the demand for it.",
-  author: "Confucius"
+  id: 124,
+  quote: "Life shrinks or expands in proportion to one's courage.",
+  author: "Anais Nin"
 }
 ```
 
