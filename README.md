@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 561,
-  quote: "To give hope to someone occurs when you teach them how to use the tools to do it for themselves.",
-  author: "Byron Pulsifer"
+  id: 524,
+  quote: "If you must tell me your opinions, tell me what you believe in. I have plenty of douts of my own.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
