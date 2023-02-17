@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 138,
-  quote: "Nothing strengthens authority so much as silence.",
-  author: "Leonardo da Vinci"
+  id: 281,
+  quote: "One of the advantages of being disorderly is that one is constantly making exciting discoveries.",
+  author: "A. A. Milne"
 }
 ```
 
