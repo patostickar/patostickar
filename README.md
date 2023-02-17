@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1476,
-  quote: "If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception, it is a prevailing attitude.",
-  author: "Colin Powell"
+  id: 1445,
+  quote: "Be the change that you want to see in the world.",
+  author: "Mohandas Gandhi"
 }
 ```
 
