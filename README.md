@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1009,
-  quote: "What we see is mainly what we look for.",
-  author: "null"
+  id: 312,
+  quote: "What you do not want done to yourself, do not do to others.",
+  author: "Confucius"
 }
 ```
 
