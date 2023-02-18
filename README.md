@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1415,
-  quote: "There is only one happiness in life, to love and be loved.",
-  author: "George Sand"
+  id: 1445,
+  quote: "Be the change that you want to see in the world.",
+  author: "Mohandas Gandhi"
 }
 ```
 
