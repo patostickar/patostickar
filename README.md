@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1142,
-  quote: "The world has the habit of making room for the man whose actions show that he knows where he is going.",
-  author: "Napoleon Hill"
+  id: 1592,
+  quote: "Everything that irritates us about others can lead us to a better understanding of ourselves.",
+  author: "Carl Jung"
 }
 ```
 
