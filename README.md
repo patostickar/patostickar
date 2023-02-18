@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 97,
-  quote: "Smile, breathe, and go slowly.",
-  author: "Thich Nhat Hanh"
+  id: 245,
+  quote: "An ant on the move does more than a dozing ox",
+  author: "Lao Tzu"
 }
 ```
 
