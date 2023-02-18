@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 88,
-  quote: "Argue for your limitations, and sure enough theyre yours.",
-  author: "Richard Bach"
+  id: 1176,
+  quote: "You cannot travel the path until you have become the path itself.",
+  author: "Buddha"
 }
 ```
 
