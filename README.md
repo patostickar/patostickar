@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1445,
-  quote: "Be the change that you want to see in the world.",
-  author: "Mohandas Gandhi"
+  id: 406,
+  quote: "A life spent making mistakes is not only more honourable but more useful than a life spent in doing nothing.",
+  author: "Bernard Shaw"
 }
 ```
 
