@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 406,
-  quote: "A life spent making mistakes is not only more honourable but more useful than a life spent in doing nothing.",
-  author: "Bernard Shaw"
+  id: 676,
+  quote: "Everyone has been made for some particular work, and the desire for that work has been put in every heart.",
+  author: "Rumi"
 }
 ```
 
