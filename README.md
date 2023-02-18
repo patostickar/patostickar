@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1199,
-  quote: "Transformation does not start with some one else changing you; transformation is an inner self reworking of what you are now to what you will be.",
-  author: "Byron Pulsifer"
+  id: 1142,
+  quote: "The world has the habit of making room for the man whose actions show that he knows where he is going.",
+  author: "Napoleon Hill"
 }
 ```
 
