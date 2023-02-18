@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 345,
-  quote: "Opportunity is missed by most because it is dressed in overalls and looks like work.",
-  author: "Thomas Edison"
+  id: 1199,
+  quote: "Transformation does not start with some one else changing you; transformation is an inner self reworking of what you are now to what you will be.",
+  author: "Byron Pulsifer"
 }
 ```
 
