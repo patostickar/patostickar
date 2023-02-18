@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 245,
-  quote: "An ant on the move does more than a dozing ox",
-  author: "Lao Tzu"
+  id: 773,
+  quote: "Man cannot discover new oceans unless he has the courage to lose sight of the shore.",
+  author: "Andre Gide"
 }
 ```
 
