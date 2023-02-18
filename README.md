@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 313,
-  quote: "Short words are best and the old words when short are best of all.",
-  author: "Winston Churchill"
+  id: 97,
+  quote: "Smile, breathe, and go slowly.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
