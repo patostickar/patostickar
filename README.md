@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 773,
-  quote: "Man cannot discover new oceans unless he has the courage to lose sight of the shore.",
-  author: "Andre Gide"
+  id: 88,
+  quote: "Argue for your limitations, and sure enough theyre yours.",
+  author: "Richard Bach"
 }
 ```
 
