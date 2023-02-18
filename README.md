@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 482,
-  quote: "Genuine love should first be directed at oneself if we do not love ourselves, how can we love others?",
-  author: "Dalai Lama"
+  id: 1415,
+  quote: "There is only one happiness in life, to love and be loved.",
+  author: "George Sand"
 }
 ```
 
