@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 676,
-  quote: "Everyone has been made for some particular work, and the desire for that work has been put in every heart.",
-  author: "Rumi"
+  id: 313,
+  quote: "Short words are best and the old words when short are best of all.",
+  author: "Winston Churchill"
 }
 ```
 
