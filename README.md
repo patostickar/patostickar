@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 552,
-  quote: "Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.",
-  author: "Paavo Nurmi"
+  id: 678,
+  quote: "With realization of ones own potential and self-confidence in ones ability, one can build a better world.",
+  author: "Dalai Lama"
 }
 ```
 
