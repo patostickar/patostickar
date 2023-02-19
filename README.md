@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1396,
-  quote: "One may say the eternal mystery of the world is its comprehensibility.",
-  author: "Albert Einstein"
+  id: 1120,
+  quote: "Our kindness may be the most persuasive argument for that which we believe.",
+  author: "Gordon Hinckley"
 }
 ```
 
