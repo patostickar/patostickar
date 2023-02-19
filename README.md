@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1418,
-  quote: "Reason and free inquiry are the only effectual agents against error.",
-  author: "Thomas Jefferson"
+  id: 151,
+  quote: "While we stop to think, we often miss our opportunity.",
+  author: "Publilius Syrus"
 }
 ```
 
