@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 710,
-  quote: "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.",
-  author: "Lao Tzu"
+  id: 1396,
+  quote: "One may say the eternal mystery of the world is its comprehensibility.",
+  author: "Albert Einstein"
 }
 ```
 
