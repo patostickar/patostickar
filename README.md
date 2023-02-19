@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1407,
-  quote: "We must learn our limits. We are all something, but none of us are everything.",
-  author: "Blaise Pascal"
+  id: 1440,
+  quote: "Love does not consist of gazing at each other, but in looking together in the same direction.",
+  author: "Antoine de Saint-Exupery"
 }
 ```
 
