@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 111,
-  quote: "All our knowledge has its origins in our perceptions.",
-  author: "Leonardo da Vinci"
+  id: 1601,
+  quote: "One that desires to excel should endeavour in those things that are in themselves most excellent.",
+  author: "Epictetus"
 }
 ```
 
