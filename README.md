@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 131,
-  quote: "Reality does not conform to the ideal, but confirms it.",
-  author: "Gustave Flaubert"
+  id: 1418,
+  quote: "Reason and free inquiry are the only effectual agents against error.",
+  author: "Thomas Jefferson"
 }
 ```
 
