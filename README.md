@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 254,
-  quote: "I have often regretted my speech, never my silence.",
-  author: "Publilius Syrus"
+  id: 552,
+  quote: "Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.",
+  author: "Paavo Nurmi"
 }
 ```
 
