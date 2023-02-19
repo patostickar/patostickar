@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1158,
-  quote: "Things do not change, we change.",
-  author: "Henry Thoreau"
+  id: 1407,
+  quote: "We must learn our limits. We are all something, but none of us are everything.",
+  author: "Blaise Pascal"
 }
 ```
 
