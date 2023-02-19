@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 151,
-  quote: "While we stop to think, we often miss our opportunity.",
-  author: "Publilius Syrus"
+  id: 332,
+  quote: "Most great people have attained their greatest success just one step beyond their greatest failure.",
+  author: "Napoleon Hill"
 }
 ```
 
