@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 484,
-  quote: "Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.",
-  author: "Bruce Lee"
+  id: 957,
+  quote: "Freedom is not worth having if it does not connote freedom to err.",
+  author: "Mohandas Gandhi"
 }
 ```
 
