@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 615,
-  quote: "There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.",
-  author: "Robert Louis Stevenson"
+  id: 652,
+  quote: "Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.",
+  author: "Eknath Easwaran"
 }
 ```
 
