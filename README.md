@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1601,
-  quote: "One that desires to excel should endeavour in those things that are in themselves most excellent.",
-  author: "Epictetus"
+  id: 752,
+  quote: "Accept challenges, so that you may feel the exhilaration of victory.",
+  author: "George Patton"
 }
 ```
 
