@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1273,
-  quote: "We may encounter many defeats but we must not be defeated.",
-  author: "Maya Angelou"
+  id: 704,
+  quote: "It is in your moments of decision that your destiny is shaped.",
+  author: "Tony Robbins"
 }
 ```
 
