@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 752,
-  quote: "Accept challenges, so that you may feel the exhilaration of victory.",
-  author: "George Patton"
+  id: 615,
+  quote: "There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.",
+  author: "Robert Louis Stevenson"
 }
 ```
 
