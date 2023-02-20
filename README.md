@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 65,
-  quote: "When deeds speak, words are nothing.",
-  author: "African proverb"
+  id: 47,
+  quote: "He is able who thinks he is able.",
+  author: "Buddha"
 }
 ```
 
