@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1422,
-  quote: "Never deny a diagnosis, but do deny the negative verdict that may go with it.",
-  author: "Norman Cousins"
+  id: 1550,
+  quote: "I have no special talent. I am only passionately curious.",
+  author: "Albert Einstein"
 }
 ```
 
