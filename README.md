@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1301,
-  quote: "Kind words can be short and easy to speak but their echoes are truly endless.",
-  author: "Mother Teresa"
+  id: 1422,
+  quote: "Never deny a diagnosis, but do deny the negative verdict that may go with it.",
+  author: "Norman Cousins"
 }
 ```
 
