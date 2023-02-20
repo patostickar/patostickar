@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 961,
-  quote: "No day in which you learn something is a complete loss.",
-  author: "David Eddings"
+  id: 295,
+  quote: "Successful people ask better questions, and as a result, they get better answers.",
+  author: "Tony Robbins"
 }
 ```
 
