@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 28,
-  quote: "From error to error one discovers the entire truth.",
-  author: "Sigmund Freud"
+  id: 394,
+  quote: "It is on our failures that we base a new and different and better success.",
+  author: "Havelock Ellis"
 }
 ```
 
