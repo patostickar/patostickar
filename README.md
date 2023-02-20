@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 47,
-  quote: "He is able who thinks he is able.",
-  author: "Buddha"
+  id: 729,
+  quote: "You can't trust without risk but neither can you live in a cocoon.",
+  author: "Byron Pulsifer"
 }
 ```
 
