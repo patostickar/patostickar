@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 513,
-  quote: "We all live with the objective of being happy; our lives are all different and yet the same.",
-  author: "Anne Frank"
+  id: 486,
+  quote: "Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.",
+  author: "Sri Chinmoy"
 }
 ```
 
