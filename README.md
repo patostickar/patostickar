@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 779,
-  quote: "There are no failures. Just experiences and your reactions to them.",
-  author: "Tom Krause"
+  id: 807,
+  quote: "Every artist dips his brush in his own soul, and paints his own nature into his pictures.",
+  author: "Henry Ward Beecher"
 }
 ```
 
