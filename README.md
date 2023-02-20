@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 954,
-  quote: "Take heed: you do not find what you do not seek.",
-  author: "English proverb"
+  id: 961,
+  quote: "No day in which you learn something is a complete loss.",
+  author: "David Eddings"
 }
 ```
 
