@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1238,
-  quote: "The universe is made of stories, not atoms.",
-  author: "Muriel Rukeyser"
+  id: 779,
+  quote: "There are no failures. Just experiences and your reactions to them.",
+  author: "Tom Krause"
 }
 ```
 
