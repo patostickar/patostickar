@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1496,
-  quote: "There is not one big cosmic meaning for all, there is only the meaning we each give to our life.",
-  author: "Anais Nin"
+  id: 779,
+  quote: "There are no failures. Just experiences and your reactions to them.",
+  author: "Tom Krause"
 }
 ```
 
