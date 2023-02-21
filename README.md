@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 250,
-  quote: "Where there is great love, there are always miracles.",
-  author: "Willa Cather"
+  id: 172,
+  quote: "The day always looks brighter from behind a smile.",
+  author: "null"
 }
 ```
 
