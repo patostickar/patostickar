@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 274,
-  quote: "Strength does not come from physical capacity. It comes from an indomitable will.",
-  author: "Mahatma Gandhi"
+  id: 1474,
+  quote: "However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?",
+  author: "Buddha"
 }
 ```
 
