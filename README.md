@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1141,
-  quote: "Nobody can do everything, but everybody can do something.",
-  author: "null"
+  id: 829,
+  quote: "I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.",
+  author: "Herbert Swope"
 }
 ```
 
