@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1186,
-  quote: "The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.",
-  author: "Pierre Abelard"
+  id: 891,
+  quote: "The secret of joy in work is contained in one word excellence. To know how to do something well is to enjoy it.",
+  author: "Pearl Buck"
 }
 ```
 
