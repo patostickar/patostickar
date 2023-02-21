@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1336,
-  quote: "I walk slowly, but I never walk backward.",
-  author: "Abraham Lincoln"
+  id: 1141,
+  quote: "Nobody can do everything, but everybody can do something.",
+  author: "null"
 }
 ```
 
