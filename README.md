@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1218,
-  quote: "A day of worry is more exhausting than a day of work.",
-  author: "John Lubbock"
+  id: 1186,
+  quote: "The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.",
+  author: "Pierre Abelard"
 }
 ```
 
