@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 275,
-  quote: "Each misfortune you encounter will carry in it the seed of tomorrows good luck.",
-  author: "Og Mandino"
+  id: 274,
+  quote: "Strength does not come from physical capacity. It comes from an indomitable will.",
+  author: "Mahatma Gandhi"
 }
 ```
 
