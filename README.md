@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1550,
-  quote: "I have no special talent. I am only passionately curious.",
-  author: "Albert Einstein"
+  id: 1047,
+  quote: "Freedom is what you do with what's been done to you.",
+  author: "Jean-Paul Sartre"
 }
 ```
 
