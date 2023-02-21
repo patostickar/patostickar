@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 289,
-  quote: "If one does not know to which port is sailing, no wind is favorable.",
-  author: "Seneca"
+  id: 1083,
+  quote: "Every great advance in science has issued from a new audacity of the imagination.",
+  author: "John Dewey"
 }
 ```
 
