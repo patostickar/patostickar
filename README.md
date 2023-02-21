@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 980,
-  quote: "In all chaos there is a cosmos, in all disorder a secret order.",
-  author: "Carl Jung"
+  id: 275,
+  quote: "Each misfortune you encounter will carry in it the seed of tomorrows good luck.",
+  author: "Og Mandino"
 }
 ```
 
