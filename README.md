@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1083,
-  quote: "Every great advance in science has issued from a new audacity of the imagination.",
-  author: "John Dewey"
+  id: 1336,
+  quote: "I walk slowly, but I never walk backward.",
+  author: "Abraham Lincoln"
 }
 ```
 
