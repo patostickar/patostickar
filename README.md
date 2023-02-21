@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 829,
-  quote: "I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.",
-  author: "Herbert Swope"
+  id: 111,
+  quote: "All our knowledge has its origins in our perceptions.",
+  author: "Leonardo da Vinci"
 }
 ```
 
