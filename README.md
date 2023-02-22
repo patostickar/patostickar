@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1313,
-  quote: "The first duty of a human being is to assume the right functional relationship to society more briefly, to find your real job, and do it.",
-  author: "Charlotte Perkins Gilman"
+  id: 537,
+  quote: "Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.",
+  author: "Anais Nin"
 }
 ```
 
