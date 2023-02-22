@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1530,
-  quote: "A garden is always a series of losses set against a few triumphs, like life itself.",
-  author: "May Sarton"
+  id: 1421,
+  quote: "By accepting yourself and being fully what you are, your presence can make others happy.",
+  author: "Jane Roberts"
 }
 ```
 
