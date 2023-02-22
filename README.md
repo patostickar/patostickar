@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1576,
-  quote: "Nothing could be worse than the fear that one had given up too soon, and left one unexpended effort that might have saved the world.",
-  author: "Jane Addams"
+  id: 922,
+  quote: "If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.",
+  author: "Albert Einstein"
 }
 ```
 
