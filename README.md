@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 592,
-  quote: "To live a pure unselfish life, one must count nothing as ones own in the midst of abundance.",
-  author: "Buddha"
+  id: 1602,
+  quote: "If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose.",
+  author: "Mary Pickford"
 }
 ```
 
