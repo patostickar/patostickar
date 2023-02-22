@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1057,
-  quote: "He who knows himself is enlightened.",
-  author: "Lao Tzu"
+  id: 1530,
+  quote: "A garden is always a series of losses set against a few triumphs, like life itself.",
+  author: "May Sarton"
 }
 ```
 
