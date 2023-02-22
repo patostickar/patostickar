@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 796,
-  quote: "A life spent making mistakes is not only more honourable, but more useful than a life spent doing nothing.",
-  author: "George Bernard Shaw"
+  id: 420,
+  quote: "Do you want to know who you are? Don't ask. Act! Action will delineate and define you.",
+  author: "Thomas Jefferson"
 }
 ```
 
