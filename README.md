@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1602,
-  quote: "If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose.",
-  author: "Mary Pickford"
+  id: 796,
+  quote: "A life spent making mistakes is not only more honourable, but more useful than a life spent doing nothing.",
+  author: "George Bernard Shaw"
 }
 ```
 
