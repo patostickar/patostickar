@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 5,
-  quote: "Be the chief but never the lord.",
-  author: "Lao Tzu"
+  id: 1140,
+  quote: "It is not only for what we do that we are held responsible, but also for what we do not do.",
+  author: "Moliere"
 }
 ```
 
