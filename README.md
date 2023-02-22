@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1636,
-  quote: "Nothing is a waste of time if you use the experience wisely.",
-  author: "Rodin"
+  id: 292,
+  quote: "To be upset over what you don't have is to waste what you do have.",
+  author: "Ken S. Keyes"
 }
 ```
 
