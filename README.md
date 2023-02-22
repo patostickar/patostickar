@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 821,
-  quote: "Sometimes it is better to lose and do the right thing than to win and do the wrong thing.",
-  author: "Tony Blair"
+  id: 1057,
+  quote: "He who knows himself is enlightened.",
+  author: "Lao Tzu"
 }
 ```
 
