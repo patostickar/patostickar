@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 271,
-  quote: "The future belongs to those who believe in the beauty of their dreams.",
-  author: "Eleanor Roosevelt"
+  id: 1576,
+  quote: "Nothing could be worse than the fear that one had given up too soon, and left one unexpended effort that might have saved the world.",
+  author: "Jane Addams"
 }
 ```
 
