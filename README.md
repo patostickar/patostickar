@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 537,
-  quote: "Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.",
-  author: "Anais Nin"
+  id: 799,
+  quote: "Happiness is a Swedish sunset it is there for all, but most of us look the other way and lose it.",
+  author: "Mark Twain"
 }
 ```
 
