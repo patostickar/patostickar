@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1421,
-  quote: "By accepting yourself and being fully what you are, your presence can make others happy.",
-  author: "Jane Roberts"
+  id: 1636,
+  quote: "Nothing is a waste of time if you use the experience wisely.",
+  author: "Rodin"
 }
 ```
 
