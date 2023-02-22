@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 420,
-  quote: "Do you want to know who you are? Don't ask. Act! Action will delineate and define you.",
-  author: "Thomas Jefferson"
+  id: 1130,
+  quote: "If you love life, don't waste time, for time is what life is made up of.",
+  author: "Bruce Lee"
 }
 ```
 
