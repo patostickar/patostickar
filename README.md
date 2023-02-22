@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 358,
-  quote: "Invent your world. Surround yourself with people, color, sounds, and work that nourish you.",
-  author: "null"
+  id: 1313,
+  quote: "The first duty of a human being is to assume the right functional relationship to society more briefly, to find your real job, and do it.",
+  author: "Charlotte Perkins Gilman"
 }
 ```
 
