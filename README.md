@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 799,
-  quote: "Happiness is a Swedish sunset it is there for all, but most of us look the other way and lose it.",
-  author: "Mark Twain"
+  id: 1532,
+  quote: "Never mistake motion for action.",
+  author: "Ernest Hemingway"
 }
 ```
 
