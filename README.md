@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1468,
-  quote: "Most folks are as happy as they make up their minds to be.",
-  author: "Abraham Lincoln"
+  id: 903,
+  quote: "Thousands of candles can be lit from a single, and the life of the candle will not be shortened. Happiness never decreases by being shared.",
+  author: "Buddha"
 }
 ```
 
