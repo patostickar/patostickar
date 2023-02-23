@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1547,
-  quote: "Imagination will often carry us to worlds that never were. But without it we go nowhere.",
-  author: "Carl Sagan"
+  id: 75,
+  quote: "All know the way; few actually walk it.",
+  author: "Bodhidharma"
 }
 ```
 
