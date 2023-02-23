@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 768,
-  quote: "Formula for success: under promise and over deliver.",
-  author: "Tom Peters"
+  id: 273,
+  quote: "Be thankful when you don't know something for it gives you the opportunity to learn.",
+  author: "null"
 }
 ```
 
