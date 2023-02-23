@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 903,
-  quote: "Thousands of candles can be lit from a single, and the life of the candle will not be shortened. Happiness never decreases by being shared.",
-  author: "Buddha"
+  id: 228,
+  quote: "The heart has its reasons which reason knows not of.",
+  author: "Blaise Pascal"
 }
 ```
 
