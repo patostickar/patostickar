@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 594,
-  quote: "When we seek to discover the best in others, we somehow bring out the best in ourselves.",
-  author: "William Ward"
+  id: 1128,
+  quote: "Life is not measured by the breaths you take, but by its breathtaking moments.",
+  author: "Michael Vance"
 }
 ```
 
