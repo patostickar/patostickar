@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 795,
-  quote: "Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.",
-  author: "Marcus Aurelius"
+  id: 646,
+  quote: "The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.",
+  author: "Thomas Edison"
 }
 ```
 
