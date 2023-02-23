@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1130,
-  quote: "If you love life, don't waste time, for time is what life is made up of.",
-  author: "Bruce Lee"
+  id: 568,
+  quote: "When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.",
+  author: "Confucius"
 }
 ```
 
