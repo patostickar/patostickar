@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 862,
-  quote: "Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.",
-  author: "Alphonse Karr"
+  id: 1526,
+  quote: "Take it easy but take it.",
+  author: "Woody Guthrie"
 }
 ```
 
