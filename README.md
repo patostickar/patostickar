@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 75,
-  quote: "All know the way; few actually walk it.",
-  author: "Bodhidharma"
+  id: 433,
+  quote: "Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigour of the mind.",
+  author: "Leonardo da Vinci"
 }
 ```
 
