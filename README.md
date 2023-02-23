@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1185,
-  quote: "Our greatest glory is not in never falling, but in rising every time we fall.",
-  author: "Confucius"
+  id: 956,
+  quote: "Be slow of tongue and quick of eye.",
+  author: "Cervantes"
 }
 ```
 
