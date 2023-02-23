@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 956,
-  quote: "Be slow of tongue and quick of eye.",
-  author: "Cervantes"
+  id: 594,
+  quote: "When we seek to discover the best in others, we somehow bring out the best in ourselves.",
+  author: "William Ward"
 }
 ```
 
