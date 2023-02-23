@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 228,
-  quote: "The heart has its reasons which reason knows not of.",
-  author: "Blaise Pascal"
+  id: 1547,
+  quote: "Imagination will often carry us to worlds that never were. But without it we go nowhere.",
+  author: "Carl Sagan"
 }
 ```
 
