@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 273,
-  quote: "Be thankful when you don't know something for it gives you the opportunity to learn.",
-  author: "null"
+  id: 1468,
+  quote: "Most folks are as happy as they make up their minds to be.",
+  author: "Abraham Lincoln"
 }
 ```
 
