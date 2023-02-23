@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1526,
-  quote: "Take it easy but take it.",
-  author: "Woody Guthrie"
+  id: 1633,
+  quote: "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.",
+  author: "Melody Beattie"
 }
 ```
 
