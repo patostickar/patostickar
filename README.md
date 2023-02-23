@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1535,
-  quote: "Translation is the paradigm, the exemplar of all writing. It is translation that demonstrates most vividly the yearning for transformation that underlies every act involving speech, that supremely human gift.",
-  author: "Harry Burchell Mathews"
+  id: 1585,
+  quote: "The true way to render ourselves happy is to love our work and find in it our pleasure.",
+  author: "Francoise de Motteville"
 }
 ```
 
