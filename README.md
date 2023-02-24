@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 433,
-  quote: "Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigour of the mind.",
-  author: "Leonardo da Vinci"
+  id: 728,
+  quote: "Do not turn back when you are just at the goal.",
+  author: "Publilius Syrus"
 }
 ```
 
