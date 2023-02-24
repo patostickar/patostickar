@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 821,
-  quote: "Sometimes it is better to lose and do the right thing than to win and do the wrong thing.",
-  author: "Tony Blair"
+  id: 974,
+  quote: "Everything has beauty, but not everyone sees it.",
+  author: "Confucius"
 }
 ```
 
