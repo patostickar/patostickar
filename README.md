@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 278,
-  quote: "By believing passionately in something that does not yet exist, we create it.",
-  author: "Nikos Kazantzakis"
+  id: 1291,
+  quote: "First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.",
+  author: "Napoleon Hill"
 }
 ```
 
