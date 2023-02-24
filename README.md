@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1575,
-  quote: "Flow with whatever is happening and let your mind be free. Stay centred by accepting whatever you are doing. This is the ultimate.",
-  author: "Chuang Tzu"
+  id: 1247,
+  quote: "Happiness often sneaks in through a door you didn't know you left open.",
+  author: "John Barrymore"
 }
 ```
 
