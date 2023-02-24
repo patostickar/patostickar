@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 88,
-  quote: "Argue for your limitations, and sure enough theyre yours.",
-  author: "Richard Bach"
+  id: 414,
+  quote: "There is no retirement for an artist, it's your way of living so there is no end to it.",
+  author: "Henry Moore"
 }
 ```
 
