@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 974,
-  quote: "Everything has beauty, but not everyone sees it.",
-  author: "Confucius"
+  id: 176,
+  quote: "What we achieve inwardly will change outer reality.",
+  author: "Plutarch"
 }
 ```
 
