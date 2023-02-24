@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1379,
-  quote: "Those who cannot learn from history are doomed to repeat it.",
-  author: "George Santayan"
+  id: 1020,
+  quote: "From wonder into wonder existence opens.",
+  author: "Lao Tzu"
 }
 ```
 
