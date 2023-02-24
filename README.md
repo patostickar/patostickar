@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 607,
-  quote: "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.",
-  author: "Thich Nhat Hanh"
+  id: 821,
+  quote: "Sometimes it is better to lose and do the right thing than to win and do the wrong thing.",
+  author: "Tony Blair"
 }
 ```
 
