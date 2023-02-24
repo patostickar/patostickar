@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1063,
-  quote: "You always succeed in producing a result.",
-  author: "Tony Robbins"
+  id: 168,
+  quote: "Loss is nothing else but change,and change is Natures delight.",
+  author: "Marcus Aurelius"
 }
 ```
 
