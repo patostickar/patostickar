@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 3,
-  quote: "Difficulties increase the nearer we get to the goal.",
-  author: "Johann Wolfgang von Goethe"
+  id: 544,
+  quote: "You were not born a winner, and you were not born a loser. You are what you make yourself be.",
+  author: "Lou Holtz"
 }
 ```
 
