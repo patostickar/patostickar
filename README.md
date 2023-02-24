@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 544,
-  quote: "You were not born a winner, and you were not born a loser. You are what you make yourself be.",
-  author: "Lou Holtz"
+  id: 803,
+  quote: "The least movement is of importance to all nature. The entire ocean is affected by a pebble.",
+  author: "Blaise Pascal"
 }
 ```
 
