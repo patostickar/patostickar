@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 176,
-  quote: "What we achieve inwardly will change outer reality.",
-  author: "Plutarch"
+  id: 278,
+  quote: "By believing passionately in something that does not yet exist, we create it.",
+  author: "Nikos Kazantzakis"
 }
 ```
 
