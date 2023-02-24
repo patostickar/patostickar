@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 340,
-  quote: "I always wanted to be somebody, but I should have been more specific.",
-  author: "Lily Tomlin"
+  id: 1458,
+  quote: "And as we let our own light shine, we unconsciously give other people permission to do the same.",
+  author: "Nelson Mandela"
 }
 ```
 
