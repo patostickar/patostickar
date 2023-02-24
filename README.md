@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 168,
-  quote: "Loss is nothing else but change,and change is Natures delight.",
-  author: "Marcus Aurelius"
+  id: 340,
+  quote: "I always wanted to be somebody, but I should have been more specific.",
+  author: "Lily Tomlin"
 }
 ```
 
