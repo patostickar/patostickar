@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 308,
-  quote: "Just as a candle cannot burn without fire, men cannot live without a spiritual life.",
-  author: "Buddha"
+  id: 801,
+  quote: "Look forward to spring as a time when you can start to see what nature has to offer once again.",
+  author: "Byron Pulsifer"
 }
 ```
 
