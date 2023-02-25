@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1427,
-  quote: "Risk more than others think is safe. Care more than others think is wise. Dream more than others think is practical.Expect more than others think is possible.",
-  author: "Cadet Maxim"
+  id: 369,
+  quote: "More often than not, anger is actually an indication of weakness rather than of strength.",
+  author: "Dalai Lama"
 }
 ```
 
