@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 839,
-  quote: "While we try to teach our children all about life, our children teach us what life is all about.",
-  author: "Angela Schwindt"
+  id: 308,
+  quote: "Just as a candle cannot burn without fire, men cannot live without a spiritual life.",
+  author: "Buddha"
 }
 ```
 
