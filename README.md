@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 100,
-  quote: "No man was ever wise by chance.",
-  author: "Seneca"
+  id: 839,
+  quote: "While we try to teach our children all about life, our children teach us what life is all about.",
+  author: "Angela Schwindt"
 }
 ```
 
