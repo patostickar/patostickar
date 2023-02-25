@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1220,
-  quote: "To be great is to be misunderstood.",
-  author: "Ralph Emerson"
+  id: 765,
+  quote: "You must welcome change as the rule but not as your ruler.",
+  author: "Denis Waitley"
 }
 ```
 
