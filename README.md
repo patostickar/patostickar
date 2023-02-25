@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 217,
-  quote: "There is no way to prosperity, prosperity is the way.",
-  author: "Wayne Dyer"
+  id: 793,
+  quote: "Self-trust is the first secret of success.",
+  author: "Ralph Emerson"
 }
 ```
 
