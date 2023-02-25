@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1455,
-  quote: "It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.",
-  author: "Max Planck"
+  id: 1427,
+  quote: "Risk more than others think is safe. Care more than others think is wise. Dream more than others think is practical.Expect more than others think is possible.",
+  author: "Cadet Maxim"
 }
 ```
 
