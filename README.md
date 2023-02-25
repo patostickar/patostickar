@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 369,
-  quote: "More often than not, anger is actually an indication of weakness rather than of strength.",
-  author: "Dalai Lama"
+  id: 100,
+  quote: "No man was ever wise by chance.",
+  author: "Seneca"
 }
 ```
 
