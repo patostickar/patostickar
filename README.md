@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1129,
-  quote: "Much wisdom often goes with fewer words.",
-  author: "Sophocles"
+  id: 517,
+  quote: "It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.",
+  author: "Jessamyn West"
 }
 ```
 
