@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 612,
-  quote: "By living deeply in the present moment we can understand the past better and we can prepare for a better future.",
-  author: "Thich Nhat Hanh"
+  id: 1305,
+  quote: "In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.",
+  author: "Leonardo da Vinci"
 }
 ```
 
