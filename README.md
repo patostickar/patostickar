@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 950,
-  quote: "A good rest is half the work.",
-  author: "null"
+  id: 1434,
+  quote: "Give thanks for a little and you will find a lot.",
+  author: "Hausa"
 }
 ```
 
