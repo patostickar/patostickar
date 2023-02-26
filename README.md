@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 133,
-  quote: "A really great talent finds its happiness in execution.",
-  author: "Johann Wolfgang von Goethe"
+  id: 777,
+  quote: "The awareness of our own strength makes us modest.",
+  author: "Paul Cezanne"
 }
 ```
 
