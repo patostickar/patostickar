@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 253,
-  quote: "Sadness flies away on the wings of time.",
-  author: "Jean de la Fontaine"
+  id: 1538,
+  quote: "Good instincts usually tell you what to do long before your head has figured it out.",
+  author: "Michael Burke"
 }
 ```
 
