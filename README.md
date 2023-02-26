@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1434,
-  quote: "Give thanks for a little and you will find a lot.",
-  author: "Hausa"
+  id: 1140,
+  quote: "It is not only for what we do that we are held responsible, but also for what we do not do.",
+  author: "Moliere"
 }
 ```
 
