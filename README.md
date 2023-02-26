@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1361,
-  quote: "Be like the flower, turn your face to the sun.",
-  author: "Kahlil Gibran"
+  id: 570,
+  quote: "Blessed is the person who is too busy to worry in the daytime, and too sleepy to worry at night.",
+  author: "Leo Aikman"
 }
 ```
 
