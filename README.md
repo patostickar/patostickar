@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 324,
-  quote: "The world is a book, and those who do not travel read only a page.",
-  author: "Augustinus Sanctus"
+  id: 1619,
+  quote: "What you are is what you have been. What you will be is what you do now.",
+  author: "Buddha"
 }
 ```
 
