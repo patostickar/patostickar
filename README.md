@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 777,
-  quote: "The awareness of our own strength makes us modest.",
-  author: "Paul Cezanne"
+  id: 511,
+  quote: "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+  author: "Aristotle"
 }
 ```
 
