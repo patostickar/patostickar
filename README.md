@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1140,
-  quote: "It is not only for what we do that we are held responsible, but also for what we do not do.",
-  author: "Moliere"
+  id: 520,
+  quote: "Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!",
+  author: "Charlotte Gilman"
 }
 ```
 
