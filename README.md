@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1226,
-  quote: "It is the quality of our work which will please God, not the quantity.",
-  author: "Mahatma Gandhi"
+  id: 324,
+  quote: "The world is a book, and those who do not travel read only a page.",
+  author: "Augustinus Sanctus"
 }
 ```
 
