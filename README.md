@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 503,
-  quote: "Life is not measured by the breaths we take, but by the moments that take our breath.",
+  id: 173,
+  quote: "A stumble may prevent a fall.",
   author: "null"
 }
 ```
