@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1538,
-  quote: "Good instincts usually tell you what to do long before your head has figured it out.",
-  author: "Michael Burke"
+  id: 503,
+  quote: "Life is not measured by the breaths we take, but by the moments that take our breath.",
+  author: "null"
 }
 ```
 
