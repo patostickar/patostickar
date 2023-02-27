@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1460,
-  quote: "Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.",
-  author: "Ralph Emerson"
+  id: 1114,
+  quote: "Trust your hunches. They're usually based on facts filed away just below the conscious level.",
+  author: "Joyce Brothers"
 }
 ```
 
