@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 711,
-  quote: "You won't skid if you stay in a rut.",
-  author: "Kin Hubbard"
+  id: 848,
+  quote: "The greatest antidote to insecurity and the sense of fear is compassion it brings one back to the basis of one's inner strength",
+  author: "Dalai Lama"
 }
 ```
 
