@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 512,
-  quote: "Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.",
-  author: "Washington Irving"
+  id: 1249,
+  quote: "The things that one most wants to do are the things that are probably most worth doing.",
+  author: "Winifred Holtby"
 }
 ```
 
