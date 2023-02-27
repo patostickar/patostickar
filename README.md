@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1485,
-  quote: "Remember that failure is an event, not a person.",
-  author: "Zig Ziglar"
+  id: 1291,
+  quote: "First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.",
+  author: "Napoleon Hill"
 }
 ```
 
