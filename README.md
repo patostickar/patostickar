@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1502,
-  quote: "A man's dreams are an index to his greatness.",
-  author: "Zadok Rabinowitz"
+  id: 18,
+  quote: "To lead people walk behind them.",
+  author: "Lao Tzu"
 }
 ```
 
