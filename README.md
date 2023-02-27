@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 798,
-  quote: "Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.",
-  author: "Blaise Pascal"
+  id: 86,
+  quote: "Life is movement-we breathe, we eat, we walk, we move!",
+  author: "John Pierrakos"
 }
 ```
 
