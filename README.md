@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 574,
-  quote: "People take different roads seeking fulfilment and happiness. Just because theyre not on your road doesn't mean they've gotten lost.",
-  author: "Dalai Lama"
+  id: 1294,
+  quote: "The difference between what we do and what we are capable of doing would suffice to solve most of the worlds problems.",
+  author: "Mohandas Gandhi"
 }
 ```
 
