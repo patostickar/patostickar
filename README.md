@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1265,
-  quote: "Setting goals is the first step in turning the invisible into the visible.",
-  author: "Tony Robbins"
+  id: 1485,
+  quote: "Remember that failure is an event, not a person.",
+  author: "Zig Ziglar"
 }
 ```
 
