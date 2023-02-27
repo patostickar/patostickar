@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 417,
-  quote: "When you are content to be simply yourself and don't compare or compete, everybody will respect you.",
-  author: "Laozi"
+  id: 642,
+  quote: "Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!",
+  author: "Richard Bach"
 }
 ```
 
