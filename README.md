@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1271,
-  quote: "What do we live for, if it is not to make life less difficult for each other?",
-  author: "George Eliot"
+  id: 1460,
+  quote: "Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.",
+  author: "Ralph Emerson"
 }
 ```
 
