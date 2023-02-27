@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 848,
-  quote: "The greatest antidote to insecurity and the sense of fear is compassion it brings one back to the basis of one's inner strength",
-  author: "Dalai Lama"
+  id: 1265,
+  quote: "Setting goals is the first step in turning the invisible into the visible.",
+  author: "Tony Robbins"
 }
 ```
 
