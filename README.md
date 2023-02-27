@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1291,
-  quote: "First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.",
-  author: "Napoleon Hill"
+  id: 1271,
+  quote: "What do we live for, if it is not to make life less difficult for each other?",
+  author: "George Eliot"
 }
 ```
 
