@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1114,
-  quote: "Trust your hunches. They're usually based on facts filed away just below the conscious level.",
-  author: "Joyce Brothers"
+  id: 961,
+  quote: "No day in which you learn something is a complete loss.",
+  author: "David Eddings"
 }
 ```
 
