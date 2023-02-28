@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1032,
-  quote: "We shall never know all the good that a simple smile can do.",
-  author: "Mother Teresa"
+  id: 1466,
+  quote: "The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly.",
+  author: "Richard Bach"
 }
 ```
 
