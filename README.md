@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 739,
-  quote: "Memory is the mother of all wisdom.",
-  author: "Samuel Johnson"
+  id: 1340,
+  quote: "We choose our joys and sorrows long before we experience them.",
+  author: "Kahlil Gibran"
 }
 ```
 
