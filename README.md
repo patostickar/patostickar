@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 918,
-  quote: "Parents can only give good advice or put them on the right paths, but the final forming of a persons character lies in their own hands.",
-  author: "Anne Frank"
+  id: 474,
+  quote: "If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.",
+  author: "Ralph Emerson"
 }
 ```
 
