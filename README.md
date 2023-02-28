@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1035,
-  quote: "We must embrace pain and burn it as fuel for our journey.",
-  author: "Kenji Miyazawa"
+  id: 1155,
+  quote: "There are people who have money and people who are rich.",
+  author: "Coco Chanel"
 }
 ```
 
