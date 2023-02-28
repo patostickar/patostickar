@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 427,
-  quote: "If your actions inspire others to dream more, learn more, do more and become more, you are a leader.",
-  author: "John Quincy Adams"
+  id: 432,
+  quote: "Your destiny isn't just fate; it is how you use your own developed abilities to get what you want.",
+  author: "Byron Pulsifer"
 }
 ```
 
