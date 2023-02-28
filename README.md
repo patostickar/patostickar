@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1340,
-  quote: "We choose our joys and sorrows long before we experience them.",
-  author: "Kahlil Gibran"
+  id: 771,
+  quote: "The more light you allow within you, the brighter the world you live in will be.",
+  author: "Shakti Gawain"
 }
 ```
 
