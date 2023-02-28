@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 660,
-  quote: "When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.",
-  author: "Abraham Lincoln"
+  id: 739,
+  quote: "Memory is the mother of all wisdom.",
+  author: "Samuel Johnson"
 }
 ```
 
