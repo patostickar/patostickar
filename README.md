@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 432,
-  quote: "Your destiny isn't just fate; it is how you use your own developed abilities to get what you want.",
-  author: "Byron Pulsifer"
+  id: 918,
+  quote: "Parents can only give good advice or put them on the right paths, but the final forming of a persons character lies in their own hands.",
+  author: "Anne Frank"
 }
 ```
 
