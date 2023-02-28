@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1608,
-  quote: "Bad times have a scientific value. These are occasions a good learner would not miss.",
-  author: "Ralph Emerson"
+  id: 1349,
+  quote: "Learning without reflection is a waste, reflection without learning is dangerous.",
+  author: "Confucius"
 }
 ```
 
