@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1610,
-  quote: "All children are artists. The problem is how to remain an artist once he grows up.",
-  author: "Pablo Picasso"
+  id: 660,
+  quote: "When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.",
+  author: "Abraham Lincoln"
 }
 ```
 
