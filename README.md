@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 667,
-  quote: "Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.",
-  author: "Helen Keller"
+  id: 479,
+  quote: "Every man takes the limits of his own field of vision for the limits of the world.",
+  author: "Arthur Schopenhauer"
 }
 ```
 
