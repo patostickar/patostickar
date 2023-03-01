@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1515,
-  quote: "I can't believe that God put us on this earth to be ordinary.",
-  author: "Lou Holtz"
+  id: 1618,
+  quote: "You really can change the world if you care enough.",
+  author: "Marian Edelman"
 }
 ```
 
