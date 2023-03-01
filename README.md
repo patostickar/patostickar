@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1314,
-  quote: "The key to growth is the introduction of higher dimensions of consciousness into our awareness.",
-  author: "Lao Tzu"
+  id: 1092,
+  quote: "He who angers you conquers you.",
+  author: "Elizabeth Kenny"
 }
 ```
 
