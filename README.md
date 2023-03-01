@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 468,
-  quote: "True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.",
-  author: "William Penn"
+  id: 1535,
+  quote: "Translation is the paradigm, the exemplar of all writing. It is translation that demonstrates most vividly the yearning for transformation that underlies every act involving speech, that supremely human gift.",
+  author: "Harry Burchell Mathews"
 }
 ```
 
