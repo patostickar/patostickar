@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 553,
-  quote: "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
-  author: "Anne Frank"
+  id: 497,
+  quote: "Snowflakes are one of natures most fragile things, but just look what they can do when they stick together.",
+  author: "Vista Kelly"
 }
 ```
 
