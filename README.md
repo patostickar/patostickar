@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 165,
-  quote: "Freedom is the right to live as we wish.",
-  author: "Epictetus"
+  id: 234,
+  quote: "Worry gives a small thing a big shadow.",
+  author: "null"
 }
 ```
 
