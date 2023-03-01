@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 855,
-  quote: "To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.",
-  author: "Tenzin Gyatso"
+  id: 1407,
+  quote: "We must learn our limits. We are all something, but none of us are everything.",
+  author: "Blaise Pascal"
 }
 ```
 
