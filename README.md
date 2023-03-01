@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 497,
-  quote: "Snowflakes are one of natures most fragile things, but just look what they can do when they stick together.",
-  author: "Vista Kelly"
+  id: 1515,
+  quote: "I can't believe that God put us on this earth to be ordinary.",
+  author: "Lou Holtz"
 }
 ```
 
