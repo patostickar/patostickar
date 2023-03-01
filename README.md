@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1031,
-  quote: "Positive thinking will let you do everything better than negative thinking will.",
-  author: "Zig Ziglar"
+  id: 468,
+  quote: "True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.",
+  author: "William Penn"
 }
 ```
 
