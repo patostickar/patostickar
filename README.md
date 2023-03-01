@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 539,
-  quote: "Sadness may be part of life but there is no need to let it dominate your entire life.",
-  author: "Byron Pulsifer"
+  id: 1003,
+  quote: "Only those who dare to fail greatly can ever achieve greatly.",
+  author: "Robert Kennedy"
 }
 ```
 
