@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1003,
-  quote: "Only those who dare to fail greatly can ever achieve greatly.",
-  author: "Robert Kennedy"
+  id: 45,
+  quote: "Be kind whenever possible. It is always possible.",
+  author: "Dalai Lama"
 }
 ```
 
