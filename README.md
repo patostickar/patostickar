@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1493,
-  quote: "We never live; we are always in the expectation of living.",
-  author: "Voltaire"
+  id: 553,
+  quote: "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+  author: "Anne Frank"
 }
 ```
 
