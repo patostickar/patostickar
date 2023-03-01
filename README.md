@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1618,
-  quote: "You really can change the world if you care enough.",
-  author: "Marian Edelman"
+  id: 14,
+  quote: "You'll see it when you believe it.",
+  author: "Wayne Dyer"
 }
 ```
 
