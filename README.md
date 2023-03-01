@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1251,
-  quote: "Setting an example is not the main means of influencing another, it is the only means.",
-  author: "Albert Einstein"
+  id: 779,
+  quote: "There are no failures. Just experiences and your reactions to them.",
+  author: "Tom Krause"
 }
 ```
 
