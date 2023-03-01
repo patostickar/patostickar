@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 45,
-  quote: "Be kind whenever possible. It is always possible.",
-  author: "Dalai Lama"
+  id: 1251,
+  quote: "Setting an example is not the main means of influencing another, it is the only means.",
+  author: "Albert Einstein"
 }
 ```
 
