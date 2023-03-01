@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1349,
-  quote: "Learning without reflection is a waste, reflection without learning is dangerous.",
-  author: "Confucius"
+  id: 165,
+  quote: "Freedom is the right to live as we wish.",
+  author: "Epictetus"
 }
 ```
 
