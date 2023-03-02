@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1170,
-  quote: "You can't choose up sides on a round world.",
-  author: "Wayne Dyer"
+  id: 1259,
+  quote: "Things turn out best for those who make the best of the way things turn out.",
+  author: "Jack Buck"
 }
 ```
 
