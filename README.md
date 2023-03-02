@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 158,
-  quote: "Once we accept our limits, we go beyond them.",
-  author: "Albert Einstein"
+  id: 1407,
+  quote: "We must learn our limits. We are all something, but none of us are everything.",
+  author: "Blaise Pascal"
 }
 ```
 
