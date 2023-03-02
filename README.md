@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1545,
-  quote: "Dreams come true. Without that possibility, nature would not incite us to have them.",
-  author: "John Updike"
+  id: 690,
+  quote: "A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.",
+  author: "Joseph Roux"
 }
 ```
 
