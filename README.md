@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 902,
-  quote: "The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work. When you spend time having fun, you know you're being self-indulgent.",
-  author: "Paul Graham"
+  id: 1170,
+  quote: "You can't choose up sides on a round world.",
+  author: "Wayne Dyer"
 }
 ```
 
