@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1582,
-  quote: "Miracles come in moments. Be ready and willing.",
-  author: "Wayne Dyer"
+  id: 780,
+  quote: "Your future depends on many things, but mostly on you.",
+  author: "Frank Tyger"
 }
 ```
 
