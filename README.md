@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 243,
-  quote: "Silence is deep as Eternity, Speech is shallow as Time.",
-  author: "Carlyle"
+  id: 588,
+  quote: "The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.",
+  author: "Charles Lamb"
 }
 ```
 
