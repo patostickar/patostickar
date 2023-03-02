@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 779,
-  quote: "There are no failures. Just experiences and your reactions to them.",
-  author: "Tom Krause"
+  id: 735,
+  quote: "Those who will play with cats must expect to be scratched.",
+  author: "Cervantes"
 }
 ```
 
