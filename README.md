@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 967,
-  quote: "As you think, so shall you become.",
-  author: "Bruce Lee"
+  id: 1590,
+  quote: "Life is really simple, but we insist on making it complicated.",
+  author: "Confucius"
 }
 ```
 
