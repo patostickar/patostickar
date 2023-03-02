@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 735,
-  quote: "Those who will play with cats must expect to be scratched.",
-  author: "Cervantes"
+  id: 1582,
+  quote: "Miracles come in moments. Be ready and willing.",
+  author: "Wayne Dyer"
 }
 ```
 
