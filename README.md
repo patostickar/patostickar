@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 690,
-  quote: "A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.",
-  author: "Joseph Roux"
+  id: 902,
+  quote: "The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work. When you spend time having fun, you know you're being self-indulgent.",
+  author: "Paul Graham"
 }
 ```
 
