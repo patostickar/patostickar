@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 11,
-  quote: "What you give is what you get.",
-  author: "Byron Pulsifer"
+  id: 967,
+  quote: "As you think, so shall you become.",
+  author: "Bruce Lee"
 }
 ```
 
