@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1343,
-  quote: "Allow the world to live as it chooses, and allow yourself to live as you choose.",
-  author: "Richard Bach"
+  id: 243,
+  quote: "Silence is deep as Eternity, Speech is shallow as Time.",
+  author: "Carlyle"
 }
 ```
 
