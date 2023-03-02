@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 245,
-  quote: "An ant on the move does more than a dozing ox",
-  author: "Lao Tzu"
+  id: 11,
+  quote: "What you give is what you get.",
+  author: "Byron Pulsifer"
 }
 ```
 
