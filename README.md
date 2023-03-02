@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 449,
-  quote: "Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.",
-  author: "Hannah Arendt"
+  id: 453,
+  quote: "Everyone can taste success when the going is easy, but few know how to taste victory when times get tough.",
+  author: "Byron Pulsifer"
 }
 ```
 
