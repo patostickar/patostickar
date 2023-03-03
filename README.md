@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1277,
-  quote: "The world is but a canvas to the imagination.",
-  author: "Henry Thoreau"
+  id: 834,
+  quote: "Fear of failure is one attitude that will keep you at the same point in your life.",
+  author: "Byron Pulsifer"
 }
 ```
 
