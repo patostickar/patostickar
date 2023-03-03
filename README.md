@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 834,
-  quote: "Fear of failure is one attitude that will keep you at the same point in your life.",
-  author: "Byron Pulsifer"
+  id: 477,
+  quote: "Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.",
+  author: "Robert Fulghum"
 }
 ```
 
