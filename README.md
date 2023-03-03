@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 129,
-  quote: "From little acorns mighty oaks do grow.",
-  author: "American proverb"
+  id: 818,
+  quote: "Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.",
+  author: "Carl Jung"
 }
 ```
 
