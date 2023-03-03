@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 53,
-  quote: "All serious daring starts from within.",
-  author: "Harriet Beecher Stowe"
+  id: 1418,
+  quote: "Reason and free inquiry are the only effectual agents against error.",
+  author: "Thomas Jefferson"
 }
 ```
 
