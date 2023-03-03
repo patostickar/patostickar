@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 953,
-  quote: "To be tested is good. The challenged life may be the best therapist.",
-  author: "Gail Sheehy"
+  id: 89,
+  quote: "Luck is what happens when preparation meets opportunity.",
+  author: "Seneca"
 }
 ```
 
