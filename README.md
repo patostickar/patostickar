@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 702,
-  quote: "How far that little candle throws its beams! So shines a good deed in a naughty world.",
-  author: "William Shakespeare"
+  id: 884,
+  quote: "Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you.",
+  author: "Nathaniel Hawthorne"
 }
 ```
 
