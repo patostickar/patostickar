@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1418,
-  quote: "Reason and free inquiry are the only effectual agents against error.",
-  author: "Thomas Jefferson"
+  id: 953,
+  quote: "To be tested is good. The challenged life may be the best therapist.",
+  author: "Gail Sheehy"
 }
 ```
 
