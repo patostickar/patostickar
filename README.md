@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1371,
-  quote: "Weve got to have a dream if we are going to make a dream come true.",
-  author: "Walt Disney"
+  id: 675,
+  quote: "When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.",
+  author: "Epictetus"
 }
 ```
 
