@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 140,
-  quote: "The only real valuable thing is intuition.",
-  author: "Albert Einstein"
+  id: 1315,
+  quote: "Thought is the blossom; language the bud; action the fruit behind it.",
+  author: "Ralph Emerson"
 }
 ```
 
