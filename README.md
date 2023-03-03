@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1553,
-  quote: "If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?",
-  author: "Rabbi Hillel"
+  id: 759,
+  quote: "Life is 10% what happens to you and 90% how you react to it.",
+  author: "Charles Swindoll"
 }
 ```
 
