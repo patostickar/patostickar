@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 453,
-  quote: "Everyone can taste success when the going is easy, but few know how to taste victory when times get tough.",
-  author: "Byron Pulsifer"
+  id: 53,
+  quote: "All serious daring starts from within.",
+  author: "Harriet Beecher Stowe"
 }
 ```
 
