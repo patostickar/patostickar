@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 818,
-  quote: "Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.",
-  author: "Carl Jung"
+  id: 376,
+  quote: "Life is so constructed that an event does not, cannot, will not, match the expectation.",
+  author: "Charlotte Bronte"
 }
 ```
 
