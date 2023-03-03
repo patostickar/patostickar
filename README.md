@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 477,
-  quote: "Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.",
-  author: "Robert Fulghum"
+  id: 287,
+  quote: "Think as a wise man but communicate in the language of the people.",
+  author: "William Yeats"
 }
 ```
 
