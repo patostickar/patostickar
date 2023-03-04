@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1538,
-  quote: "Good instincts usually tell you what to do long before your head has figured it out.",
-  author: "Michael Burke"
+  id: 1375,
+  quote: "Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.",
+  author: "Harriet Tubman"
 }
 ```
 
