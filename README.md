@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1267,
-  quote: "All truths are easy to understand once they are discovered; the point is to discover them.",
-  author: "Galileo Galilei"
+  id: 258,
+  quote: "The secret of success is constancy to purpose.",
+  author: "Benjamin Disraeli"
 }
 ```
 
