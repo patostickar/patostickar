@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1008,
-  quote: "If you do not change direction, you may end up where you are heading.",
-  author: "Lao Tzu"
+  id: 478,
+  quote: "A wise man can learn more from a foolish question than a fool can learn from a wise answer.",
+  author: "Bruce Lee"
 }
 ```
 
