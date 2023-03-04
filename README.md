@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1259,
-  quote: "Things turn out best for those who make the best of the way things turn out.",
-  author: "Jack Buck"
+  id: 462,
+  quote: "The fox has many tricks. The hedgehog has but one. But that is the best of all.",
+  author: "Desiderius Erasmus"
 }
 ```
 
