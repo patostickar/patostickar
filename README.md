@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 462,
-  quote: "The fox has many tricks. The hedgehog has but one. But that is the best of all.",
-  author: "Desiderius Erasmus"
+  id: 589,
+  quote: "When one tugs at a single thing in nature, he finds it attached to the rest of the world.",
+  author: "John Muir"
 }
 ```
 
