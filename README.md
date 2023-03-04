@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 166,
-  quote: "Change your thoughts, change your life!",
-  author: "null"
+  id: 1259,
+  quote: "Things turn out best for those who make the best of the way things turn out.",
+  author: "Jack Buck"
 }
 ```
 
