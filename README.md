@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1625,
-  quote: "The truest greatness lies in being kind, the truest wisdom in a happy mind.",
-  author: "Ella Wilcox"
+  id: 562,
+  quote: "Id rather regret the things that I have done than the things that I have not done.",
+  author: "Lucille Ball"
 }
 ```
 
