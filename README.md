@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1288,
-  quote: "Rather than wishing for change, you first must be prepared to change.",
-  author: "Catherine Pulsifer"
+  id: 1538,
+  quote: "Good instincts usually tell you what to do long before your head has figured it out.",
+  author: "Michael Burke"
 }
 ```
 
