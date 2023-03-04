@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 258,
-  quote: "The secret of success is constancy to purpose.",
-  author: "Benjamin Disraeli"
+  id: 1008,
+  quote: "If you do not change direction, you may end up where you are heading.",
+  author: "Lao Tzu"
 }
 ```
 
