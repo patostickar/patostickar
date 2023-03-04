@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1571,
-  quote: "I think you can have moderate success by copying something else, but if you really want to knock it out of the park, you have to do something different and take chances.",
-  author: "Lee Womack"
+  id: 1389,
+  quote: "I love my past. I love my present. I'm not ashamed of what Ive had, and I'm not sad because I have it no longer.",
+  author: "Colette"
 }
 ```
 
