@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1389,
-  quote: "I love my past. I love my present. I'm not ashamed of what Ive had, and I'm not sad because I have it no longer.",
-  author: "Colette"
+  id: 1288,
+  quote: "Rather than wishing for change, you first must be prepared to change.",
+  author: "Catherine Pulsifer"
 }
 ```
 
