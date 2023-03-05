@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 118,
-  quote: "The simplest things are often the truest.",
-  author: "Richard Bach"
+  id: 1300,
+  quote: "When deeds and words are in accord, the whole world is transformed.",
+  author: "Chuang Tzu"
 }
 ```
 
