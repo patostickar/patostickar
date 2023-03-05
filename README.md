@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1609,
-  quote: "It's not who you are that holds you back, it's who you think you're not.",
-  author: "null"
+  id: 1051,
+  quote: "It isn't where you come from, it's where you're going that counts.",
+  author: "Ella Fitzgerald"
 }
 ```
 
