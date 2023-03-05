@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 584,
-  quote: "All difficult things have their origin in that which is easy, and great things in that which is small.",
-  author: "Lao-Tzu"
+  id: 1618,
+  quote: "You really can change the world if you care enough.",
+  author: "Marian Edelman"
 }
 ```
 
