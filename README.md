@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1115,
-  quote: "Nothing is at last sacred but the integrity of your own mind.",
-  author: "Ralph Emerson"
+  id: 1361,
+  quote: "Be like the flower, turn your face to the sun.",
+  author: "Kahlil Gibran"
 }
 ```
 
