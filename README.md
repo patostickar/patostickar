@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 4,
-  quote: "Fate is in your hands and no one elses",
-  author: "Byron Pulsifer"
+  id: 118,
+  quote: "The simplest things are often the truest.",
+  author: "Richard Bach"
 }
 ```
 
