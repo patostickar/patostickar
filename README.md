@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 730,
-  quote: "All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.",
-  author: "Rudolf Arnheim"
+  id: 1609,
+  quote: "It's not who you are that holds you back, it's who you think you're not.",
+  author: "null"
 }
 ```
 
