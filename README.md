@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1193,
-  quote: "To change ones life, start immediately, do it flamboyantly, no exceptions.",
-  author: "William James"
+  id: 4,
+  quote: "Fate is in your hands and no one elses",
+  author: "Byron Pulsifer"
 }
 ```
 
