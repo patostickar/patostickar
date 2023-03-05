@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1051,
-  quote: "It isn't where you come from, it's where you're going that counts.",
-  author: "Ella Fitzgerald"
+  id: 839,
+  quote: "While we try to teach our children all about life, our children teach us what life is all about.",
+  author: "Angela Schwindt"
 }
 ```
 
