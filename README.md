@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 164,
-  quote: "Life is the flower for which love is the honey.",
-  author: "Victor Hugo"
+  id: 1548,
+  quote: "When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.",
+  author: "Helen Keller"
 }
 ```
 
