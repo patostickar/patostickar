@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 374,
-  quote: "Don't be afraid to go out on a limb. That's where the fruit is.",
-  author: "H. Jackson Browne"
+  id: 23,
+  quote: "Everything in life is luck.",
+  author: "Donald Trump"
 }
 ```
 
