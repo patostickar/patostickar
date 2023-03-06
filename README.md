@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 116,
-  quote: "Silence is a fence around wisdom.",
-  author: "German proverb"
+  id: 181,
+  quote: "We choose our destiny in the way we treat others.",
+  author: "Wit"
 }
 ```
 
