@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 989,
-  quote: "Saying thank you is more than good manners. It is good spirituality.",
-  author: "Alfred Painter"
+  id: 77,
+  quote: "Faith in oneself is the best and safest course.",
+  author: "Michelangelo"
 }
 ```
 
