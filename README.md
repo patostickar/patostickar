@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 155,
-  quote: "The more you know yourself, the more you forgive yourself.",
-  author: "Confucius"
+  id: 1105,
+  quote: "They can do all because they think they can.",
+  author: "Virgil"
 }
 ```
 
