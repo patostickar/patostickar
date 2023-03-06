@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1493,
-  quote: "We never live; we are always in the expectation of living.",
-  author: "Voltaire"
+  id: 263,
+  quote: "Absence makes the heart grow fonder.",
+  author: "Haynes Bayly"
 }
 ```
 
