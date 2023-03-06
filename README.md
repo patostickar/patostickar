@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1022,
-  quote: "Life is what happens while you are making other plans.",
-  author: "John Lennon"
+  id: 284,
+  quote: "If you don't know where you are going, you will probably end up somewhere else.",
+  author: "Lawrence Peter"
 }
 ```
 
