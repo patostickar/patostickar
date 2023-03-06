@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 23,
-  quote: "Everything in life is luck.",
-  author: "Donald Trump"
+  id: 1493,
+  quote: "We never live; we are always in the expectation of living.",
+  author: "Voltaire"
 }
 ```
 
