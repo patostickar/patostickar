@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 181,
-  quote: "We choose our destiny in the way we treat others.",
-  author: "Wit"
+  id: 1022,
+  quote: "Life is what happens while you are making other plans.",
+  author: "John Lennon"
 }
 ```
 
