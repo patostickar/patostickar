@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1371,
-  quote: "Weve got to have a dream if we are going to make a dream come true.",
-  author: "Walt Disney"
+  id: 43,
+  quote: "Goals are the fuel in the furnace of achievement.",
+  author: "Brian Tracy"
 }
 ```
 
