@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 365,
-  quote: "If you spend too much time thinking about a thing, you'll never get it done.",
-  author: "Bruce Lee"
+  id: 1476,
+  quote: "If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception, it is a prevailing attitude.",
+  author: "Colin Powell"
 }
 ```
 
