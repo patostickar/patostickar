@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 345,
-  quote: "Opportunity is missed by most because it is dressed in overalls and looks like work.",
-  author: "Thomas Edison"
+  id: 846,
+  quote: "The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
+  author: "Henry Miller"
 }
 ```
 
