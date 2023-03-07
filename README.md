@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 43,
-  quote: "Goals are the fuel in the furnace of achievement.",
-  author: "Brian Tracy"
+  id: 1481,
+  quote: "Sometimes by losing a battle you find a new way to win the war.",
+  author: "Donald Trump"
 }
 ```
 
