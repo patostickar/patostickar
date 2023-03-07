@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 846,
-  quote: "The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
-  author: "Henry Miller"
+  id: 295,
+  quote: "Successful people ask better questions, and as a result, they get better answers.",
+  author: "Tony Robbins"
 }
 ```
 
