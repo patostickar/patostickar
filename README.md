@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 175,
-  quote: "He who is contented is rich.",
-  author: "Lao Tzu"
+  id: 1223,
+  quote: "The most decisive actions of our life... are most often unconsidered actions.",
+  author: "Andre Gide"
 }
 ```
 
