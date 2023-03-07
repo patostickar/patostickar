@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 802,
-  quote: "Trust your own instinct. Your mistakes might as well be your own, instead of someone elses.",
-  author: "Billy Wilder"
+  id: 770,
+  quote: "People seldom notice old clothes if you wear a big smile.",
+  author: "Lee Mildon"
 }
 ```
 
