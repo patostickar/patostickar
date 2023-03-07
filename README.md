@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1481,
-  quote: "Sometimes by losing a battle you find a new way to win the war.",
-  author: "Donald Trump"
+  id: 1092,
+  quote: "He who angers you conquers you.",
+  author: "Elizabeth Kenny"
 }
 ```
 
