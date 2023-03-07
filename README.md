@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1000,
-  quote: "Everything that exists is in a manner the seed of that which will be.",
-  author: "Marcus Aurelius"
+  id: 1434,
+  quote: "Give thanks for a little and you will find a lot.",
+  author: "Hausa"
 }
 ```
 
