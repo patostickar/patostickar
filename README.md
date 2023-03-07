@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1487,
-  quote: "What the caterpillar calls the end of the world, the master calls a butterfly.",
-  author: "Richard Bach"
+  id: 802,
+  quote: "Trust your own instinct. Your mistakes might as well be your own, instead of someone elses.",
+  author: "Billy Wilder"
 }
 ```
 
