@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 770,
-  quote: "People seldom notice old clothes if you wear a big smile.",
-  author: "Lee Mildon"
+  id: 696,
+  quote: "Your work is to discover your world and then with all your heart give yourself to it.",
+  author: "Buddha"
 }
 ```
 
