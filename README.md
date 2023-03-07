@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 295,
-  quote: "Successful people ask better questions, and as a result, they get better answers.",
-  author: "Tony Robbins"
+  id: 1487,
+  quote: "What the caterpillar calls the end of the world, the master calls a butterfly.",
+  author: "Richard Bach"
 }
 ```
 
