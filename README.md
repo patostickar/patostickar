@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1290,
-  quote: "Fame usually comes to those who are thinking about something else.",
-  author: "Holmes"
+  id: 201,
+  quote: "Autumn is a second spring when every leaf is a flower.",
+  author: "Albert Camus"
 }
 ```
 
