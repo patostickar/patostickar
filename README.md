@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 696,
-  quote: "Your work is to discover your world and then with all your heart give yourself to it.",
-  author: "Buddha"
+  id: 1290,
+  quote: "Fame usually comes to those who are thinking about something else.",
+  author: "Holmes"
 }
 ```
 
