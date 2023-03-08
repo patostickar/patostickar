@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 939,
-  quote: "We must not allow ourselves to become like the system we oppose.",
-  author: "Bishop Desmond Tutu"
+  id: 933,
+  quote: "Believe deep down in your heart that you're destined to do great things.",
+  author: "Joe Paterno"
 }
 ```
 
