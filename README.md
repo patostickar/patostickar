@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 158,
-  quote: "Once we accept our limits, we go beyond them.",
-  author: "Albert Einstein"
+  id: 793,
+  quote: "Self-trust is the first secret of success.",
+  author: "Ralph Emerson"
 }
 ```
 
