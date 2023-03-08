@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1050,
-  quote: "Whoso loves, believes the impossible.",
-  author: "Elizabeth Browning"
+  id: 158,
+  quote: "Once we accept our limits, we go beyond them.",
+  author: "Albert Einstein"
 }
 ```
 
