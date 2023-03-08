@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 801,
-  quote: "Look forward to spring as a time when you can start to see what nature has to offer once again.",
-  author: "Byron Pulsifer"
+  id: 1259,
+  quote: "Things turn out best for those who make the best of the way things turn out.",
+  author: "Jack Buck"
 }
 ```
 
