@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 15,
-  quote: "Today is the tomorrow we worried about yesterday.",
-  author: "null"
+  id: 1540,
+  quote: "Those who dream by day are cognizant of many things which escape those who dream only by night.",
+  author: "Edgar Allan Poe"
 }
 ```
 
