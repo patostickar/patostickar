@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1298,
-  quote: "Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can't build on it; it's only for wallowing in.",
-  author: "Katherine Mansfield"
+  id: 1611,
+  quote: "Either I will find a way, or I will make one.",
+  author: "Philip Sidney"
 }
 ```
 
