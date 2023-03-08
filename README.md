@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1611,
-  quote: "Either I will find a way, or I will make one.",
-  author: "Philip Sidney"
+  id: 1551,
+  quote: "I endeavour to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.",
+  author: "Elizabeth Montagu"
 }
 ```
 
