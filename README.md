@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 361,
-  quote: "There is nothing in a caterpillar that tells you it's going to be a butterfly.",
-  author: "Buckminster Fuller"
+  id: 1519,
+  quote: "If someone in your life talked to you the way you talk to yourself, you would have left them long ago.",
+  author: "Carla Gordon"
 }
 ```
 
