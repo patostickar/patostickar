@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 750,
-  quote: "The day you decide to do it is your lucky day.",
-  author: "Japanese proverb"
+  id: 512,
+  quote: "Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.",
+  author: "Washington Irving"
 }
 ```
 
