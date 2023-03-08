@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1059,
-  quote: "As our case is new, we must think and act anew.",
-  author: "Abraham Lincoln"
+  id: 750,
+  quote: "The day you decide to do it is your lucky day.",
+  author: "Japanese proverb"
 }
 ```
 
