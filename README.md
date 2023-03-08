@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1511,
-  quote: "In skating over thin ice our safety is in our speed.",
-  author: "Ralph Emerson"
+  id: 1050,
+  quote: "Whoso loves, believes the impossible.",
+  author: "Elizabeth Browning"
 }
 ```
 
