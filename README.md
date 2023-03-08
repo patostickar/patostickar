@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 793,
-  quote: "Self-trust is the first secret of success.",
-  author: "Ralph Emerson"
+  id: 1059,
+  quote: "As our case is new, we must think and act anew.",
+  author: "Abraham Lincoln"
 }
 ```
 
