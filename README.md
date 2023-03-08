@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1430,
-  quote: "Wrinkles should merely indicate where smiles have been.",
-  author: "Mark Twain"
+  id: 74,
+  quote: "Our distrust is very expensive.",
+  author: "Ralph Emerson"
 }
 ```
 
