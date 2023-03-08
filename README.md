@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1551,
-  quote: "I endeavour to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.",
-  author: "Elizabeth Montagu"
+  id: 970,
+  quote: "Every gift from a friend is a wish for your happiness.",
+  author: "Richard Bach"
 }
 ```
 
