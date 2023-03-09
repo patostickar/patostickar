@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1055,
-  quote: "If you can't explain it simply, you don't understand it well enough.",
-  author: "Albert Einstein"
+  id: 477,
+  quote: "Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.",
+  author: "Robert Fulghum"
 }
 ```
 
