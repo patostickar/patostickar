@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 353,
-  quote: "Tension is who you think you should be. Relaxation is who you are.",
-  author: "Chinese proverb"
+  id: 148,
+  quote: "A good plan today is better than a perfect plan tomorrow.",
+  author: "null"
 }
 ```
 
