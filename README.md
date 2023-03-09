@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 384,
-  quote: "Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.",
-  author: "Horace"
+  id: 117,
+  quote: "Society develops wit, but its contemplation alone forms genius.",
+  author: "Madame de Stael"
 }
 ```
 
