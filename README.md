@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 292,
-  quote: "To be upset over what you don't have is to waste what you do have.",
-  author: "Ken S. Keyes"
+  id: 830,
+  quote: "One who asks a question is a fool for five minutes; one who does not ask a question remains a fool forever.",
+  author: "null"
 }
 ```
 
