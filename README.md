@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 359,
-  quote: "It is fatal to enter any war without the will to win it.",
-  author: "General Douglas MacArthur"
+  id: 333,
+  quote: "If you think you can, you can. And if you think you can't, you're right.",
+  author: "Henry Ford"
 }
 ```
 
