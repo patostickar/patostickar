@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 363,
-  quote: "Ideals are an imaginative understanding of that which is desirable in that which is possible.",
-  author: "Walter Lippmann"
+  id: 313,
+  quote: "Short words are best and the old words when short are best of all.",
+  author: "Winston Churchill"
 }
 ```
 
