@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 830,
-  quote: "One who asks a question is a fool for five minutes; one who does not ask a question remains a fool forever.",
-  author: "null"
+  id: 295,
+  quote: "Successful people ask better questions, and as a result, they get better answers.",
+  author: "Tony Robbins"
 }
 ```
 
