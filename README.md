@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 182,
-  quote: "No snowflake in an avalanche ever feels responsible.",
-  author: "Voltaire"
+  id: 1417,
+  quote: "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.",
+  author: "Lao Tzu"
 }
 ```
 
