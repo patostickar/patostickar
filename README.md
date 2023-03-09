@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 148,
-  quote: "A good plan today is better than a perfect plan tomorrow.",
-  author: "null"
+  id: 277,
+  quote: "In separateness lies the world's great misery, in compassion lies the world's true strength.",
+  author: "Buddha"
 }
 ```
 
