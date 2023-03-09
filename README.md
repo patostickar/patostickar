@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 770,
-  quote: "People seldom notice old clothes if you wear a big smile.",
-  author: "Lee Mildon"
+  id: 406,
+  quote: "A life spent making mistakes is not only more honourable but more useful than a life spent in doing nothing.",
+  author: "Bernard Shaw"
 }
 ```
 
