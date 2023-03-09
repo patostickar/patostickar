@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 147,
-  quote: "I think and that is all that I am.",
-  author: "Wayne Dyer"
+  id: 1001,
+  quote: "Be less curious about people and more curious about ideas.",
+  author: "Marie Curie"
 }
 ```
 
