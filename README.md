@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 333,
-  quote: "If you think you can, you can. And if you think you can't, you're right.",
-  author: "Henry Ford"
+  id: 425,
+  quote: "No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto.",
+  author: "W. Clement Stone"
 }
 ```
 
