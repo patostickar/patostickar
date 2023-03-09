@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 313,
-  quote: "Short words are best and the old words when short are best of all.",
-  author: "Winston Churchill"
+  id: 359,
+  quote: "It is fatal to enter any war without the will to win it.",
+  author: "General Douglas MacArthur"
 }
 ```
 
