@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 295,
-  quote: "Successful people ask better questions, and as a result, they get better answers.",
-  author: "Tony Robbins"
+  id: 147,
+  quote: "I think and that is all that I am.",
+  author: "Wayne Dyer"
 }
 ```
 
