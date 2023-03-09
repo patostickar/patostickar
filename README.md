@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1417,
-  quote: "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.",
-  author: "Lao Tzu"
+  id: 363,
+  quote: "Ideals are an imaginative understanding of that which is desirable in that which is possible.",
+  author: "Walter Lippmann"
 }
 ```
 
