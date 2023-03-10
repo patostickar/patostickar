@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 742,
-  quote: "Watch the little things; a small leak will sink a great ship.",
-  author: "Benjamin Franklin"
+  id: 219,
+  quote: "Better be ignorant of a matter than half know it.",
+  author: "Publilius Syrus"
 }
 ```
 
