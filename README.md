@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1177,
-  quote: "Keep your eyes on the stars and your feet on the ground.",
-  author: "Theodore Roosevelt"
+  id: 1364,
+  quote: "Gratitude is the fairest blossom which springs from the soul.",
+  author: "Henry Beecher"
 }
 ```
 
