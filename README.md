@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 229,
-  quote: "Be great in act, as you have been in thought.",
-  author: "William Shakespeare"
+  id: 780,
+  quote: "Your future depends on many things, but mostly on you.",
+  author: "Frank Tyger"
 }
 ```
 
