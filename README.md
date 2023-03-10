@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 635,
-  quote: "Let your hook always be cast; in the pool where you least expect it, there will be a fish.",
-  author: "Ovid"
+  id: 173,
+  quote: "A stumble may prevent a fall.",
+  author: "null"
 }
 ```
 
