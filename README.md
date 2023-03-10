@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 5,
-  quote: "Be the chief but never the lord.",
-  author: "Lao Tzu"
+  id: 1306,
+  quote: "Spring is a time for rebirth and the fulfilment of new life.",
+  author: "Byron Pulsifer"
 }
 ```
 
