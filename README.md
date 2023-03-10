@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 618,
-  quote: "The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.",
-  author: "Henry Thoreau"
+  id: 1641,
+  quote: "I will prepare and some day my chance will come.",
+  author: "Abraham Lincoln"
 }
 ```
 
