@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1641,
-  quote: "I will prepare and some day my chance will come.",
-  author: "Abraham Lincoln"
+  id: 173,
+  quote: "A stumble may prevent a fall.",
+  author: "null"
 }
 ```
 
