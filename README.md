@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1486,
-  quote: "Don't settle for a relationship that won't let you be yourself.",
-  author: "Oprah Winfrey"
+  id: 186,
+  quote: "The mind unlearns with difficulty what it has long learned.",
+  author: "Seneca"
 }
 ```
 
