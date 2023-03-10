@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1364,
-  quote: "Gratitude is the fairest blossom which springs from the soul.",
-  author: "Henry Beecher"
+  id: 1316,
+  quote: "True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.",
+  author: "Daisaku Ikeda"
 }
 ```
 
