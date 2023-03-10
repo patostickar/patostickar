@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 780,
-  quote: "Your future depends on many things, but mostly on you.",
-  author: "Frank Tyger"
+  id: 423,
+  quote: "Make the best use of what is in your power, and take the rest as it happens.",
+  author: "Epictetus"
 }
 ```
 
