@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 990,
-  quote: "Silence is a source of great strength.",
-  author: "Lao Tzu"
+  id: 1059,
+  quote: "As our case is new, we must think and act anew.",
+  author: "Abraham Lincoln"
 }
 ```
 
