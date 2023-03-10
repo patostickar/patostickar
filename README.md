@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1567,
-  quote: "If you have knowledge, let others light their candles in it.",
-  author: "Margaret Fuller"
+  id: 1177,
+  quote: "Keep your eyes on the stars and your feet on the ground.",
+  author: "Theodore Roosevelt"
 }
 ```
 
