@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 219,
-  quote: "Better be ignorant of a matter than half know it.",
-  author: "Publilius Syrus"
+  id: 1486,
+  quote: "Don't settle for a relationship that won't let you be yourself.",
+  author: "Oprah Winfrey"
 }
 ```
 
