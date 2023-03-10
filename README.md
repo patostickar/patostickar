@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 173,
-  quote: "A stumble may prevent a fall.",
-  author: "null"
+  id: 5,
+  quote: "Be the chief but never the lord.",
+  author: "Lao Tzu"
 }
 ```
 
