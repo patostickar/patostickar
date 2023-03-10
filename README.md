@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1156,
-  quote: "Why worry about tomorrow, when today is all we have?",
-  author: "null"
+  id: 1507,
+  quote: "Go for it now. The future is promised to no one.",
+  author: "Wayne Dyer"
 }
 ```
 
