@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 774,
-  quote: "Everything that irritates us about others can lead us to an understanding about ourselves.",
-  author: "Carl Jung"
+  id: 990,
+  quote: "Silence is a source of great strength.",
+  author: "Lao Tzu"
 }
 ```
 
