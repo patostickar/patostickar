@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 517,
-  quote: "It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.",
-  author: "Jessamyn West"
+  id: 196,
+  quote: "Keep true to the dreams of thy youth.",
+  author: "Friedrich von Schiller"
 }
 ```
 
