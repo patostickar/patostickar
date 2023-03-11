@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 227,
-  quote: "What you see depends on what you're looking for.",
-  author: "null"
+  id: 908,
+  quote: "The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.",
+  author: "Margaret Smith"
 }
 ```
 
