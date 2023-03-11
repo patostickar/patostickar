@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1223,
-  quote: "The most decisive actions of our life... are most often unconsidered actions.",
-  author: "Andre Gide"
+  id: 1594,
+  quote: "The greatest mistake you can make in life is to be continually fearing you will make one.",
+  author: "Elbert Hubbard"
 }
 ```
 
