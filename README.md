@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 680,
-  quote: "You cannot make yourself feel something you do not feel, but you can make yourself do right in spite of your feelings.",
-  author: "Pearl Buck"
+  id: 517,
+  quote: "It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.",
+  author: "Jessamyn West"
 }
 ```
 
