@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1139,
-  quote: "If you come to a fork in the road, take it.",
-  author: "null"
+  id: 1115,
+  quote: "Nothing is at last sacred but the integrity of your own mind.",
+  author: "Ralph Emerson"
 }
 ```
 
