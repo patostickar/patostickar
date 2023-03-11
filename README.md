@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 686,
-  quote: "Responsibility is not inherited, it is a choice that everyone needs to make at some point in their life.",
-  author: "Byron Pulsifer"
+  id: 1136,
+  quote: "Always do your best. What you plant now, you will harvest later.",
+  author: "Og Mandino"
 }
 ```
 
