@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 361,
-  quote: "There is nothing in a caterpillar that tells you it's going to be a butterfly.",
-  author: "Buckminster Fuller"
+  id: 60,
+  quote: "Wisdom begins in wonder.",
+  author: "Socrates"
 }
 ```
 
