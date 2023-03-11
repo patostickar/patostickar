@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1078,
-  quote: "Good actions give strength to ourselves and inspire good actions in others.",
-  author: "Plato"
+  id: 1223,
+  quote: "The most decisive actions of our life... are most often unconsidered actions.",
+  author: "Andre Gide"
 }
 ```
 
