@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 410,
-  quote: "We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.",
-  author: "Sam Keen"
+  id: 361,
+  quote: "There is nothing in a caterpillar that tells you it's going to be a butterfly.",
+  author: "Buckminster Fuller"
 }
 ```
 
