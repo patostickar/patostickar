@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 983,
-  quote: "Decision is a risk rooted in the courage of being free.",
-  author: "Paul Tillich"
+  id: 1050,
+  quote: "Whoso loves, believes the impossible.",
+  author: "Elizabeth Browning"
 }
 ```
 
