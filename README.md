@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1600,
-  quote: "Example has more followers than reason.",
-  author: "Christian Bovee"
+  id: 227,
+  quote: "What you see depends on what you're looking for.",
+  author: "null"
 }
 ```
 
