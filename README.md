@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1403,
-  quote: "Gratitude is not only the greatest of virtues, but the paren't of all the others.",
-  author: "Cicero"
+  id: 644,
+  quote: "The aim of life is self-development. To realize ones nature perfectly that is what each of us is here for.",
+  author: "Oscar Wilde"
 }
 ```
 
