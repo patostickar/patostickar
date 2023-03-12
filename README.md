@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 30,
-  quote: "Bite off more than you can chew, then chew it.",
-  author: "Ella Williams"
+  id: 272,
+  quote: "To get something you never had, you have to do something you never did.",
+  author: "null"
 }
 ```
 
