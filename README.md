@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1641,
-  quote: "I will prepare and some day my chance will come.",
-  author: "Abraham Lincoln"
+  id: 830,
+  quote: "One who asks a question is a fool for five minutes; one who does not ask a question remains a fool forever.",
+  author: "null"
 }
 ```
 
