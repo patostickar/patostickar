@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 335,
-  quote: "Everyone thinks of changing the world, but no one thinks of changing himself.",
-  author: "Leo Tolstoy"
+  id: 1481,
+  quote: "Sometimes by losing a battle you find a new way to win the war.",
+  author: "Donald Trump"
 }
 ```
 
