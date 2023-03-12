@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 927,
-  quote: "Arriving at one point is the starting point to another.",
-  author: "John Dewey"
+  id: 756,
+  quote: "Correction does much, but encouragement does more.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
