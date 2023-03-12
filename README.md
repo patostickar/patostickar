@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 849,
-  quote: "Courage is the discovery that you may not win, and trying when you know you can lose.",
-  author: "null"
+  id: 133,
+  quote: "A really great talent finds its happiness in execution.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
