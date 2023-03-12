@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 756,
-  quote: "Correction does much, but encouragement does more.",
-  author: "Johann Wolfgang von Goethe"
+  id: 30,
+  quote: "Bite off more than you can chew, then chew it.",
+  author: "Ella Williams"
 }
 ```
 
