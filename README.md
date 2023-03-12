@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 533,
-  quote: "The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
-  author: "Henry Miller"
+  id: 335,
+  quote: "Everyone thinks of changing the world, but no one thinks of changing himself.",
+  author: "Leo Tolstoy"
 }
 ```
 
