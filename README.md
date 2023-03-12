@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1050,
-  quote: "Whoso loves, believes the impossible.",
-  author: "Elizabeth Browning"
+  id: 613,
+  quote: "Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.",
+  author: "Ralph Emerson"
 }
 ```
 
