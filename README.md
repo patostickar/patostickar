@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1209,
-  quote: "You are the only person on Earth who can use your ability.",
-  author: "Zig Ziglar"
+  id: 417,
+  quote: "When you are content to be simply yourself and don't compare or compete, everybody will respect you.",
+  author: "Laozi"
 }
 ```
 
