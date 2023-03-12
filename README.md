@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 438,
-  quote: "Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more",
-  author: "Anthony Robbins"
+  id: 575,
+  quote: "The shoe that fits one person pinches another; there is no recipe for living that suits all cases.",
+  author: "Carl Jung"
 }
 ```
 
