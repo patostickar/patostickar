@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 73,
-  quote: "The years teach much which the days never know.",
-  author: "Ralph Emerson"
+  id: 1641,
+  quote: "I will prepare and some day my chance will come.",
+  author: "Abraham Lincoln"
 }
 ```
 
