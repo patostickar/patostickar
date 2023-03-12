@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 653,
-  quote: "We could never learn to be brave and patient if there were only joy in the world.",
-  author: "Helen Keller"
+  id: 533,
+  quote: "The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
+  author: "Henry Miller"
 }
 ```
 
