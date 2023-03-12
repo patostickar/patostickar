@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 112,
-  quote: "The harder you fall, the higher you bounce.",
-  author: "null"
+  id: 927,
+  quote: "Arriving at one point is the starting point to another.",
+  author: "John Dewey"
 }
 ```
 
