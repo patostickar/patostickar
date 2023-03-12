@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 272,
-  quote: "To get something you never had, you have to do something you never did.",
-  author: "null"
+  id: 73,
+  quote: "The years teach much which the days never know.",
+  author: "Ralph Emerson"
 }
 ```
 
