@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1090,
-  quote: "Vision without action is a daydream. Action without vision is a nightmare.",
-  author: "Japanese proverb"
+  id: 112,
+  quote: "The harder you fall, the higher you bounce.",
+  author: "null"
 }
 ```
 
