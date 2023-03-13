@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 575,
-  quote: "The shoe that fits one person pinches another; there is no recipe for living that suits all cases.",
-  author: "Carl Jung"
+  id: 820,
+  quote: "The way we communicate with others and with ourselves ultimately determines the quality of our lives.",
+  author: "Tony Robbins"
 }
 ```
 
