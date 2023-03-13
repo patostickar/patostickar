@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 205,
-  quote: "Inspiration exists, but it has to find us working.",
-  author: "Pablo Picasso"
+  id: 1443,
+  quote: "When people are like each other they tend to like each other.",
+  author: "Tony Robbins"
 }
 ```
 
