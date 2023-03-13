@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1487,
-  quote: "What the caterpillar calls the end of the world, the master calls a butterfly.",
-  author: "Richard Bach"
+  id: 1593,
+  quote: "Beware of the half truth. You may have gotten hold of the wrong half.",
+  author: "null"
 }
 ```
 
