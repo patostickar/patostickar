@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 448,
-  quote: "There is only one success to be able to spend your life in your own way.",
-  author: "Christopher Morley"
+  id: 1234,
+  quote: "To see things in the seed, that is genius.",
+  author: "Lao Tzu"
 }
 ```
 
