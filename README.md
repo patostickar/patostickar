@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 370,
-  quote: "Before you put on a frown, make absolutely sure there are no smiles available.",
-  author: "Jim Beggs"
+  id: 205,
+  quote: "Inspiration exists, but it has to find us working.",
+  author: "Pablo Picasso"
 }
 ```
 
