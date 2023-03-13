@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1234,
-  quote: "To see things in the seed, that is genius.",
-  author: "Lao Tzu"
+  id: 557,
+  quote: "Give me six hours to chop down a tree and I will spend the first four sharpening the axe.",
+  author: "Abraham Lincoln"
 }
 ```
 
