@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 820,
-  quote: "The way we communicate with others and with ourselves ultimately determines the quality of our lives.",
-  author: "Tony Robbins"
+  id: 236,
+  quote: "The journey of a thousand miles begins with one step.",
+  author: "Lao Tzu"
 }
 ```
 
