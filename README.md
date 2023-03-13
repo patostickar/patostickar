@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1446,
-  quote: "The more you care, the stronger you can be.",
-  author: "Jim Rohn"
+  id: 448,
+  quote: "There is only one success to be able to spend your life in your own way.",
+  author: "Christopher Morley"
 }
 ```
 
