@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 716,
-  quote: "Never idealize others. They will never live up to your expectations.",
-  author: "Leo Buscaglia"
+  id: 1124,
+  quote: "The meaning I picked, the one that changed my life: Overcome fear, behold wonder.",
+  author: "Richard Bach"
 }
 ```
 
