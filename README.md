@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 705,
-  quote: "An obstacle may be either a stepping stone or a stumbling block.",
-  author: "null"
+  id: 536,
+  quote: "Everyone is a genius at least once a year. A real genius has his original ideas closer together.",
+  author: "Georg Lichtenberg"
 }
 ```
 
