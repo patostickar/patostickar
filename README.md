@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 254,
-  quote: "I have often regretted my speech, never my silence.",
-  author: "Publilius Syrus"
+  id: 1018,
+  quote: "Experience can only be gained by doing not by thinking or dreaming.",
+  author: "Byron Pulsifer"
 }
 ```
 
