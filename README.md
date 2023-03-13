@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 557,
-  quote: "Give me six hours to chop down a tree and I will spend the first four sharpening the axe.",
-  author: "Abraham Lincoln"
+  id: 1320,
+  quote: "As we are liberated from our own fear, our presence automatically liberates others.",
+  author: "Nelson Mandela"
 }
 ```
 
