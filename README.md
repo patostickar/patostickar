@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1443,
-  quote: "When people are like each other they tend to like each other.",
-  author: "Tony Robbins"
+  id: 514,
+  quote: "Many people think of prosperity that concerns money only to forget that true prosperity is of the mind.",
+  author: "Byron Pulsifer"
 }
 ```
 
