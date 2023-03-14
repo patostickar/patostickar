@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 99,
-  quote: "Do more than dream: work.",
-  author: "William Arthur Ward"
+  id: 364,
+  quote: "The superior man is satisfied and composed; the mean man is always full of distress.",
+  author: "Confucius"
 }
 ```
 
