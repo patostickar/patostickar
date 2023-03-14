@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1137,
-  quote: "My mama always said: life's like a box of chocolate you never know what you gonna get.",
-  author: "Forrest Gump"
+  id: 344,
+  quote: "We should all be thankful for those people who rekindle the inner spirit.",
+  author: "Albert Schweitzer"
 }
 ```
 
