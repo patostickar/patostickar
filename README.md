@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 344,
-  quote: "We should all be thankful for those people who rekindle the inner spirit.",
-  author: "Albert Schweitzer"
+  id: 155,
+  quote: "The more you know yourself, the more you forgive yourself.",
+  author: "Confucius"
 }
 ```
 
