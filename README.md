@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 377,
-  quote: "If you change the way you look at things, the things you look at change.",
-  author: "Wayne Dyer"
+  id: 1113,
+  quote: "Don't frown because you never know who is falling in love with your smile.",
+  author: "Sinvyest Tan"
 }
 ```
 
