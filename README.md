@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 387,
-  quote: "Every action of our lives touches on some chord that will vibrate in eternity.",
-  author: "Edwin Chapin"
+  id: 1118,
+  quote: "Whenever something negative happens to you, there is a deep lesson concealed within it.",
+  author: "Eckhart Tolle"
 }
 ```
 
