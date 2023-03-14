@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1124,
-  quote: "The meaning I picked, the one that changed my life: Overcome fear, behold wonder.",
-  author: "Richard Bach"
+  id: 1638,
+  quote: "Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.",
+  author: "Napoleon Hill"
 }
 ```
 
