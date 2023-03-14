@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1118,
-  quote: "Whenever something negative happens to you, there is a deep lesson concealed within it.",
-  author: "Eckhart Tolle"
+  id: 1137,
+  quote: "My mama always said: life's like a box of chocolate you never know what you gonna get.",
+  author: "Forrest Gump"
 }
 ```
 
