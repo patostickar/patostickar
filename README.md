@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 963,
-  quote: "Real success is finding your lifework in the work that you love.",
-  author: "David McCullough"
+  id: 19,
+  quote: "Having nothing, nothing can he lose.",
+  author: "William Shakespeare"
 }
 ```
 
