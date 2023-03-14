@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1183,
-  quote: "Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather.",
-  author: "John Ruskin"
+  id: 963,
+  quote: "Real success is finding your lifework in the work that you love.",
+  author: "David McCullough"
 }
 ```
 
