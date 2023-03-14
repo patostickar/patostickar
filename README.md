@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1159,
-  quote: "The exercise of an extraordinary gift is the supremest pleasure in life.",
-  author: "Mark Twain"
+  id: 329,
+  quote: "It has never been my object to record my dreams, just to realize them.",
+  author: "Man Ray"
 }
 ```
 
