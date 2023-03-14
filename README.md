@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 155,
-  quote: "The more you know yourself, the more you forgive yourself.",
-  author: "Confucius"
+  id: 99,
+  quote: "Do more than dream: work.",
+  author: "William Arthur Ward"
 }
 ```
 
