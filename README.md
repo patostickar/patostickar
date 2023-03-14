@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 46,
-  quote: "Talk doesn't cook rice.",
-  author: "Chinese proverb"
+  id: 629,
+  quote: "Every sixty seconds you spend angry, upset or mad, is a full minute of happiness you will never get back.",
+  author: "null"
 }
 ```
 
