@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 478,
-  quote: "A wise man can learn more from a foolish question than a fool can learn from a wise answer.",
-  author: "Bruce Lee"
+  id: 1328,
+  quote: "You are the only person on earth who can use your ability.",
+  author: "Zig Ziglar"
 }
 ```
 
