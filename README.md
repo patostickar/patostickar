@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 19,
-  quote: "Having nothing, nothing can he lose.",
-  author: "William Shakespeare"
+  id: 46,
+  quote: "Talk doesn't cook rice.",
+  author: "Chinese proverb"
 }
 ```
 
