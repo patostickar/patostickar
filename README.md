@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 629,
-  quote: "Every sixty seconds you spend angry, upset or mad, is a full minute of happiness you will never get back.",
-  author: "null"
+  id: 1159,
+  quote: "The exercise of an extraordinary gift is the supremest pleasure in life.",
+  author: "Mark Twain"
 }
 ```
 
