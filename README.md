@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 329,
-  quote: "It has never been my object to record my dreams, just to realize them.",
-  author: "Man Ray"
+  id: 1425,
+  quote: "I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.",
+  author: "G. K. Chesterton"
 }
 ```
 
