@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 592,
-  quote: "To live a pure unselfish life, one must count nothing as ones own in the midst of abundance.",
-  author: "Buddha"
+  id: 75,
+  quote: "All know the way; few actually walk it.",
+  author: "Bodhidharma"
 }
 ```
 
