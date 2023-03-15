@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 364,
-  quote: "The superior man is satisfied and composed; the mean man is always full of distress.",
-  author: "Confucius"
+  id: 1457,
+  quote: "To follow, without halt, one aim: There is the secret of success.",
+  author: "Anna Pavlova"
 }
 ```
 
