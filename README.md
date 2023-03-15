@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1582,
-  quote: "Miracles come in moments. Be ready and willing.",
-  author: "Wayne Dyer"
+  id: 977,
+  quote: "Only when we are no longer afraid do we begin to live.",
+  author: "Dorothy Thompson"
 }
 ```
 
