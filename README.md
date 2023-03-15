@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1166,
-  quote: "Experience keeps a dear school, but fools will learn in no other.",
-  author: "Benjamin Franklin"
+  id: 664,
+  quote: "The greatest good you can do for another is not just share your riches, but reveal to them their own.",
+  author: "Benjamin Disraeli"
 }
 ```
 
