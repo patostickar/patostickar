@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 755,
-  quote: "Never be afraid to try, remember... Amateurs built the ark, Professionals built the Titanic.",
+  id: 170,
+  quote: "Today is the tomorrow you worried about yesterday.",
   author: "null"
 }
 ```
