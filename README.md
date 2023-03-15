@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 170,
-  quote: "Today is the tomorrow you worried about yesterday.",
-  author: "null"
+  id: 396,
+  quote: "To study and not think is a waste. To think and not study is dangerous.",
+  author: "Confucius"
 }
 ```
 
