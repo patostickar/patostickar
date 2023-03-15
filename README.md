@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 766,
-  quote: "Give whatever you are doing and whoever you are with the gift of your attention.",
-  author: "Jim Rohn"
+  id: 1427,
+  quote: "Risk more than others think is safe. Care more than others think is wise. Dream more than others think is practical.Expect more than others think is possible.",
+  author: "Cadet Maxim"
 }
 ```
 
