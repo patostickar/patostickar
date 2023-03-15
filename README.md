@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 691,
-  quote: "Life's challenges are not supposed to paralyse you, they're supposed to help you discover who you are.",
-  author: "Bernice Reagon"
+  id: 592,
+  quote: "To live a pure unselfish life, one must count nothing as ones own in the midst of abundance.",
+  author: "Buddha"
 }
 ```
 
