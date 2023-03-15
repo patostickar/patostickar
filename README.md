@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 75,
-  quote: "All know the way; few actually walk it.",
-  author: "Bodhidharma"
+  id: 1561,
+  quote: "The winner ain't the one with the fastest car it's the one who refuses to lose.",
+  author: "Dale Earnhardt"
 }
 ```
 
