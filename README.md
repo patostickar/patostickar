@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 720,
-  quote: "No one has ever become poor by giving.",
-  author: "Anne Frank"
+  id: 1582,
+  quote: "Miracles come in moments. Be ready and willing.",
+  author: "Wayne Dyer"
 }
 ```
 
