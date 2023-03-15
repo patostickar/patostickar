@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1565,
-  quote: "Life is what happens to you while you're busy making other plans.",
-  author: "John Lennon"
+  id: 691,
+  quote: "Life's challenges are not supposed to paralyse you, they're supposed to help you discover who you are.",
+  author: "Bernice Reagon"
 }
 ```
 
