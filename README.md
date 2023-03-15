@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1119,
-  quote: "What is not started today is never finished tomorrow.",
-  author: "Goethe"
+  id: 53,
+  quote: "All serious daring starts from within.",
+  author: "Harriet Beecher Stowe"
 }
 ```
 
