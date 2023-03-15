@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 275,
-  quote: "Each misfortune you encounter will carry in it the seed of tomorrows good luck.",
-  author: "Og Mandino"
+  id: 720,
+  quote: "No one has ever become poor by giving.",
+  author: "Anne Frank"
 }
 ```
 
