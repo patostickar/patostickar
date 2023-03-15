@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1638,
-  quote: "Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.",
-  author: "Napoleon Hill"
+  id: 275,
+  quote: "Each misfortune you encounter will carry in it the seed of tomorrows good luck.",
+  author: "Og Mandino"
 }
 ```
 
