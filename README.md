@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1455,
-  quote: "It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.",
-  author: "Max Planck"
+  id: 454,
+  quote: "Deep listening is miraculous for both listener and speaker.When someone receives us with open-hearted, non-judging, intensely interested listening, our spirits expand.",
+  author: "Sue Patton Thoele"
 }
 ```
 
