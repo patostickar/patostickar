@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 154,
-  quote: "Begin to weave and God will give you the thread.",
-  author: "German proverb"
+  id: 676,
+  quote: "Everyone has been made for some particular work, and the desire for that work has been put in every heart.",
+  author: "Rumi"
 }
 ```
 
