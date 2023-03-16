@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1135,
-  quote: "A thing well said will be wit in all languages.",
-  author: "John Dryden"
+  id: 1067,
+  quote: "The final proof of greatness lies in being able to endure criticism without resentment.",
+  author: "Elbert Hubbard"
 }
 ```
 
