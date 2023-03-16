@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1061,
-  quote: "In three words I can sum up everything Ive learned about life: it goes on.",
-  author: "Robert Frost"
+  id: 440,
+  quote: "I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.",
+  author: "Og Mandino"
 }
 ```
 
