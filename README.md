@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 142,
-  quote: "Rainbows apologize for angry skies.",
-  author: "Sylvia Voirol"
+  id: 933,
+  quote: "Believe deep down in your heart that you're destined to do great things.",
+  author: "Joe Paterno"
 }
 ```
 
