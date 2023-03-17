@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1324,
-  quote: "Obstacles are those things you see when you take your eyes off the goal.",
-  author: "Hannah More"
+  id: 1486,
+  quote: "Don't settle for a relationship that won't let you be yourself.",
+  author: "Oprah Winfrey"
 }
 ```
 
