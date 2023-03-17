@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 66,
-  quote: "Real magic in relationships means an absence of judgement of others.",
-  author: "Wayne Dyer"
+  id: 1556,
+  quote: "To get the full value of joy you must have someone to divide it with.",
+  author: "Mark Twain"
 }
 ```
 
