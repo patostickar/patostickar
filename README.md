@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 718,
-  quote: "Happiness is not something ready made. It comes from your own actions.",
-  author: "Dalai Lama"
+  id: 37,
+  quote: "Learning is a treasure that will follow its owner everywhere",
+  author: "Chinese proverb"
 }
 ```
 
