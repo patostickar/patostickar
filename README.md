@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 198,
-  quote: "Science is organized knowledge. Wisdom is organized life.",
-  author: "Immanuel Kant"
+  id: 1306,
+  quote: "Spring is a time for rebirth and the fulfilment of new life.",
+  author: "Byron Pulsifer"
 }
 ```
 
