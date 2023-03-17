@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 460,
-  quote: "All our talents increase in the using, and the every faculty, both good and bad, strengthen by exercise.",
-  author: "Anne Bronte"
+  id: 1206,
+  quote: "Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.",
+  author: "Wolfgang Amadeus Mozart"
 }
 ```
 
