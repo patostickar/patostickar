@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 637,
-  quote: "Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.",
-  author: "Richard Bach"
+  id: 460,
+  quote: "All our talents increase in the using, and the every faculty, both good and bad, strengthen by exercise.",
+  author: "Anne Bronte"
 }
 ```
 
