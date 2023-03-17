@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 700,
-  quote: "All that we are is the result of what we have thought. The mind is everything. What we think we become.",
-  author: "Buddha"
+  id: 1633,
+  quote: "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.",
+  author: "Melody Beattie"
 }
 ```
 
