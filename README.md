@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1226,
-  quote: "It is the quality of our work which will please God, not the quantity.",
-  author: "Mahatma Gandhi"
+  id: 501,
+  quote: "A good teacher is like a candle it consumes itself to light the way for others.",
+  author: "null"
 }
 ```
 
