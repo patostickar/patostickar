@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1306,
-  quote: "Spring is a time for rebirth and the fulfilment of new life.",
-  author: "Byron Pulsifer"
+  id: 672,
+  quote: "He that respects himself is safe from others; he wears a coat of mail that none can pierce.",
+  author: "Henry Longfellow"
 }
 ```
 
