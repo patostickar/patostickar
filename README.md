@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 672,
-  quote: "He that respects himself is safe from others; he wears a coat of mail that none can pierce.",
-  author: "Henry Longfellow"
+  id: 400,
+  quote: "If you cannot do great things, do small things in a great way.",
+  author: "Napoleon Hill"
 }
 ```
 
