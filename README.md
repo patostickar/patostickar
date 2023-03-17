@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 554,
-  quote: "A friend is someone who understands your past, believes in your future, and accepts you just the way you are.",
-  author: "null"
+  id: 1562,
+  quote: "Spirituality can be severed from both vicious sectarianism and thoughtless banalities. Spirituality, I have come to see, is nothing less than the thoughtful love of life.",
+  author: "Robert C. Solomon"
 }
 ```
 
