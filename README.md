@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 479,
-  quote: "Every man takes the limits of his own field of vision for the limits of the world.",
-  author: "Arthur Schopenhauer"
+  id: 1014,
+  quote: "Opportunity often comes disguised in the form of misfortune, or temporary defeat.",
+  author: "Napoleon Hill"
 }
 ```
 
