@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 671,
-  quote: "We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world.",
-  author: "Buddha"
+  id: 370,
+  quote: "Before you put on a frown, make absolutely sure there are no smiles available.",
+  author: "Jim Beggs"
 }
 ```
 
