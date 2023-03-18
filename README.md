@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1079,
-  quote: "I know but one freedom and that is the freedom of the mind.",
-  author: "Antoine de Saint-Exupery"
+  id: 212,
+  quote: "A prudent question is one half of wisdom.",
+  author: "Francis Bacon"
 }
 ```
 
