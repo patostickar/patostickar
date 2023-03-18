@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 212,
-  quote: "A prudent question is one half of wisdom.",
-  author: "Francis Bacon"
+  id: 1382,
+  quote: "Things that were hard to bear are sweet to remember.",
+  author: "Seneca"
 }
 ```
 
