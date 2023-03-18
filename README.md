@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 585,
-  quote: "You can be what you want to be. You have the power within and we will help you always.",
-  author: "Byron Pulsifer"
+  id: 76,
+  quote: "Great talent finds happiness in execution.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
