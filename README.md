@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1508,
-  quote: "Never tell a young person that anything cannot be done. God may have been waiting centuries for someone ignorant enough of the impossible to do that very thing.",
-  author: "John Holmes"
+  id: 565,
+  quote: "There are two kinds of failures: those who thought and never did, and those who did and never thought.",
+  author: "Laurence J. Peter"
 }
 ```
 
