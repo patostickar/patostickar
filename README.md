@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 76,
-  quote: "Great talent finds happiness in execution.",
-  author: "Johann Wolfgang von Goethe"
+  id: 671,
+  quote: "We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world.",
+  author: "Buddha"
 }
 ```
 
