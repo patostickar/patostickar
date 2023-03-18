@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 157,
-  quote: "Without faith, nothing is possible. With it, nothing is impossible.",
-  author: "Mary Bethune"
+  id: 446,
+  quote: "It is better to take many small steps in the right direction than to make a great leap forward only to stumble backward.",
+  author: "null"
 }
 ```
 
