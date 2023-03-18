@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 565,
-  quote: "There are two kinds of failures: those who thought and never did, and those who did and never thought.",
-  author: "Laurence J. Peter"
+  id: 339,
+  quote: "Your worst enemy cannot harm you as much as your own unguarded thoughts.",
+  author: "Buddha"
 }
 ```
 
