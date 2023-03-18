@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 339,
-  quote: "Your worst enemy cannot harm you as much as your own unguarded thoughts.",
-  author: "Buddha"
+  id: 1111,
+  quote: "Each time we face a fear, we gain strength, courage, and confidence in the doing.",
+  author: "null"
 }
 ```
 
