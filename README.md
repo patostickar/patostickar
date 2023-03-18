@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1382,
-  quote: "Things that were hard to bear are sweet to remember.",
-  author: "Seneca"
+  id: 334,
+  quote: "Better to have loved and lost, than to have never loved at all.",
+  author: "St. Augustine"
 }
 ```
 
