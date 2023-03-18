@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1110,
-  quote: "The future is completely open, and we are writing it moment to moment.",
-  author: "Pema Chodron"
+  id: 1079,
+  quote: "I know but one freedom and that is the freedom of the mind.",
+  author: "Antoine de Saint-Exupery"
 }
 ```
 
