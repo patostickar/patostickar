@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 310,
-  quote: "Action may not always bring happiness; but there is no happiness without action.",
-  author: "Benjamin Disraeli"
+  id: 1508,
+  quote: "Never tell a young person that anything cannot be done. God may have been waiting centuries for someone ignorant enough of the impossible to do that very thing.",
+  author: "John Holmes"
 }
 ```
 
