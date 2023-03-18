@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 446,
-  quote: "It is better to take many small steps in the right direction than to make a great leap forward only to stumble backward.",
-  author: "null"
+  id: 585,
+  quote: "You can be what you want to be. You have the power within and we will help you always.",
+  author: "Byron Pulsifer"
 }
 ```
 
