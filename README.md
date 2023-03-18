@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 164,
-  quote: "Life is the flower for which love is the honey.",
-  author: "Victor Hugo"
+  id: 1110,
+  quote: "The future is completely open, and we are writing it moment to moment.",
+  author: "Pema Chodron"
 }
 ```
 
