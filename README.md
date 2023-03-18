@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 683,
-  quote: "All difficult things have their origin in that which is easy, and great things in that which is small.",
-  author: "Lao Tzu"
+  id: 164,
+  quote: "Life is the flower for which love is the honey.",
+  author: "Victor Hugo"
 }
 ```
 
