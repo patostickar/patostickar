@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 651,
-  quote: "If you seek truth you will not seek victory by dishonourable means, and if you find truth you will become invincible.",
-  author: "Epictetus"
+  id: 329,
+  quote: "It has never been my object to record my dreams, just to realize them.",
+  author: "Man Ray"
 }
 ```
 
