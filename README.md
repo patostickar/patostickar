@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 850,
-  quote: "To be thoughtful and kind only takes a few seconds compared to the timeless hurt caused by one rude gesture.",
-  author: "Byron Pulsifer"
+  id: 651,
+  quote: "If you seek truth you will not seek victory by dishonourable means, and if you find truth you will become invincible.",
+  author: "Epictetus"
 }
 ```
 
