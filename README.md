@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 260,
-  quote: "All seasons are beautiful for the person who carries happiness within.",
-  author: "Horace Friess"
+  id: 985,
+  quote: "The world does not happen to you it happens from you.",
+  author: "null"
 }
 ```
 
