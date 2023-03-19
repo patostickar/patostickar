@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 93,
-  quote: "A goal is a dream with a deadline.",
-  author: "Napoleon Hill"
+  id: 565,
+  quote: "There are two kinds of failures: those who thought and never did, and those who did and never thought.",
+  author: "Laurence J. Peter"
 }
 ```
 
