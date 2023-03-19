@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 914,
-  quote: "You must train your intuition you must trust the small voice inside you which tells you exactly what to say, what to decide.",
-  author: "Ingrid Bergman"
+  id: 642,
+  quote: "Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!",
+  author: "Richard Bach"
 }
 ```
 
