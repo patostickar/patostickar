@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 642,
-  quote: "Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!",
-  author: "Richard Bach"
+  id: 663,
+  quote: "The poor man is not he who is without a cent, but he who is without a dream.",
+  author: "Harry Kemp"
 }
 ```
 
