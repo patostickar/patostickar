@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 985,
-  quote: "The world does not happen to you it happens from you.",
-  author: "null"
+  id: 1044,
+  quote: "Worry often gives a small thing a big shadow.",
+  author: "Swedish proverb"
 }
 ```
 
