@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 663,
-  quote: "The poor man is not he who is without a cent, but he who is without a dream.",
-  author: "Harry Kemp"
+  id: 1570,
+  quote: "To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.",
+  author: "Plutarch"
 }
 ```
 
