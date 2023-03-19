@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1570,
-  quote: "To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.",
-  author: "Plutarch"
+  id: 888,
+  quote: "Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.",
+  author: "Winston Churchill"
 }
 ```
 
