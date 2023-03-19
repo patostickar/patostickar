@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1622,
-  quote: "Music in the soul can be heard by the universe.",
-  author: "Lao Tzu"
+  id: 914,
+  quote: "You must train your intuition you must trust the small voice inside you which tells you exactly what to say, what to decide.",
+  author: "Ingrid Bergman"
 }
 ```
 
