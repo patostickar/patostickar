@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 370,
-  quote: "Before you put on a frown, make absolutely sure there are no smiles available.",
-  author: "Jim Beggs"
+  id: 303,
+  quote: "The worst bankrupt in the world is the person who has lost his enthusiasm.",
+  author: "H. W. Arnold"
 }
 ```
 
