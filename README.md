@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 263,
-  quote: "Absence makes the heart grow fonder.",
-  author: "Haynes Bayly"
+  id: 260,
+  quote: "All seasons are beautiful for the person who carries happiness within.",
+  author: "Horace Friess"
 }
 ```
 
