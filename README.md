@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1044,
-  quote: "Worry often gives a small thing a big shadow.",
-  author: "Swedish proverb"
+  id: 635,
+  quote: "Let your hook always be cast; in the pool where you least expect it, there will be a fish.",
+  author: "Ovid"
 }
 ```
 
