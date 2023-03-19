@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 565,
-  quote: "There are two kinds of failures: those who thought and never did, and those who did and never thought.",
-  author: "Laurence J. Peter"
+  id: 310,
+  quote: "Action may not always bring happiness; but there is no happiness without action.",
+  author: "Benjamin Disraeli"
 }
 ```
 
