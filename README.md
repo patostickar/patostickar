@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 303,
-  quote: "The worst bankrupt in the world is the person who has lost his enthusiasm.",
-  author: "H. W. Arnold"
+  id: 1340,
+  quote: "We choose our joys and sorrows long before we experience them.",
+  author: "Kahlil Gibran"
 }
 ```
 
