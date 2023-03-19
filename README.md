@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1340,
-  quote: "We choose our joys and sorrows long before we experience them.",
-  author: "Kahlil Gibran"
+  id: 1207,
+  quote: "The happy and efficient people in this world are those who accept trouble as a normal detail of human life and resolve to capitalize it when it comes along.",
+  author: "H. Bertram Lewis"
 }
 ```
 
