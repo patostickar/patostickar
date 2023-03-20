@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 295,
-  quote: "Successful people ask better questions, and as a result, they get better answers.",
-  author: "Tony Robbins"
+  id: 1568,
+  quote: "It is impossible for a man to learn what he thinks he already knows.",
+  author: "Epictetus"
 }
 ```
 
