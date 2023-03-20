@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 824,
-  quote: "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
-  author: "Aristotle"
+  id: 295,
+  quote: "Successful people ask better questions, and as a result, they get better answers.",
+  author: "Tony Robbins"
 }
 ```
 
