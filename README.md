@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 575,
-  quote: "The shoe that fits one person pinches another; there is no recipe for living that suits all cases.",
-  author: "Carl Jung"
+  id: 1491,
+  quote: "Knowledge has three degrees opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.",
+  author: "Plotinus"
 }
 ```
 
