@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 275,
-  quote: "Each misfortune you encounter will carry in it the seed of tomorrows good luck.",
-  author: "Og Mandino"
+  id: 698,
+  quote: "Don't turn away from possible futures before you're certain you don't have anything to learn from them.",
+  author: "Richard Bach"
 }
 ```
 
