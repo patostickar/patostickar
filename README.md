@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 956,
-  quote: "Be slow of tongue and quick of eye.",
-  author: "Cervantes"
+  id: 379,
+  quote: "You will not be punished for your anger, you will be punished by your anger.",
+  author: "Buddha"
 }
 ```
 
