@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1408,
-  quote: "Learn wisdom from the ways of a seedling. A seedling which is never hardened off through stressful situations will never become a strong productive plant.",
-  author: "Stephen Sigmund"
+  id: 545,
+  quote: "Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.",
+  author: "Napoleon Hill"
 }
 ```
 
