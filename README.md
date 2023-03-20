@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 988,
-  quote: "Learning is finding out what you already know.",
-  author: "Richard Bach"
+  id: 575,
+  quote: "The shoe that fits one person pinches another; there is no recipe for living that suits all cases.",
+  author: "Carl Jung"
 }
 ```
 
