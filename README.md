@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 200,
-  quote: "Strong beliefs win strong men, and then make them stronger.",
-  author: "Richard Bach"
+  id: 1536,
+  quote: "Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.",
+  author: "Voltaire"
 }
 ```
 
