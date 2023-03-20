@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 379,
-  quote: "You will not be punished for your anger, you will be punished by your anger.",
-  author: "Buddha"
+  id: 796,
+  quote: "A life spent making mistakes is not only more honourable, but more useful than a life spent doing nothing.",
+  author: "George Bernard Shaw"
 }
 ```
 
