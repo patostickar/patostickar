@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1467,
-  quote: "I am glad that I paid so little attention to good advice; had I abided by it I might have been saved from some of my most valuable mistakes.",
-  author: "Edna Millay"
+  id: 487,
+  quote: "People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
