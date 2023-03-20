@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 487,
-  quote: "People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.",
-  author: "Johann Wolfgang von Goethe"
+  id: 380,
+  quote: "Don't judge each day by the harvest you reap but by the seeds you plant.",
+  author: "Robert Stevenson"
 }
 ```
 
