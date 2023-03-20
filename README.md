@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 796,
-  quote: "A life spent making mistakes is not only more honourable, but more useful than a life spent doing nothing.",
-  author: "George Bernard Shaw"
+  id: 1408,
+  quote: "Learn wisdom from the ways of a seedling. A seedling which is never hardened off through stressful situations will never become a strong productive plant.",
+  author: "Stephen Sigmund"
 }
 ```
 
