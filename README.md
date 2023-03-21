@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1043,
-  quote: "Life is what you make of it. Always has been, always will be.",
-  author: "Grandma Moses"
+  id: 1403,
+  quote: "Gratitude is not only the greatest of virtues, but the paren't of all the others.",
+  author: "Cicero"
 }
 ```
 
