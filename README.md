@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1150,
-  quote: "Take it easy, but take it.",
-  author: "Woody Guthrie"
+  id: 1167,
+  quote: "We can only be said to be alive in those moments when our hearts are conscious of our treasures.",
+  author: "Thornton Wilder"
 }
 ```
 
