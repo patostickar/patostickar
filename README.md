@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 700,
-  quote: "All that we are is the result of what we have thought. The mind is everything. What we think we become.",
-  author: "Buddha"
+  id: 639,
+  quote: "When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.",
+  author: "Pema Chodron"
 }
 ```
 
