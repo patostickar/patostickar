@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1203,
-  quote: "When there is no enemy within, the enemies outside cannot hurt you.",
-  author: "African proverb"
+  id: 1411,
+  quote: "Be a good listener. Your ears will never get you in trouble.",
+  author: "Frank Tyger"
 }
 ```
 
