@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 392,
-  quote: "If you would take, you must first give, this is the beginning of intelligence.",
-  author: "Lao Tzu"
+  id: 1027,
+  quote: "No yesterdays are ever wasted for those who give themselves to today.",
+  author: "Brendan Francis"
 }
 ```
 
