@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1027,
-  quote: "No yesterdays are ever wasted for those who give themselves to today.",
-  author: "Brendan Francis"
+  id: 279,
+  quote: "Letting go is not the end of the world; it is the beginning of a new life.",
+  author: "null"
 }
 ```
 
