@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 370,
-  quote: "Before you put on a frown, make absolutely sure there are no smiles available.",
-  author: "Jim Beggs"
+  id: 1591,
+  quote: "The future is an opaque mirror. Anyone who tries to look into it sees nothing but the dim outlines of an old and worried face.",
+  author: "Jim Bishop"
 }
 ```
 
