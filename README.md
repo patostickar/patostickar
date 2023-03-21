@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1403,
-  quote: "Gratitude is not only the greatest of virtues, but the paren't of all the others.",
-  author: "Cicero"
+  id: 142,
+  quote: "Rainbows apologize for angry skies.",
+  author: "Sylvia Voirol"
 }
 ```
 
