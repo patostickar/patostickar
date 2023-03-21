@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 279,
-  quote: "Letting go is not the end of the world; it is the beginning of a new life.",
-  author: "null"
+  id: 1203,
+  quote: "When there is no enemy within, the enemies outside cannot hurt you.",
+  author: "African proverb"
 }
 ```
 
