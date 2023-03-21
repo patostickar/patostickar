@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1050,
-  quote: "Whoso loves, believes the impossible.",
-  author: "Elizabeth Browning"
+  id: 1043,
+  quote: "Life is what you make of it. Always has been, always will be.",
+  author: "Grandma Moses"
 }
 ```
 
