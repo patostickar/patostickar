@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1591,
-  quote: "The future is an opaque mirror. Anyone who tries to look into it sees nothing but the dim outlines of an old and worried face.",
-  author: "Jim Bishop"
+  id: 1542,
+  quote: "You are never given a wish without also being given the power to make it come true. You may have to work for it, however.",
+  author: "Richard Bach"
 }
 ```
 
