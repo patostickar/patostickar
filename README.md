@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 142,
-  quote: "Rainbows apologize for angry skies.",
-  author: "Sylvia Voirol"
+  id: 315,
+  quote: "I have done my best: that is about all the philosophy of living one needs.",
+  author: "Lin-yutang"
 }
 ```
 
