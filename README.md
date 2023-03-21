@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 571,
-  quote: "He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.",
-  author: "Pablo Picasso"
+  id: 1191,
+  quote: "What separates the winners from the losers is how a person reacts to each new twist of fate.",
+  author: "Donald Trump"
 }
 ```
 
