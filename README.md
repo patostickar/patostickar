@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1542,
-  quote: "You are never given a wish without also being given the power to make it come true. You may have to work for it, however.",
-  author: "Richard Bach"
+  id: 700,
+  quote: "All that we are is the result of what we have thought. The mind is everything. What we think we become.",
+  author: "Buddha"
 }
 ```
 
