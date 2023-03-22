@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 960,
-  quote: "To dare is to lose ones footing momentarily. To not dare is to lose oneself.",
-  author: "Soren Kierkegaard"
+  id: 1598,
+  quote: "An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.",
+  author: "Thomas Fuller"
 }
 ```
 
