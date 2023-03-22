@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 170,
-  quote: "Today is the tomorrow you worried about yesterday.",
-  author: "null"
+  id: 1347,
+  quote: "Be here now. Be someplace else later. Is that so complicated?",
+  author: "David Bader"
 }
 ```
 
