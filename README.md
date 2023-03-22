@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1356,
-  quote: "The less effort, the faster and more powerful you will be.",
-  author: "Bruce Lee"
+  id: 1217,
+  quote: "Beauty is not in the face; beauty is a light in the heart.",
+  author: "Kahlil Gibran"
 }
 ```
 
