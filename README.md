@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 409,
-  quote: "By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.",
-  author: "Dalai Lama"
+  id: 357,
+  quote: "You have to do your own growing no matter how tall your grandfather was.",
+  author: "Abraham Lincoln"
 }
 ```
 
