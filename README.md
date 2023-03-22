@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1014,
-  quote: "Opportunity often comes disguised in the form of misfortune, or temporary defeat.",
-  author: "Napoleon Hill"
+  id: 213,
+  quote: "The path to success is to take massive, determined action.",
+  author: "Tony Robbins"
 }
 ```
 
