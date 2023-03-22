@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1347,
-  quote: "Be here now. Be someplace else later. Is that so complicated?",
-  author: "David Bader"
+  id: 686,
+  quote: "Responsibility is not inherited, it is a choice that everyone needs to make at some point in their life.",
+  author: "Byron Pulsifer"
 }
 ```
 
