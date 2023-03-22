@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1309,
-  quote: "The art of progress is to preserve order amid change, and to preserve change amid order.",
-  author: "Alfred Whitehead"
+  id: 144,
+  quote: "Time is the most valuable thing a man can spend.",
+  author: "Theophrastus"
 }
 ```
 
