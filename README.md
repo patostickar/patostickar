@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 70,
-  quote: "I believe that every person is born with talent.",
-  author: "Maya Angelou"
+  id: 1282,
+  quote: "Be gentle first with yourself if you wish to be gentle with others.",
+  author: "Lama Yeshe"
 }
 ```
 
