@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 266,
-  quote: "Love doesn't make the world go round, love is what makes the ride worthwhile.",
-  author: "Elizabeth Browning"
+  id: 107,
+  quote: "If you cannot be silent be brilliant and thoughtful.",
+  author: "Byron Pulsifer"
 }
 ```
 
