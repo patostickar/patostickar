@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 482,
-  quote: "Genuine love should first be directed at oneself if we do not love ourselves, how can we love others?",
-  author: "Dalai Lama"
+  id: 1356,
+  quote: "The less effort, the faster and more powerful you will be.",
+  author: "Bruce Lee"
 }
 ```
 
