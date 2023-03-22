@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 350,
-  quote: "When your desires are strong enough you will appear to possess superhuman powers to achieve.",
-  author: "Napoleon Hill"
+  id: 409,
+  quote: "By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.",
+  author: "Dalai Lama"
 }
 ```
 
