@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 678,
-  quote: "With realization of ones own potential and self-confidence in ones ability, one can build a better world.",
-  author: "Dalai Lama"
+  id: 960,
+  quote: "To dare is to lose ones footing momentarily. To not dare is to lose oneself.",
+  author: "Soren Kierkegaard"
 }
 ```
 
