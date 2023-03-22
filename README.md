@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 357,
-  quote: "You have to do your own growing no matter how tall your grandfather was.",
-  author: "Abraham Lincoln"
+  id: 482,
+  quote: "Genuine love should first be directed at oneself if we do not love ourselves, how can we love others?",
+  author: "Dalai Lama"
 }
 ```
 
