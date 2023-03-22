@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1282,
-  quote: "Be gentle first with yourself if you wish to be gentle with others.",
-  author: "Lama Yeshe"
+  id: 1405,
+  quote: "Respect is not something that you can ask for, buy or borrow. Respect is what you earn from each person no matter their background or status.",
+  author: "Byron Pulsifer"
 }
 ```
 
