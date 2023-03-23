@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 11,
-  quote: "What you give is what you get.",
-  author: "Byron Pulsifer"
+  id: 712,
+  quote: "You block your dream when you allow your fear to grow bigger than your faith.",
+  author: "Mary Morrissey"
 }
 ```
 
