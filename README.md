@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 816,
-  quote: "It is not the mistake that has the most power, instead, it is learning from the mistake to advance your own attributes.",
-  author: "Byron Roberts"
+  id: 164,
+  quote: "Life is the flower for which love is the honey.",
+  author: "Victor Hugo"
 }
 ```
 
