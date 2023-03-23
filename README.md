@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 320,
-  quote: "The secret to a rich life is to have more beginnings than endings.",
-  author: "Dave Weinbaum"
+  id: 1278,
+  quote: "Thats the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.",
+  author: "Lisa Alther"
 }
 ```
 
