@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 227,
-  quote: "What you see depends on what you're looking for.",
-  author: "null"
+  id: 1221,
+  quote: "Trust only movement. Life happens at the level of events, not of words. Trust movement.",
+  author: "Alfred Adler"
 }
 ```
 
