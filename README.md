@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 170,
-  quote: "Today is the tomorrow you worried about yesterday.",
-  author: "null"
+  id: 320,
+  quote: "The secret to a rich life is to have more beginnings than endings.",
+  author: "Dave Weinbaum"
 }
 ```
 
