@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 815,
-  quote: "Happiness is a perfume you cannot pour on others without getting a few drops on yourself.",
-  author: "Ralph Waldo Emerson"
+  id: 1561,
+  quote: "The winner ain't the one with the fastest car it's the one who refuses to lose.",
+  author: "Dale Earnhardt"
 }
 ```
 
