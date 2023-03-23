@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 316,
-  quote: "Through perseverance many people win success out of what seemed destined to be certain failure.",
-  author: "Benjamin Disraeli"
+  id: 1028,
+  quote: "There are no failures just experiences and your reactions to them.",
+  author: "Tom Krause"
 }
 ```
 
