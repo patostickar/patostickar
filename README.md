@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1204,
-  quote: "He who controls others may be powerful, but he who has mastered himself is mightier still.",
-  author: "Lao Tzu"
+  id: 1502,
+  quote: "A man's dreams are an index to his greatness.",
+  author: "Zadok Rabinowitz"
 }
 ```
 
