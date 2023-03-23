@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 712,
-  quote: "You block your dream when you allow your fear to grow bigger than your faith.",
-  author: "Mary Morrissey"
+  id: 1459,
+  quote: "What is a weed? A plant whose virtues have not yet been discovered.",
+  author: "Ralph Emerson"
 }
 ```
 
