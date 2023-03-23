@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1198,
-  quote: "When I let go of what I am, I become what I might be.",
+  id: 1204,
+  quote: "He who controls others may be powerful, but he who has mastered himself is mightier still.",
   author: "Lao Tzu"
 }
 ```
