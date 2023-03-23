@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1278,
-  quote: "Thats the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.",
-  author: "Lisa Alther"
+  id: 475,
+  quote: "Money was never a big motivation for me, except as a way to keep score. The real excitement is playing the game.",
+  author: "Donald Trump"
 }
 ```
 
