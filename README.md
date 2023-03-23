@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1459,
-  quote: "What is a weed? A plant whose virtues have not yet been discovered.",
-  author: "Ralph Emerson"
+  id: 816,
+  quote: "It is not the mistake that has the most power, instead, it is learning from the mistake to advance your own attributes.",
+  author: "Byron Roberts"
 }
 ```
 
