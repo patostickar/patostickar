@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 30,
-  quote: "Bite off more than you can chew, then chew it.",
-  author: "Ella Williams"
+  id: 1470,
+  quote: "The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.",
+  author: "Cecil B. DeMille"
 }
 ```
 
