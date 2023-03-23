@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 164,
-  quote: "Life is the flower for which love is the honey.",
-  author: "Victor Hugo"
+  id: 359,
+  quote: "It is fatal to enter any war without the will to win it.",
+  author: "General Douglas MacArthur"
 }
 ```
 
