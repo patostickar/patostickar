@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 275,
-  quote: "Each misfortune you encounter will carry in it the seed of tomorrows good luck.",
-  author: "Og Mandino"
+  id: 79,
+  quote: "The two most powerful warriors are patience and time.",
+  author: "Leo Tolstoy"
 }
 ```
 
