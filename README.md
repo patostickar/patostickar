@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 13,
-  quote: "Life is change. Growth is optional. Choose wisely.",
-  author: "Karen Clark"
+  id: 1271,
+  quote: "What do we live for, if it is not to make life less difficult for each other?",
+  author: "George Eliot"
 }
 ```
 
