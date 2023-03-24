@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1246,
-  quote: "Waste no more time arguing about what a good man should be. Be one.",
-  author: "Marcus Aurelius"
+  id: 522,
+  quote: "Silences make the real conversations between friends. Not the saying but the never needing to say is what counts.",
+  author: "Margaret Runbeck"
 }
 ```
 
