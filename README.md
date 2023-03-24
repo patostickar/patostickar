@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 79,
-  quote: "The two most powerful warriors are patience and time.",
-  author: "Leo Tolstoy"
+  id: 632,
+  quote: "You can adopt the attitude there is nothing you can do, or you can see the challenge as your call to action.",
+  author: "Catherine Pulsifer"
 }
 ```
 
