@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1304,
-  quote: "Our passion is our strength.",
-  author: "Billie Armstrong"
+  id: 214,
+  quote: "I allow my intuition to lead my path.",
+  author: "Manuel Puig"
 }
 ```
 
