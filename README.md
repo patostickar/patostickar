@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 822,
-  quote: "Let us always meet each other with smile, for the smile is the beginning of love.",
-  author: "Mother Teresa"
+  id: 710,
+  quote: "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.",
+  author: "Lao Tzu"
 }
 ```
 
