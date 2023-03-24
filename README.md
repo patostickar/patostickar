@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 48,
-  quote: "A goal without a plan is just a wish.",
-  author: "Larry Elder"
+  id: 1165,
+  quote: "It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.",
+  author: "Dalai Lama"
 }
 ```
 
