@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 78,
-  quote: "Courage is going from failure to failure without losing enthusiasm.",
-  author: "Winston Churchill"
+  id: 48,
+  quote: "A goal without a plan is just a wish.",
+  author: "Larry Elder"
 }
 ```
 
