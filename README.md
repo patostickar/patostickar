@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1327,
-  quote: "We can change our lives. We can do, have, and be exactly what we wish.",
-  author: "Tony Robbins"
+  id: 1246,
+  quote: "Waste no more time arguing about what a good man should be. Be one.",
+  author: "Marcus Aurelius"
 }
 ```
 
