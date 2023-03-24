@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 450,
-  quote: "Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.",
-  author: "Alan Cohen"
+  id: 822,
+  quote: "Let us always meet each other with smile, for the smile is the beginning of love.",
+  author: "Mother Teresa"
 }
 ```
 
