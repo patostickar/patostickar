@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 150,
-  quote: "Each day provides its own gifts.",
-  author: "Marcus Aurelius"
+  id: 994,
+  quote: "Until you make peace with who you are, you'll never be content with what you have.",
+  author: "Doris Mortman"
 }
 ```
 
