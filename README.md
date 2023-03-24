@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1271,
-  quote: "What do we live for, if it is not to make life less difficult for each other?",
-  author: "George Eliot"
+  id: 279,
+  quote: "Letting go is not the end of the world; it is the beginning of a new life.",
+  author: "null"
 }
 ```
 
