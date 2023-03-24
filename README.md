@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 187,
-  quote: "I destroy my enemies when I make them my friends.",
-  author: "Abraham Lincoln"
+  id: 13,
+  quote: "Life is change. Growth is optional. Choose wisely.",
+  author: "Karen Clark"
 }
 ```
 
