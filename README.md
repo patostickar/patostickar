@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1595,
-  quote: "I have never been hurt by anything I didn't say.",
-  author: "Calvin Coolidge"
+  id: 340,
+  quote: "I always wanted to be somebody, but I should have been more specific.",
+  author: "Lily Tomlin"
 }
 ```
 
