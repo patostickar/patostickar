@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1475,
-  quote: "For success, attitude is equally as important as ability.",
-  author: "Harry Banks"
+  id: 129,
+  quote: "From little acorns mighty oaks do grow.",
+  author: "American proverb"
 }
 ```
 
