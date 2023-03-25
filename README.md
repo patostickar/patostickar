@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1570,
-  quote: "To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.",
-  author: "Plutarch"
+  id: 1595,
+  quote: "I have never been hurt by anything I didn't say.",
+  author: "Calvin Coolidge"
 }
 ```
 
