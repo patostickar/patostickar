@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1541,
-  quote: "We cannot hold a torch to light another's path without brightening our own.",
-  author: "Ben Sweetland"
+  id: 1475,
+  quote: "For success, attitude is equally as important as ability.",
+  author: "Harry Banks"
 }
 ```
 
