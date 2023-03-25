@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1476,
-  quote: "If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception, it is a prevailing attitude.",
-  author: "Colin Powell"
+  id: 919,
+  quote: "Adversity isn't set against you to fail; adversity is a way to build your character so that you can succeed over and over again through perseverance.",
+  author: "Byron Pulsifer"
 }
 ```
 
