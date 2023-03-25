@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 867,
-  quote: "I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.",
-  author: "Michel de Montaigne"
+  id: 1247,
+  quote: "Happiness often sneaks in through a door you didn't know you left open.",
+  author: "John Barrymore"
 }
 ```
 
