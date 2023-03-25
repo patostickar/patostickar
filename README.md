@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 748,
-  quote: "Your big opportunity may be right where you are now.",
-  author: "Napoleon Hill"
+  id: 963,
+  quote: "Real success is finding your lifework in the work that you love.",
+  author: "David McCullough"
 }
 ```
 
