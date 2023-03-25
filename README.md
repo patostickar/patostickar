@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 401,
-  quote: "If you want your life to be more rewarding, you have to change the way you think.",
-  author: "Oprah Winfrey"
+  id: 367,
+  quote: "Most people are about as happy as they make up their minds to be",
+  author: "Abraham Lincoln"
 }
 ```
 
