@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1008,
-  quote: "If you do not change direction, you may end up where you are heading.",
-  author: "Lao Tzu"
+  id: 45,
+  quote: "Be kind whenever possible. It is always possible.",
+  author: "Dalai Lama"
 }
 ```
 
