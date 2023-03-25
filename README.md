@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 632,
-  quote: "You can adopt the attitude there is nothing you can do, or you can see the challenge as your call to action.",
-  author: "Catherine Pulsifer"
+  id: 401,
+  quote: "If you want your life to be more rewarding, you have to change the way you think.",
+  author: "Oprah Winfrey"
 }
 ```
 
