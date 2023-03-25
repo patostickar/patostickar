@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 377,
-  quote: "If you change the way you look at things, the things you look at change.",
-  author: "Wayne Dyer"
+  id: 49,
+  quote: "To succeed, we must first believe that we can.",
+  author: "Michael Korda"
 }
 ```
 
