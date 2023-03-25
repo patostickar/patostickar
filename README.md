@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 340,
-  quote: "I always wanted to be somebody, but I should have been more specific.",
-  author: "Lily Tomlin"
+  id: 1272,
+  quote: "When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.",
+  author: "Tenzin Gyatso"
 }
 ```
 
