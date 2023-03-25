@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 919,
-  quote: "Adversity isn't set against you to fail; adversity is a way to build your character so that you can succeed over and over again through perseverance.",
-  author: "Byron Pulsifer"
+  id: 1008,
+  quote: "If you do not change direction, you may end up where you are heading.",
+  author: "Lao Tzu"
 }
 ```
 
