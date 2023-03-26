@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 460,
-  quote: "All our talents increase in the using, and the every faculty, both good and bad, strengthen by exercise.",
-  author: "Anne Bronte"
+  id: 829,
+  quote: "I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.",
+  author: "Herbert Swope"
 }
 ```
 
