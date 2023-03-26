@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1631,
-  quote: "Our ability to achieve happiness and success depends on the strength of our wings.",
-  author: "Catherine Pulsifer"
+  id: 613,
+  quote: "Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.",
+  author: "Ralph Emerson"
 }
 ```
 
