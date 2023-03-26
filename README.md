@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 674,
-  quote: "What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.",
-  author: "Daisaku Ikeda"
+  id: 82,
+  quote: "A short saying often contains much wisdom.",
+  author: "Sophocles"
 }
 ```
 
