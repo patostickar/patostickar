@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 969,
-  quote: "Happiness does not come from having much, but from being attached to little.",
-  author: "Cheng Yen"
+  id: 1641,
+  quote: "I will prepare and some day my chance will come.",
+  author: "Abraham Lincoln"
 }
 ```
 
