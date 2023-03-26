@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1050,
-  quote: "Whoso loves, believes the impossible.",
-  author: "Elizabeth Browning"
+  id: 1228,
+  quote: "First say to yourself what you would be; and then do what you have to do.",
+  author: "Epictetus"
 }
 ```
 
