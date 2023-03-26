@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 840,
-  quote: "When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.",
-  author: "Wayne Dyer"
+  id: 998,
+  quote: "Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.",
+  author: "Arthur Conan Doyle"
 }
 ```
 
