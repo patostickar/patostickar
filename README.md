@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 185,
-  quote: "The best way out is always through.",
-  author: "Robert Frost"
+  id: 672,
+  quote: "He that respects himself is safe from others; he wears a coat of mail that none can pierce.",
+  author: "Henry Longfellow"
 }
 ```
 
