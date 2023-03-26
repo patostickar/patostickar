@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1324,
-  quote: "Obstacles are those things you see when you take your eyes off the goal.",
-  author: "Hannah More"
+  id: 840,
+  quote: "When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.",
+  author: "Wayne Dyer"
 }
 ```
 
