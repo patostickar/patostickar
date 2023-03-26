@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 613,
-  quote: "Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.",
-  author: "Ralph Emerson"
+  id: 446,
+  quote: "It is better to take many small steps in the right direction than to make a great leap forward only to stumble backward.",
+  author: "null"
 }
 ```
 
