@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 82,
-  quote: "A short saying often contains much wisdom.",
-  author: "Sophocles"
+  id: 715,
+  quote: "If one is lucky, a solitary fantasy can totally transform one million realities.",
+  author: "Maya Angelou"
 }
 ```
 
