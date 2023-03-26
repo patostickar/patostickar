@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1641,
-  quote: "I will prepare and some day my chance will come.",
-  author: "Abraham Lincoln"
+  id: 460,
+  quote: "All our talents increase in the using, and the every faculty, both good and bad, strengthen by exercise.",
+  author: "Anne Bronte"
 }
 ```
 
