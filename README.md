@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1032,
-  quote: "We shall never know all the good that a simple smile can do.",
-  author: "Mother Teresa"
+  id: 969,
+  quote: "Happiness does not come from having much, but from being attached to little.",
+  author: "Cheng Yen"
 }
 ```
 
