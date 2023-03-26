@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 672,
-  quote: "He that respects himself is safe from others; he wears a coat of mail that none can pierce.",
-  author: "Henry Longfellow"
+  id: 1631,
+  quote: "Our ability to achieve happiness and success depends on the strength of our wings.",
+  author: "Catherine Pulsifer"
 }
 ```
 
