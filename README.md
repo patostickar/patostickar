@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 954,
-  quote: "Take heed: you do not find what you do not seek.",
-  author: "English proverb"
+  id: 1079,
+  quote: "I know but one freedom and that is the freedom of the mind.",
+  author: "Antoine de Saint-Exupery"
 }
 ```
 
