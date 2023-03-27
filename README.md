@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 953,
-  quote: "To be tested is good. The challenged life may be the best therapist.",
-  author: "Gail Sheehy"
+  id: 1324,
+  quote: "Obstacles are those things you see when you take your eyes off the goal.",
+  author: "Hannah More"
 }
 ```
 
