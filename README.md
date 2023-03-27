@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 130,
-  quote: "You can't stop the waves, but you can learn to surf.",
-  author: "Jon Kabat-Zinn"
+  id: 1188,
+  quote: "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves.",
+  author: "Buddha"
 }
 ```
 
