@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 967,
-  quote: "As you think, so shall you become.",
-  author: "Bruce Lee"
+  id: 954,
+  quote: "Take heed: you do not find what you do not seek.",
+  author: "English proverb"
 }
 ```
 
