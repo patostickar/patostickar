@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1057,
-  quote: "He who knows himself is enlightened.",
-  author: "Lao Tzu"
+  id: 1127,
+  quote: "The time you think you're missing, misses you too.",
+  author: "Ymber Delecto"
 }
 ```
 
