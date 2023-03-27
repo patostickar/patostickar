@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 503,
-  quote: "Life is not measured by the breaths we take, but by the moments that take our breath.",
-  author: "null"
+  id: 746,
+  quote: "Action will remove the doubts that theory cannot solve.",
+  author: "Tehyi Hsieh"
 }
 ```
 
