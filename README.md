@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 404,
-  quote: "The free man is he who does not fear to go to the end of his thought.",
-  author: "Leon Blum"
+  id: 1536,
+  quote: "Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.",
+  author: "Voltaire"
 }
 ```
 
