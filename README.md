@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 746,
-  quote: "Action will remove the doubts that theory cannot solve.",
-  author: "Tehyi Hsieh"
+  id: 1031,
+  quote: "Positive thinking will let you do everything better than negative thinking will.",
+  author: "Zig Ziglar"
 }
 ```
 
