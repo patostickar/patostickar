@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1142,
-  quote: "The world has the habit of making room for the man whose actions show that he knows where he is going.",
-  author: "Napoleon Hill"
+  id: 1398,
+  quote: "Our greatness lies not so much in being able to remake the world as being able to remake ourselves.",
+  author: "Mahatma Gandhi"
 }
 ```
 
