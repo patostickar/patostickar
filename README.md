@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 554,
-  quote: "A friend is someone who understands your past, believes in your future, and accepts you just the way you are.",
-  author: "null"
+  id: 1142,
+  quote: "The world has the habit of making room for the man whose actions show that he knows where he is going.",
+  author: "Napoleon Hill"
 }
 ```
 
