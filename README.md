@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 829,
-  quote: "I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.",
-  author: "Herbert Swope"
+  id: 967,
+  quote: "As you think, so shall you become.",
+  author: "Bruce Lee"
 }
 ```
 
