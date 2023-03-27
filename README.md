@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 484,
-  quote: "Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.",
-  author: "Bruce Lee"
+  id: 130,
+  quote: "You can't stop the waves, but you can learn to surf.",
+  author: "Jon Kabat-Zinn"
 }
 ```
 
