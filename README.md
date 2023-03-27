@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 879,
-  quote: "Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.",
-  author: "Albert Einstein"
+  id: 382,
+  quote: "Never apologize for showing feelings. When you do so, you apologize for the truth.",
+  author: "Benjamin Disraeli"
 }
 ```
 
