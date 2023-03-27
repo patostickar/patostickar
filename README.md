@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1127,
-  quote: "The time you think you're missing, misses you too.",
-  author: "Ymber Delecto"
+  id: 1045,
+  quote: "I want you to be everything that's you, deep at the center of your being.",
+  author: "Confucius"
 }
 ```
 
