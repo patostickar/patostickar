@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1188,
-  quote: "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves.",
-  author: "Buddha"
+  id: 1143,
+  quote: "You cannot step twice into the same river, for other waters are continually flowing in.",
+  author: "Heraclitus"
 }
 ```
 
