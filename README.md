@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1030,
-  quote: "What is necessary to change a person is to change his awareness of himself.",
-  author: "Abraham Maslow"
+  id: 1538,
+  quote: "Good instincts usually tell you what to do long before your head has figured it out.",
+  author: "Michael Burke"
 }
 ```
 
