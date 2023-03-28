@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1292,
-  quote: "The superior man acts before he speaks, and afterwards speaks according to his action.",
-  author: "Confucius"
+  id: 704,
+  quote: "It is in your moments of decision that your destiny is shaped.",
+  author: "Tony Robbins"
 }
 ```
 
