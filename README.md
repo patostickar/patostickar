@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1538,
-  quote: "Good instincts usually tell you what to do long before your head has figured it out.",
-  author: "Michael Burke"
+  id: 418,
+  quote: "Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.",
+  author: "William Shakespeare"
 }
 ```
 
