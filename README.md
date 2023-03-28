@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 743,
-  quote: "God has given you one face, and you make yourself another.",
-  author: "William Shakespeare"
+  id: 919,
+  quote: "Adversity isn't set against you to fail; adversity is a way to build your character so that you can succeed over and over again through perseverance.",
+  author: "Byron Pulsifer"
 }
 ```
 
