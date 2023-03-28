@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 795,
-  quote: "Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.",
-  author: "Marcus Aurelius"
+  id: 1292,
+  quote: "The superior man acts before he speaks, and afterwards speaks according to his action.",
+  author: "Confucius"
 }
 ```
 
