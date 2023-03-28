@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1037,
-  quote: "A gem cannot be polished without friction, nor a man perfected without trials.",
-  author: "Chinese proverb"
+  id: 1452,
+  quote: "Giving up doesn't always mean you are weak; sometimes it means that you are strong enough to let go.",
+  author: "null"
 }
 ```
 
