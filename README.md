@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1385,
-  quote: "They can conquer who believe they can.",
-  author: "Virgil"
+  id: 379,
+  quote: "You will not be punished for your anger, you will be punished by your anger.",
+  author: "Buddha"
 }
 ```
 
