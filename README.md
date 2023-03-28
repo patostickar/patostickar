@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 910,
-  quote: "No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.",
-  author: "Helen Keller"
+  id: 856,
+  quote: "Nobody made a greater mistake than he who did nothing because he could do only a little.",
+  author: "Edmund Burke"
 }
 ```
 
