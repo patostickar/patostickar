@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 696,
-  quote: "Your work is to discover your world and then with all your heart give yourself to it.",
-  author: "Buddha"
+  id: 1405,
+  quote: "Respect is not something that you can ask for, buy or borrow. Respect is what you earn from each person no matter their background or status.",
+  author: "Byron Pulsifer"
 }
 ```
 
