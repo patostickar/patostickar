@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1055,
-  quote: "If you can't explain it simply, you don't understand it well enough.",
-  author: "Albert Einstein"
+  id: 743,
+  quote: "God has given you one face, and you make yourself another.",
+  author: "William Shakespeare"
 }
 ```
 
