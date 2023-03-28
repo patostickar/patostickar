@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1485,
-  quote: "Remember that failure is an event, not a person.",
-  author: "Zig Ziglar"
+  id: 1193,
+  quote: "To change ones life, start immediately, do it flamboyantly, no exceptions.",
+  author: "William James"
 }
 ```
 
