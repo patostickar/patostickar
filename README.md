@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 418,
-  quote: "Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.",
-  author: "William Shakespeare"
+  id: 813,
+  quote: "Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.",
+  author: "Bernice Reagon"
 }
 ```
 
