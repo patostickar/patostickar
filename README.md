@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1348,
-  quote: "To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.",
-  author: "Mahummad Ali"
+  id: 1497,
+  quote: "A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.",
+  author: "Lao Tzu"
 }
 ```
 
