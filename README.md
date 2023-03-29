@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 438,
-  quote: "Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more",
-  author: "Anthony Robbins"
+  id: 1417,
+  quote: "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.",
+  author: "Lao Tzu"
 }
 ```
 
