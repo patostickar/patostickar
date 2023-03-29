@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 797,
-  quote: "Men are disturbed not by things, but by the view which they take of them.",
-  author: "Epictetus"
+  id: 1575,
+  quote: "Flow with whatever is happening and let your mind be free. Stay centred by accepting whatever you are doing. This is the ultimate.",
+  author: "Chuang Tzu"
 }
 ```
 
