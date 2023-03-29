@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1497,
-  quote: "A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.",
-  author: "Lao Tzu"
+  id: 578,
+  quote: "Giving up doesn't always mean you are weak. Sometimes it means that you are strong enough to let go.",
+  author: "null"
 }
 ```
 
