@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 578,
-  quote: "Giving up doesn't always mean you are weak. Sometimes it means that you are strong enough to let go.",
-  author: "null"
+  id: 478,
+  quote: "A wise man can learn more from a foolish question than a fool can learn from a wise answer.",
+  author: "Bruce Lee"
 }
 ```
 
