@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1130,
-  quote: "If you love life, don't waste time, for time is what life is made up of.",
-  author: "Bruce Lee"
+  id: 1348,
+  quote: "To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.",
+  author: "Mahummad Ali"
 }
 ```
 
