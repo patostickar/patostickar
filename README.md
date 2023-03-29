@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 280,
-  quote: "All the great performers I have worked with are fuelled by a personal dream.",
-  author: "John Eliot"
+  id: 882,
+  quote: "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.",
+  author: "Dale Carnegie"
 }
 ```
 
