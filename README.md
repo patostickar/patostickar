@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1475,
-  quote: "For success, attitude is equally as important as ability.",
-  author: "Harry Banks"
+  id: 1130,
+  quote: "If you love life, don't waste time, for time is what life is made up of.",
+  author: "Bruce Lee"
 }
 ```
 
