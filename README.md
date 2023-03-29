@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1379,
-  quote: "Those who cannot learn from history are doomed to repeat it.",
-  author: "George Santayan"
+  id: 797,
+  quote: "Men are disturbed not by things, but by the view which they take of them.",
+  author: "Epictetus"
 }
 ```
 
