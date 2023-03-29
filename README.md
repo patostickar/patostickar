@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1507,
-  quote: "Go for it now. The future is promised to no one.",
-  author: "Wayne Dyer"
+  id: 304,
+  quote: "Happiness comes when your work and words are of benefit to yourself and others.",
+  author: "Buddha"
 }
 ```
 
