@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 364,
-  quote: "The superior man is satisfied and composed; the mean man is always full of distress.",
-  author: "Confucius"
+  id: 148,
+  quote: "A good plan today is better than a perfect plan tomorrow.",
+  author: "null"
 }
 ```
 
