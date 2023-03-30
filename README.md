@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 148,
-  quote: "A good plan today is better than a perfect plan tomorrow.",
-  author: "null"
+  id: 127,
+  quote: "Silence is a true friend who never betrays.",
+  author: "Confucius"
 }
 ```
 
