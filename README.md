@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1626,
-  quote: "An ounce of emotion is equal to a ton of facts.",
-  author: "John Junor"
+  id: 1081,
+  quote: "Every human being is the author of his own health or disease.",
+  author: "Buddha"
 }
 ```
 
