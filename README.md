@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 714,
-  quote: "Wherever a man turns he can find someone who needs him.",
-  author: "Albert Schweitzer"
+  id: 944,
+  quote: "Everything that irritates us about others can lead us to an understanding of ourselves.",
+  author: "Carl Jung"
 }
 ```
 
