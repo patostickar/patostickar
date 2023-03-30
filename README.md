@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 944,
-  quote: "Everything that irritates us about others can lead us to an understanding of ourselves.",
-  author: "Carl Jung"
+  id: 117,
+  quote: "Society develops wit, but its contemplation alone forms genius.",
+  author: "Madame de Stael"
 }
 ```
 
