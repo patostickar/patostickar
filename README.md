@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 312,
-  quote: "What you do not want done to yourself, do not do to others.",
-  author: "Confucius"
+  id: 1564,
+  quote: "The only person who never makes mistakes is the person who never does anything.",
+  author: "Denis Waitley"
 }
 ```
 
