@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 129,
-  quote: "From little acorns mighty oaks do grow.",
-  author: "American proverb"
+  id: 1626,
+  quote: "An ounce of emotion is equal to a ton of facts.",
+  author: "John Junor"
 }
 ```
 
