@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1564,
-  quote: "The only person who never makes mistakes is the person who never does anything.",
-  author: "Denis Waitley"
+  id: 1153,
+  quote: "Age does not protect you from love. But love, to some extent, protects you from age.",
+  author: "Anais Nin"
 }
 ```
 
