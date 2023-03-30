@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 882,
-  quote: "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.",
-  author: "Dale Carnegie"
+  id: 821,
+  quote: "Sometimes it is better to lose and do the right thing than to win and do the wrong thing.",
+  author: "Tony Blair"
 }
 ```
 
