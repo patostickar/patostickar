@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 551,
-  quote: "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.",
-  author: "null"
+  id: 937,
+  quote: "Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.",
+  author: "William Arthur Ward"
 }
 ```
 
