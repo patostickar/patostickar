@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 772,
-  quote: "Nothing diminishes anxiety faster than action.",
-  author: "Walter Anderson"
+  id: 120,
+  quote: "Yesterday I dared to struggle. Today I dare to win.",
+  author: "Bernadette Devlin"
 }
 ```
 
