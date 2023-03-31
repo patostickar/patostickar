@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 994,
-  quote: "Until you make peace with who you are, you'll never be content with what you have.",
-  author: "Doris Mortman"
+  id: 628,
+  quote: "Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.",
+  author: "Margaret Cousins"
 }
 ```
 
