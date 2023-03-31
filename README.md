@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 116,
-  quote: "Silence is a fence around wisdom.",
-  author: "German proverb"
+  id: 772,
+  quote: "Nothing diminishes anxiety faster than action.",
+  author: "Walter Anderson"
 }
 ```
 
