@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1278,
-  quote: "Thats the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.",
-  author: "Lisa Alther"
+  id: 1512,
+  quote: "When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.",
+  author: "W. Clement Stone"
 }
 ```
 
