@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1569,
-  quote: "If you find yourself in a hole, the first thing to do is stop digging.",
-  author: "Will Rogers"
+  id: 176,
+  quote: "What we achieve inwardly will change outer reality.",
+  author: "Plutarch"
 }
 ```
 
