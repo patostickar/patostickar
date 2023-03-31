@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1481,
-  quote: "Sometimes by losing a battle you find a new way to win the war.",
-  author: "Donald Trump"
+  id: 1278,
+  quote: "Thats the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.",
+  author: "Lisa Alther"
 }
 ```
 
