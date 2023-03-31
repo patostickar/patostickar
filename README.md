@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 850,
-  quote: "To be thoughtful and kind only takes a few seconds compared to the timeless hurt caused by one rude gesture.",
-  author: "Byron Pulsifer"
+  id: 1569,
+  quote: "If you find yourself in a hole, the first thing to do is stop digging.",
+  author: "Will Rogers"
 }
 ```
 
