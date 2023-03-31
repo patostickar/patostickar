@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 110,
-  quote: "The shortest answer is doing.",
-  author: "Lord Herbert"
+  id: 1573,
+  quote: "Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.",
+  author: "William Menninger"
 }
 ```
 
