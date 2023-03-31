@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1573,
-  quote: "Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.",
-  author: "William Menninger"
+  id: 261,
+  quote: "To avoid criticism, do nothing, say nothing, be nothing.",
+  author: "Elbert Hubbard"
 }
 ```
 
