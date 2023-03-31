@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 780,
-  quote: "Your future depends on many things, but mostly on you.",
-  author: "Frank Tyger"
+  id: 1338,
+  quote: "The best place to find a helping hand is at the end of your own arm.",
+  author: "null"
 }
 ```
 
