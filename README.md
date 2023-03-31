@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1338,
-  quote: "The best place to find a helping hand is at the end of your own arm.",
-  author: "null"
+  id: 1445,
+  quote: "Be the change that you want to see in the world.",
+  author: "Mohandas Gandhi"
 }
 ```
 
