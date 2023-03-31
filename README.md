@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1445,
-  quote: "Be the change that you want to see in the world.",
-  author: "Mohandas Gandhi"
+  id: 236,
+  quote: "The journey of a thousand miles begins with one step.",
+  author: "Lao Tzu"
 }
 ```
 
