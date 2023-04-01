@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 261,
-  quote: "To avoid criticism, do nothing, say nothing, be nothing.",
-  author: "Elbert Hubbard"
+  id: 1241,
+  quote: "The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.",
+  author: "Will Durant"
 }
 ```
 
