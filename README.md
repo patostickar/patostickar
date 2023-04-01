@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 436,
-  quote: "You got to be careful if you don't know where you're going, because you might not get there.",
-  author: "Yogi Berra"
+  id: 334,
+  quote: "Better to have loved and lost, than to have never loved at all.",
+  author: "St. Augustine"
 }
 ```
 
