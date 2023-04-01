@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 765,
-  quote: "You must welcome change as the rule but not as your ruler.",
-  author: "Denis Waitley"
+  id: 917,
+  quote: "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+  author: "Marie Curie"
 }
 ```
 
