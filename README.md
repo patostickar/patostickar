@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1311,
-  quote: "If you want to study yourself look into the hearts of other people. If you want to study other people look into your own heart.",
-  author: "Friedrich von Schiller"
+  id: 709,
+  quote: "Your outlook on life is a direct reflection on how much you like yourself.",
+  author: "Lululemon"
 }
 ```
 
