@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 909,
-  quote: "I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.",
-  author: "Frederick Douglass"
+  id: 436,
+  quote: "You got to be careful if you don't know where you're going, because you might not get there.",
+  author: "Yogi Berra"
 }
 ```
 
