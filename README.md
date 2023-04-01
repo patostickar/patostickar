@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1486,
-  quote: "Don't settle for a relationship that won't let you be yourself.",
-  author: "Oprah Winfrey"
+  id: 410,
+  quote: "We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.",
+  author: "Sam Keen"
 }
 ```
 
