@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1211,
-  quote: "Complaining doesn't change a thing only taking action does.",
-  author: "Byron Pulsifer"
+  id: 909,
+  quote: "I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.",
+  author: "Frederick Douglass"
 }
 ```
 
