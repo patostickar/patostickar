@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 139,
-  quote: "Wherever you go, go with all your heart.",
-  author: "Confucius"
+  id: 337,
+  quote: "You have enemies? Good. That means you've stood up for something, sometime in your life.",
+  author: "Winston Churchill"
 }
 ```
 
