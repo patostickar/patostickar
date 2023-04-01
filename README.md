@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 334,
-  quote: "Better to have loved and lost, than to have never loved at all.",
-  author: "St. Augustine"
+  id: 875,
+  quote: "I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.",
+  author: "Elisabeth Kubler-Ross"
 }
 ```
 
