@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 839,
-  quote: "While we try to teach our children all about life, our children teach us what life is all about.",
-  author: "Angela Schwindt"
+  id: 139,
+  quote: "Wherever you go, go with all your heart.",
+  author: "Confucius"
 }
 ```
 
