@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 875,
-  quote: "I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.",
-  author: "Elisabeth Kubler-Ross"
+  id: 79,
+  quote: "The two most powerful warriors are patience and time.",
+  author: "Leo Tolstoy"
 }
 ```
 
