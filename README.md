@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1241,
-  quote: "The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.",
-  author: "Will Durant"
+  id: 206,
+  quote: "Pick battles big enough to matter, small enough to win.",
+  author: "Jonathan Kozol"
 }
 ```
 
