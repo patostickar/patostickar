@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 337,
-  quote: "You have enemies? Good. That means you've stood up for something, sometime in your life.",
-  author: "Winston Churchill"
+  id: 203,
+  quote: "Keep yourself to the sunshine and you cannot see the shadow.",
+  author: "Helen Keller"
 }
 ```
 
