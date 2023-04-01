@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 206,
-  quote: "Pick battles big enough to matter, small enough to win.",
-  author: "Jonathan Kozol"
+  id: 809,
+  quote: "Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.",
+  author: "Denis Waitley"
 }
 ```
 
