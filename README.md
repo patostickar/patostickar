@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 377,
-  quote: "If you change the way you look at things, the things you look at change.",
-  author: "Wayne Dyer"
+  id: 693,
+  quote: "To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.",
+  author: "Henri Bergson"
 }
 ```
 
