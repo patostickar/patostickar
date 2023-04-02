@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 258,
-  quote: "The secret of success is constancy to purpose.",
-  author: "Benjamin Disraeli"
+  id: 1595,
+  quote: "I have never been hurt by anything I didn't say.",
+  author: "Calvin Coolidge"
 }
 ```
 
