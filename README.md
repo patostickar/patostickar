@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 903,
-  quote: "Thousands of candles can be lit from a single, and the life of the candle will not be shortened. Happiness never decreases by being shared.",
-  author: "Buddha"
+  id: 1346,
+  quote: "It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.",
+  author: "Franklin D. Roosevelt"
 }
 ```
 
