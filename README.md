@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 410,
-  quote: "We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.",
-  author: "Sam Keen"
+  id: 447,
+  quote: "If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.",
+  author: "Dalai Lama"
 }
 ```
 
