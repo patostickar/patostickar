@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1567,
-  quote: "If you have knowledge, let others light their candles in it.",
-  author: "Margaret Fuller"
+  id: 761,
+  quote: "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
+  author: "Dalai Lama"
 }
 ```
 
