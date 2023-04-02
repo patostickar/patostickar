@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 580,
-  quote: "The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.",
-  author: "Thich Nhat Hanh"
+  id: 1381,
+  quote: "Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.",
+  author: "Dhammapada"
 }
 ```
 
