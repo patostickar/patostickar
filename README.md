@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1346,
-  quote: "It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.",
-  author: "Franklin D. Roosevelt"
+  id: 1111,
+  quote: "Each time we face a fear, we gain strength, courage, and confidence in the doing.",
+  author: "null"
 }
 ```
 
