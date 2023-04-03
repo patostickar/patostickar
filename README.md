@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1425,
-  quote: "I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.",
-  author: "G. K. Chesterton"
+  id: 1439,
+  quote: "The deepest craving of human nature is the need to be appreciated.",
+  author: "William James"
 }
 ```
 
