@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1422,
-  quote: "Never deny a diagnosis, but do deny the negative verdict that may go with it.",
-  author: "Norman Cousins"
+  id: 569,
+  quote: "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.",
+  author: "Nikola Tesla"
 }
 ```
 
