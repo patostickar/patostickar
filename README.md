@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 565,
-  quote: "There are two kinds of failures: those who thought and never did, and those who did and never thought.",
-  author: "Laurence J. Peter"
+  id: 1151,
+  quote: "Never apologize for showing feeling. When you do so, you apologize for truth.",
+  author: "Benjamin Disraeli"
 }
 ```
 
