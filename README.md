@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 832,
-  quote: "The best thing about the future is that it only comes one day at a time.",
-  author: "Abraham Lincoln"
+  id: 565,
+  quote: "There are two kinds of failures: those who thought and never did, and those who did and never thought.",
+  author: "Laurence J. Peter"
 }
 ```
 
