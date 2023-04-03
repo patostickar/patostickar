@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1409,
-  quote: "We are all faced with a series of great opportunities brilliantly disguised as impossible situations.",
-  author: "Charles R. Swindoll"
+  id: 360,
+  quote: "Be what you are. This is the first step toward becoming better than you are.",
+  author: "Julius Charles Hare"
 }
 ```
 
