@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1293,
-  quote: "A single conversation across the table with a wise person is worth a months study of books.",
-  author: "Chinese proverb"
+  id: 1559,
+  quote: "Success is determined by those whom prove the impossible, possible.",
+  author: "James Pence"
 }
 ```
 
