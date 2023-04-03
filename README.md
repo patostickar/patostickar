@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1559,
-  quote: "Success is determined by those whom prove the impossible, possible.",
-  author: "James Pence"
+  id: 832,
+  quote: "The best thing about the future is that it only comes one day at a time.",
+  author: "Abraham Lincoln"
 }
 ```
 
