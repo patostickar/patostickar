@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1120,
-  quote: "Our kindness may be the most persuasive argument for that which we believe.",
-  author: "Gordon Hinckley"
+  id: 508,
+  quote: "With the realization of ones own potential and self-confidence in ones ability, one can build a better world.",
+  author: "Dalai Lama"
 }
 ```
 
