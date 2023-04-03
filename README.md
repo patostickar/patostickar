@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1155,
-  quote: "There are people who have money and people who are rich.",
-  author: "Coco Chanel"
+  id: 1422,
+  quote: "Never deny a diagnosis, but do deny the negative verdict that may go with it.",
+  author: "Norman Cousins"
 }
 ```
 
