@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1151,
-  quote: "Never apologize for showing feeling. When you do so, you apologize for truth.",
-  author: "Benjamin Disraeli"
+  id: 751,
+  quote: "We must not say every mistake is a foolish one.",
+  author: "Cicero"
 }
 ```
 
