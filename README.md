@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1439,
-  quote: "The deepest craving of human nature is the need to be appreciated.",
-  author: "William James"
+  id: 1155,
+  quote: "There are people who have money and people who are rich.",
+  author: "Coco Chanel"
 }
 ```
 
