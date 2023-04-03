@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 311,
-  quote: "I don't believe in failure. It is not failure if you enjoyed the process.",
-  author: "Oprah Winfrey"
+  id: 1293,
+  quote: "A single conversation across the table with a wise person is worth a months study of books.",
+  author: "Chinese proverb"
 }
 ```
 
