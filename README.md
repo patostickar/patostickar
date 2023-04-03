@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 508,
-  quote: "With the realization of ones own potential and self-confidence in ones ability, one can build a better world.",
-  author: "Dalai Lama"
+  id: 1409,
+  quote: "We are all faced with a series of great opportunities brilliantly disguised as impossible situations.",
+  author: "Charles R. Swindoll"
 }
 ```
 
