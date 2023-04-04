@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1356,
-  quote: "The less effort, the faster and more powerful you will be.",
-  author: "Bruce Lee"
+  id: 276,
+  quote: "To forgive is to set a prisoner free and realize that prisoner was you.",
+  author: "Lewis B. Smedes"
 }
 ```
 
