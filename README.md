@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1515,
-  quote: "I can't believe that God put us on this earth to be ordinary.",
-  author: "Lou Holtz"
+  id: 299,
+  quote: "We learn what we have said from those who listen to our speaking.",
+  author: "Kenneth Patton"
 }
 ```
 
