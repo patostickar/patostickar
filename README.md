@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 417,
-  quote: "When you are content to be simply yourself and don't compare or compete, everybody will respect you.",
-  author: "Laozi"
+  id: 553,
+  quote: "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+  author: "Anne Frank"
 }
 ```
 
