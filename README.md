@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 428,
-  quote: "I'm a great believer in luck and I find the harder I work, the more I have of it.",
-  author: "Thomas Jefferson"
+  id: 1257,
+  quote: "Be your own hero, it's cheaper than a movie ticket.",
+  author: "Doug Horton"
 }
 ```
 
