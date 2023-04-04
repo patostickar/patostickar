@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1244,
-  quote: "People are not lazy. They simply have impotent goals that is, goals that do not inspire them.",
-  author: "Tony Robbins"
+  id: 1442,
+  quote: "It is with words as with sunbeams. The more they are condensed, the deeper they burn.",
+  author: "Robert Southey"
 }
 ```
 
