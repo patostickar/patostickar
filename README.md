@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 43,
-  quote: "Goals are the fuel in the furnace of achievement.",
-  author: "Brian Tracy"
+  id: 1419,
+  quote: "The best cure for the body is a quiet mind.",
+  author: "Napoleon Bonaparte"
 }
 ```
 
