@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 553,
-  quote: "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
-  author: "Anne Frank"
+  id: 509,
+  quote: "There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.",
+  author: "Nelson Mandela"
 }
 ```
 
