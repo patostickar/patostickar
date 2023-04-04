@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1578,
-  quote: "Begin, be bold, and venture to be wise.",
-  author: "Horace"
+  id: 1281,
+  quote: "Make the most of yourself for that is all there is of you.",
+  author: "Ralph Emerson"
 }
 ```
 
