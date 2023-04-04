@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1442,
-  quote: "It is with words as with sunbeams. The more they are condensed, the deeper they burn.",
-  author: "Robert Southey"
+  id: 1513,
+  quote: "Never promise more than you can perform.",
+  author: "Publilius Syrus"
 }
 ```
 
