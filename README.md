@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1060,
-  quote: "If you can't feed a hundred people, then feed just one.",
-  author: "Mother Teresa"
+  id: 433,
+  quote: "Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigour of the mind.",
+  author: "Leonardo da Vinci"
 }
 ```
 
