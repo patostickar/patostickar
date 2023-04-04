@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 299,
-  quote: "We learn what we have said from those who listen to our speaking.",
-  author: "Kenneth Patton"
+  id: 1244,
+  quote: "People are not lazy. They simply have impotent goals that is, goals that do not inspire them.",
+  author: "Tony Robbins"
 }
 ```
 
