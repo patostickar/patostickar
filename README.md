@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 172,
-  quote: "The day always looks brighter from behind a smile.",
-  author: "null"
+  id: 1283,
+  quote: "A man who doesn't trust himself can never really trust anyone else.",
+  author: "Cardinal Retz"
 }
 ```
 
