@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1283,
-  quote: "A man who doesn't trust himself can never really trust anyone else.",
-  author: "Cardinal Retz"
+  id: 43,
+  quote: "Goals are the fuel in the furnace of achievement.",
+  author: "Brian Tracy"
 }
 ```
 
