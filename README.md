@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1257,
-  quote: "Be your own hero, it's cheaper than a movie ticket.",
-  author: "Doug Horton"
+  id: 1606,
+  quote: "To know your purpose is to live a life of direction, and in that direction is found peace and tranquillity.",
+  author: "Byron Pulsifer"
 }
 ```
 
