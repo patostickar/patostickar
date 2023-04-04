@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 509,
-  quote: "There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.",
-  author: "Nelson Mandela"
+  id: 1515,
+  quote: "I can't believe that God put us on this earth to be ordinary.",
+  author: "Lou Holtz"
 }
 ```
 
