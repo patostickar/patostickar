@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1606,
-  quote: "To know your purpose is to live a life of direction, and in that direction is found peace and tranquillity.",
-  author: "Byron Pulsifer"
+  id: 761,
+  quote: "Remember that sometimes not getting what you want is a wonderful stroke of luck.",
+  author: "Dalai Lama"
 }
 ```
 
