@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1513,
-  quote: "Never promise more than you can perform.",
-  author: "Publilius Syrus"
+  id: 172,
+  quote: "The day always looks brighter from behind a smile.",
+  author: "null"
 }
 ```
 
