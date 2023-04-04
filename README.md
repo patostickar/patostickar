@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 765,
-  quote: "You must welcome change as the rule but not as your ruler.",
-  author: "Denis Waitley"
+  id: 1356,
+  quote: "The less effort, the faster and more powerful you will be.",
+  author: "Bruce Lee"
 }
 ```
 
