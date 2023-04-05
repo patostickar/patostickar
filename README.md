@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 730,
-  quote: "All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.",
-  author: "Rudolf Arnheim"
+  id: 1409,
+  quote: "We are all faced with a series of great opportunities brilliantly disguised as impossible situations.",
+  author: "Charles R. Swindoll"
 }
 ```
 
