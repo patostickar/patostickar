@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1160,
-  quote: "Sometimes the most important thing in a whole day is the rest we take between two deep breaths.",
-  author: "Etty Hillesum"
+  id: 948,
+  quote: "Success is getting what you want. Happiness is wanting what you get.",
+  author: "Dale Carnegie"
 }
 ```
 
