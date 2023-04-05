@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 198,
-  quote: "Science is organized knowledge. Wisdom is organized life.",
-  author: "Immanuel Kant"
+  id: 1160,
+  quote: "Sometimes the most important thing in a whole day is the rest we take between two deep breaths.",
+  author: "Etty Hillesum"
 }
 ```
 
