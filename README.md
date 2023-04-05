@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1604,
-  quote: "Gratitude is riches. Complaint is poverty.",
-  author: "Doris Day"
+  id: 723,
+  quote: "He who is fixed to a star does not change his mind.",
+  author: "Leonardo da Vinci"
 }
 ```
 
