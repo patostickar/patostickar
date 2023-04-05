@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 222,
-  quote: "To accomplish great things, we must dream as well as act.",
-  author: "Anatole France"
+  id: 89,
+  quote: "Luck is what happens when preparation meets opportunity.",
+  author: "Seneca"
 }
 ```
 
