@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1023,
-  quote: "Doing what you love is the cornerstone of having abundance in your life.",
-  author: "Wayne Dyer"
+  id: 689,
+  quote: "People of mediocre ability sometimes achieve outstanding success because they don't know when to quit. Most men succeed because they are determined to.",
+  author: "George Allen"
 }
 ```
 
