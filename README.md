@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 655,
-  quote: "The truth of the matter is that you always know the right thing to do. The hard part is doing it.",
-  author: "Norman Schwarzkopf"
+  id: 1278,
+  quote: "Thats the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.",
+  author: "Lisa Alther"
 }
 ```
 
