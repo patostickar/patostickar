@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1383,
-  quote: "Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.",
-  author: "Henry James"
+  id: 1023,
+  quote: "Doing what you love is the cornerstone of having abundance in your life.",
+  author: "Wayne Dyer"
 }
 ```
 
