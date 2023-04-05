@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 438,
-  quote: "Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more",
-  author: "Anthony Robbins"
+  id: 953,
+  quote: "To be tested is good. The challenged life may be the best therapist.",
+  author: "Gail Sheehy"
 }
 ```
 
