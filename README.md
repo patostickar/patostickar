@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 30,
-  quote: "Bite off more than you can chew, then chew it.",
-  author: "Ella Williams"
+  id: 1623,
+  quote: "What we see depends mainly on what we look for.",
+  author: "John Lubbock"
 }
 ```
 
