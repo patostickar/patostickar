@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1267,
-  quote: "All truths are easy to understand once they are discovered; the point is to discover them.",
-  author: "Galileo Galilei"
+  id: 1565,
+  quote: "Life is what happens to you while you're busy making other plans.",
+  author: "John Lennon"
 }
 ```
 
