@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1065,
-  quote: "As we risk ourselves, we grow. Each new experience is a risk.",
-  author: "Fran Watson"
+  id: 636,
+  quote: "You get peace of mind not by thinking about it or imagining it, but by quietening and relaxing the restless mind.",
+  author: "Remez Sasson"
 }
 ```
 
