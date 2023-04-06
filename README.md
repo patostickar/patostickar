@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1185,
-  quote: "Our greatest glory is not in never falling, but in rising every time we fall.",
-  author: "Confucius"
+  id: 1583,
+  quote: "Numberless are the worlds wonders, but none more wonderful than man.",
+  author: "Sophocles"
 }
 ```
 
