@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1067,
-  quote: "The final proof of greatness lies in being able to endure criticism without resentment.",
-  author: "Elbert Hubbard"
+  id: 1185,
+  quote: "Our greatest glory is not in never falling, but in rising every time we fall.",
+  author: "Confucius"
 }
 ```
 
