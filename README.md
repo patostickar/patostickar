@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 406,
-  quote: "A life spent making mistakes is not only more honourable but more useful than a life spent in doing nothing.",
-  author: "Bernard Shaw"
+  id: 1492,
+  quote: "Love vanquishes time. To lovers, a moment can be eternity, eternity can be the tick of a clock.",
+  author: "Mary Parrish"
 }
 ```
 
