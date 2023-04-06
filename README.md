@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 636,
-  quote: "You get peace of mind not by thinking about it or imagining it, but by quietening and relaxing the restless mind.",
-  author: "Remez Sasson"
+  id: 1246,
+  quote: "Waste no more time arguing about what a good man should be. Be one.",
+  author: "Marcus Aurelius"
 }
 ```
 
