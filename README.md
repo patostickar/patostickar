@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 837,
-  quote: "People grow through experience if they meet life honestly and courageously. This is how character is built.",
-  author: "Eleanor Roosevelt"
+  id: 1309,
+  quote: "The art of progress is to preserve order amid change, and to preserve change amid order.",
+  author: "Alfred Whitehead"
 }
 ```
 
