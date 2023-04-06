@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 89,
-  quote: "Luck is what happens when preparation meets opportunity.",
-  author: "Seneca"
+  id: 862,
+  quote: "Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.",
+  author: "Alphonse Karr"
 }
 ```
 
