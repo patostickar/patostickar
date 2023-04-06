@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 621,
-  quote: "To free us from the expectations of others, to give us back to ourselves there lies the great, singular power of self-respect.",
-  author: "Joan Didion"
+  id: 406,
+  quote: "A life spent making mistakes is not only more honourable but more useful than a life spent in doing nothing.",
+  author: "Bernard Shaw"
 }
 ```
 
