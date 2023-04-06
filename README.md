@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1583,
-  quote: "Numberless are the worlds wonders, but none more wonderful than man.",
-  author: "Sophocles"
+  id: 302,
+  quote: "The doors we open and close each day decide the lives we live.",
+  author: "Flora Whittemore"
 }
 ```
 
