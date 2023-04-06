@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1539,
-  quote: "It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.",
-  author: "Pema Chodron"
+  id: 1592,
+  quote: "Everything that irritates us about others can lead us to a better understanding of ourselves.",
+  author: "Carl Jung"
 }
 ```
 
