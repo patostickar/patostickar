@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1309,
-  quote: "The art of progress is to preserve order amid change, and to preserve change amid order.",
-  author: "Alfred Whitehead"
+  id: 611,
+  quote: "The grand essentials of happiness are: something to do, something to love, and something to hope for.",
+  author: "Chalmers"
 }
 ```
 
