@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 807,
-  quote: "Every artist dips his brush in his own soul, and paints his own nature into his pictures.",
-  author: "Henry Ward Beecher"
+  id: 557,
+  quote: "Give me six hours to chop down a tree and I will spend the first four sharpening the axe.",
+  author: "Abraham Lincoln"
 }
 ```
 
