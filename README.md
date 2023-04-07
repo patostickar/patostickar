@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 951,
-  quote: "Don't judge each day by the harvest you reap but by the seeds that you plant.",
-  author: "Robert Stevenson"
+  id: 1383,
+  quote: "Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.",
+  author: "Henry James"
 }
 ```
 
