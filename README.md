@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 601,
-  quote: "The world is round and the place which may seem like the end may also be the beginning.",
-  author: "Ivy Baker Priest"
+  id: 1287,
+  quote: "Always seek out the seed of triumph in every adversity.",
+  author: "Og Mandino"
 }
 ```
 
