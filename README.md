@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 600,
-  quote: "If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.",
-  author: "Barack Obama"
+  id: 601,
+  quote: "The world is round and the place which may seem like the end may also be the beginning.",
+  author: "Ivy Baker Priest"
 }
 ```
 
