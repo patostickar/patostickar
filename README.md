@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1390,
-  quote: "Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.",
-  author: "Maya Angelou"
+  id: 1363,
+  quote: "The foolish man seeks happiness in the distance; the wise grows it under his feet.",
+  author: "James Openheim"
 }
 ```
 
