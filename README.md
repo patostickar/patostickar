@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1383,
-  quote: "Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.",
-  author: "Henry James"
+  id: 1140,
+  quote: "It is not only for what we do that we are held responsible, but also for what we do not do.",
+  author: "Moliere"
 }
 ```
 
