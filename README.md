@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 504,
-  quote: "The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.",
-  author: "Honore de Balzac"
+  id: 1144,
+  quote: "Excellence is to do a common thing in an uncommon way.",
+  author: "Booker Washington"
 }
 ```
 
