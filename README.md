@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1480,
-  quote: "Almost everything comes from nothing.",
-  author: "Henri Amiel"
+  id: 600,
+  quote: "If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.",
+  author: "Barack Obama"
 }
 ```
 
