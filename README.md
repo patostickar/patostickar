@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 970,
-  quote: "Every gift from a friend is a wish for your happiness.",
-  author: "Richard Bach"
+  id: 807,
+  quote: "Every artist dips his brush in his own soul, and paints his own nature into his pictures.",
+  author: "Henry Ward Beecher"
 }
 ```
 
