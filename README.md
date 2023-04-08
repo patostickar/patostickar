@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 933,
-  quote: "Believe deep down in your heart that you're destined to do great things.",
-  author: "Joe Paterno"
+  id: 1073,
+  quote: "It's important to know that words don't move mountains. Work, exacting work moves mountains.",
+  author: "Danilo Dolci"
 }
 ```
 
