@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1089,
-  quote: "Impossibilities are merely things which we have not yet learned.",
-  author: "Charles Chesnutt"
+  id: 1560,
+  quote: "Good advice is always certain to be ignored, but that's no reason not to give it.",
+  author: "Agatha Christie"
 }
 ```
 
