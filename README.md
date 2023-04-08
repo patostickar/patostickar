@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 756,
-  quote: "Correction does much, but encouragement does more.",
-  author: "Johann Wolfgang von Goethe"
+  id: 310,
+  quote: "Action may not always bring happiness; but there is no happiness without action.",
+  author: "Benjamin Disraeli"
 }
 ```
 
