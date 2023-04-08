@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1287,
-  quote: "Always seek out the seed of triumph in every adversity.",
-  author: "Og Mandino"
+  id: 779,
+  quote: "There are no failures. Just experiences and your reactions to them.",
+  author: "Tom Krause"
 }
 ```
 
