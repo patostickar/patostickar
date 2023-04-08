@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1593,
-  quote: "Beware of the half truth. You may have gotten hold of the wrong half.",
-  author: "null"
+  id: 595,
+  quote: "If you accept the expectations of others, especially negative ones, then you never will change the outcome.",
+  author: "Michael Jordan"
 }
 ```
 
