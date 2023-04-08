@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1055,
-  quote: "If you can't explain it simply, you don't understand it well enough.",
-  author: "Albert Einstein"
+  id: 592,
+  quote: "To live a pure unselfish life, one must count nothing as ones own in the midst of abundance.",
+  author: "Buddha"
 }
 ```
 
