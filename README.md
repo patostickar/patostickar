@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 139,
-  quote: "Wherever you go, go with all your heart.",
-  author: "Confucius"
+  id: 1055,
+  quote: "If you can't explain it simply, you don't understand it well enough.",
+  author: "Albert Einstein"
 }
 ```
 
