@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 138,
-  quote: "Nothing strengthens authority so much as silence.",
-  author: "Leonardo da Vinci"
+  id: 3,
+  quote: "Difficulties increase the nearer we get to the goal.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
