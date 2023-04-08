@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 779,
-  quote: "There are no failures. Just experiences and your reactions to them.",
-  author: "Tom Krause"
+  id: 940,
+  quote: "Smile, breathe and go slowly.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
