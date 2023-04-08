@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 403,
-  quote: "The only difference between your abilities and others is the ability to put yourself in their shoes and actually try.",
-  author: "Leonardo Ruiz"
+  id: 756,
+  quote: "Correction does much, but encouragement does more.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
