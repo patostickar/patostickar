@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 537,
-  quote: "Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.",
-  author: "Anais Nin"
+  id: 948,
+  quote: "Success is getting what you want. Happiness is wanting what you get.",
+  author: "Dale Carnegie"
 }
 ```
 
