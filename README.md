@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 393,
-  quote: "Some people think it's holding that makes one strong sometimes it's letting go.",
-  author: "null"
+  id: 39,
+  quote: "The world is always in movement.",
+  author: "V. Naipaul"
 }
 ```
 
