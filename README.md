@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 39,
-  quote: "The world is always in movement.",
-  author: "V. Naipaul"
+  id: 75,
+  quote: "All know the way; few actually walk it.",
+  author: "Bodhidharma"
 }
 ```
 
