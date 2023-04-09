@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1079,
-  quote: "I know but one freedom and that is the freedom of the mind.",
-  author: "Antoine de Saint-Exupery"
+  id: 1215,
+  quote: "Let the beauty of what you love be what you do.",
+  author: "Rumi"
 }
 ```
 
