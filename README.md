@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 948,
-  quote: "Success is getting what you want. Happiness is wanting what you get.",
-  author: "Dale Carnegie"
+  id: 1079,
+  quote: "I know but one freedom and that is the freedom of the mind.",
+  author: "Antoine de Saint-Exupery"
 }
 ```
 
