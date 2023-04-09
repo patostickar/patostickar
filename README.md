@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 613,
-  quote: "Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.",
-  author: "Ralph Emerson"
+  id: 895,
+  quote: "Everything can be taken from a man but ... the last of the human freedoms to choose ones attitude in any given set of circumstances, to choose ones own way.",
+  author: "Victor Frankl"
 }
 ```
 
