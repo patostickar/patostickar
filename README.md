@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 957,
-  quote: "Freedom is not worth having if it does not connote freedom to err.",
-  author: "Mohandas Gandhi"
+  id: 405,
+  quote: "Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.",
+  author: "Ralph Emerson"
 }
 ```
 
