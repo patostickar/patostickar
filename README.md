@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1524,
-  quote: "I cannot say whether things will get better if we change; what I can say is they must change if they are to get better.",
-  author: "Georg Lichtenberg"
+  id: 1505,
+  quote: "Continuous effort, not strength or intelligence is the key to unlocking our potential.",
+  author: "Winston Churchill"
 }
 ```
 
