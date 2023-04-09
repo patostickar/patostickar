@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 876,
-  quote: "Wishes can be your best avenue of getting what you want when you turn wishes into action. Action moves your wish to the forefront from thought to reality.",
-  author: "Byron Pulsifer"
+  id: 1524,
+  quote: "I cannot say whether things will get better if we change; what I can say is they must change if they are to get better.",
+  author: "Georg Lichtenberg"
 }
 ```
 
