@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1165,
-  quote: "It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.",
-  author: "Dalai Lama"
+  id: 389,
+  quote: "It does not matter how slowly you go as long as you do not stop.",
+  author: "Confucius"
 }
 ```
 
