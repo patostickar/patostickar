@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 47,
-  quote: "He is able who thinks he is able.",
-  author: "Buddha"
+  id: 367,
+  quote: "Most people are about as happy as they make up their minds to be",
+  author: "Abraham Lincoln"
 }
 ```
 
