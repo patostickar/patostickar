@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1352,
-  quote: "I don't believe in failure. It's not failure if you enjoyed the process.",
-  author: "Oprah Winfrey"
+  id: 1596,
+  quote: "Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.",
+  author: "Thomas Kempis"
 }
 ```
 
