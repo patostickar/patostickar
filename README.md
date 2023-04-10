@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1638,
-  quote: "Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.",
-  author: "Napoleon Hill"
+  id: 113,
+  quote: "Trusting our intuition often saves us from disaster.",
+  author: "Anne Wilson Schaef"
 }
 ```
 
