@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 509,
-  quote: "There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.",
-  author: "Nelson Mandela"
+  id: 1192,
+  quote: "Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.",
+  author: "Ralph Emerson"
 }
 ```
 
