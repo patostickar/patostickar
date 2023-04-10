@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 367,
-  quote: "Most people are about as happy as they make up their minds to be",
-  author: "Abraham Lincoln"
+  id: 612,
+  quote: "By living deeply in the present moment we can understand the past better and we can prepare for a better future.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
