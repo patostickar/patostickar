@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 389,
-  quote: "It does not matter how slowly you go as long as you do not stop.",
-  author: "Confucius"
+  id: 32,
+  quote: "One today is worth two tomorrows.",
+  author: "Benjamin Franklin"
 }
 ```
 
