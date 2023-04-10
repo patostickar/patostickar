@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 221,
-  quote: "There never was a good knife made of bad steel.",
-  author: "Benjamin Franklin"
+  id: 228,
+  quote: "The heart has its reasons which reason knows not of.",
+  author: "Blaise Pascal"
 }
 ```
 
