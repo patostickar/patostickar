@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 130,
-  quote: "You can't stop the waves, but you can learn to surf.",
-  author: "Jon Kabat-Zinn"
+  id: 1595,
+  quote: "I have never been hurt by anything I didn't say.",
+  author: "Calvin Coolidge"
 }
 ```
 
