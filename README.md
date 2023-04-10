@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 425,
-  quote: "No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto.",
-  author: "W. Clement Stone"
+  id: 1239,
+  quote: "Respect should be earned by actions, and not acquired by years.",
+  author: "Frank Wright"
 }
 ```
 
