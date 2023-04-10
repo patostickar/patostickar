@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1239,
-  quote: "Respect should be earned by actions, and not acquired by years.",
-  author: "Frank Wright"
+  id: 895,
+  quote: "Everything can be taken from a man but ... the last of the human freedoms to choose ones attitude in any given set of circumstances, to choose ones own way.",
+  author: "Victor Frankl"
 }
 ```
 
