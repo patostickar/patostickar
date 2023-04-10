@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 228,
-  quote: "The heart has its reasons which reason knows not of.",
-  author: "Blaise Pascal"
+  id: 73,
+  quote: "The years teach much which the days never know.",
+  author: "Ralph Emerson"
 }
 ```
 
