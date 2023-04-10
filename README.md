@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 113,
-  quote: "Trusting our intuition often saves us from disaster.",
-  author: "Anne Wilson Schaef"
+  id: 455,
+  quote: "You may be deceived if you trust too much, but you will live in torment if you don't trust enough.",
+  author: "Frank Crane"
 }
 ```
 
