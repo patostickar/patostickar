@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 718,
-  quote: "Happiness is not something ready made. It comes from your own actions.",
-  author: "Dalai Lama"
+  id: 425,
+  quote: "No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto.",
+  author: "W. Clement Stone"
 }
 ```
 
