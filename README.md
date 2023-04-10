@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 455,
-  quote: "You may be deceived if you trust too much, but you will live in torment if you don't trust enough.",
-  author: "Frank Crane"
+  id: 47,
+  quote: "He is able who thinks he is able.",
+  author: "Buddha"
 }
 ```
 
