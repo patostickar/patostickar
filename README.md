@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1596,
-  quote: "Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.",
-  author: "Thomas Kempis"
+  id: 184,
+  quote: "I believe in one thing only, the power of human will.",
+  author: "Joseph Stalin"
 }
 ```
 
