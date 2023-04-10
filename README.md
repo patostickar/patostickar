@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1165,
-  quote: "It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.",
-  author: "Dalai Lama"
+  id: 1352,
+  quote: "I don't believe in failure. It's not failure if you enjoyed the process.",
+  author: "Oprah Winfrey"
 }
 ```
 
