@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1426,
-  quote: "If you propose to speak, always ask yourself, is it true, is it necessary, is it kind.",
-  author: "Buddha"
+  id: 374,
+  quote: "Don't be afraid to go out on a limb. That's where the fruit is.",
+  author: "H. Jackson Browne"
 }
 ```
 
