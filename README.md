@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1411,
-  quote: "Be a good listener. Your ears will never get you in trouble.",
-  author: "Frank Tyger"
+  id: 1220,
+  quote: "To be great is to be misunderstood.",
+  author: "Ralph Emerson"
 }
 ```
 
