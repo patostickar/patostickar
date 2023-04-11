@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 846,
-  quote: "The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
-  author: "Henry Miller"
+  id: 498,
+  quote: "The first step to getting the things you want out of life is this: decide what you want.",
+  author: "Ben Stein"
 }
 ```
 
