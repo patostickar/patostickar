@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 374,
-  quote: "Don't be afraid to go out on a limb. That's where the fruit is.",
-  author: "H. Jackson Browne"
+  id: 1273,
+  quote: "We may encounter many defeats but we must not be defeated.",
+  author: "Maya Angelou"
 }
 ```
 
