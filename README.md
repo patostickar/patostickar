@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1220,
-  quote: "To be great is to be misunderstood.",
-  author: "Ralph Emerson"
+  id: 1300,
+  quote: "When deeds and words are in accord, the whole world is transformed.",
+  author: "Chuang Tzu"
 }
 ```
 
