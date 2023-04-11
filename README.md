@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 267,
-  quote: "Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.",
-  author: "Arthur Conan Doyle"
+  id: 1411,
+  quote: "Be a good listener. Your ears will never get you in trouble.",
+  author: "Frank Tyger"
 }
 ```
 
