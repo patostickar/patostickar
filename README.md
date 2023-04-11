@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 104,
-  quote: "Do something wonderful, people may imitate it.",
-  author: "Albert Schweitzer"
+  id: 1016,
+  quote: "Most powerful is he who has himself in his own power.",
+  author: "Seneca"
 }
 ```
 
