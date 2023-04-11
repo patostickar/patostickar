@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1265,
-  quote: "Setting goals is the first step in turning the invisible into the visible.",
-  author: "Tony Robbins"
+  id: 90,
+  quote: "Victory belongs to the most persevering.",
+  author: "Napoleon Bonaparte"
 }
 ```
 
