@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1168,
-  quote: "Fine words and an insinuating appearance are seldom associated with true virtue",
-  author: "Confucius"
+  id: 426,
+  quote: "The reason most goals are not achieved is that we spend our time doing second things first.",
+  author: "Robert McKain"
 }
 ```
 
