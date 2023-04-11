@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1273,
-  quote: "We may encounter many defeats but we must not be defeated.",
-  author: "Maya Angelou"
+  id: 376,
+  quote: "Life is so constructed that an event does not, cannot, will not, match the expectation.",
+  author: "Charlotte Bronte"
 }
 ```
 
