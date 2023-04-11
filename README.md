@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 32,
-  quote: "One today is worth two tomorrows.",
-  author: "Benjamin Franklin"
+  id: 104,
+  quote: "Do something wonderful, people may imitate it.",
+  author: "Albert Schweitzer"
 }
 ```
 
