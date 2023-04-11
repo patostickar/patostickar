@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1270,
-  quote: "Everything in the universe goes by indirection. There are no straight lines.",
-  author: "Ralph Emerson"
+  id: 652,
+  quote: "Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.",
+  author: "Eknath Easwaran"
 }
 ```
 
