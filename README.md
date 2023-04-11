@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 498,
-  quote: "The first step to getting the things you want out of life is this: decide what you want.",
-  author: "Ben Stein"
+  id: 1447,
+  quote: "Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.",
+  author: "Oprah Winfrey"
 }
 ```
 
