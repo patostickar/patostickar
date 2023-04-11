@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 426,
-  quote: "The reason most goals are not achieved is that we spend our time doing second things first.",
-  author: "Robert McKain"
+  id: 1320,
+  quote: "As we are liberated from our own fear, our presence automatically liberates others.",
+  author: "Nelson Mandela"
 }
 ```
 
