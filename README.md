@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1300,
-  quote: "When deeds and words are in accord, the whole world is transformed.",
-  author: "Chuang Tzu"
+  id: 159,
+  quote: "Don't be pushed by your problems; be led by your dreams.",
+  author: "null"
 }
 ```
 
