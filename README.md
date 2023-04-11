@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1337,
-  quote: "Divide each difficulty into as many parts as is feasible and necessary to resolve it.",
-  author: "Rene Descartes"
+  id: 267,
+  quote: "Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.",
+  author: "Arthur Conan Doyle"
 }
 ```
 
