@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1339,
-  quote: "We know the truth, not only by the reason, but by the heart.",
-  author: "Blaise Pascal"
+  id: 551,
+  quote: "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.",
+  author: "null"
 }
 ```
 
