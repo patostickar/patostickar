@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 813,
-  quote: "Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.",
-  author: "Bernice Reagon"
+  id: 810,
+  quote: "Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength.",
+  author: "Hasidic saying"
 }
 ```
 
