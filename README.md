@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 700,
-  quote: "All that we are is the result of what we have thought. The mind is everything. What we think we become.",
-  author: "Buddha"
+  id: 679,
+  quote: "Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.",
+  author: "Franklin Roosevelt"
 }
 ```
 
