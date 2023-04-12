@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 836,
-  quote: "If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.",
-  author: "Pema Chodron"
+  id: 653,
+  quote: "We could never learn to be brave and patient if there were only joy in the world.",
+  author: "Helen Keller"
 }
 ```
 
