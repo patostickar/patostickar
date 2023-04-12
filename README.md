@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 730,
-  quote: "All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.",
-  author: "Rudolf Arnheim"
+  id: 644,
+  quote: "The aim of life is self-development. To realize ones nature perfectly that is what each of us is here for.",
+  author: "Oscar Wilde"
 }
 ```
 
