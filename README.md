@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 689,
-  quote: "People of mediocre ability sometimes achieve outstanding success because they don't know when to quit. Most men succeed because they are determined to.",
-  author: "George Allen"
+  id: 836,
+  quote: "If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.",
+  author: "Pema Chodron"
 }
 ```
 
