@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 219,
-  quote: "Better be ignorant of a matter than half know it.",
-  author: "Publilius Syrus"
+  id: 689,
+  quote: "People of mediocre ability sometimes achieve outstanding success because they don't know when to quit. Most men succeed because they are determined to.",
+  author: "George Allen"
 }
 ```
 
