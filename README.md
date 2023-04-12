@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1255,
-  quote: "He who deliberates fully before taking a step will spend his entire life on one leg.",
-  author: "Chinese proverb"
+  id: 1628,
+  quote: "Great is the art of beginning, but greater is the art of ending.",
+  author: "Lazurus Long"
 }
 ```
 
