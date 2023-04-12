@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1628,
-  quote: "Great is the art of beginning, but greater is the art of ending.",
-  author: "Lazurus Long"
+  id: 700,
+  quote: "All that we are is the result of what we have thought. The mind is everything. What we think we become.",
+  author: "Buddha"
 }
 ```
 
