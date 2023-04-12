@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 664,
-  quote: "The greatest good you can do for another is not just share your riches, but reveal to them their own.",
-  author: "Benjamin Disraeli"
+  id: 990,
+  quote: "Silence is a source of great strength.",
+  author: "Lao Tzu"
 }
 ```
 
