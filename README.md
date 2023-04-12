@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 653,
-  quote: "We could never learn to be brave and patient if there were only joy in the world.",
-  author: "Helen Keller"
+  id: 1605,
+  quote: "Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong.",
+  author: "Richard Needham"
 }
 ```
 
