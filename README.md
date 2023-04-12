@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 865,
-  quote: "Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.",
-  author: "Thomas Carlyle"
+  id: 730,
+  quote: "All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.",
+  author: "Rudolf Arnheim"
 }
 ```
 
