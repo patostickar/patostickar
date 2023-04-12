@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 241,
-  quote: "To be wrong is nothing unless you continue to remember it.",
-  author: "Confucius"
+  id: 466,
+  quote: "We must never forget that it is through our actions, words, and thoughts that we have a choice.",
+  author: "Sogyal Rinpoche"
 }
 ```
 
