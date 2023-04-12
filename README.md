@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 94,
-  quote: "You can do it if you believe you can!",
-  author: "Napoleon Hill"
+  id: 1339,
+  quote: "We know the truth, not only by the reason, but by the heart.",
+  author: "Blaise Pascal"
 }
 ```
 
