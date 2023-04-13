@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 85,
-  quote: "Only do what your heart tells you.",
-  author: "Princess Diana"
+  id: 996,
+  quote: "Being angry never solves anything.",
+  author: "Catherine Pulsifer"
 }
 ```
 
