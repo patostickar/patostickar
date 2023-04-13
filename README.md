@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 400,
-  quote: "If you cannot do great things, do small things in a great way.",
-  author: "Napoleon Hill"
+  id: 783,
+  quote: "Do not expect the world to look bright, if you habitually wear gray-brown glasses.",
+  author: "Tomas Eliot"
 }
 ```
 
