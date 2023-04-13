@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1603,
-  quote: "The only Zen you find on the tops of mountains is the Zen you bring up there.",
-  author: "Robert Pirsig"
+  id: 1396,
+  quote: "One may say the eternal mystery of the world is its comprehensibility.",
+  author: "Albert Einstein"
 }
 ```
 
