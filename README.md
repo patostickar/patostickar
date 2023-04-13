@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1549,
-  quote: "A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.",
-  author: "Jawaharlal Nehru"
+  id: 804,
+  quote: "I am always doing that which I can not do, in order that I may learn how to do it.",
+  author: "Pablo Picasso"
 }
 ```
 
