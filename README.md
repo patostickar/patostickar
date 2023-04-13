@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1120,
-  quote: "Our kindness may be the most persuasive argument for that which we believe.",
-  author: "Gordon Hinckley"
+  id: 674,
+  quote: "What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.",
+  author: "Daisaku Ikeda"
 }
 ```
 
