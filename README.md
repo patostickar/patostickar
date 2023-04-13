@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1053,
-  quote: "When anger use your energy to do something productive.",
-  author: "C. Pulsifer"
+  id: 400,
+  quote: "If you cannot do great things, do small things in a great way.",
+  author: "Napoleon Hill"
 }
 ```
 
