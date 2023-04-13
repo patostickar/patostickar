@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1428,
-  quote: "Failure will never overtake me if my determination to succeed is strong enough.",
-  author: "Og Mandino"
+  id: 437,
+  quote: "You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.",
+  author: "Naguib Mahfouz"
 }
 ```
 
