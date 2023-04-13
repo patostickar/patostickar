@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 55,
-  quote: "Think how hard physics would be if particles could think.",
-  author: "Murray Gell-Mann"
+  id: 1230,
+  quote: "Keep silence for the most part, and speak only when you must, and then briefly.",
+  author: "Epictetus"
 }
 ```
 
