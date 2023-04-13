@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 810,
-  quote: "Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength.",
-  author: "Hasidic saying"
+  id: 85,
+  quote: "Only do what your heart tells you.",
+  author: "Princess Diana"
 }
 ```
 
