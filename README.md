@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 283,
-  quote: "Begin at once to live and count each separate day as a separate life.",
-  author: "Seneca"
+  id: 239,
+  quote: "Don't cry because it's over. Smile because it happened.",
+  author: "Dr. Seuss"
 }
 ```
 
