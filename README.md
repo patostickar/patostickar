@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 996,
-  quote: "Being angry never solves anything.",
-  author: "Catherine Pulsifer"
+  id: 289,
+  quote: "If one does not know to which port is sailing, no wind is favorable.",
+  author: "Seneca"
 }
 ```
 
