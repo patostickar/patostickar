@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 783,
-  quote: "Do not expect the world to look bright, if you habitually wear gray-brown glasses.",
-  author: "Tomas Eliot"
+  id: 1377,
+  quote: "Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.",
+  author: "Albert Einstein"
 }
 ```
 
