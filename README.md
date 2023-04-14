@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 385,
-  quote: "If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.",
-  author: "Morris West"
+  id: 1498,
+  quote: "Time you enjoyed wasting was not wasted.",
+  author: "John Lennon"
 }
 ```
 
