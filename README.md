@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1418,
-  quote: "Reason and free inquiry are the only effectual agents against error.",
-  author: "Thomas Jefferson"
+  id: 276,
+  quote: "To forgive is to set a prisoner free and realize that prisoner was you.",
+  author: "Lewis B. Smedes"
 }
 ```
 
