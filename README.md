@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 325,
-  quote: "So long as a person is capable of self-renewal they are a living being.",
-  author: "Henri-Frederic Amiel"
+  id: 1504,
+  quote: "You teach best what you most need to learn.",
+  author: "Richard Bach"
 }
 ```
 
