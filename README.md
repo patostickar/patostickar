@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 317,
-  quote: "Give thanks for the rain of life that propels us to reach new horizons.",
-  author: "Byron Pulsifer"
+  id: 385,
+  quote: "If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.",
+  author: "Morris West"
 }
 ```
 
