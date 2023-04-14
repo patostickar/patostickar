@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1083,
-  quote: "Every great advance in science has issued from a new audacity of the imagination.",
-  author: "John Dewey"
+  id: 344,
+  quote: "We should all be thankful for those people who rekindle the inner spirit.",
+  author: "Albert Schweitzer"
 }
 ```
 
