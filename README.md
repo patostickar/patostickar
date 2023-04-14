@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 499,
-  quote: "Why compare yourself with others? No one in the entire world can do a better job of being you than you.",
-  author: "null"
+  id: 1280,
+  quote: "Strength to carry on despite the odds means you have faith in your own abilities and know how.",
+  author: "Byron Pulsifer"
 }
 ```
 
