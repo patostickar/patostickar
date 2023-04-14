@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1557,
-  quote: "Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.",
-  author: "Johann Wolfgang von Goethe"
+  id: 294,
+  quote: "Nothing in life is to be feared. It is only to be understood.",
+  author: "Marie Curie"
 }
 ```
 
