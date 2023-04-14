@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 990,
-  quote: "Silence is a source of great strength.",
-  author: "Lao Tzu"
+  id: 499,
+  quote: "Why compare yourself with others? No one in the entire world can do a better job of being you than you.",
+  author: "null"
 }
 ```
 
