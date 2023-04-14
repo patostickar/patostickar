@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 649,
-  quote: "Remember always that you not only have the right to be an individual, you have an obligation to be one.",
-  author: "Eleanor Roosevelt"
+  id: 317,
+  quote: "Give thanks for the rain of life that propels us to reach new horizons.",
+  author: "Byron Pulsifer"
 }
 ```
 
