@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 764,
-  quote: "Time stays long enough for anyone who will use it.",
-  author: "Leonardo da Vinci"
+  id: 325,
+  quote: "So long as a person is capable of self-renewal they are a living being.",
+  author: "Henri-Frederic Amiel"
 }
 ```
 
