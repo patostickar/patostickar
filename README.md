@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1498,
-  quote: "Time you enjoyed wasting was not wasted.",
-  author: "John Lennon"
+  id: 1418,
+  quote: "Reason and free inquiry are the only effectual agents against error.",
+  author: "Thomas Jefferson"
 }
 ```
 
