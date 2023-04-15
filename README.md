@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1140,
-  quote: "It is not only for what we do that we are held responsible, but also for what we do not do.",
-  author: "Moliere"
+  id: 370,
+  quote: "Before you put on a frown, make absolutely sure there are no smiles available.",
+  author: "Jim Beggs"
 }
 ```
 
