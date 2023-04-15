@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1346,
-  quote: "It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.",
-  author: "Franklin D. Roosevelt"
+  id: 1294,
+  quote: "The difference between what we do and what we are capable of doing would suffice to solve most of the worlds problems.",
+  author: "Mohandas Gandhi"
 }
 ```
 
