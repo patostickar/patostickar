@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 806,
-  quote: "You may only be someone in the world, but to someone else, you may be the world.",
-  author: "null"
+  id: 1249,
+  quote: "The things that one most wants to do are the things that are probably most worth doing.",
+  author: "Winifred Holtby"
 }
 ```
 
