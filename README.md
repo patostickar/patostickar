@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1294,
-  quote: "The difference between what we do and what we are capable of doing would suffice to solve most of the worlds problems.",
-  author: "Mohandas Gandhi"
+  id: 1582,
+  quote: "Miracles come in moments. Be ready and willing.",
+  author: "Wayne Dyer"
 }
 ```
 
