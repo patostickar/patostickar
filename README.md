@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 279,
-  quote: "Letting go is not the end of the world; it is the beginning of a new life.",
-  author: "null"
+  id: 873,
+  quote: "Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.",
+  author: "Jean-Paul Sartre"
 }
 ```
 
