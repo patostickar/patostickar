@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 94,
-  quote: "You can do it if you believe you can!",
-  author: "Napoleon Hill"
+  id: 455,
+  quote: "You may be deceived if you trust too much, but you will live in torment if you don't trust enough.",
+  author: "Frank Crane"
 }
 ```
 
