@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 943,
-  quote: "Always be mindful of the kindness and not the faults of others.",
-  author: "Buddha"
+  id: 185,
+  quote: "The best way out is always through.",
+  author: "Robert Frost"
 }
 ```
 
