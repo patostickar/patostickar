@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 6,
-  quote: "Nothing happens unless first we dream.",
-  author: "Carl Sandburg"
+  id: 975,
+  quote: "Nothing ever goes away until it has taught us what we need to know.",
+  author: "Pema Chodron"
 }
 ```
 
