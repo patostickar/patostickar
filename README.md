@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 873,
-  quote: "Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.",
-  author: "Jean-Paul Sartre"
+  id: 1354,
+  quote: "Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were.",
+  author: "David Rockefeller"
 }
 ```
 
