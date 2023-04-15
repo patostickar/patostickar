@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 582,
-  quote: "I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.",
-  author: "G. K. Chesterton"
+  id: 806,
+  quote: "You may only be someone in the world, but to someone else, you may be the world.",
+  author: "null"
 }
 ```
 
