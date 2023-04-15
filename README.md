@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 725,
-  quote: "Ignorant men don't know what good they hold in their hands until they've flung it away.",
-  author: "Sophocles"
+  id: 582,
+  quote: "I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.",
+  author: "G. K. Chesterton"
 }
 ```
 
