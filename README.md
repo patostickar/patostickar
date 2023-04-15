@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 564,
-  quote: "If the stars should appear but one night every thousand years how man would marvel and adore.",
-  author: "Ralph Emerson"
+  id: 542,
+  quote: "Don't wait for your feelings to change to take the action. Take the action and your feelings will change.",
+  author: "Barbara Baron"
 }
 ```
 
