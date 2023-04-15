@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 975,
-  quote: "Nothing ever goes away until it has taught us what we need to know.",
-  author: "Pema Chodron"
+  id: 564,
+  quote: "If the stars should appear but one night every thousand years how man would marvel and adore.",
+  author: "Ralph Emerson"
 }
 ```
 
