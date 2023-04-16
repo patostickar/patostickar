@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 771,
-  quote: "The more light you allow within you, the brighter the world you live in will be.",
-  author: "Shakti Gawain"
+  id: 719,
+  quote: "Meaning is not what you start with but what you end up with.",
+  author: "Peter Elbow"
 }
 ```
 
