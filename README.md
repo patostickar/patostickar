@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1292,
-  quote: "The superior man acts before he speaks, and afterwards speaks according to his action.",
-  author: "Confucius"
+  id: 1557,
+  quote: "Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
