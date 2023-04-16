@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 549,
-  quote: "Take things as they are. Punch when you have to punch. Kick when you have to kick.",
-  author: "Bruce Lee"
+  id: 1292,
+  quote: "The superior man acts before he speaks, and afterwards speaks according to his action.",
+  author: "Confucius"
 }
 ```
 
