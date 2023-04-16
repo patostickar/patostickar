@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1304,
-  quote: "Our passion is our strength.",
-  author: "Billie Armstrong"
+  id: 1337,
+  quote: "Divide each difficulty into as many parts as is feasible and necessary to resolve it.",
+  author: "Rene Descartes"
 }
 ```
 
