@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1385,
-  quote: "They can conquer who believe they can.",
-  author: "Virgil"
+  id: 156,
+  quote: "Someone remembers, someone cares; your name is whispered in someone's prayers.",
+  author: "null"
 }
 ```
 
