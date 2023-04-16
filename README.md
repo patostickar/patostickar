@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 751,
-  quote: "We must not say every mistake is a foolish one.",
-  author: "Cicero"
+  id: 1412,
+  quote: "Meditation brings wisdom; lack of mediation leaves ignorance. Know well what leads you forward and what hold you back, and choose the path that leads to wisdom.",
+  author: "Buddha"
 }
 ```
 
