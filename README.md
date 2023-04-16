@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 47,
-  quote: "He is able who thinks he is able.",
-  author: "Buddha"
+  id: 751,
+  quote: "We must not say every mistake is a foolish one.",
+  author: "Cicero"
 }
 ```
 
