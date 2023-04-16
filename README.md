@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1412,
-  quote: "Meditation brings wisdom; lack of mediation leaves ignorance. Know well what leads you forward and what hold you back, and choose the path that leads to wisdom.",
-  author: "Buddha"
+  id: 1255,
+  quote: "He who deliberates fully before taking a step will spend his entire life on one leg.",
+  author: "Chinese proverb"
 }
 ```
 
