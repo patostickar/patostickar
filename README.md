@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 156,
-  quote: "Someone remembers, someone cares; your name is whispered in someone's prayers.",
-  author: "null"
+  id: 1073,
+  quote: "It's important to know that words don't move mountains. Work, exacting work moves mountains.",
+  author: "Danilo Dolci"
 }
 ```
 
