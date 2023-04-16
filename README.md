@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 54,
-  quote: "The best teacher is experience learned from failures.",
-  author: "Byron Pulsifer"
+  id: 1385,
+  quote: "They can conquer who believe they can.",
+  author: "Virgil"
 }
 ```
 
