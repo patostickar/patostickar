@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 501,
-  quote: "A good teacher is like a candle it consumes itself to light the way for others.",
-  author: "null"
+  id: 702,
+  quote: "How far that little candle throws its beams! So shines a good deed in a naughty world.",
+  author: "William Shakespeare"
 }
 ```
 
