@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 719,
-  quote: "Meaning is not what you start with but what you end up with.",
-  author: "Peter Elbow"
+  id: 324,
+  quote: "The world is a book, and those who do not travel read only a page.",
+  author: "Augustinus Sanctus"
 }
 ```
 
