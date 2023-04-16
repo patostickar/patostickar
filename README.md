@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1557,
-  quote: "Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.",
-  author: "Johann Wolfgang von Goethe"
+  id: 260,
+  quote: "All seasons are beautiful for the person who carries happiness within.",
+  author: "Horace Friess"
 }
 ```
 
