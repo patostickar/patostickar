@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 303,
-  quote: "The worst bankrupt in the world is the person who has lost his enthusiasm.",
-  author: "H. W. Arnold"
+  id: 817,
+  quote: "The amount of happiness that you have depends on the amount of freedom you have in your heart.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
