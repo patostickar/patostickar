@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 570,
-  quote: "Blessed is the person who is too busy to worry in the daytime, and too sleepy to worry at night.",
-  author: "Leo Aikman"
+  id: 1479,
+  quote: "The possibilities are numerous once we decide to act and not react.",
+  author: "George Bernard Shaw"
 }
 ```
 
