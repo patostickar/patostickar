@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1479,
-  quote: "The possibilities are numerous once we decide to act and not react.",
-  author: "George Bernard Shaw"
+  id: 728,
+  quote: "Do not turn back when you are just at the goal.",
+  author: "Publilius Syrus"
 }
 ```
 
