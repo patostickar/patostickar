@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 527,
-  quote: "We never understand how little we need in this world until we know the loss of it.",
-  author: "James Barrie"
+  id: 570,
+  quote: "Blessed is the person who is too busy to worry in the daytime, and too sleepy to worry at night.",
+  author: "Leo Aikman"
 }
 ```
 
