@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 932,
-  quote: "Action may not always bring happiness, but there is no happiness without action.",
-  author: "Benjamin Disraeli"
+  id: 1266,
+  quote: "Courage is not the absence of fear, but simply moving on with dignity despite that fear.",
+  author: "Pat Riley"
 }
 ```
 
