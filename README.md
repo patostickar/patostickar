@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1518,
-  quote: "Don't be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.",
-  author: "Richard Bach"
+  id: 1539,
+  quote: "It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.",
+  author: "Pema Chodron"
 }
 ```
 
