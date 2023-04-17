@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 150,
-  quote: "Each day provides its own gifts.",
-  author: "Marcus Aurelius"
+  id: 527,
+  quote: "We never understand how little we need in this world until we know the loss of it.",
+  author: "James Barrie"
 }
 ```
 
