@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 467,
-  quote: "We see things not as they are, but as we are. Our perception is shaped by our previous experiences.",
-  author: "Dennis Kimbro"
+  id: 303,
+  quote: "The worst bankrupt in the world is the person who has lost his enthusiasm.",
+  author: "H. W. Arnold"
 }
 ```
 
