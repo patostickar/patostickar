@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 345,
-  quote: "Opportunity is missed by most because it is dressed in overalls and looks like work.",
-  author: "Thomas Edison"
+  id: 447,
+  quote: "If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.",
+  author: "Dalai Lama"
 }
 ```
 
