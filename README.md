@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1120,
-  quote: "Our kindness may be the most persuasive argument for that which we believe.",
-  author: "Gordon Hinckley"
+  id: 1225,
+  quote: "Failure doesn't mean you are a failure it just means you haven't succeeded yet.",
+  author: "Robert Schuller"
 }
 ```
 
