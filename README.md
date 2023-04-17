@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1539,
-  quote: "It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.",
-  author: "Pema Chodron"
+  id: 309,
+  quote: "A thing long expected takes the form of the unexpected when at last it comes.",
+  author: "Mark Twain"
 }
 ```
 
