@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1225,
-  quote: "Failure doesn't mean you are a failure it just means you haven't succeeded yet.",
-  author: "Robert Schuller"
+  id: 682,
+  quote: "Try not to become a man of success, but rather try to become a man of value.",
+  author: "Albert Einstein"
 }
 ```
 
