@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 927,
-  quote: "Arriving at one point is the starting point to another.",
-  author: "John Dewey"
+  id: 467,
+  quote: "We see things not as they are, but as we are. Our perception is shaped by our previous experiences.",
+  author: "Dennis Kimbro"
 }
 ```
 
