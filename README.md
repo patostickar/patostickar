@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1266,
-  quote: "Courage is not the absence of fear, but simply moving on with dignity despite that fear.",
-  author: "Pat Riley"
+  id: 1120,
+  quote: "Our kindness may be the most persuasive argument for that which we believe.",
+  author: "Gordon Hinckley"
 }
 ```
 
