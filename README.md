@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 682,
-  quote: "Try not to become a man of success, but rather try to become a man of value.",
-  author: "Albert Einstein"
+  id: 361,
+  quote: "There is nothing in a caterpillar that tells you it's going to be a butterfly.",
+  author: "Buckminster Fuller"
 }
 ```
 
