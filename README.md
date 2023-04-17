@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 309,
-  quote: "A thing long expected takes the form of the unexpected when at last it comes.",
-  author: "Mark Twain"
+  id: 883,
+  quote: "You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.",
+  author: "John Lennon"
 }
 ```
 
