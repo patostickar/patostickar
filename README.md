@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 361,
-  quote: "There is nothing in a caterpillar that tells you it's going to be a butterfly.",
-  author: "Buckminster Fuller"
+  id: 1484,
+  quote: "If you're in a bad situation, don't worry it'll change. If you're in a good situation, don't worry it'll change.",
+  author: "John Simone"
 }
 ```
 
