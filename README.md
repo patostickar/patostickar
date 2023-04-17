@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 370,
-  quote: "Before you put on a frown, make absolutely sure there are no smiles available.",
-  author: "Jim Beggs"
+  id: 345,
+  quote: "Opportunity is missed by most because it is dressed in overalls and looks like work.",
+  author: "Thomas Edison"
 }
 ```
 
