@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 565,
-  quote: "There are two kinds of failures: those who thought and never did, and those who did and never thought.",
-  author: "Laurence J. Peter"
+  id: 327,
+  quote: "Think for yourselves and let others enjoy the privilege to do so too.",
+  author: "Voltaire"
 }
 ```
 
