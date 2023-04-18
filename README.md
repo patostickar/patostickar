@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 700,
-  quote: "All that we are is the result of what we have thought. The mind is everything. What we think we become.",
-  author: "Buddha"
+  id: 738,
+  quote: "The universe is transformation; our life is what our thoughts make it.",
+  author: "Marcus Aurelius"
 }
 ```
 
