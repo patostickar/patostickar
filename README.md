@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1324,
-  quote: "Obstacles are those things you see when you take your eyes off the goal.",
-  author: "Hannah More"
+  id: 373,
+  quote: "It is not uncommon for people to spend their whole life waiting to start living.",
+  author: "Eckhart Tolle"
 }
 ```
 
