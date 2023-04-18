@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 99,
-  quote: "Do more than dream: work.",
-  author: "William Arthur Ward"
+  id: 962,
+  quote: "Peace cannot be kept by force. It can only be achieved by understanding.",
+  author: "Albert Einstein"
 }
 ```
 
