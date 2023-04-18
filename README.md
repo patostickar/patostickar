@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 115,
-  quote: "Light tomorrow with today!",
-  author: "Elizabeth Browning"
+  id: 183,
+  quote: "Fortune favours the brave.",
+  author: "Virgil"
 }
 ```
 
