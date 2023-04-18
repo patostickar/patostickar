@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1469,
-  quote: "Love is the master key that opens the gates of happiness.",
-  author: "Oliver Holmes"
+  id: 930,
+  quote: "It is only possible to live happily ever after on a day to day basis.",
+  author: "Margaret Bonnano"
 }
 ```
 
