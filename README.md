@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 205,
-  quote: "Inspiration exists, but it has to find us working.",
-  author: "Pablo Picasso"
+  id: 262,
+  quote: "All things change; nothing perishes.",
+  author: "Ovid"
 }
 ```
 
