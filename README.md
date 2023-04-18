@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 834,
-  quote: "Fear of failure is one attitude that will keep you at the same point in your life.",
-  author: "Byron Pulsifer"
+  id: 99,
+  quote: "Do more than dream: work.",
+  author: "William Arthur Ward"
 }
 ```
 
