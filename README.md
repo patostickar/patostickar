@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1464,
-  quote: "You must do the things you think you cannot do.",
-  author: "Eleanor Roosevelt"
+  id: 834,
+  quote: "Fear of failure is one attitude that will keep you at the same point in your life.",
+  author: "Byron Pulsifer"
 }
 ```
 
