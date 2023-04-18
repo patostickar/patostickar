@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 262,
-  quote: "All things change; nothing perishes.",
-  author: "Ovid"
+  id: 1059,
+  quote: "As our case is new, we must think and act anew.",
+  author: "Abraham Lincoln"
 }
 ```
 
