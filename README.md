@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 327,
-  quote: "Think for yourselves and let others enjoy the privilege to do so too.",
-  author: "Voltaire"
+  id: 1464,
+  quote: "You must do the things you think you cannot do.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
