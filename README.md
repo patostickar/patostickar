@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 373,
-  quote: "It is not uncommon for people to spend their whole life waiting to start living.",
-  author: "Eckhart Tolle"
+  id: 186,
+  quote: "The mind unlearns with difficulty what it has long learned.",
+  author: "Seneca"
 }
 ```
 
