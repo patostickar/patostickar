@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1199,
-  quote: "Transformation does not start with some one else changing you; transformation is an inner self reworking of what you are now to what you will be.",
-  author: "Byron Pulsifer"
+  id: 504,
+  quote: "The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.",
+  author: "Honore de Balzac"
 }
 ```
 
