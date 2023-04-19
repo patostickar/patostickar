@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 301,
-  quote: "If you get up one more time than you fall, you will make it through.",
-  author: "null"
+  id: 1017,
+  quote: "We don't stop playing because we grow old; we grow old because we stop playing.",
+  author: "Bernard Shaw"
 }
 ```
 
