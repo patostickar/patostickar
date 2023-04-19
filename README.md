@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1252,
-  quote: "Chaos and Order are not enemies, only opposites.",
-  author: "Richard Garriott"
+  id: 142,
+  quote: "Rainbows apologize for angry skies.",
+  author: "Sylvia Voirol"
 }
 ```
 
