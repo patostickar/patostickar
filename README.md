@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 962,
-  quote: "Peace cannot be kept by force. It can only be achieved by understanding.",
+  id: 941,
+  quote: "Reality is merely an illusion, albeit a very persistent one.",
   author: "Albert Einstein"
 }
 ```
