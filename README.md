@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 783,
-  quote: "Do not expect the world to look bright, if you habitually wear gray-brown glasses.",
-  author: "Tomas Eliot"
+  id: 1060,
+  quote: "If you can't feed a hundred people, then feed just one.",
+  author: "Mother Teresa"
 }
 ```
 
