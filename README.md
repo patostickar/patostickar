@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 557,
-  quote: "Give me six hours to chop down a tree and I will spend the first four sharpening the axe.",
-  author: "Abraham Lincoln"
+  id: 1199,
+  quote: "Transformation does not start with some one else changing you; transformation is an inner self reworking of what you are now to what you will be.",
+  author: "Byron Pulsifer"
 }
 ```
 
