@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 608,
-  quote: "I can't imagine a person becoming a success who doesn't give this game of life everything hes got.",
-  author: "Walter Cronkite"
+  id: 641,
+  quote: "Wisdom is knowing what to do next; Skill is knowing how ot do it, and Virtue is doing it.",
+  author: "David Jordan"
 }
 ```
 
