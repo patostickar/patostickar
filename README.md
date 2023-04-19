@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1292,
-  quote: "The superior man acts before he speaks, and afterwards speaks according to his action.",
-  author: "Confucius"
+  id: 1505,
+  quote: "Continuous effort, not strength or intelligence is the key to unlocking our potential.",
+  author: "Winston Churchill"
 }
 ```
 
