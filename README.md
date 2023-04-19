@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 741,
-  quote: "You might well remember that nothing can bring you success but yourself.",
-  author: "Napoleon Hill"
+  id: 1123,
+  quote: "Nothing great was ever achieved without enthusiasm.",
+  author: "Ralph Emerson"
 }
 ```
 
