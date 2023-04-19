@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 530,
-  quote: "Take no thought of who is right or wrong or who is better than. Be not for or against.",
+  id: 1356,
+  quote: "The less effort, the faster and more powerful you will be.",
   author: "Bruce Lee"
 }
 ```
