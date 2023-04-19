@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1505,
-  quote: "Continuous effort, not strength or intelligence is the key to unlocking our potential.",
-  author: "Winston Churchill"
+  id: 1156,
+  quote: "Why worry about tomorrow, when today is all we have?",
+  author: "null"
 }
 ```
 
