@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1199,
-  quote: "Transformation does not start with some one else changing you; transformation is an inner self reworking of what you are now to what you will be.",
-  author: "Byron Pulsifer"
+  id: 1400,
+  quote: "The only real mistake is the one from which we learn nothing.",
+  author: "John Powell"
 }
 ```
 
