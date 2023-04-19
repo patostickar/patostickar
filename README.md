@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1156,
-  quote: "Why worry about tomorrow, when today is all we have?",
-  author: "null"
+  id: 783,
+  quote: "Do not expect the world to look bright, if you habitually wear gray-brown glasses.",
+  author: "Tomas Eliot"
 }
 ```
 
