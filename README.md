@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1123,
-  quote: "Nothing great was ever achieved without enthusiasm.",
-  author: "Ralph Emerson"
+  id: 608,
+  quote: "I can't imagine a person becoming a success who doesn't give this game of life everything hes got.",
+  author: "Walter Cronkite"
 }
 ```
 
