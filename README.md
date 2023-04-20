@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 171,
-  quote: "There is no way to happiness, happiness is the way.",
-  author: "Thich Nhat Hanh"
+  id: 853,
+  quote: "For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.",
+  author: "Mary Kay Ash"
 }
 ```
 
