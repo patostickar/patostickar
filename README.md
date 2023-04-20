@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 381,
-  quote: "They say that time changes things, but you actually have to change them yourself.",
-  author: "Andy Warhol"
+  id: 582,
+  quote: "I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.",
+  author: "G. K. Chesterton"
 }
 ```
 
