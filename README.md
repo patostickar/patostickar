@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 158,
-  quote: "Once we accept our limits, we go beyond them.",
-  author: "Albert Einstein"
+  id: 942,
+  quote: "When you come to the end of your rope, tie a knot and hang on.",
+  author: "Franklin Roosevelt"
 }
 ```
 
