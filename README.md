@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 116,
-  quote: "Silence is a fence around wisdom.",
-  author: "German proverb"
+  id: 1539,
+  quote: "It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.",
+  author: "Pema Chodron"
 }
 ```
 
