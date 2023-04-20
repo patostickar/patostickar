@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1101,
-  quote: "Change your words. Change your world.",
-  author: "null"
+  id: 537,
+  quote: "Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.",
+  author: "Anais Nin"
 }
 ```
 
