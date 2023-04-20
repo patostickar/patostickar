@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1379,
-  quote: "Those who cannot learn from history are doomed to repeat it.",
-  author: "George Santayan"
+  id: 158,
+  quote: "Once we accept our limits, we go beyond them.",
+  author: "Albert Einstein"
 }
 ```
 
