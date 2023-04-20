@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1480,
-  quote: "Almost everything comes from nothing.",
-  author: "Henri Amiel"
+  id: 171,
+  quote: "There is no way to happiness, happiness is the way.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
