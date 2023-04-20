@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 648,
-  quote: "If we are facing in the right direction, all we have to do is keep on walking.",
-  author: "null"
+  id: 652,
+  quote: "Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.",
+  author: "Eknath Easwaran"
 }
 ```
 
