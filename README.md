@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 206,
-  quote: "Pick battles big enough to matter, small enough to win.",
-  author: "Jonathan Kozol"
+  id: 381,
+  quote: "They say that time changes things, but you actually have to change them yourself.",
+  author: "Andy Warhol"
 }
 ```
 
