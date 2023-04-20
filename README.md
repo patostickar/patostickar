@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 537,
-  quote: "Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.",
-  author: "Anais Nin"
+  id: 648,
+  quote: "If we are facing in the right direction, all we have to do is keep on walking.",
+  author: "null"
 }
 ```
 
