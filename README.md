@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 652,
-  quote: "Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.",
-  author: "Eknath Easwaran"
+  id: 1379,
+  quote: "Those who cannot learn from history are doomed to repeat it.",
+  author: "George Santayan"
 }
 ```
 
