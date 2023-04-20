@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 582,
-  quote: "I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.",
-  author: "G. K. Chesterton"
+  id: 54,
+  quote: "The best teacher is experience learned from failures.",
+  author: "Byron Pulsifer"
 }
 ```
 
