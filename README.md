@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1417,
-  quote: "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.",
-  author: "Lao Tzu"
+  id: 344,
+  quote: "We should all be thankful for those people who rekindle the inner spirit.",
+  author: "Albert Schweitzer"
 }
 ```
 
