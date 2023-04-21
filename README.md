@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 853,
-  quote: "For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.",
-  author: "Mary Kay Ash"
+  id: 575,
+  quote: "The shoe that fits one person pinches another; there is no recipe for living that suits all cases.",
+  author: "Carl Jung"
 }
 ```
 
