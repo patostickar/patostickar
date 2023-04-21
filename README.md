@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1488,
-  quote: "Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.",
-  author: "Thomas Carlyle"
+  id: 677,
+  quote: "Take time to deliberate, but when the time for action has arrived, stop thinking and go in.",
+  author: "Napoleon Bonaparte"
 }
 ```
 
