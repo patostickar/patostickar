@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1341,
-  quote: "Anybody can make history. Only a great man can write it.",
-  author: "Oscar Wilde"
+  id: 1446,
+  quote: "The more you care, the stronger you can be.",
+  author: "Jim Rohn"
 }
 ```
 
