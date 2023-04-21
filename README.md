@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 487,
-  quote: "People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.",
-  author: "Johann Wolfgang von Goethe"
+  id: 617,
+  quote: "Yesterday is history. Tomorrow is a mystery. And today? Today is a gift that's why they call it the present.",
+  author: "null"
 }
 ```
 
