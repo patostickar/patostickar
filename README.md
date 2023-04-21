@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 873,
-  quote: "Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.",
-  author: "Jean-Paul Sartre"
+  id: 419,
+  quote: "Success means having the courage, the determination, and the will to become the person you believe you were meant to be.",
+  author: "George Sheehan"
 }
 ```
 
