@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 677,
-  quote: "Take time to deliberate, but when the time for action has arrived, stop thinking and go in.",
-  author: "Napoleon Bonaparte"
+  id: 1508,
+  quote: "Never tell a young person that anything cannot be done. God may have been waiting centuries for someone ignorant enough of the impossible to do that very thing.",
+  author: "John Holmes"
 }
 ```
 
