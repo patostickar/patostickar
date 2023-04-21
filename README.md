@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 362,
-  quote: "Love and compassion open our own inner life, reducing stress, distrust and loneliness.",
-  author: "Dalai Lama"
+  id: 226,
+  quote: "To fly, we have to have resistance.",
+  author: "Maya Lin"
 }
 ```
 
