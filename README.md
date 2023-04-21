@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 617,
-  quote: "Yesterday is history. Tomorrow is a mystery. And today? Today is a gift that's why they call it the present.",
-  author: "null"
+  id: 1433,
+  quote: "I gave my life to become the person I am right now. Was it worth it?",
+  author: "Richard Bach"
 }
 ```
 
