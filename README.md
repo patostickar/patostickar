@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 575,
-  quote: "The shoe that fits one person pinches another; there is no recipe for living that suits all cases.",
-  author: "Carl Jung"
+  id: 694,
+  quote: "Try not to become a man of success but rather try to become a man of value.",
+  author: "Albert Einstein"
 }
 ```
 
