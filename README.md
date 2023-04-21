@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 165,
-  quote: "Freedom is the right to live as we wish.",
-  author: "Epictetus"
+  id: 1334,
+  quote: "Don't think of it as failure. Think of it as time-released success.",
+  author: "Robert Orben"
 }
 ```
 
