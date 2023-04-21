@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1167,
-  quote: "We can only be said to be alive in those moments when our hearts are conscious of our treasures.",
-  author: "Thornton Wilder"
+  id: 366,
+  quote: "The way is not in the sky. The way is in the heart.",
+  author: "Buddha"
 }
 ```
 
