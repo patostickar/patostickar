@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1446,
-  quote: "The more you care, the stronger you can be.",
-  author: "Jim Rohn"
+  id: 165,
+  quote: "Freedom is the right to live as we wish.",
+  author: "Epictetus"
 }
 ```
 
