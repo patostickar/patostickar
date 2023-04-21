@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1334,
-  quote: "Don't think of it as failure. Think of it as time-released success.",
-  author: "Robert Orben"
+  id: 1341,
+  quote: "Anybody can make history. Only a great man can write it.",
+  author: "Oscar Wilde"
 }
 ```
 
