@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1183,
-  quote: "Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather.",
-  author: "John Ruskin"
+  id: 428,
+  quote: "I'm a great believer in luck and I find the harder I work, the more I have of it.",
+  author: "Thomas Jefferson"
 }
 ```
 
