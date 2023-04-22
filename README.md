@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 344,
-  quote: "We should all be thankful for those people who rekindle the inner spirit.",
-  author: "Albert Schweitzer"
+  id: 1183,
+  quote: "Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather.",
+  author: "John Ruskin"
 }
 ```
 
