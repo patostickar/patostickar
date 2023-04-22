@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 633,
-  quote: "The happiness of a man in this life does not consist in the absence but in the mastery of his passions.",
-  author: "Alfred Tennyson"
+  id: 1138,
+  quote: "We are the leaves of one branch, the drops of one sea, the flowers of one garden.",
+  author: "Jean Lacordaire"
 }
 ```
 
