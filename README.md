@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1344,
-  quote: "Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.",
-  author: "Barack Obama"
+  id: 1566,
+  quote: "Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.",
+  author: "Jonathan Swift"
 }
 ```
 
