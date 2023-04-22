@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1126,
-  quote: "A man is not old as long as he is seeking something.",
-  author: "Edmond Rostand"
+  id: 24,
+  quote: "Doing nothing is better than being busy doing nothing.",
+  author: "Lao Tzu"
 }
 ```
 
