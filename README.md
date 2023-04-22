@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1566,
-  quote: "Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.",
-  author: "Jonathan Swift"
+  id: 1457,
+  quote: "To follow, without halt, one aim: There is the secret of success.",
+  author: "Anna Pavlova"
 }
 ```
 
