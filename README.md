@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 528,
-  quote: "The real measure of your wealth is how much youd be worth if you lost all your money.",
-  author: "null"
+  id: 1188,
+  quote: "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves.",
+  author: "Buddha"
 }
 ```
 
