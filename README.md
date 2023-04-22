@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1053,
-  quote: "When anger use your energy to do something productive.",
-  author: "C. Pulsifer"
+  id: 11,
+  quote: "What you give is what you get.",
+  author: "Byron Pulsifer"
 }
 ```
 
