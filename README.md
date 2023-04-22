@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1138,
-  quote: "We are the leaves of one branch, the drops of one sea, the flowers of one garden.",
-  author: "Jean Lacordaire"
+  id: 1001,
+  quote: "Be less curious about people and more curious about ideas.",
+  author: "Marie Curie"
 }
 ```
 
