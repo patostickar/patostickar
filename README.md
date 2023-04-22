@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 24,
-  quote: "Doing nothing is better than being busy doing nothing.",
-  author: "Lao Tzu"
+  id: 1053,
+  quote: "When anger use your energy to do something productive.",
+  author: "C. Pulsifer"
 }
 ```
 
