@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1001,
-  quote: "Be less curious about people and more curious about ideas.",
-  author: "Marie Curie"
+  id: 633,
+  quote: "The happiness of a man in this life does not consist in the absence but in the mastery of his passions.",
+  author: "Alfred Tennyson"
 }
 ```
 
