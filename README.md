@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1001,
-  quote: "Be less curious about people and more curious about ideas.",
-  author: "Marie Curie"
+  id: 1426,
+  quote: "If you propose to speak, always ask yourself, is it true, is it necessary, is it kind.",
+  author: "Buddha"
 }
 ```
 
