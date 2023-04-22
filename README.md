@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1457,
-  quote: "To follow, without halt, one aim: There is the secret of success.",
-  author: "Anna Pavlova"
+  id: 1001,
+  quote: "Be less curious about people and more curious about ideas.",
+  author: "Marie Curie"
 }
 ```
 
