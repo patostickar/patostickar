@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 428,
-  quote: "I'm a great believer in luck and I find the harder I work, the more I have of it.",
-  author: "Thomas Jefferson"
+  id: 528,
+  quote: "The real measure of your wealth is how much youd be worth if you lost all your money.",
+  author: "null"
 }
 ```
 
