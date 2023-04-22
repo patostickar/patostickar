@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 11,
-  quote: "What you give is what you get.",
-  author: "Byron Pulsifer"
+  id: 273,
+  quote: "Be thankful when you don't know something for it gives you the opportunity to learn.",
+  author: "null"
 }
 ```
 
