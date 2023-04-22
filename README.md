@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 177,
-  quote: "Our strength grows out of our weaknesses.",
-  author: "Ralph Waldo Emerson"
+  id: 110,
+  quote: "The shortest answer is doing.",
+  author: "Lord Herbert"
 }
 ```
 
