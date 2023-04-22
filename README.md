@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 967,
-  quote: "As you think, so shall you become.",
-  author: "Bruce Lee"
+  id: 80,
+  quote: "Anticipate the difficult by managing the easy.",
+  author: "Lao Tzu"
 }
 ```
 
