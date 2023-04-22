@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1426,
-  quote: "If you propose to speak, always ask yourself, is it true, is it necessary, is it kind.",
-  author: "Buddha"
+  id: 352,
+  quote: "I cannot make my days longer so I strive to make them better.",
+  author: "Henry David Thoreau"
 }
 ```
 
