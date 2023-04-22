@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 80,
-  quote: "Anticipate the difficult by managing the easy.",
-  author: "Lao Tzu"
+  id: 177,
+  quote: "Our strength grows out of our weaknesses.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
