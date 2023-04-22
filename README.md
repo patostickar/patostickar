@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 352,
-  quote: "I cannot make my days longer so I strive to make them better.",
-  author: "Henry David Thoreau"
+  id: 1126,
+  quote: "A man is not old as long as he is seeking something.",
+  author: "Edmond Rostand"
 }
 ```
 
