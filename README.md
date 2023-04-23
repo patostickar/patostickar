@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 51,
-  quote: "A weed is no more than a flower in disguise.",
-  author: "James Lowell"
+  id: 259,
+  quote: "Life is a progress, and not a station.",
+  author: "Ralph Emerson"
 }
 ```
 
