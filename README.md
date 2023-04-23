@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 126,
-  quote: "Our intention creates our reality.",
-  author: "Wayne Dyer"
+  id: 1256,
+  quote: "Peace begins with a smile.",
+  author: "Mother Teresa"
 }
 ```
 
