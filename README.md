@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 681,
-  quote: "Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.",
-  author: "Mary Kay Ash"
+  id: 506,
+  quote: "If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.",
+  author: "Vince Lombardi"
 }
 ```
 
