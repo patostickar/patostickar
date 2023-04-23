@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 506,
-  quote: "If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.",
-  author: "Vince Lombardi"
+  id: 1623,
+  quote: "What we see depends mainly on what we look for.",
+  author: "John Lubbock"
 }
 ```
 
