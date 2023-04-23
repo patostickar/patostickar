@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1099,
-  quote: "The difficulties of life are intended to make us better, not bitter.",
+  id: 84,
+  quote: "A beautiful thing is never perfect.",
   author: "null"
 }
 ```
