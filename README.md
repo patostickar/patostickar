@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 305,
-  quote: "Don't focus on making the right decision, focus on making the decision the right one.",
-  author: "null"
+  id: 450,
+  quote: "Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.",
+  author: "Alan Cohen"
 }
 ```
 
