@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 84,
-  quote: "A beautiful thing is never perfect.",
-  author: "null"
+  id: 1272,
+  quote: "When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.",
+  author: "Tenzin Gyatso"
 }
 ```
 
