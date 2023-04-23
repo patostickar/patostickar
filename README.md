@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1511,
-  quote: "In skating over thin ice our safety is in our speed.",
-  author: "Ralph Emerson"
+  id: 826,
+  quote: "In the depth of winter, I finally learned that there was within me an invincible summer.",
+  author: "Albert Camus"
 }
 ```
 
