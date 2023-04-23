@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1272,
-  quote: "When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.",
-  author: "Tenzin Gyatso"
+  id: 681,
+  quote: "Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.",
+  author: "Mary Kay Ash"
 }
 ```
 
