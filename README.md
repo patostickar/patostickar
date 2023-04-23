@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 474,
-  quote: "If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.",
-  author: "Ralph Emerson"
+  id: 1630,
+  quote: "Nothing will work unless you do.",
+  author: "Maya Angelou"
 }
 ```
 
