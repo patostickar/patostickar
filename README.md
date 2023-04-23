@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1623,
-  quote: "What we see depends mainly on what we look for.",
-  author: "John Lubbock"
+  id: 51,
+  quote: "A weed is no more than a flower in disguise.",
+  author: "James Lowell"
 }
 ```
 
