@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1042,
-  quote: "Nature is a mutable cloud which is always and never the same.",
-  author: "Ralph Emerson"
+  id: 765,
+  quote: "You must welcome change as the rule but not as your ruler.",
+  author: "Denis Waitley"
 }
 ```
 
