@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1630,
-  quote: "Nothing will work unless you do.",
-  author: "Maya Angelou"
+  id: 600,
+  quote: "If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.",
+  author: "Barack Obama"
 }
 ```
 
