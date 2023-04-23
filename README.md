@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 600,
-  quote: "If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.",
-  author: "Barack Obama"
+  id: 1042,
+  quote: "Nature is a mutable cloud which is always and never the same.",
+  author: "Ralph Emerson"
 }
 ```
 
