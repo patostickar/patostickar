@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 196,
-  quote: "Keep true to the dreams of thy youth.",
-  author: "Friedrich von Schiller"
+  id: 1406,
+  quote: "Things do not change; we change.",
+  author: "Henry Thoreau"
 }
 ```
 
