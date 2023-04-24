@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 491,
-  quote: "What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.",
-  author: "Wayne Dyer"
+  id: 623,
+  quote: "When you don't know what you believe, everything becomes an argument. Everything is debatable. But when you stand for something, decisions are obvious.",
+  author: "null"
 }
 ```
 
