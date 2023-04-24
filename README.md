@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 653,
-  quote: "We could never learn to be brave and patient if there were only joy in the world.",
-  author: "Helen Keller"
+  id: 394,
+  quote: "It is on our failures that we base a new and different and better success.",
+  author: "Havelock Ellis"
 }
 ```
 
