@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 466,
-  quote: "We must never forget that it is through our actions, words, and thoughts that we have a choice.",
-  author: "Sogyal Rinpoche"
+  id: 1310,
+  quote: "We make a living by what we get, but we make a life by what we give.",
+  author: "Winston Churchill"
 }
 ```
 
