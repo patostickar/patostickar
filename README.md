@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1085,
-  quote: "The ladder of success is never crowded at the top.",
-  author: "Napoleon Hill"
+  id: 853,
+  quote: "For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.",
+  author: "Mary Kay Ash"
 }
 ```
 
