@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1406,
-  quote: "Things do not change; we change.",
-  author: "Henry Thoreau"
+  id: 747,
+  quote: "Don't miss all the beautiful colors of the rainbow looking for that pot of gold.",
+  author: "null"
 }
 ```
 
