@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1564,
-  quote: "The only person who never makes mistakes is the person who never does anything.",
-  author: "Denis Waitley"
+  id: 618,
+  quote: "The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.",
+  author: "Henry Thoreau"
 }
 ```
 
