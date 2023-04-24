@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 259,
-  quote: "Life is a progress, and not a station.",
-  author: "Ralph Emerson"
+  id: 196,
+  quote: "Keep true to the dreams of thy youth.",
+  author: "Friedrich von Schiller"
 }
 ```
 
