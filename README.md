@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1262,
-  quote: "Ability will never catch up with the demand for it.",
-  author: "Confucius"
+  id: 1420,
+  quote: "See the positive side, the potential, and make an effort.",
+  author: "Dalai Lama"
 }
 ```
 
