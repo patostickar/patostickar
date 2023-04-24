@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 618,
-  quote: "The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.",
-  author: "Henry Thoreau"
+  id: 771,
+  quote: "The more light you allow within you, the brighter the world you live in will be.",
+  author: "Shakti Gawain"
 }
 ```
 
