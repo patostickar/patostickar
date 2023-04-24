@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1421,
-  quote: "By accepting yourself and being fully what you are, your presence can make others happy.",
-  author: "Jane Roberts"
+  id: 466,
+  quote: "We must never forget that it is through our actions, words, and thoughts that we have a choice.",
+  author: "Sogyal Rinpoche"
 }
 ```
 
