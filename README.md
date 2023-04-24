@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 747,
-  quote: "Don't miss all the beautiful colors of the rainbow looking for that pot of gold.",
-  author: "null"
+  id: 553,
+  quote: "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+  author: "Anne Frank"
 }
 ```
 
