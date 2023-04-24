@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 853,
-  quote: "For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.",
-  author: "Mary Kay Ash"
+  id: 1421,
+  quote: "By accepting yourself and being fully what you are, your presence can make others happy.",
+  author: "Jane Roberts"
 }
 ```
 
