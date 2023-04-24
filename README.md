@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 394,
-  quote: "It is on our failures that we base a new and different and better success.",
-  author: "Havelock Ellis"
+  id: 1204,
+  quote: "He who controls others may be powerful, but he who has mastered himself is mightier still.",
+  author: "Lao Tzu"
 }
 ```
 
