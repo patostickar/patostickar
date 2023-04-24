@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1420,
-  quote: "See the positive side, the potential, and make an effort.",
-  author: "Dalai Lama"
+  id: 747,
+  quote: "Don't miss all the beautiful colors of the rainbow looking for that pot of gold.",
+  author: "null"
 }
 ```
 
