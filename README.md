@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 542,
-  quote: "Don't wait for your feelings to change to take the action. Take the action and your feelings will change.",
-  author: "Barbara Baron"
+  id: 404,
+  quote: "The free man is he who does not fear to go to the end of his thought.",
+  author: "Leon Blum"
 }
 ```
 
