@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 226,
-  quote: "To fly, we have to have resistance.",
-  author: "Maya Lin"
+  id: 1038,
+  quote: "Each day can be one of triumph if you keep up your interests.",
+  author: "George Matthew Adams"
 }
 ```
 
