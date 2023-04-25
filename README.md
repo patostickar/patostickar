@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 159,
-  quote: "Don't be pushed by your problems; be led by your dreams.",
-  author: "null"
+  id: 1564,
+  quote: "The only person who never makes mistakes is the person who never does anything.",
+  author: "Denis Waitley"
 }
 ```
 
