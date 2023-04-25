@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1564,
-  quote: "The only person who never makes mistakes is the person who never does anything.",
-  author: "Denis Waitley"
+  id: 880,
+  quote: "When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points.",
+  author: "Confucius"
 }
 ```
 
