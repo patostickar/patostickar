@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 502,
-  quote: "The only thing to do with good advice is to pass it on. It is never of any use to oneself.",
-  author: "Oscar Wilde"
+  id: 360,
+  quote: "Be what you are. This is the first step toward becoming better than you are.",
+  author: "Julius Charles Hare"
 }
 ```
 
