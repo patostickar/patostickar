@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1154,
-  quote: "Do what you can. Want what you have. Be who you are.",
-  author: "Forrest Church"
+  id: 207,
+  quote: "Don't compromise yourself. You are all you've got.",
+  author: "Janis Joplin"
 }
 ```
 
