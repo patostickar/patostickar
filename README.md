@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 360,
-  quote: "Be what you are. This is the first step toward becoming better than you are.",
-  author: "Julius Charles Hare"
+  id: 1322,
+  quote: "Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.",
+  author: "Aristotle"
 }
 ```
 
