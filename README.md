@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 939,
-  quote: "We must not allow ourselves to become like the system we oppose.",
-  author: "Bishop Desmond Tutu"
+  id: 1154,
+  quote: "Do what you can. Want what you have. Be who you are.",
+  author: "Forrest Church"
 }
 ```
 
