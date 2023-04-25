@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 28,
-  quote: "From error to error one discovers the entire truth.",
-  author: "Sigmund Freud"
+  id: 1012,
+  quote: "Passion creates the desire for more and action fuelled by passion creates a future.",
+  author: "Byron Pulsifer"
 }
 ```
 
