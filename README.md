@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 880,
-  quote: "When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points.",
-  author: "Confucius"
+  id: 91,
+  quote: "Love all, trust a few, do wrong to none.",
+  author: "William Shakespeare"
 }
 ```
 
