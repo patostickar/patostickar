@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 650,
-  quote: "There are two primary choices in life: to accept conditions as they exist, or accept responsibility for changing them.",
-  author: "Denis Waitley"
+  id: 936,
+  quote: "You are special, you are unique, you are the best!",
+  author: "Cathy Pulsifer"
 }
 ```
 
