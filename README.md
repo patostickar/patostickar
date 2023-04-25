@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 512,
-  quote: "Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.",
-  author: "Washington Irving"
+  id: 599,
+  quote: "I am always doing that which I cannot do, in order that I may learn how to do it.",
+  author: "Pablo Picasso"
 }
 ```
 
