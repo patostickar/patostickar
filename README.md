@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1535,
-  quote: "Translation is the paradigm, the exemplar of all writing. It is translation that demonstrates most vividly the yearning for transformation that underlies every act involving speech, that supremely human gift.",
-  author: "Harry Burchell Mathews"
+  id: 1378,
+  quote: "Change will not come if we wait for some other person or some other time. We are the ones weve been waiting for. We are the change that we seek.",
+  author: "Barack Obama"
 }
 ```
 
