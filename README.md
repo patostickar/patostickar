@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1177,
-  quote: "Keep your eyes on the stars and your feet on the ground.",
-  author: "Theodore Roosevelt"
+  id: 237,
+  quote: "Efficiency is doing things right; effectiveness is doing the right things.",
+  author: "Peter Drucker"
 }
 ```
 
