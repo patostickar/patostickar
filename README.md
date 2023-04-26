@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 146,
-  quote: "Experience is simply the name we give our mistakes.",
-  author: "Oscar Wilde"
+  id: 330,
+  quote: "The most complicated achievements of thought are possible without the assistance of consciousness.",
+  author: "Sigmund Freud"
 }
 ```
 
