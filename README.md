@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 176,
-  quote: "What we achieve inwardly will change outer reality.",
-  author: "Plutarch"
+  id: 1116,
+  quote: "Listen to your intuition. It will tell you everything you need to know.",
+  author: "Anthony D'Angelo"
 }
 ```
 
