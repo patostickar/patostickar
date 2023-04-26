@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 183,
-  quote: "Fortune favours the brave.",
-  author: "Virgil"
+  id: 681,
+  quote: "Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.",
+  author: "Mary Kay Ash"
 }
 ```
 
