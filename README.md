@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1378,
-  quote: "Change will not come if we wait for some other person or some other time. We are the ones weve been waiting for. We are the change that we seek.",
-  author: "Barack Obama"
+  id: 158,
+  quote: "Once we accept our limits, we go beyond them.",
+  author: "Albert Einstein"
 }
 ```
 
