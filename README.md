@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 158,
-  quote: "Once we accept our limits, we go beyond them.",
-  author: "Albert Einstein"
+  id: 1463,
+  quote: "If only wed stop trying to be happy wed have a pretty good time.",
+  author: "Edith Wharton"
 }
 ```
 
