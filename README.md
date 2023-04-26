@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1170,
-  quote: "You can't choose up sides on a round world.",
-  author: "Wayne Dyer"
+  id: 304,
+  quote: "Happiness comes when your work and words are of benefit to yourself and others.",
+  author: "Buddha"
 }
 ```
 
