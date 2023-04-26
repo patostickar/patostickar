@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 330,
-  quote: "The most complicated achievements of thought are possible without the assistance of consciousness.",
-  author: "Sigmund Freud"
+  id: 125,
+  quote: "You have to believe in yourself.",
+  author: "Sun Tzu"
 }
 ```
 
