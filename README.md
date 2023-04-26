@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 237,
-  quote: "Efficiency is doing things right; effectiveness is doing the right things.",
-  author: "Peter Drucker"
+  id: 600,
+  quote: "If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.",
+  author: "Barack Obama"
 }
 ```
 
