@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1160,
-  quote: "Sometimes the most important thing in a whole day is the rest we take between two deep breaths.",
-  author: "Etty Hillesum"
+  id: 621,
+  quote: "To free us from the expectations of others, to give us back to ourselves there lies the great, singular power of self-respect.",
+  author: "Joan Didion"
 }
 ```
 
