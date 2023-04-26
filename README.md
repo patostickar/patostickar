@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 304,
-  quote: "Happiness comes when your work and words are of benefit to yourself and others.",
-  author: "Buddha"
+  id: 1242,
+  quote: "A lot of people give up just before theyre about to make it. You know you never know when that next obstacle is going to be the last one.",
+  author: "Chuck Norris"
 }
 ```
 
