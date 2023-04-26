@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 681,
-  quote: "Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.",
-  author: "Mary Kay Ash"
+  id: 762,
+  quote: "History will be kind to me for I intend to write it.",
+  author: "Winston Churchill"
 }
 ```
 
