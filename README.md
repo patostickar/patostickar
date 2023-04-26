@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 600,
-  quote: "If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.",
-  author: "Barack Obama"
+  id: 1160,
+  quote: "Sometimes the most important thing in a whole day is the rest we take between two deep breaths.",
+  author: "Etty Hillesum"
 }
 ```
 
