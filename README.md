@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1463,
-  quote: "If only wed stop trying to be happy wed have a pretty good time.",
-  author: "Edith Wharton"
+  id: 367,
+  quote: "Most people are about as happy as they make up their minds to be",
+  author: "Abraham Lincoln"
 }
 ```
 
