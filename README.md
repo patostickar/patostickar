@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 140,
-  quote: "The only real valuable thing is intuition.",
-  author: "Albert Einstein"
+  id: 938,
+  quote: "To know oneself is to study oneself in action with another person.",
+  author: "Bruce Lee"
 }
 ```
 
