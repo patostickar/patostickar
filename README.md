@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 673,
-  quote: "I cannot always control what goes on outside. But I can always control what goes on inside.",
-  author: "Wayne Dyer"
+  id: 10,
+  quote: "Peace comes from within. Do not seek it without.",
+  author: "Buddha"
 }
 ```
 
