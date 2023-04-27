@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 667,
-  quote: "Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.",
-  author: "Helen Keller"
+  id: 193,
+  quote: "Mountains cannot be surmounted except by winding paths.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
