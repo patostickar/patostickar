@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 526,
-  quote: "I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.",
-  author: "Og Mandino"
+  id: 76,
+  quote: "Great talent finds happiness in execution.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
