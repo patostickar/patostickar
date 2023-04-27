@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 420,
-  quote: "Do you want to know who you are? Don't ask. Act! Action will delineate and define you.",
-  author: "Thomas Jefferson"
+  id: 144,
+  quote: "Time is the most valuable thing a man can spend.",
+  author: "Theophrastus"
 }
 ```
 
