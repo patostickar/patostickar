@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 34,
-  quote: "God always takes the simplest way.",
-  author: "Albert Einstein"
+  id: 1568,
+  quote: "It is impossible for a man to learn what he thinks he already knows.",
+  author: "Epictetus"
 }
 ```
 
