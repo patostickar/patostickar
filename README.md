@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 60,
-  quote: "Wisdom begins in wonder.",
-  author: "Socrates"
+  id: 101,
+  quote: "Some pursue happiness, others create it.",
+  author: "null"
 }
 ```
 
