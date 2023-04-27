@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 459,
-  quote: "You cannot find yourself by going into the past. You can find yourself by coming into the present.",
-  author: "Eckhart Tolle"
+  id: 784,
+  quote: "As long as your going to be thinking anyway, think big.",
+  author: "Donald Trump"
 }
 ```
 
