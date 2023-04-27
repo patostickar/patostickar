@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 958,
-  quote: "I have always thought the actions of men the best interpreters of their thoughts.",
-  author: "John Locke"
+  id: 1036,
+  quote: "Don't wait for people to be friendly. Show them how.",
+  author: "null"
 }
 ```
 
