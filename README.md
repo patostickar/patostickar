@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 367,
-  quote: "Most people are about as happy as they make up their minds to be",
-  author: "Abraham Lincoln"
+  id: 1213,
+  quote: "Enjoy the little things, for one day you may look back and realize they were the big things.",
+  author: "Robert Brault"
 }
 ```
 
