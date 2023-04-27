@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 290,
-  quote: "Our greatest glory is not in never failing but rising everytime we fall.",
-  author: "null"
+  id: 459,
+  quote: "You cannot find yourself by going into the past. You can find yourself by coming into the present.",
+  author: "Eckhart Tolle"
 }
 ```
 
