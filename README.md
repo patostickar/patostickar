@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 452,
-  quote: "You're not obligated to win. You're obligated to keep trying to do the best you can every day.",
-  author: "Marian Edelman"
+  id: 1008,
+  quote: "If you do not change direction, you may end up where you are heading.",
+  author: "Lao Tzu"
 }
 ```
 
