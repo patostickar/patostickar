@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1322,
-  quote: "Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.",
-  author: "Aristotle"
+  id: 1175,
+  quote: "Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.",
+  author: "Carl Jung"
 }
 ```
 
