@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 481,
-  quote: "What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.",
-  author: "Sai Baba"
+  id: 840,
+  quote: "When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.",
+  author: "Wayne Dyer"
 }
 ```
 
