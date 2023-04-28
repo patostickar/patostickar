@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1575,
-  quote: "Flow with whatever is happening and let your mind be free. Stay centred by accepting whatever you are doing. This is the ultimate.",
-  author: "Chuang Tzu"
+  id: 1401,
+  quote: "To dream of the person you would like to be is to waste the person you are.",
+  author: "Tim Menchen"
 }
 ```
 
