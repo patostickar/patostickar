@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 654,
-  quote: "If it is not right do not do it; if it is not true do not say it.",
-  author: "Marcus Aurelius"
+  id: 1575,
+  quote: "Flow with whatever is happening and let your mind be free. Stay centred by accepting whatever you are doing. This is the ultimate.",
+  author: "Chuang Tzu"
 }
 ```
 
