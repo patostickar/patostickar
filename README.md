@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1204,
-  quote: "He who controls others may be powerful, but he who has mastered himself is mightier still.",
-  author: "Lao Tzu"
+  id: 1488,
+  quote: "Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.",
+  author: "Thomas Carlyle"
 }
 ```
 
