@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 677,
-  quote: "Take time to deliberate, but when the time for action has arrived, stop thinking and go in.",
-  author: "Napoleon Bonaparte"
+  id: 1238,
+  quote: "The universe is made of stories, not atoms.",
+  author: "Muriel Rukeyser"
 }
 ```
 
