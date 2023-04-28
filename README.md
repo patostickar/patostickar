@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 42,
-  quote: "One faces the future with ones past.",
-  author: "Pearl Buck"
+  id: 683,
+  quote: "All difficult things have their origin in that which is easy, and great things in that which is small.",
+  author: "Lao Tzu"
 }
 ```
 
