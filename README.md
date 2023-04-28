@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1488,
-  quote: "Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.",
-  author: "Thomas Carlyle"
+  id: 1042,
+  quote: "Nature is a mutable cloud which is always and never the same.",
+  author: "Ralph Emerson"
 }
 ```
 
