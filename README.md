@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1175,
-  quote: "Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.",
-  author: "Carl Jung"
+  id: 452,
+  quote: "You're not obligated to win. You're obligated to keep trying to do the best you can every day.",
+  author: "Marian Edelman"
 }
 ```
 
