@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 248,
-  quote: "The cautious seldom err.",
-  author: "Confucius"
+  id: 865,
+  quote: "Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.",
+  author: "Thomas Carlyle"
 }
 ```
 
