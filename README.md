@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1147,
-  quote: "Whoever is happy will make others happy, too.",
-  author: "Mark Twain"
+  id: 437,
+  quote: "You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.",
+  author: "Naguib Mahfouz"
 }
 ```
 
