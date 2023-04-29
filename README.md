@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1424,
-  quote: "You cannot be lonely if you like the person you're alone with.",
-  author: "Wayne Dyer"
+  id: 820,
+  quote: "The way we communicate with others and with ourselves ultimately determines the quality of our lives.",
+  author: "Tony Robbins"
 }
 ```
 
