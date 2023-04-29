@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 22,
-  quote: "Ideas are the beginning points of all fortunes.",
-  author: "Napoleon Hill"
+  id: 606,
+  quote: "I'm not in this world to live up to your expectations and you're not in this world to live up to mine.",
+  author: "Bruce Lee"
 }
 ```
 
