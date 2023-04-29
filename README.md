@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 606,
-  quote: "I'm not in this world to live up to your expectations and you're not in this world to live up to mine.",
-  author: "Bruce Lee"
+  id: 811,
+  quote: "When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.",
+  author: "Joseph Campbell"
 }
 ```
 
