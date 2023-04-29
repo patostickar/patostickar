@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 810,
-  quote: "Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength.",
-  author: "Hasidic saying"
+  id: 1250,
+  quote: "Always bear in mind that your own resolution to succeed is more important than any one thing.",
+  author: "Abraham Lincoln"
 }
 ```
 
