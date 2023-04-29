@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 430,
-  quote: "The person born with a talent they are meant to use will find their greatest happiness in using it.",
-  author: "Johann Wolfgang von Goethe"
+  id: 1424,
+  quote: "You cannot be lonely if you like the person you're alone with.",
+  author: "Wayne Dyer"
 }
 ```
 
