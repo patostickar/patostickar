@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 835,
-  quote: "Friends are those rare people who ask how we are and then wait to hear the answer.",
-  author: "Ed Cunningham"
+  id: 1026,
+  quote: "It can't be spring if your heart is filled with past failures.",
+  author: "Byron Pulsifer"
 }
 ```
 
