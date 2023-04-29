@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1026,
-  quote: "It can't be spring if your heart is filled with past failures.",
-  author: "Byron Pulsifer"
+  id: 872,
+  quote: "The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.",
+  author: "Vincent Lombardi"
 }
 ```
 
