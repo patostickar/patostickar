@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1613,
-  quote: "The only way to have a friend is to be one.",
-  author: "Ralph Emerson"
+  id: 1469,
+  quote: "Love is the master key that opens the gates of happiness.",
+  author: "Oliver Holmes"
 }
 ```
 
