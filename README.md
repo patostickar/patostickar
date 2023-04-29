@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 695,
-  quote: "You can't create in a vacuum. Life gives you the material and dreams can propel new beginnings.",
-  author: "Byron Pulsifer"
+  id: 430,
+  quote: "The person born with a talent they are meant to use will find their greatest happiness in using it.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
