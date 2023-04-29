@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 811,
-  quote: "When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.",
-  author: "Joseph Campbell"
+  id: 695,
+  quote: "You can't create in a vacuum. Life gives you the material and dreams can propel new beginnings.",
+  author: "Byron Pulsifer"
 }
 ```
 
