@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 416,
-  quote: "Why worry about things you cannot control when you can keep yourself busy controlling the things that depend on you?",
-  author: "null"
+  id: 1353,
+  quote: "The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.",
+  author: "Helen Keller"
 }
 ```
 
