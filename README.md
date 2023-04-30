@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1102,
-  quote: "Great acts are made up of small deeds.",
-  author: "Lao Tzu"
+  id: 401,
+  quote: "If you want your life to be more rewarding, you have to change the way you think.",
+  author: "Oprah Winfrey"
 }
 ```
 
