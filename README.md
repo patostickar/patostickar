@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 158,
-  quote: "Once we accept our limits, we go beyond them.",
-  author: "Albert Einstein"
+  id: 1102,
+  quote: "Great acts are made up of small deeds.",
+  author: "Lao Tzu"
 }
 ```
 
