@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 401,
-  quote: "If you want your life to be more rewarding, you have to change the way you think.",
-  author: "Oprah Winfrey"
+  id: 1217,
+  quote: "Beauty is not in the face; beauty is a light in the heart.",
+  author: "Kahlil Gibran"
 }
 ```
 
