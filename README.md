@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 706,
-  quote: "The pain passes, but the beauty remains.",
-  author: "Pierre Auguste Renoir"
+  id: 175,
+  quote: "He who is contented is rich.",
+  author: "Lao Tzu"
 }
 ```
 
