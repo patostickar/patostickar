@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1217,
-  quote: "Beauty is not in the face; beauty is a light in the heart.",
-  author: "Kahlil Gibran"
+  id: 1003,
+  quote: "Only those who dare to fail greatly can ever achieve greatly.",
+  author: "Robert Kennedy"
 }
 ```
 
