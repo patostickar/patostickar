@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1596,
-  quote: "Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.",
-  author: "Thomas Kempis"
+  id: 1608,
+  quote: "Bad times have a scientific value. These are occasions a good learner would not miss.",
+  author: "Ralph Emerson"
 }
 ```
 
