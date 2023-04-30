@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 829,
-  quote: "I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.",
-  author: "Herbert Swope"
+  id: 1596,
+  quote: "Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.",
+  author: "Thomas Kempis"
 }
 ```
 
