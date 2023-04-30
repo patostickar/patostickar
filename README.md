@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1070,
-  quote: "Excellence is not a skill. It is an attitude.",
-  author: "Ralph Marston"
+  id: 987,
+  quote: "More powerful than the will to win is the courage to begin.",
+  author: "null"
 }
 ```
 
