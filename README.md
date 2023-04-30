@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 364,
-  quote: "The superior man is satisfied and composed; the mean man is always full of distress.",
-  author: "Confucius"
+  id: 482,
+  quote: "Genuine love should first be directed at oneself if we do not love ourselves, how can we love others?",
+  author: "Dalai Lama"
 }
 ```
 
