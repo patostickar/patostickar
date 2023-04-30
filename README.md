@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 974,
-  quote: "Everything has beauty, but not everyone sees it.",
-  author: "Confucius"
+  id: 1188,
+  quote: "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves.",
+  author: "Buddha"
 }
 ```
 
