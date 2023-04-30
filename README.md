@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 682,
-  quote: "Try not to become a man of success, but rather try to become a man of value.",
-  author: "Albert Einstein"
+  id: 829,
+  quote: "I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.",
+  author: "Herbert Swope"
 }
 ```
 
