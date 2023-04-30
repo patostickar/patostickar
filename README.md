@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 482,
-  quote: "Genuine love should first be directed at oneself if we do not love ourselves, how can we love others?",
-  author: "Dalai Lama"
+  id: 416,
+  quote: "Why worry about things you cannot control when you can keep yourself busy controlling the things that depend on you?",
+  author: "null"
 }
 ```
 
