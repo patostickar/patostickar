@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 491,
-  quote: "What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.",
-  author: "Wayne Dyer"
+  id: 954,
+  quote: "Take heed: you do not find what you do not seek.",
+  author: "English proverb"
 }
 ```
 
