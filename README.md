@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 486,
-  quote: "Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.",
-  author: "Sri Chinmoy"
+  id: 856,
+  quote: "Nobody made a greater mistake than he who did nothing because he could do only a little.",
+  author: "Edmund Burke"
 }
 ```
 
