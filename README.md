@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1207,
-  quote: "The happy and efficient people in this world are those who accept trouble as a normal detail of human life and resolve to capitalize it when it comes along.",
-  author: "H. Bertram Lewis"
+  id: 392,
+  quote: "If you would take, you must first give, this is the beginning of intelligence.",
+  author: "Lao Tzu"
 }
 ```
 
