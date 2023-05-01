@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 232,
-  quote: "There is no greater harm than that of time wasted.",
-  author: "Michelangelo"
+  id: 1207,
+  quote: "The happy and efficient people in this world are those who accept trouble as a normal detail of human life and resolve to capitalize it when it comes along.",
+  author: "H. Bertram Lewis"
 }
 ```
 
