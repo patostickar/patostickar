@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1141,
-  quote: "Nobody can do everything, but everybody can do something.",
+  id: 1099,
+  quote: "The difficulties of life are intended to make us better, not bitter.",
   author: "null"
 }
 ```
