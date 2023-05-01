@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1198,
-  quote: "When I let go of what I am, I become what I might be.",
-  author: "Lao Tzu"
+  id: 152,
+  quote: "Life isn't about finding yourself. Life is about creating yourself.",
+  author: "Bernard Shaw"
 }
 ```
 
