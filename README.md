@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 241,
-  quote: "To be wrong is nothing unless you continue to remember it.",
-  author: "Confucius"
+  id: 951,
+  quote: "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+  author: "Robert Stevenson"
 }
 ```
 
