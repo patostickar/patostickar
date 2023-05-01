@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1410,
-  quote: "All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.",
-  author: "Albert Camus"
+  id: 1405,
+  quote: "Respect is not something that you can ask for, buy or borrow. Respect is what you earn from each person no matter their background or status.",
+  author: "Byron Pulsifer"
 }
 ```
 
