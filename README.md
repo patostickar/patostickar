@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1014,
-  quote: "Opportunity often comes disguised in the form of misfortune, or temporary defeat.",
-  author: "Napoleon Hill"
+  id: 410,
+  quote: "We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.",
+  author: "Sam Keen"
 }
 ```
 
