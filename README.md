@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 410,
-  quote: "We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.",
-  author: "Sam Keen"
+  id: 632,
+  quote: "You can adopt the attitude there is nothing you can do, or you can see the challenge as your call to action.",
+  author: "Catherine Pulsifer"
 }
 ```
 
