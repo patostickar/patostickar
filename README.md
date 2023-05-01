@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 392,
-  quote: "If you would take, you must first give, this is the beginning of intelligence.",
-  author: "Lao Tzu"
+  id: 1141,
+  quote: "Nobody can do everything, but everybody can do something.",
+  author: "null"
 }
 ```
 
