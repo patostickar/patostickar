@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 954,
-  quote: "Take heed: you do not find what you do not seek.",
-  author: "English proverb"
+  id: 1290,
+  quote: "Fame usually comes to those who are thinking about something else.",
+  author: "Holmes"
 }
 ```
 
