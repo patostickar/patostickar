@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 632,
-  quote: "You can adopt the attitude there is nothing you can do, or you can see the challenge as your call to action.",
-  author: "Catherine Pulsifer"
+  id: 491,
+  quote: "What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.",
+  author: "Wayne Dyer"
 }
 ```
 
