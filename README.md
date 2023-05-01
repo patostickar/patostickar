@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1099,
-  quote: "The difficulties of life are intended to make us better, not bitter.",
-  author: "null"
+  id: 579,
+  quote: "Treat people as if they were what they ought to be and you help them to become what they are capable of being.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
