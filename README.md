@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 856,
-  quote: "Nobody made a greater mistake than he who did nothing because he could do only a little.",
-  author: "Edmund Burke"
+  id: 412,
+  quote: "There are things so deep and complex that only intuition can reach it in our stage of development as human beings.",
+  author: "John Astin"
 }
 ```
 
