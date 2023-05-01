@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 200,
-  quote: "Strong beliefs win strong men, and then make them stronger.",
-  author: "Richard Bach"
+  id: 1198,
+  quote: "When I let go of what I am, I become what I might be.",
+  author: "Lao Tzu"
 }
 ```
 
