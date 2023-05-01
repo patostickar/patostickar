@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 152,
-  quote: "Life isn't about finding yourself. Life is about creating yourself.",
-  author: "Bernard Shaw"
+  id: 808,
+  quote: "If you take each challenge one step at a time, with faith in every footstep, your strength and understanding will increase.",
+  author: "James Faust"
 }
 ```
 
