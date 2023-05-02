@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 338,
-  quote: "Slow down and everything you are chasing will come around and catch you.",
-  author: "John De Paola"
+  id: 1056,
+  quote: "He who lives in harmony with himself lives in harmony with the world.",
+  author: "Marcus Aurelius"
 }
 ```
 
