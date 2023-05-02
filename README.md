@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 685,
-  quote: "It is not enough to have a good mind; the main thing is to use it well.",
-  author: "Rene Descartes"
+  id: 645,
+  quote: "To accomplish great things, we must not only act, but also dream; not only plan, but also believe.",
+  author: "Anatole France"
 }
 ```
 
