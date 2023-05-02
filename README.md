@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1421,
-  quote: "By accepting yourself and being fully what you are, your presence can make others happy.",
-  author: "Jane Roberts"
+  id: 485,
+  quote: "Learn all you can from the mistakes of others. You won't have time to make them all yourself.",
+  author: "Alfred Sheinwold"
 }
 ```
 
