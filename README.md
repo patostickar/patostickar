@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1266,
-  quote: "Courage is not the absence of fear, but simply moving on with dignity despite that fear.",
-  author: "Pat Riley"
+  id: 1060,
+  quote: "If you can't feed a hundred people, then feed just one.",
+  author: "Mother Teresa"
 }
 ```
 
