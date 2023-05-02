@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 508,
-  quote: "With the realization of ones own potential and self-confidence in ones ability, one can build a better world.",
-  author: "Dalai Lama"
+  id: 685,
+  quote: "It is not enough to have a good mind; the main thing is to use it well.",
+  author: "Rene Descartes"
 }
 ```
 
