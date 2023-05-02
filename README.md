@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 45,
-  quote: "Be kind whenever possible. It is always possible.",
-  author: "Dalai Lama"
+  id: 1323,
+  quote: "To fly as fast as thought, you must begin by knowing that you have already arrived.",
+  author: "Richard Bach"
 }
 ```
 
