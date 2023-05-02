@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1060,
-  quote: "If you can't feed a hundred people, then feed just one.",
-  author: "Mother Teresa"
+  id: 1288,
+  quote: "Rather than wishing for change, you first must be prepared to change.",
+  author: "Catherine Pulsifer"
 }
 ```
 
