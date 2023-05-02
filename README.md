@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1372,
-  quote: "If you want things to be different, perhaps the answer is to become different yourself.",
-  author: "Norman Peale"
+  id: 918,
+  quote: "Parents can only give good advice or put them on the right paths, but the final forming of a persons character lies in their own hands.",
+  author: "Anne Frank"
 }
 ```
 
