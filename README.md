@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 485,
-  quote: "Learn all you can from the mistakes of others. You won't have time to make them all yourself.",
-  author: "Alfred Sheinwold"
+  id: 508,
+  quote: "With the realization of ones own potential and self-confidence in ones ability, one can build a better world.",
+  author: "Dalai Lama"
 }
 ```
 
