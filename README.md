@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1113,
-  quote: "Don't frown because you never know who is falling in love with your smile.",
-  author: "Sinvyest Tan"
+  id: 1372,
+  quote: "If you want things to be different, perhaps the answer is to become different yourself.",
+  author: "Norman Peale"
 }
 ```
 
