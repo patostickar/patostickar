@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 247,
-  quote: "A good decision is based on knowledge and not on numbers.",
-  author: "Plato"
+  id: 658,
+  quote: "Arrogance and rudeness are training wheels on the bicycle of life for weak people who cannot keep their balance without them.",
+  author: "Laura Teresa Marquez"
 }
 ```
 
