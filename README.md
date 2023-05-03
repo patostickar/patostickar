@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1057,
-  quote: "He who knows himself is enlightened.",
-  author: "Lao Tzu"
+  id: 30,
+  quote: "Bite off more than you can chew, then chew it.",
+  author: "Ella Williams"
 }
 ```
 
