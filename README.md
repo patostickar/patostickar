@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1529,
-  quote: "The best way to predict your future is to create it.",
-  author: "Peter Drucker"
+  id: 388,
+  quote: "Shoot for the moon. Even if you miss, you'll land among the stars.",
+  author: "Les Brown"
 }
 ```
 
