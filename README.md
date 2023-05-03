@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1043,
-  quote: "Life is what you make of it. Always has been, always will be.",
-  author: "Grandma Moses"
+  id: 616,
+  quote: "Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.",
+  author: "Napoleon Hill"
 }
 ```
 
