@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1356,
-  quote: "The less effort, the faster and more powerful you will be.",
-  author: "Bruce Lee"
+  id: 215,
+  quote: "Nature takes away any faculty that is not used.",
+  author: "William R. Inge"
 }
 ```
 
