@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 645,
-  quote: "To accomplish great things, we must not only act, but also dream; not only plan, but also believe.",
-  author: "Anatole France"
+  id: 1057,
+  quote: "He who knows himself is enlightened.",
+  author: "Lao Tzu"
 }
 ```
 
