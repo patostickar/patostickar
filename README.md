@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1112,
-  quote: "Ask yourself the secret of your success. Listen to your answer, and practice it.",
-  author: "Richard Bach"
+  id: 931,
+  quote: "A man sees in the world what he carries in his heart.",
+  author: "Goethe"
 }
 ```
 
