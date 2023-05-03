@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 30,
-  quote: "Bite off more than you can chew, then chew it.",
-  author: "Ella Williams"
+  id: 133,
+  quote: "A really great talent finds its happiness in execution.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
