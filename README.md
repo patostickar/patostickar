@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 931,
-  quote: "A man sees in the world what he carries in his heart.",
-  author: "Goethe"
+  id: 1356,
+  quote: "The less effort, the faster and more powerful you will be.",
+  author: "Bruce Lee"
 }
 ```
 
