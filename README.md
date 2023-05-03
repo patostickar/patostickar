@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 616,
-  quote: "Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.",
-  author: "Napoleon Hill"
+  id: 514,
+  quote: "Many people think of prosperity that concerns money only to forget that true prosperity is of the mind.",
+  author: "Byron Pulsifer"
 }
 ```
 
