@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1060,
-  quote: "If you can't feed a hundred people, then feed just one.",
-  author: "Mother Teresa"
+  id: 972,
+  quote: "The wisest men follow their own direction.",
+  author: "Euripides"
 }
 ```
 
