@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 514,
-  quote: "Many people think of prosperity that concerns money only to forget that true prosperity is of the mind.",
-  author: "Byron Pulsifer"
+  id: 1133,
+  quote: "Progress always involves risks. You can't steal second base and keep your foot on first.",
+  author: "Frederick Wilcox"
 }
 ```
 
