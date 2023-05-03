@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 34,
-  quote: "God always takes the simplest way.",
-  author: "Albert Einstein"
+  id: 980,
+  quote: "In all chaos there is a cosmos, in all disorder a secret order.",
+  author: "Carl Jung"
 }
 ```
 
