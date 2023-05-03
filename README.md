@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 133,
-  quote: "A really great talent finds its happiness in execution.",
-  author: "Johann Wolfgang von Goethe"
+  id: 1060,
+  quote: "If you can't feed a hundred people, then feed just one.",
+  author: "Mother Teresa"
 }
 ```
 
