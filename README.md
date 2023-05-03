@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 980,
-  quote: "In all chaos there is a cosmos, in all disorder a secret order.",
-  author: "Carl Jung"
+  id: 1043,
+  quote: "Life is what you make of it. Always has been, always will be.",
+  author: "Grandma Moses"
 }
 ```
 
