@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1104,
-  quote: "Open minds lead to open doors.",
-  author: "null"
+  id: 1096,
+  quote: "If we are not fully ourselves, truly in the present moment, we miss everything.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
