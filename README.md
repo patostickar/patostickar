@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 998,
-  quote: "Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.",
-  author: "Arthur Conan Doyle"
+  id: 1104,
+  quote: "Open minds lead to open doors.",
+  author: "null"
 }
 ```
 
