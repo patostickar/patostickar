@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1122,
-  quote: "Be sure you put your feet in the right place, then stand firm.",
-  author: "Abraham Lincoln"
+  id: 998,
+  quote: "Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.",
+  author: "Arthur Conan Doyle"
 }
 ```
 
