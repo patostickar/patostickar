@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 792,
-  quote: "In the long run we get no more than we have been willing to risk giving.",
-  author: "Sheldon Kopp"
+  id: 1122,
+  quote: "Be sure you put your feet in the right place, then stand firm.",
+  author: "Abraham Lincoln"
 }
 ```
 
