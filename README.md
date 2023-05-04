@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 132,
-  quote: "Speak low, if you speak love.",
-  author: "William Shakespeare"
+  id: 307,
+  quote: "The universe is full of magical things, patiently waiting for our wits to grow sharper.",
+  author: "Eden Phillpotts"
 }
 ```
 
