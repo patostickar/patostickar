@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 229,
-  quote: "Be great in act, as you have been in thought.",
-  author: "William Shakespeare"
+  id: 138,
+  quote: "Nothing strengthens authority so much as silence.",
+  author: "Leonardo da Vinci"
 }
 ```
 
