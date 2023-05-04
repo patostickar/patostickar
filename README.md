@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 642,
-  quote: "Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!",
-  author: "Richard Bach"
+  id: 575,
+  quote: "The shoe that fits one person pinches another; there is no recipe for living that suits all cases.",
+  author: "Carl Jung"
 }
 ```
 
