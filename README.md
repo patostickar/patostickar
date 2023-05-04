@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1278,
-  quote: "Thats the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.",
-  author: "Lisa Alther"
+  id: 229,
+  quote: "Be great in act, as you have been in thought.",
+  author: "William Shakespeare"
 }
 ```
 
