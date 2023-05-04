@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 768,
-  quote: "Formula for success: under promise and over deliver.",
-  author: "Tom Peters"
+  id: 1501,
+  quote: "To give ones self earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.",
+  author: "Confucius"
 }
 ```
 
