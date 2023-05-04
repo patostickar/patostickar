@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1519,
-  quote: "If someone in your life talked to you the way you talk to yourself, you would have left them long ago.",
-  author: "Carla Gordon"
+  id: 768,
+  quote: "Formula for success: under promise and over deliver.",
+  author: "Tom Peters"
 }
 ```
 
