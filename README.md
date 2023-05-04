@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 575,
-  quote: "The shoe that fits one person pinches another; there is no recipe for living that suits all cases.",
-  author: "Carl Jung"
+  id: 841,
+  quote: "The Creator has not given you a longing to do that which you have no ability to do.",
+  author: "Orison Marden"
 }
 ```
 
