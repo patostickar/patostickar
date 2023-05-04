@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 768,
-  quote: "Formula for success: under promise and over deliver.",
-  author: "Tom Peters"
+  id: 404,
+  quote: "The free man is he who does not fear to go to the end of his thought.",
+  author: "Leon Blum"
 }
 ```
 
