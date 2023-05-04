@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1501,
-  quote: "To give ones self earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.",
-  author: "Confucius"
+  id: 1278,
+  quote: "Thats the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.",
+  author: "Lisa Alther"
 }
 ```
 
