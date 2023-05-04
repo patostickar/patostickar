@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 138,
-  quote: "Nothing strengthens authority so much as silence.",
-  author: "Leonardo da Vinci"
+  id: 1062,
+  quote: "Don't let today's disappointments cast a shadow on tomorrow's dreams.",
+  author: "null"
 }
 ```
 
