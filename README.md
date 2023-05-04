@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 404,
-  quote: "The free man is he who does not fear to go to the end of his thought.",
-  author: "Leon Blum"
+  id: 766,
+  quote: "Give whatever you are doing and whoever you are with the gift of your attention.",
+  author: "Jim Rohn"
 }
 ```
 
