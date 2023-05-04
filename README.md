@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1062,
-  quote: "Don't let today's disappointments cast a shadow on tomorrow's dreams.",
-  author: "null"
+  id: 642,
+  quote: "Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!",
+  author: "Richard Bach"
 }
 ```
 
