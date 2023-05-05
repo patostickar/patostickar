@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1587,
-  quote: "Argue for your limitations, and sure enough they're yours.",
-  author: "Richard Bach"
+  id: 1613,
+  quote: "The only way to have a friend is to be one.",
+  author: "Ralph Emerson"
 }
 ```
 
