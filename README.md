@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1543,
-  quote: "Kind words can be short and easy to speak, but their echoes are truly endless.",
-  author: "Mother Teresa"
+  id: 700,
+  quote: "All that we are is the result of what we have thought. The mind is everything. What we think we become.",
+  author: "Buddha"
 }
 ```
 
