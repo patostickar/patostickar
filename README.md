@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 954,
-  quote: "Take heed: you do not find what you do not seek.",
-  author: "English proverb"
+  id: 532,
+  quote: "Today, give a stranger a smile without waiting for it may be the joy they need to have a great day.",
+  author: "Byron Pulsifer"
 }
 ```
 
