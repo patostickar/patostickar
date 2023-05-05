@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 103,
-  quote: "Don't ruin the present with the ruined past.",
-  author: "Ellen Gilchrist"
+  id: 251,
+  quote: "Time you enjoy wasting, was not wasted.",
+  author: "John Lennon"
 }
 ```
 
