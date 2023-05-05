@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1437,
-  quote: "Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.",
-  author: "Nikola Tesla"
+  id: 1126,
+  quote: "A man is not old as long as he is seeking something.",
+  author: "Edmond Rostand"
 }
 ```
 
