@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 99,
-  quote: "Do more than dream: work.",
-  author: "William Arthur Ward"
+  id: 1582,
+  quote: "Miracles come in moments. Be ready and willing.",
+  author: "Wayne Dyer"
 }
 ```
 
