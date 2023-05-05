@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1582,
-  quote: "Miracles come in moments. Be ready and willing.",
-  author: "Wayne Dyer"
+  id: 1125,
+  quote: "Know how to listen, and you will profit even from those who talk badly.",
+  author: "Plutarch"
 }
 ```
 
