@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1302,
-  quote: "For everything that lives is holy, life delights in life.",
-  author: "William Blake"
+  id: 1437,
+  quote: "Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.",
+  author: "Nikola Tesla"
 }
 ```
 
