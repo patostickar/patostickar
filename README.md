@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1093,
-  quote: "I never worry about action, but only inaction.",
-  author: "Winston Churchill"
+  id: 103,
+  quote: "Don't ruin the present with the ruined past.",
+  author: "Ellen Gilchrist"
 }
 ```
 
