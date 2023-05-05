@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1126,
-  quote: "A man is not old as long as he is seeking something.",
-  author: "Edmond Rostand"
+  id: 1543,
+  quote: "Kind words can be short and easy to speak, but their echoes are truly endless.",
+  author: "Mother Teresa"
 }
 ```
 
