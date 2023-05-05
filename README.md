@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 251,
-  quote: "Time you enjoy wasting, was not wasted.",
-  author: "John Lennon"
+  id: 1302,
+  quote: "For everything that lives is holy, life delights in life.",
+  author: "William Blake"
 }
 ```
 
