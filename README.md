@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1143,
-  quote: "You cannot step twice into the same river, for other waters are continually flowing in.",
-  author: "Heraclitus"
+  id: 1093,
+  quote: "I never worry about action, but only inaction.",
+  author: "Winston Churchill"
 }
 ```
 
