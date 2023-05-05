@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 700,
-  quote: "All that we are is the result of what we have thought. The mind is everything. What we think we become.",
+  id: 1148,
+  quote: "Your work is to discover your work and then with all your heart to give yourself to it.",
   author: "Buddha"
 }
 ```
