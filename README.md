@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1613,
-  quote: "The only way to have a friend is to be one.",
-  author: "Ralph Emerson"
+  id: 1340,
+  quote: "We choose our joys and sorrows long before we experience them.",
+  author: "Kahlil Gibran"
 }
 ```
 
