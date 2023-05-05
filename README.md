@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1125,
-  quote: "Know how to listen, and you will profit even from those who talk badly.",
-  author: "Plutarch"
+  id: 403,
+  quote: "The only difference between your abilities and others is the ability to put yourself in their shoes and actually try.",
+  author: "Leonardo Ruiz"
 }
 ```
 
