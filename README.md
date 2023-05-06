@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 935,
-  quote: "The only limit to your impact is your imagination and commitment.",
-  author: "Tony Robbins"
+  id: 681,
+  quote: "Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.",
+  author: "Mary Kay Ash"
 }
 ```
 
