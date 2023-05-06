@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 389,
-  quote: "It does not matter how slowly you go as long as you do not stop.",
-  author: "Confucius"
+  id: 1014,
+  quote: "Opportunity often comes disguised in the form of misfortune, or temporary defeat.",
+  author: "Napoleon Hill"
 }
 ```
 
