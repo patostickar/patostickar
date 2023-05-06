@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1104,
-  quote: "Open minds lead to open doors.",
-  author: "null"
+  id: 1359,
+  quote: "The cure for boredom is curiosity. There is no cure for curiosity.",
+  author: "Ellen Parr"
 }
 ```
 
