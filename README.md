@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1409,
-  quote: "We are all faced with a series of great opportunities brilliantly disguised as impossible situations.",
-  author: "Charles R. Swindoll"
+  id: 935,
+  quote: "The only limit to your impact is your imagination and commitment.",
+  author: "Tony Robbins"
 }
 ```
 
