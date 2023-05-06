@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1484,
-  quote: "If you're in a bad situation, don't worry it'll change. If you're in a good situation, don't worry it'll change.",
-  author: "John Simone"
+  id: 989,
+  quote: "Saying thank you is more than good manners. It is good spirituality.",
+  author: "Alfred Painter"
 }
 ```
 
