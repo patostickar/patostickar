@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 786,
-  quote: "He who obtains has little. He who scatters has much.",
-  author: "Richard Braunstein"
+  id: 1165,
+  quote: "It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.",
+  author: "Dalai Lama"
 }
 ```
 
