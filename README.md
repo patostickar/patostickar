@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 681,
-  quote: "Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.",
-  author: "Mary Kay Ash"
+  id: 1484,
+  quote: "If you're in a bad situation, don't worry it'll change. If you're in a good situation, don't worry it'll change.",
+  author: "John Simone"
 }
 ```
 
