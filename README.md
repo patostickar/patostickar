@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 353,
-  quote: "Tension is who you think you should be. Relaxation is who you are.",
-  author: "Chinese proverb"
+  id: 805,
+  quote: "Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.",
+  author: "Niccolo Machiavelli"
 }
 ```
 
