@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1012,
-  quote: "Passion creates the desire for more and action fuelled by passion creates a future.",
-  author: "Byron Pulsifer"
+  id: 490,
+  quote: "Everything that happens happens as it should, and if you observe carefully, you will find this to be so.",
+  author: "Marcus Aurelius"
 }
 ```
 
