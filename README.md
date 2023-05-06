@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1359,
-  quote: "The cure for boredom is curiosity. There is no cure for curiosity.",
-  author: "Ellen Parr"
+  id: 353,
+  quote: "Tension is who you think you should be. Relaxation is who you are.",
+  author: "Chinese proverb"
 }
 ```
 
