@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 989,
-  quote: "Saying thank you is more than good manners. It is good spirituality.",
-  author: "Alfred Painter"
+  id: 1352,
+  quote: "I don't believe in failure. It's not failure if you enjoyed the process.",
+  author: "Oprah Winfrey"
 }
 ```
 
