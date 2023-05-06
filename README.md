@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 784,
-  quote: "As long as your going to be thinking anyway, think big.",
-  author: "Donald Trump"
+  id: 1606,
+  quote: "To know your purpose is to live a life of direction, and in that direction is found peace and tranquillity.",
+  author: "Byron Pulsifer"
 }
 ```
 
