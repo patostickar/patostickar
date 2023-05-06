@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 24,
-  quote: "Doing nothing is better than being busy doing nothing.",
-  author: "Lao Tzu"
+  id: 1080,
+  quote: "In the middle of every difficulty lies opportunity.",
+  author: "Albert Einstein"
 }
 ```
 
