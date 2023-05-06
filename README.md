@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 11,
-  quote: "What you give is what you get.",
-  author: "Byron Pulsifer"
+  id: 24,
+  quote: "Doing nothing is better than being busy doing nothing.",
+  author: "Lao Tzu"
 }
 ```
 
