@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 490,
-  quote: "Everything that happens happens as it should, and if you observe carefully, you will find this to be so.",
-  author: "Marcus Aurelius"
+  id: 784,
+  quote: "As long as your going to be thinking anyway, think big.",
+  author: "Donald Trump"
 }
 ```
 
