@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1080,
-  quote: "In the middle of every difficulty lies opportunity.",
-  author: "Albert Einstein"
+  id: 1218,
+  quote: "A day of worry is more exhausting than a day of work.",
+  author: "John Lubbock"
 }
 ```
 
