@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 805,
-  quote: "Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.",
-  author: "Niccolo Machiavelli"
+  id: 1092,
+  quote: "He who angers you conquers you.",
+  author: "Elizabeth Kenny"
 }
 ```
 
