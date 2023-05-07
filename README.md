@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 995,
-  quote: "We aim above the mark to hit the mark.",
-  author: "Ralph Emerson"
+  id: 651,
+  quote: "If you seek truth you will not seek victory by dishonourable means, and if you find truth you will become invincible.",
+  author: "Epictetus"
 }
 ```
 
