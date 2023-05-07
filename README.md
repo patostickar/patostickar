@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1115,
-  quote: "Nothing is at last sacred but the integrity of your own mind.",
-  author: "Ralph Emerson"
+  id: 755,
+  quote: "Never be afraid to try, remember... Amateurs built the ark, Professionals built the Titanic.",
+  author: "null"
 }
 ```
 
