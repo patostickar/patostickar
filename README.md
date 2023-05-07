@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 967,
-  quote: "As you think, so shall you become.",
-  author: "Bruce Lee"
+  id: 131,
+  quote: "Reality does not conform to the ideal, but confirms it.",
+  author: "Gustave Flaubert"
 }
 ```
 
