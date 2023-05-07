@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 852,
-  quote: "When you realize how perfect everything is you will tilt your head back and laugh at the sky.",
-  author: "Buddha"
+  id: 0,
+  quote: "Genius is one percent inspiration and ninety-nine percent perspiration.",
+  author: "Thomas Edison"
 }
 ```
 
