@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 782,
-  quote: "The most important point is to accept yourself and stand on your two feet.",
-  author: "Shunryu Suzuki"
+  id: 262,
+  quote: "All things change; nothing perishes.",
+  author: "Ovid"
 }
 ```
 
