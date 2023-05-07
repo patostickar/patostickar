@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 823,
-  quote: "A bend in the road is not the end of the road...unless you fail to make the turn.",
-  author: "null"
+  id: 1205,
+  quote: "There is no scarcity of opportunity to make a living at what you love; theres only scarcity of resolve to make it happen.",
+  author: "Wayne Dyer"
 }
 ```
 
