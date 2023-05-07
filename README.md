@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1082,
-  quote: "When in doubt, tell the truth.",
-  author: "Mark Twain"
+  id: 236,
+  quote: "The journey of a thousand miles begins with one step.",
+  author: "Lao Tzu"
 }
 ```
 
