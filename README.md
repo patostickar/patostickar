@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 725,
-  quote: "Ignorant men don't know what good they hold in their hands until they've flung it away.",
-  author: "Sophocles"
+  id: 308,
+  quote: "Just as a candle cannot burn without fire, men cannot live without a spiritual life.",
+  author: "Buddha"
 }
 ```
 
