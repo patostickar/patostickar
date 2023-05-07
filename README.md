@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1014,
-  quote: "Opportunity often comes disguised in the form of misfortune, or temporary defeat.",
-  author: "Napoleon Hill"
+  id: 782,
+  quote: "The most important point is to accept yourself and stand on your two feet.",
+  author: "Shunryu Suzuki"
 }
 ```
 
