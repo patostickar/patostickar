@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1610,
-  quote: "All children are artists. The problem is how to remain an artist once he grows up.",
-  author: "Pablo Picasso"
+  id: 725,
+  quote: "Ignorant men don't know what good they hold in their hands until they've flung it away.",
+  author: "Sophocles"
 }
 ```
 
