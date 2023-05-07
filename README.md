@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 379,
-  quote: "You will not be punished for your anger, you will be punished by your anger.",
+  id: 696,
+  quote: "Your work is to discover your world and then with all your heart give yourself to it.",
   author: "Buddha"
 }
 ```
