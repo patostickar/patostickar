@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 308,
-  quote: "Just as a candle cannot burn without fire, men cannot live without a spiritual life.",
-  author: "Buddha"
+  id: 995,
+  quote: "We aim above the mark to hit the mark.",
+  author: "Ralph Emerson"
 }
 ```
 
