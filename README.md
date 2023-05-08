@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 361,
-  quote: "There is nothing in a caterpillar that tells you it's going to be a butterfly.",
-  author: "Buckminster Fuller"
+  id: 729,
+  quote: "You can't trust without risk but neither can you live in a cocoon.",
+  author: "Byron Pulsifer"
 }
 ```
 
