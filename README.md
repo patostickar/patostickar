@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 213,
-  quote: "The path to success is to take massive, determined action.",
-  author: "Tony Robbins"
+  id: 1035,
+  quote: "We must embrace pain and burn it as fuel for our journey.",
+  author: "Kenji Miyazawa"
 }
 ```
 
