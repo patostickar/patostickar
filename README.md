@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 935,
-  quote: "The only limit to your impact is your imagination and commitment.",
-  author: "Tony Robbins"
+  id: 113,
+  quote: "Trusting our intuition often saves us from disaster.",
+  author: "Anne Wilson Schaef"
 }
 ```
 
