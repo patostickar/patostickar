@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 993,
-  quote: "A jug fills drop by drop.",
-  author: "Buddha"
+  id: 1031,
+  quote: "Positive thinking will let you do everything better than negative thinking will.",
+  author: "Zig Ziglar"
 }
 ```
 
