@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1035,
-  quote: "We must embrace pain and burn it as fuel for our journey.",
-  author: "Kenji Miyazawa"
+  id: 296,
+  quote: "Love is not blind; it simply enables one to see things others fail to see.",
+  author: "null"
 }
 ```
 
