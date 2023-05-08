@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 252,
-  quote: "Every problem has a gift for you in its hands.",
-  author: "Richard Bach"
+  id: 1497,
+  quote: "A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.",
+  author: "Lao Tzu"
 }
 ```
 
