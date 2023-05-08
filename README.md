@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 838,
-  quote: "A hero is no braver than an ordinary man, but he is braver five minutes longer.",
-  author: "Ralph Waldo Emerson"
+  id: 213,
+  quote: "The path to success is to take massive, determined action.",
+  author: "Tony Robbins"
 }
 ```
 
