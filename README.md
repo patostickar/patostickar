@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1031,
-  quote: "Positive thinking will let you do everything better than negative thinking will.",
-  author: "Zig Ziglar"
+  id: 311,
+  quote: "I don't believe in failure. It is not failure if you enjoyed the process.",
+  author: "Oprah Winfrey"
 }
 ```
 
