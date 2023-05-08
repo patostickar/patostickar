@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 651,
-  quote: "If you seek truth you will not seek victory by dishonourable means, and if you find truth you will become invincible.",
-  author: "Epictetus"
+  id: 205,
+  quote: "Inspiration exists, but it has to find us working.",
+  author: "Pablo Picasso"
 }
 ```
 
