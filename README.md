@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 269,
-  quote: "I believe that we are fundamentally the same and have the same basic potential.",
-  author: "Dalai Lama"
+  id: 838,
+  quote: "A hero is no braver than an ordinary man, but he is braver five minutes longer.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
