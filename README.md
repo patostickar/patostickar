@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 113,
-  quote: "Trusting our intuition often saves us from disaster.",
-  author: "Anne Wilson Schaef"
+  id: 911,
+  quote: "When you arise in the morning, think of what a precious privilege it is to be alive to breathe, to think, to enjoy, to love.",
+  author: "Marcus Aurelius"
 }
 ```
 
