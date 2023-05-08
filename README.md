@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 205,
-  quote: "Inspiration exists, but it has to find us working.",
-  author: "Pablo Picasso"
+  id: 510,
+  quote: "Forget about all the reasons why something may not work. You only need to find one good reason why it will.",
+  author: "Robert Anthony"
 }
 ```
 
