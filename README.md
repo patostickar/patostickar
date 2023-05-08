@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 911,
-  quote: "When you arise in the morning, think of what a precious privilege it is to be alive to breathe, to think, to enjoy, to love.",
-  author: "Marcus Aurelius"
+  id: 252,
+  quote: "Every problem has a gift for you in its hands.",
+  author: "Richard Bach"
 }
 ```
 
