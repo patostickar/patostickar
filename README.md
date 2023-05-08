@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1497,
-  quote: "A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.",
-  author: "Lao Tzu"
+  id: 1112,
+  quote: "Ask yourself the secret of your success. Listen to your answer, and practice it.",
+  author: "Richard Bach"
 }
 ```
 
