@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 729,
-  quote: "You can't trust without risk but neither can you live in a cocoon.",
-  author: "Byron Pulsifer"
+  id: 269,
+  quote: "I believe that we are fundamentally the same and have the same basic potential.",
+  author: "Dalai Lama"
 }
 ```
 
