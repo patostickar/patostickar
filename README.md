@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 296,
-  quote: "Love is not blind; it simply enables one to see things others fail to see.",
-  author: "null"
+  id: 440,
+  quote: "I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.",
+  author: "Og Mandino"
 }
 ```
 
