@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 311,
-  quote: "I don't believe in failure. It is not failure if you enjoyed the process.",
-  author: "Oprah Winfrey"
+  id: 451,
+  quote: "There is only one corner of the universe you can be certain of improving, and that's your own self.",
+  author: "Aldous Huxley"
 }
 ```
 
