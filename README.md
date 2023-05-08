@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1006,
-  quote: "Go to your bosom: Knock there, and ask your heart what it doth know.",
-  author: "William Shakespeare"
+  id: 1436,
+  quote: "Forgiveness does not change the past, but it does enlarge the future.",
+  author: "Paul Boese"
 }
 ```
 
