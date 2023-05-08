@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 510,
-  quote: "Forget about all the reasons why something may not work. You only need to find one good reason why it will.",
-  author: "Robert Anthony"
+  id: 361,
+  quote: "There is nothing in a caterpillar that tells you it's going to be a butterfly.",
+  author: "Buckminster Fuller"
 }
 ```
 
