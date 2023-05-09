@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1091,
-  quote: "The Superior Man is aware of Righteousness, the inferior man is aware of advantage.",
-  author: "Confucius"
+  id: 599,
+  quote: "I am always doing that which I cannot do, in order that I may learn how to do it.",
+  author: "Pablo Picasso"
 }
 ```
 
