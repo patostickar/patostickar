@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1232,
-  quote: "We are Divine enough to ask and we are important enough to receive.",
-  author: "Wayne Dyer"
+  id: 398,
+  quote: "Time changes everything except something within us which is always surprised by change.",
+  author: "Thomas Hardy"
 }
 ```
 
