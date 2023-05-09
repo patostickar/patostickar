@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 224,
-  quote: "The mind is everything. What you think you become.",
-  author: "Buddha"
+  id: 448,
+  quote: "There is only one success to be able to spend your life in your own way.",
+  author: "Christopher Morley"
 }
 ```
 
