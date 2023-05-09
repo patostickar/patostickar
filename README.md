@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 474,
-  quote: "If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.",
-  author: "Ralph Emerson"
+  id: 466,
+  quote: "We must never forget that it is through our actions, words, and thoughts that we have a choice.",
+  author: "Sogyal Rinpoche"
 }
 ```
 
