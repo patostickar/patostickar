@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 254,
-  quote: "I have often regretted my speech, never my silence.",
-  author: "Publilius Syrus"
+  id: 172,
+  quote: "The day always looks brighter from behind a smile.",
+  author: "null"
 }
 ```
 
