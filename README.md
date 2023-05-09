@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 172,
-  quote: "The day always looks brighter from behind a smile.",
-  author: "null"
+  id: 1191,
+  quote: "What separates the winners from the losers is how a person reacts to each new twist of fate.",
+  author: "Donald Trump"
 }
 ```
 
