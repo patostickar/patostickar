@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 9,
-  quote: "Self-complacency is fatal to progress.",
-  author: "Margaret Sangster"
+  id: 1091,
+  quote: "The Superior Man is aware of Righteousness, the inferior man is aware of advantage.",
+  author: "Confucius"
 }
 ```
 
