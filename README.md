@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 303,
-  quote: "The worst bankrupt in the world is the person who has lost his enthusiasm.",
-  author: "H. W. Arnold"
+  id: 9,
+  quote: "Self-complacency is fatal to progress.",
+  author: "Margaret Sangster"
 }
 ```
 
