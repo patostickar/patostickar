@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 398,
-  quote: "Time changes everything except something within us which is always surprised by change.",
-  author: "Thomas Hardy"
+  id: 718,
+  quote: "Happiness is not something ready made. It comes from your own actions.",
+  author: "Dalai Lama"
 }
 ```
 
