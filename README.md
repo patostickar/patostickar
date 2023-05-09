@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 791,
-  quote: "The beginning is always today.",
-  author: "Mary Wollstonecraft"
+  id: 353,
+  quote: "Tension is who you think you should be. Relaxation is who you are.",
+  author: "Chinese proverb"
 }
 ```
 
