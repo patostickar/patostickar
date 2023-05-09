@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 419,
-  quote: "Success means having the courage, the determination, and the will to become the person you believe you were meant to be.",
-  author: "George Sheehan"
+  id: 534,
+  quote: "At the center of your being you have the answer; you know who you are and you know what you want.",
+  author: "Lao Tzu"
 }
 ```
 
