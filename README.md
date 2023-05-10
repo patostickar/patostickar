@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1016,
-  quote: "Most powerful is he who has himself in his own power.",
-  author: "Seneca"
+  id: 129,
+  quote: "From little acorns mighty oaks do grow.",
+  author: "American proverb"
 }
 ```
 
