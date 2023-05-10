@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 871,
-  quote: "There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.",
-  author: "Dalai Lama"
+  id: 561,
+  quote: "To give hope to someone occurs when you teach them how to use the tools to do it for themselves.",
+  author: "Byron Pulsifer"
 }
 ```
 
