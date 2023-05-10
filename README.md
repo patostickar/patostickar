@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1144,
-  quote: "Excellence is to do a common thing in an uncommon way.",
-  author: "Booker Washington"
+  id: 1215,
+  quote: "Let the beauty of what you love be what you do.",
+  author: "Rumi"
 }
 ```
 
