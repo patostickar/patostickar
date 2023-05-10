@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 298,
-  quote: "I think somehow we learn who we really are and then live with that decision.",
-  author: "Eleanor Roosevelt"
+  id: 918,
+  quote: "Parents can only give good advice or put them on the right paths, but the final forming of a persons character lies in their own hands.",
+  author: "Anne Frank"
 }
 ```
 
