@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 914,
-  quote: "You must train your intuition you must trust the small voice inside you which tells you exactly what to say, what to decide.",
-  author: "Ingrid Bergman"
+  id: 1101,
+  quote: "Change your words. Change your world.",
+  author: "null"
 }
 ```
 
