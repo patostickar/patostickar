@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 129,
-  quote: "From little acorns mighty oaks do grow.",
-  author: "American proverb"
+  id: 1013,
+  quote: "Do good by stealth, and blush to find it fame.",
+  author: "Alexander Pope"
 }
 ```
 
