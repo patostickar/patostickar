@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 510,
-  quote: "Forget about all the reasons why something may not work. You only need to find one good reason why it will.",
-  author: "Robert Anthony"
+  id: 871,
+  quote: "There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.",
+  author: "Dalai Lama"
 }
 ```
 
