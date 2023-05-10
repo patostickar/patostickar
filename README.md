@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1624,
-  quote: "To hell with circumstances; I create opportunities.",
-  author: "Bruce Lee"
+  id: 1556,
+  quote: "To get the full value of joy you must have someone to divide it with.",
+  author: "Mark Twain"
 }
 ```
 
