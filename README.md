@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1013,
-  quote: "Do good by stealth, and blush to find it fame.",
-  author: "Alexander Pope"
+  id: 1335,
+  quote: "We are what we repeatedly do. Excellence, then, is not an act but a habit.",
+  author: "Aristotle"
 }
 ```
 
