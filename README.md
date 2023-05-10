@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 561,
-  quote: "To give hope to someone occurs when you teach them how to use the tools to do it for themselves.",
-  author: "Byron Pulsifer"
+  id: 1223,
+  quote: "The most decisive actions of our life... are most often unconsidered actions.",
+  author: "Andre Gide"
 }
 ```
 
