@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1556,
-  quote: "To get the full value of joy you must have someone to divide it with.",
-  author: "Mark Twain"
+  id: 1016,
+  quote: "Most powerful is he who has himself in his own power.",
+  author: "Seneca"
 }
 ```
 
