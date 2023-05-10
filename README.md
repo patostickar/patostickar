@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 718,
-  quote: "Happiness is not something ready made. It comes from your own actions.",
-  author: "Dalai Lama"
+  id: 510,
+  quote: "Forget about all the reasons why something may not work. You only need to find one good reason why it will.",
+  author: "Robert Anthony"
 }
 ```
 
