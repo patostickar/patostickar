@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 98,
-  quote: "Nobody will believe in you unless you believe in yourself.",
-  author: "Liberace"
+  id: 1144,
+  quote: "Excellence is to do a common thing in an uncommon way.",
+  author: "Booker Washington"
 }
 ```
 
