@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1215,
-  quote: "Let the beauty of what you love be what you do.",
-  author: "Rumi"
+  id: 1624,
+  quote: "To hell with circumstances; I create opportunities.",
+  author: "Bruce Lee"
 }
 ```
 
