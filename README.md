@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 901,
-  quote: "We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.",
-  author: "Stephen Covey"
+  id: 732,
+  quote: "The truth is always exciting. Speak it, then. Life is dull without it.",
+  author: "Pearl Buck"
 }
 ```
 
