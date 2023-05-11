@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 5,
-  quote: "Be the chief but never the lord.",
-  author: "Lao Tzu"
+  id: 1208,
+  quote: "As an organizer I start from where the world is, as it is, not as I would like it to be.",
+  author: "Saul Alinsky"
 }
 ```
 
