@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 732,
-  quote: "The truth is always exciting. Speak it, then. Life is dull without it.",
-  author: "Pearl Buck"
+  id: 998,
+  quote: "Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.",
+  author: "Arthur Conan Doyle"
 }
 ```
 
