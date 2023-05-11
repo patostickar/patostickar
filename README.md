@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 617,
-  quote: "Yesterday is history. Tomorrow is a mystery. And today? Today is a gift that's why they call it the present.",
-  author: "null"
+  id: 901,
+  quote: "We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.",
+  author: "Stephen Covey"
 }
 ```
 
