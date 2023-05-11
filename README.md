@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1388,
-  quote: "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
-  author: "Albert Einstein"
+  id: 1298,
+  quote: "Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can't build on it; it's only for wallowing in.",
+  author: "Katherine Mansfield"
 }
 ```
 
