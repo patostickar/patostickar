@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 143,
-  quote: "Friendship isn't a big thing. It's a million little things.",
+  id: 471,
+  quote: "As the rest of the world is walking out the door, your best friends are the ones walking in.",
   author: "null"
 }
 ```
