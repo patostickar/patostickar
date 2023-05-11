@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1208,
-  quote: "As an organizer I start from where the world is, as it is, not as I would like it to be.",
-  author: "Saul Alinsky"
+  id: 394,
+  quote: "It is on our failures that we base a new and different and better success.",
+  author: "Havelock Ellis"
 }
 ```
 
