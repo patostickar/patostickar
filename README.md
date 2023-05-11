@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 415,
-  quote: "I will not be concerned at other men is not knowing me;I will be concerned at my own want of ability.",
-  author: "Confucius"
+  id: 1307,
+  quote: "There is nothing happens to any person but what was in his power to go through with.",
+  author: "Marcus Aurelius"
 }
 ```
 
