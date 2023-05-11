@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 221,
-  quote: "There never was a good knife made of bad steel.",
-  author: "Benjamin Franklin"
+  id: 132,
+  quote: "Speak low, if you speak love.",
+  author: "William Shakespeare"
 }
 ```
 
