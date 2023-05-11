@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1404,
-  quote: "It is never too late. Even if you are going to die tomorrow, keep yourself straight and clear and be a happy human being today.",
-  author: "Lama Yeshe"
+  id: 1019,
+  quote: "Always tell the truth. That way, you don't have to remember what you said.",
+  author: "Mark Twain"
 }
 ```
 
