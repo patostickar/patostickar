@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 394,
-  quote: "It is on our failures that we base a new and different and better success.",
-  author: "Havelock Ellis"
+  id: 799,
+  quote: "Happiness is a Swedish sunset it is there for all, but most of us look the other way and lose it.",
+  author: "Mark Twain"
 }
 ```
 
