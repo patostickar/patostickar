@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 277,
-  quote: "In separateness lies the world's great misery, in compassion lies the world's true strength.",
-  author: "Buddha"
+  id: 738,
+  quote: "The universe is transformation; our life is what our thoughts make it.",
+  author: "Marcus Aurelius"
 }
 ```
 
