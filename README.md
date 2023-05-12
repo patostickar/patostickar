@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 336,
-  quote: "The best way to pay for a lovely moment is to enjoy it.",
-  author: "Richard Bach"
+  id: 801,
+  quote: "Look forward to spring as a time when you can start to see what nature has to offer once again.",
+  author: "Byron Pulsifer"
 }
 ```
 
