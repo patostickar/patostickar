@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 738,
-  quote: "The universe is transformation; our life is what our thoughts make it.",
-  author: "Marcus Aurelius"
+  id: 993,
+  quote: "A jug fills drop by drop.",
+  author: "Buddha"
 }
 ```
 
