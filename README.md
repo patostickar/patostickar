@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 993,
-  quote: "A jug fills drop by drop.",
+  id: 866,
+  quote: "Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared.",
   author: "Buddha"
 }
 ```
