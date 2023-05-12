@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1121,
-  quote: "Chaos is inherent in all compounded things. Strive on with diligence.",
-  author: "Buddha"
+  id: 206,
+  quote: "Pick battles big enough to matter, small enough to win.",
+  author: "Jonathan Kozol"
 }
 ```
 
