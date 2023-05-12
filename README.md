@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 42,
-  quote: "One faces the future with ones past.",
-  author: "Pearl Buck"
+  id: 484,
+  quote: "Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.",
+  author: "Bruce Lee"
 }
 ```
 
