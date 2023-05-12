@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 928,
-  quote: "The foolish man seeks happiness in the distance, the wise grows it under his feet.",
-  author: "James Oppenheim"
+  id: 262,
+  quote: "All things change; nothing perishes.",
+  author: "Ovid"
 }
 ```
 
