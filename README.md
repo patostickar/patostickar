@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 570,
-  quote: "Blessed is the person who is too busy to worry in the daytime, and too sleepy to worry at night.",
-  author: "Leo Aikman"
+  id: 44,
+  quote: "Who sows virtue reaps honour.",
+  author: "Leonardo da Vinci"
 }
 ```
 
