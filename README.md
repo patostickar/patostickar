@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 266,
-  quote: "Love doesn't make the world go round, love is what makes the ride worthwhile.",
-  author: "Elizabeth Browning"
+  id: 277,
+  quote: "In separateness lies the world's great misery, in compassion lies the world's true strength.",
+  author: "Buddha"
 }
 ```
 
