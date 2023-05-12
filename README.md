@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1201,
-  quote: "Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him.",
-  author: "Johann Wolfgang von Goethe"
+  id: 42,
+  quote: "One faces the future with ones past.",
+  author: "Pearl Buck"
 }
 ```
 
