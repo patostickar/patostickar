@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 106,
-  quote: "Do one thing every day that scares you.",
-  author: "Eleanor Roosevelt"
+  id: 37,
+  quote: "Learning is a treasure that will follow its owner everywhere",
+  author: "Chinese proverb"
 }
 ```
 
