@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1609,
-  quote: "It's not who you are that holds you back, it's who you think you're not.",
-  author: "null"
+  id: 1088,
+  quote: "No person is your friend who demands your silence, or denies your right to grow.",
+  author: "Alice Walker"
 }
 ```
 
