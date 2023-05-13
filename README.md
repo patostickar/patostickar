@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1606,
-  quote: "To know your purpose is to live a life of direction, and in that direction is found peace and tranquillity.",
-  author: "Byron Pulsifer"
+  id: 770,
+  quote: "People seldom notice old clothes if you wear a big smile.",
+  author: "Lee Mildon"
 }
 ```
 
