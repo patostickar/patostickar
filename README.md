@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 119,
-  quote: "Everyone smiles in the same language.",
-  author: "null"
+  id: 509,
+  quote: "There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.",
+  author: "Nelson Mandela"
 }
 ```
 
