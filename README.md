@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1189,
-  quote: "Stay committed to your decisions, but stay flexible in your approach.",
-  author: "Tony Robbins"
+  id: 823,
+  quote: "A bend in the road is not the end of the road...unless you fail to make the turn.",
+  author: "null"
 }
 ```
 
