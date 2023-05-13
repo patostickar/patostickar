@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 346,
-  quote: "Feeling and longing are the motive forces behind all human endeavor and human creations.",
-  author: "Albert Einstein"
+  id: 971,
+  quote: "Go put your creed into the deed. Nor speak with double tongue.",
+  author: "Ralph Emerson"
 }
 ```
 
