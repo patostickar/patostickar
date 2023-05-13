@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 897,
-  quote: "Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.",
+  id: 1641,
+  quote: "I will prepare and some day my chance will come.",
   author: "Abraham Lincoln"
 }
 ```
