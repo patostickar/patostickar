@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 823,
-  quote: "A bend in the road is not the end of the road...unless you fail to make the turn.",
-  author: "null"
+  id: 735,
+  quote: "Those who will play with cats must expect to be scratched.",
+  author: "Cervantes"
 }
 ```
 
