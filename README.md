@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1641,
-  quote: "I will prepare and some day my chance will come.",
-  author: "Abraham Lincoln"
+  id: 106,
+  quote: "Do one thing every day that scares you.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
