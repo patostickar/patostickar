@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 125,
-  quote: "You have to believe in yourself.",
-  author: "Sun Tzu"
+  id: 119,
+  quote: "Everyone smiles in the same language.",
+  author: "null"
 }
 ```
 
