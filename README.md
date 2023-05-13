@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 37,
-  quote: "Learning is a treasure that will follow its owner everywhere",
-  author: "Chinese proverb"
+  id: 1609,
+  quote: "It's not who you are that holds you back, it's who you think you're not.",
+  author: "null"
 }
 ```
 
