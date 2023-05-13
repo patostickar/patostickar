@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1105,
-  quote: "They can do all because they think they can.",
-  author: "Virgil"
+  id: 1189,
+  quote: "Stay committed to your decisions, but stay flexible in your approach.",
+  author: "Tony Robbins"
 }
 ```
 
