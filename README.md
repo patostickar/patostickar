@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1029,
-  quote: "Action is the foundational key to all success.",
-  author: "Pablo Picasso"
+  id: 13,
+  quote: "Life is change. Growth is optional. Choose wisely.",
+  author: "Karen Clark"
 }
 ```
 
