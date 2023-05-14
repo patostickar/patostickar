@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 457,
-  quote: "All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.",
-  author: "Kathleen Norris"
+  id: 1029,
+  quote: "Action is the foundational key to all success.",
+  author: "Pablo Picasso"
 }
 ```
 
