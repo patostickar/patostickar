@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 179,
-  quote: "Happiness is found in doing, not merely possessing.",
-  author: "Napoleon Hill"
+  id: 737,
+  quote: "In all things of nature there is something of the marvellous.",
+  author: "Aristotle"
 }
 ```
 
