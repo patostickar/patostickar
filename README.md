@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 746,
-  quote: "Action will remove the doubts that theory cannot solve.",
-  author: "Tehyi Hsieh"
+  id: 1624,
+  quote: "To hell with circumstances; I create opportunities.",
+  author: "Bruce Lee"
 }
 ```
 
