@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 65,
-  quote: "When deeds speak, words are nothing.",
-  author: "African proverb"
+  id: 456,
+  quote: "Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven.",
+  author: "Lao Tzu"
 }
 ```
 
