@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1492,
-  quote: "Love vanquishes time. To lovers, a moment can be eternity, eternity can be the tick of a clock.",
-  author: "Mary Parrish"
+  id: 1593,
+  quote: "Beware of the half truth. You may have gotten hold of the wrong half.",
+  author: "null"
 }
 ```
 
