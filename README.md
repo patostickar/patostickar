@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1593,
-  quote: "Beware of the half truth. You may have gotten hold of the wrong half.",
-  author: "null"
+  id: 460,
+  quote: "All our talents increase in the using, and the every faculty, both good and bad, strengthen by exercise.",
+  author: "Anne Bronte"
 }
 ```
 
