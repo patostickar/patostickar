@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 737,
-  quote: "In all things of nature there is something of the marvellous.",
-  author: "Aristotle"
+  id: 1525,
+  quote: "The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.",
+  author: "Eckhart Tolle"
 }
 ```
 
