@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 67,
-  quote: "I never think of the future. It comes soon enough.",
-  author: "Albert Einstein"
+  id: 653,
+  quote: "We could never learn to be brave and patient if there were only joy in the world.",
+  author: "Helen Keller"
 }
 ```
 
