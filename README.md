@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 703,
-  quote: "Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.",
-  author: "Napoleon Hill"
+  id: 845,
+  quote: "No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.",
+  author: "Buddha"
 }
 ```
 
