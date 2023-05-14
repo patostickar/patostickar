@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 456,
-  quote: "Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven.",
-  author: "Lao Tzu"
+  id: 444,
+  quote: "The minute you settle for less than you deserve, you get even less than you settled for.",
+  author: "Maureen Dowd"
 }
 ```
 
