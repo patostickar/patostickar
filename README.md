@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 13,
-  quote: "Life is change. Growth is optional. Choose wisely.",
-  author: "Karen Clark"
+  id: 971,
+  quote: "Go put your creed into the deed. Nor speak with double tongue.",
+  author: "Ralph Emerson"
 }
 ```
 
