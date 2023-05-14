@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1450,
-  quote: "If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.",
-  author: "Jim Rohn"
+  id: 457,
+  quote: "All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.",
+  author: "Kathleen Norris"
 }
 ```
 
