@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 971,
-  quote: "Go put your creed into the deed. Nor speak with double tongue.",
-  author: "Ralph Emerson"
+  id: 703,
+  quote: "Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.",
+  author: "Napoleon Hill"
 }
 ```
 
