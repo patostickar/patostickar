@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 490,
-  quote: "Everything that happens happens as it should, and if you observe carefully, you will find this to be so.",
-  author: "Marcus Aurelius"
+  id: 1084,
+  quote: "The path to success is to take massive, determined action.",
+  author: "Anthony Robbins"
 }
 ```
 
