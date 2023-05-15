@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 566,
-  quote: "I'm not interested in age. People who tell me their age are silly. You're as old as you feel.",
-  author: "Elizabeth Arden"
+  id: 723,
+  quote: "He who is fixed to a star does not change his mind.",
+  author: "Leonardo da Vinci"
 }
 ```
 
