@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1084,
-  quote: "The path to success is to take massive, determined action.",
-  author: "Anthony Robbins"
+  id: 968,
+  quote: "In seed time learn, in harvest teach, in winter enjoy.",
+  author: "William Blake"
 }
 ```
 
