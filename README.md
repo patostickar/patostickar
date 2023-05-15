@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 698,
-  quote: "Don't turn away from possible futures before you're certain you don't have anything to learn from them.",
-  author: "Richard Bach"
+  id: 821,
+  quote: "Sometimes it is better to lose and do the right thing than to win and do the wrong thing.",
+  author: "Tony Blair"
 }
 ```
 
