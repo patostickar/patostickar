@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 876,
-  quote: "Wishes can be your best avenue of getting what you want when you turn wishes into action. Action moves your wish to the forefront from thought to reality.",
-  author: "Byron Pulsifer"
+  id: 1074,
+  quote: "Beware of missing chances; otherwise it may be altogether too late some day.",
+  author: "Franz Liszt"
 }
 ```
 
