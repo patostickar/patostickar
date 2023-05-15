@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 533,
-  quote: "The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
-  author: "Henry Miller"
+  id: 490,
+  quote: "Everything that happens happens as it should, and if you observe carefully, you will find this to be so.",
+  author: "Marcus Aurelius"
 }
 ```
 
