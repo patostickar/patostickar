@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 385,
-  quote: "If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.",
-  author: "Morris West"
+  id: 871,
+  quote: "There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.",
+  author: "Dalai Lama"
 }
 ```
 
