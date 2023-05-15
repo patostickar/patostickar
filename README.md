@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 968,
-  quote: "In seed time learn, in harvest teach, in winter enjoy.",
-  author: "William Blake"
+  id: 1520,
+  quote: "The cosmos is neither moral or immoral; only people are. He who would move the world must first move himself.",
+  author: "Edward Ericson"
 }
 ```
 
