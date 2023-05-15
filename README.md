@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 343,
-  quote: "Life is like riding a bicycle. To keep your balance you must keep moving.",
-  author: "Albert Einstein"
+  id: 1552,
+  quote: "The height of your accomplishments will equal the depth of your convictions.",
+  author: "William Scolavino"
 }
 ```
 
