@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1074,
-  quote: "Beware of missing chances; otherwise it may be altogether too late some day.",
-  author: "Franz Liszt"
+  id: 501,
+  quote: "A good teacher is like a candle it consumes itself to light the way for others.",
+  author: "null"
 }
 ```
 
