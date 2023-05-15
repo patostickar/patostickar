@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1525,
-  quote: "The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.",
-  author: "Eckhart Tolle"
+  id: 876,
+  quote: "Wishes can be your best avenue of getting what you want when you turn wishes into action. Action moves your wish to the forefront from thought to reality.",
+  author: "Byron Pulsifer"
 }
 ```
 
