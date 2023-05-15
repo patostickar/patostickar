@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 942,
-  quote: "When you come to the end of your rope, tie a knot and hang on.",
-  author: "Franklin Roosevelt"
+  id: 566,
+  quote: "I'm not interested in age. People who tell me their age are silly. You're as old as you feel.",
+  author: "Elizabeth Arden"
 }
 ```
 
