@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1227,
-  quote: "Try and fail, but don't fail to try.",
-  author: "Stephen Kaggwa"
+  id: 385,
+  quote: "If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.",
+  author: "Morris West"
 }
 ```
 
