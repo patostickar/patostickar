@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1552,
-  quote: "The height of your accomplishments will equal the depth of your convictions.",
-  author: "William Scolavino"
+  id: 698,
+  quote: "Don't turn away from possible futures before you're certain you don't have anything to learn from them.",
+  author: "Richard Bach"
 }
 ```
 
