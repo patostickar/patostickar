@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 256,
-  quote: "Minds are like parachutes. They only function when open.",
-  author: "Thomas Dewar"
+  id: 1320,
+  quote: "As we are liberated from our own fear, our presence automatically liberates others.",
+  author: "Nelson Mandela"
 }
 ```
 
