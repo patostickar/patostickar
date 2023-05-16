@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 728,
-  quote: "Do not turn back when you are just at the goal.",
-  author: "Publilius Syrus"
+  id: 424,
+  quote: "The thoughts we choose to think are the tools we use to paint the canvas of our lives.",
+  author: "Louise Hay"
 }
 ```
 
