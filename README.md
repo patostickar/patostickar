@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 818,
-  quote: "Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.",
-  author: "Carl Jung"
+  id: 256,
+  quote: "Minds are like parachutes. They only function when open.",
+  author: "Thomas Dewar"
 }
 ```
 
