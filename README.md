@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1157,
-  quote: "Speak when you are angry and you will make the best speech you will ever regret.",
-  author: "Ambrose Bierce"
+  id: 850,
+  quote: "To be thoughtful and kind only takes a few seconds compared to the timeless hurt caused by one rude gesture.",
+  author: "Byron Pulsifer"
 }
 ```
 
