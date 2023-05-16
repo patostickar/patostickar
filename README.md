@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 509,
-  quote: "There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.",
-  author: "Nelson Mandela"
+  id: 1167,
+  quote: "We can only be said to be alive in those moments when our hearts are conscious of our treasures.",
+  author: "Thornton Wilder"
 }
 ```
 
