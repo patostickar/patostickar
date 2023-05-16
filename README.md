@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 850,
-  quote: "To be thoughtful and kind only takes a few seconds compared to the timeless hurt caused by one rude gesture.",
-  author: "Byron Pulsifer"
+  id: 806,
+  quote: "You may only be someone in the world, but to someone else, you may be the world.",
+  author: "null"
 }
 ```
 
