@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 570,
-  quote: "Blessed is the person who is too busy to worry in the daytime, and too sleepy to worry at night.",
-  author: "Leo Aikman"
+  id: 278,
+  quote: "By believing passionately in something that does not yet exist, we create it.",
+  author: "Nikos Kazantzakis"
 }
 ```
 
