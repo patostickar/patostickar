@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1385,
-  quote: "They can conquer who believe they can.",
-  author: "Virgil"
+  id: 728,
+  quote: "Do not turn back when you are just at the goal.",
+  author: "Publilius Syrus"
 }
 ```
 
