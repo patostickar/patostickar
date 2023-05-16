@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 61,
-  quote: "Without courage, wisdom bears no fruit.",
-  author: "Baltasar Gracian"
+  id: 996,
+  quote: "Being angry never solves anything.",
+  author: "Catherine Pulsifer"
 }
 ```
 
