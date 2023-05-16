@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1078,
-  quote: "Good actions give strength to ourselves and inspire good actions in others.",
-  author: "Plato"
+  id: 1185,
+  quote: "Our greatest glory is not in never falling, but in rising every time we fall.",
+  author: "Confucius"
 }
 ```
 
