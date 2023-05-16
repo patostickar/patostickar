@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1320,
-  quote: "As we are liberated from our own fear, our presence automatically liberates others.",
-  author: "Nelson Mandela"
+  id: 624,
+  quote: "Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.",
+  author: "Robert Graves"
 }
 ```
 
