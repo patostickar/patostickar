@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 624,
-  quote: "Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.",
-  author: "Robert Graves"
+  id: 194,
+  quote: "May our hearts garden of awakening bloom with hundreds of flowers.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
