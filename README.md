@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 278,
-  quote: "By believing passionately in something that does not yet exist, we create it.",
-  author: "Nikos Kazantzakis"
+  id: 818,
+  quote: "Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.",
+  author: "Carl Jung"
 }
 ```
 
