@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1577,
-  quote: "The energy of the mind is the essence of life.",
-  author: "Aristotle"
+  id: 61,
+  quote: "Without courage, wisdom bears no fruit.",
+  author: "Baltasar Gracian"
 }
 ```
 
