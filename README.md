@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 871,
-  quote: "There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.",
-  author: "Dalai Lama"
+  id: 570,
+  quote: "Blessed is the person who is too busy to worry in the daytime, and too sleepy to worry at night.",
+  author: "Leo Aikman"
 }
 ```
 
