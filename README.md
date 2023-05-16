@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 996,
-  quote: "Being angry never solves anything.",
-  author: "Catherine Pulsifer"
+  id: 1078,
+  quote: "Good actions give strength to ourselves and inspire good actions in others.",
+  author: "Plato"
 }
 ```
 
