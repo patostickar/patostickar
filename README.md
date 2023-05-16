@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 876,
-  quote: "Wishes can be your best avenue of getting what you want when you turn wishes into action. Action moves your wish to the forefront from thought to reality.",
-  author: "Byron Pulsifer"
+  id: 1157,
+  quote: "Speak when you are angry and you will make the best speech you will ever regret.",
+  author: "Ambrose Bierce"
 }
 ```
 
