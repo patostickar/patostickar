@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 651,
-  quote: "If you seek truth you will not seek victory by dishonourable means, and if you find truth you will become invincible.",
-  author: "Epictetus"
+  id: 1065,
+  quote: "As we risk ourselves, we grow. Each new experience is a risk.",
+  author: "Fran Watson"
 }
 ```
 
