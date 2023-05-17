@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1518,
-  quote: "Don't be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.",
-  author: "Richard Bach"
+  id: 651,
+  quote: "If you seek truth you will not seek victory by dishonourable means, and if you find truth you will become invincible.",
+  author: "Epictetus"
 }
 ```
 
