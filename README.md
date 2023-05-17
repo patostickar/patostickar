@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 285,
-  quote: "It is not so important to know everything as to appreciate what we learn.",
-  author: "Hannah More"
+  id: 598,
+  quote: "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.",
+  author: "Epictetus"
 }
 ```
 
