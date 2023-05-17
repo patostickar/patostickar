@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 34,
-  quote: "God always takes the simplest way.",
-  author: "Albert Einstein"
+  id: 221,
+  quote: "There never was a good knife made of bad steel.",
+  author: "Benjamin Franklin"
 }
 ```
 
