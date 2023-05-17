@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1380,
-  quote: "The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.",
-  author: "Carlos Castaneda"
+  id: 1161,
+  quote: "Forgiveness is choosing to love. It is the first skill of self-giving love.",
+  author: "Mohandas Gandhi"
 }
 ```
 
