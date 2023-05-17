@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1406,
-  quote: "Things do not change; we change.",
-  author: "Henry Thoreau"
+  id: 58,
+  quote: "Time is the wisest counsellor of all.",
+  author: "Pericles"
 }
 ```
 
