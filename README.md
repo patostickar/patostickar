@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1056,
-  quote: "He who lives in harmony with himself lives in harmony with the world.",
-  author: "Marcus Aurelius"
+  id: 801,
+  quote: "Look forward to spring as a time when you can start to see what nature has to offer once again.",
+  author: "Byron Pulsifer"
 }
 ```
 
