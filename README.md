@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1065,
-  quote: "As we risk ourselves, we grow. Each new experience is a risk.",
-  author: "Fran Watson"
+  id: 1361,
+  quote: "Be like the flower, turn your face to the sun.",
+  author: "Kahlil Gibran"
 }
 ```
 
