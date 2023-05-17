@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 620,
-  quote: "You can only grow if you're willing to feel awkward and uncomfortable when you try something new.",
-  author: "Brian Tracy"
+  id: 1406,
+  quote: "Things do not change; we change.",
+  author: "Henry Thoreau"
 }
 ```
 
