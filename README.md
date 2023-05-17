@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 815,
-  quote: "Happiness is a perfume you cannot pour on others without getting a few drops on yourself.",
-  author: "Ralph Waldo Emerson"
+  id: 285,
+  quote: "It is not so important to know everything as to appreciate what we learn.",
+  author: "Hannah More"
 }
 ```
 
