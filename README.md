@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 751,
-  quote: "We must not say every mistake is a foolish one.",
-  author: "Cicero"
+  id: 686,
+  quote: "Responsibility is not inherited, it is a choice that everyone needs to make at some point in their life.",
+  author: "Byron Pulsifer"
 }
 ```
 
