@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 973,
-  quote: "Hope arouses, as nothing else can arouse, a passion for the possible.",
-  author: "William Sloane Coffin"
+  id: 986,
+  quote: "We cannot solve our problems with the same thinking we used when we created them.",
+  author: "Albert Einstein"
 }
 ```
 
