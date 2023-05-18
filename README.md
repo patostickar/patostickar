@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 598,
-  quote: "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.",
-  author: "Epictetus"
+  id: 1638,
+  quote: "Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.",
+  author: "Napoleon Hill"
 }
 ```
 
