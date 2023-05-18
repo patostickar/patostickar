@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1361,
-  quote: "Be like the flower, turn your face to the sun.",
-  author: "Kahlil Gibran"
+  id: 62,
+  quote: "Change in all things is sweet.",
+  author: "Aristotle"
 }
 ```
 
