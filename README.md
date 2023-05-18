@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1280,
-  quote: "Strength to carry on despite the odds means you have faith in your own abilities and know how.",
-  author: "Byron Pulsifer"
+  id: 973,
+  quote: "Hope arouses, as nothing else can arouse, a passion for the possible.",
+  author: "William Sloane Coffin"
 }
 ```
 
