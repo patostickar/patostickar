@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 233,
-  quote: "Intuition will tell the thinking mind where to look next.",
-  author: "Jonas Salk"
+  id: 1560,
+  quote: "Good advice is always certain to be ignored, but that's no reason not to give it.",
+  author: "Agatha Christie"
 }
 ```
 
