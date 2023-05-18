@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1027,
-  quote: "No yesterdays are ever wasted for those who give themselves to today.",
-  author: "Brendan Francis"
+  id: 1291,
+  quote: "First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.",
+  author: "Napoleon Hill"
 }
 ```
 
