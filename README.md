@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 637,
-  quote: "Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.",
-  author: "Richard Bach"
+  id: 752,
+  quote: "Accept challenges, so that you may feel the exhilaration of victory.",
+  author: "George Patton"
 }
 ```
 
