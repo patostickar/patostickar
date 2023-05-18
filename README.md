@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 489,
-  quote: "The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.",
-  author: "Anais Nin"
+  id: 390,
+  quote: "Every day may not be good, but there's something good in every day.",
+  author: "null"
 }
 ```
 
