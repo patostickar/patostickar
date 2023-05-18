@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1053,
-  quote: "When anger use your energy to do something productive.",
-  author: "C. Pulsifer"
+  id: 1485,
+  quote: "Remember that failure is an event, not a person.",
+  author: "Zig Ziglar"
 }
 ```
 
