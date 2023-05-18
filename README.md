@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1485,
-  quote: "Remember that failure is an event, not a person.",
-  author: "Zig Ziglar"
+  id: 595,
+  quote: "If you accept the expectations of others, especially negative ones, then you never will change the outcome.",
+  author: "Michael Jordan"
 }
 ```
 
