@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 44,
-  quote: "Who sows virtue reaps honour.",
-  author: "Leonardo da Vinci"
+  id: 665,
+  quote: "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+  author: "Buddha"
 }
 ```
 
