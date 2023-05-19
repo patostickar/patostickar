@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1296,
-  quote: "Work for something because it is good, not just because it stands a chance to succeed.",
-  author: "Vaclav Havel"
+  id: 180,
+  quote: "Put your future in good hands your own.",
+  author: "null"
 }
 ```
 
