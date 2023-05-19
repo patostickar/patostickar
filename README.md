@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 728,
-  quote: "Do not turn back when you are just at the goal.",
-  author: "Publilius Syrus"
+  id: 951,
+  quote: "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+  author: "Robert Stevenson"
 }
 ```
 
