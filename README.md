@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1053,
-  quote: "When anger use your energy to do something productive.",
-  author: "C. Pulsifer"
+  id: 940,
+  quote: "Smile, breathe and go slowly.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
