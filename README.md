@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 373,
-  quote: "It is not uncommon for people to spend their whole life waiting to start living.",
-  author: "Eckhart Tolle"
+  id: 162,
+  quote: "Fear is a darkroom where negatives develop.",
+  author: "Usman Asif"
 }
 ```
 
