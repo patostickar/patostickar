@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 682,
-  quote: "Try not to become a man of success, but rather try to become a man of value.",
-  author: "Albert Einstein"
+  id: 1053,
+  quote: "When anger use your energy to do something productive.",
+  author: "C. Pulsifer"
 }
 ```
 
