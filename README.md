@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 541,
-  quote: "Nature gave us one tongue and two ears so we could hear twice as much as we speak.",
-  author: "Epictetus"
+  id: 176,
+  quote: "What we achieve inwardly will change outer reality.",
+  author: "Plutarch"
 }
 ```
 
