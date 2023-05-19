@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 180,
-  quote: "Put your future in good hands your own.",
-  author: "null"
+  id: 415,
+  quote: "I will not be concerned at other men is not knowing me;I will be concerned at my own want of ability.",
+  author: "Confucius"
 }
 ```
 
