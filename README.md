@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 82,
-  quote: "A short saying often contains much wisdom.",
-  author: "Sophocles"
+  id: 1511,
+  quote: "In skating over thin ice our safety is in our speed.",
+  author: "Ralph Emerson"
 }
 ```
 
