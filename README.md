@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 96,
-  quote: "Every new day is another chance to change your life.",
-  author: "null"
+  id: 1330,
+  quote: "The least of things with a meaning is worth more in life than the greatest of things without it.",
+  author: "Carl Jung"
 }
 ```
 
