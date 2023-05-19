@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 176,
-  quote: "What we achieve inwardly will change outer reality.",
-  author: "Plutarch"
+  id: 728,
+  quote: "Do not turn back when you are just at the goal.",
+  author: "Publilius Syrus"
 }
 ```
 
