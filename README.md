@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 665,
-  quote: "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
-  author: "Buddha"
+  id: 763,
+  quote: "Our lives are a sum total of the choices we have made.",
+  author: "Wayne Dyer"
 }
 ```
 
