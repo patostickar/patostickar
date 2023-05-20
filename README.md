@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 763,
-  quote: "Our lives are a sum total of the choices we have made.",
-  author: "Wayne Dyer"
+  id: 19,
+  quote: "Having nothing, nothing can he lose.",
+  author: "William Shakespeare"
 }
 ```
 
