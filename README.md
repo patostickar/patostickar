@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 19,
-  quote: "Having nothing, nothing can he lose.",
-  author: "William Shakespeare"
+  id: 160,
+  quote: "Whatever we expect with confidence becomes our own self-fulfilling prophecy.",
+  author: "Brian Tracy"
 }
 ```
 
