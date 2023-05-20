@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 555,
-  quote: "It is one of the blessings of old friends that you can afford to be stupid with them.",
-  author: "Ralph Emerson"
+  id: 330,
+  quote: "The most complicated achievements of thought are possible without the assistance of consciousness.",
+  author: "Sigmund Freud"
 }
 ```
 
