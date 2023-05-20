@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1384,
-  quote: "However many holy words you read, However many you speak, What good will they do you If you do not act on upon them?",
-  author: "Buddha"
+  id: 560,
+  quote: "Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?",
+  author: "Confucius"
 }
 ```
 
