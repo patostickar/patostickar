@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1020,
-  quote: "From wonder into wonder existence opens.",
-  author: "Lao Tzu"
+  id: 1218,
+  quote: "A day of worry is more exhausting than a day of work.",
+  author: "John Lubbock"
 }
 ```
 
