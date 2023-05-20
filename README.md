@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 507,
-  quote: "What lies behind us and what lies before us are small matters compared to what lies within us.",
-  author: "Oliver Holmes"
+  id: 495,
+  quote: "Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that so it goes on flying anyway.",
+  author: "Mary Kay Ash"
 }
 ```
 
