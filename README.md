@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 111,
-  quote: "All our knowledge has its origins in our perceptions.",
-  author: "Leonardo da Vinci"
+  id: 437,
+  quote: "You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.",
+  author: "Naguib Mahfouz"
 }
 ```
 
