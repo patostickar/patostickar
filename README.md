@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1516,
-  quote: "There are no limitations to the mind except those we acknowledge.",
-  author: "Napoleon Hill"
+  id: 498,
+  quote: "The first step to getting the things you want out of life is this: decide what you want.",
+  author: "Ben Stein"
 }
 ```
 
