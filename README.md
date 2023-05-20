@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 160,
-  quote: "Whatever we expect with confidence becomes our own self-fulfilling prophecy.",
-  author: "Brian Tracy"
+  id: 507,
+  quote: "What lies behind us and what lies before us are small matters compared to what lies within us.",
+  author: "Oliver Holmes"
 }
 ```
 
