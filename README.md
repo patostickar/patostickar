@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 63,
-  quote: "What you fear is that which requires action to overcome.",
-  author: "Byron Pulsifer"
+  id: 555,
+  quote: "It is one of the blessings of old friends that you can afford to be stupid with them.",
+  author: "Ralph Emerson"
 }
 ```
 
