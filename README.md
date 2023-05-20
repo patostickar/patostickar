@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 330,
-  quote: "The most complicated achievements of thought are possible without the assistance of consciousness.",
-  author: "Sigmund Freud"
+  id: 998,
+  quote: "Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.",
+  author: "Arthur Conan Doyle"
 }
 ```
 
