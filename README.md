@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1008,
-  quote: "If you do not change direction, you may end up where you are heading.",
-  author: "Lao Tzu"
+  id: 1384,
+  quote: "However many holy words you read, However many you speak, What good will they do you If you do not act on upon them?",
+  author: "Buddha"
 }
 ```
 
