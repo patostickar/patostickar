@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1297,
-  quote: "Knowledge rests not upon truth alone, but upon error also.",
-  author: "Carl Jung"
+  id: 1551,
+  quote: "I endeavour to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.",
+  author: "Elizabeth Montagu"
 }
 ```
 
