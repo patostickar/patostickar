@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 165,
-  quote: "Freedom is the right to live as we wish.",
-  author: "Epictetus"
+  id: 300,
+  quote: "A little knowledge that acts is worth infinitely more than much knowledge that is idle.",
+  author: "Kahlil Gibran"
 }
 ```
 
