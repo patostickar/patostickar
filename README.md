@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1229,
-  quote: "Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, Something is out of tune.",
-  author: "Carl Jung"
+  id: 470,
+  quote: "The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.",
+  author: "Buddha"
 }
 ```
 
