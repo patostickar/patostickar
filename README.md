@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 300,
-  quote: "A little knowledge that acts is worth infinitely more than much knowledge that is idle.",
-  author: "Kahlil Gibran"
+  id: 1090,
+  quote: "Vision without action is a daydream. Action without vision is a nightmare.",
+  author: "Japanese proverb"
 }
 ```
 
