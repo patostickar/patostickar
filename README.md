@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 217,
-  quote: "There is no way to prosperity, prosperity is the way.",
-  author: "Wayne Dyer"
+  id: 116,
+  quote: "Silence is a fence around wisdom.",
+  author: "German proverb"
 }
 ```
 
