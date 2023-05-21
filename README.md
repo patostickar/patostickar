@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 116,
-  quote: "Silence is a fence around wisdom.",
-  author: "German proverb"
+  id: 929,
+  quote: "The greatest part of our happiness depends on our dispositions, not our circumstances.",
+  author: "Martha Washington"
 }
 ```
 
