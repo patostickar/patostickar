@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1556,
-  quote: "To get the full value of joy you must have someone to divide it with.",
-  author: "Mark Twain"
+  id: 256,
+  quote: "Minds are like parachutes. They only function when open.",
+  author: "Thomas Dewar"
 }
 ```
 
