@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 177,
-  quote: "Our strength grows out of our weaknesses.",
-  author: "Ralph Waldo Emerson"
+  id: 1297,
+  quote: "Knowledge rests not upon truth alone, but upon error also.",
+  author: "Carl Jung"
 }
 ```
 
