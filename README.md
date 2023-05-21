@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1225,
-  quote: "Failure doesn't mean you are a failure it just means you haven't succeeded yet.",
-  author: "Robert Schuller"
+  id: 177,
+  quote: "Our strength grows out of our weaknesses.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
