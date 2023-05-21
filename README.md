@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 470,
-  quote: "The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.",
-  author: "Buddha"
+  id: 402,
+  quote: "Transformation doesn't take place with a vacuum; instead, it occurs when we are indirectly and directly connected to all those around us.",
+  author: "Byron Pulsifer"
 }
 ```
 
