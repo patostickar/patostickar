@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 256,
-  quote: "Minds are like parachutes. They only function when open.",
-  author: "Thomas Dewar"
+  id: 837,
+  quote: "People grow through experience if they meet life honestly and courageously. This is how character is built.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
