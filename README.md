@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 863,
-  quote: "To choose what is difficult all ones days, as if it were easy, that is faith.",
-  author: "W. H. Auden"
+  id: 99,
+  quote: "Do more than dream: work.",
+  author: "William Arthur Ward"
 }
 ```
 
