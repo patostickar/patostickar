@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1405,
-  quote: "Respect is not something that you can ask for, buy or borrow. Respect is what you earn from each person no matter their background or status.",
-  author: "Byron Pulsifer"
+  id: 211,
+  quote: "The cause is hidden. The effect is visible to all.",
+  author: "Ovid"
 }
 ```
 
