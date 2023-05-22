@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 837,
-  quote: "People grow through experience if they meet life honestly and courageously. This is how character is built.",
-  author: "Eleanor Roosevelt"
+  id: 650,
+  quote: "There are two primary choices in life: to accept conditions as they exist, or accept responsibility for changing them.",
+  author: "Denis Waitley"
 }
 ```
 
