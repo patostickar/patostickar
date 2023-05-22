@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 348,
-  quote: "If you correct your mind, the rest of your life will fall into place.",
-  author: "Lao Tzu"
+  id: 315,
+  quote: "I have done my best: that is about all the philosophy of living one needs.",
+  author: "Lin-yutang"
 }
 ```
 
