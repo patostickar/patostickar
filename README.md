@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 786,
-  quote: "He who obtains has little. He who scatters has much.",
-  author: "Richard Braunstein"
+  id: 908,
+  quote: "The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.",
+  author: "Margaret Smith"
 }
 ```
 
