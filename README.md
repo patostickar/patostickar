@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1504,
-  quote: "You teach best what you most need to learn.",
-  author: "Richard Bach"
+  id: 256,
+  quote: "Minds are like parachutes. They only function when open.",
+  author: "Thomas Dewar"
 }
 ```
 
