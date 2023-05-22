@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1554,
-  quote: "When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.",
-  author: "Audre Lorde"
+  id: 786,
+  quote: "He who obtains has little. He who scatters has much.",
+  author: "Richard Braunstein"
 }
 ```
 
