@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 321,
-  quote: "It is only when the mind and character slumber that the dress can be seen.",
-  author: "Ralph Waldo Emerson"
+  id: 404,
+  quote: "The free man is he who does not fear to go to the end of his thought.",
+  author: "Leon Blum"
 }
 ```
 
