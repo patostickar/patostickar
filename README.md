@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 99,
-  quote: "Do more than dream: work.",
-  author: "William Arthur Ward"
+  id: 976,
+  quote: "When you learn, teach. When you get, give.",
+  author: "Maya Angelou"
 }
 ```
 
