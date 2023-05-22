@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 175,
-  quote: "He who is contented is rich.",
-  author: "Lao Tzu"
+  id: 791,
+  quote: "The beginning is always today.",
+  author: "Mary Wollstonecraft"
 }
 ```
 
