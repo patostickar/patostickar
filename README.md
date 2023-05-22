@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1153,
-  quote: "Age does not protect you from love. But love, to some extent, protects you from age.",
-  author: "Anais Nin"
+  id: 1504,
+  quote: "You teach best what you most need to learn.",
+  author: "Richard Bach"
 }
 ```
 
