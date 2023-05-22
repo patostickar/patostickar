@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 586,
-  quote: "To speak gratitude is courteous and pleasant, to enact gratitude is generous and noble, but to live gratitude is to touch Heaven.",
-  author: "Johannes Gaertner"
+  id: 1524,
+  quote: "I cannot say whether things will get better if we change; what I can say is they must change if they are to get better.",
+  author: "Georg Lichtenberg"
 }
 ```
 
