@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 976,
-  quote: "When you learn, teach. When you get, give.",
-  author: "Maya Angelou"
+  id: 1181,
+  quote: "If you want a thing done well, do it yourself.",
+  author: "Napoleon Bonaparte"
 }
 ```
 
