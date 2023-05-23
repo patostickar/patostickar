@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1598,
-  quote: "An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.",
-  author: "Thomas Fuller"
+  id: 443,
+  quote: "Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.",
+  author: "M. Scott Peck"
 }
 ```
 
