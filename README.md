@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 443,
-  quote: "Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.",
-  author: "M. Scott Peck"
+  id: 635,
+  quote: "Let your hook always be cast; in the pool where you least expect it, there will be a fish.",
+  author: "Ovid"
 }
 ```
 
