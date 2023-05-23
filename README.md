@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1181,
-  quote: "If you want a thing done well, do it yourself.",
-  author: "Napoleon Bonaparte"
+  id: 551,
+  quote: "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.",
+  author: "null"
 }
 ```
 
