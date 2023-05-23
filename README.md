@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 118,
-  quote: "The simplest things are often the truest.",
-  author: "Richard Bach"
+  id: 923,
+  quote: "My advice to you is not to inquire why or whither, but just enjoy your ice cream while its on your plate that's my philosophy.",
+  author: "Thornton Wilder"
 }
 ```
 
