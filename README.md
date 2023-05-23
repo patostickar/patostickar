@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 736,
-  quote: "I've never seen a smiling face that was not beautiful.",
-  author: "null"
+  id: 1598,
+  quote: "An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.",
+  author: "Thomas Fuller"
 }
 ```
 
