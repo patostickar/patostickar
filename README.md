@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 343,
-  quote: "Life is like riding a bicycle. To keep your balance you must keep moving.",
-  author: "Albert Einstein"
+  id: 703,
+  quote: "Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.",
+  author: "Napoleon Hill"
 }
 ```
 
