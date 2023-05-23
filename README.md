@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1211,
-  quote: "Complaining doesn't change a thing only taking action does.",
-  author: "Byron Pulsifer"
+  id: 343,
+  quote: "Life is like riding a bicycle. To keep your balance you must keep moving.",
+  author: "Albert Einstein"
 }
 ```
 
