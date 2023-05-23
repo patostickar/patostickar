@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1176,
-  quote: "You cannot travel the path until you have become the path itself.",
-  author: "Buddha"
+  id: 118,
+  quote: "The simplest things are often the truest.",
+  author: "Richard Bach"
 }
 ```
 
