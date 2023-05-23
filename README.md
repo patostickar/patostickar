@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 46,
-  quote: "Talk doesn't cook rice.",
-  author: "Chinese proverb"
+  id: 1489,
+  quote: "If you do what you've always done, you'll get what youve always gotten.",
+  author: "Tony Robbins"
 }
 ```
 
