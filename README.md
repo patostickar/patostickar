@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 282,
-  quote: "I never see what has been done; I only see what remains to be done.",
-  author: "Marie Curie"
+  id: 736,
+  quote: "I've never seen a smiling face that was not beautiful.",
+  author: "null"
 }
 ```
 
