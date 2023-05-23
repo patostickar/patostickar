@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 593,
-  quote: "Many of life's failures are people who did not realize how close they were to success when they gave up.",
-  author: "Thomas Edison"
+  id: 1211,
+  quote: "Complaining doesn't change a thing only taking action does.",
+  author: "Byron Pulsifer"
 }
 ```
 
