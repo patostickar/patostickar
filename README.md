@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 10,
-  quote: "Peace comes from within. Do not seek it without.",
+  id: 1176,
+  quote: "You cannot travel the path until you have become the path itself.",
   author: "Buddha"
 }
 ```
