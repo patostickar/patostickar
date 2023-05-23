@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 923,
-  quote: "My advice to you is not to inquire why or whither, but just enjoy your ice cream while its on your plate that's my philosophy.",
-  author: "Thornton Wilder"
+  id: 567,
+  quote: "I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.",
+  author: "Dalai Lama"
 }
 ```
 
