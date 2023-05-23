@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1489,
-  quote: "If you do what you've always done, you'll get what youve always gotten.",
-  author: "Tony Robbins"
+  id: 1042,
+  quote: "Nature is a mutable cloud which is always and never the same.",
+  author: "Ralph Emerson"
 }
 ```
 
