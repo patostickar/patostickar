@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1081,
-  quote: "Every human being is the author of his own health or disease.",
-  author: "Buddha"
+  id: 282,
+  quote: "I never see what has been done; I only see what remains to be done.",
+  author: "Marie Curie"
 }
 ```
 
