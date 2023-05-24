@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1019,
-  quote: "Always tell the truth. That way, you don't have to remember what you said.",
-  author: "Mark Twain"
+  id: 8,
+  quote: "Life is a learning experience, only if you learn.",
+  author: "Yogi Berra"
 }
 ```
 
