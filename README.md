@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 8,
-  quote: "Life is a learning experience, only if you learn.",
-  author: "Yogi Berra"
+  id: 1484,
+  quote: "If you're in a bad situation, don't worry it'll change. If you're in a good situation, don't worry it'll change.",
+  author: "John Simone"
 }
 ```
 
