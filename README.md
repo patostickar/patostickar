@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 770,
-  quote: "People seldom notice old clothes if you wear a big smile.",
-  author: "Lee Mildon"
+  id: 801,
+  quote: "Look forward to spring as a time when you can start to see what nature has to offer once again.",
+  author: "Byron Pulsifer"
 }
 ```
 
