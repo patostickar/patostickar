@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 437,
-  quote: "You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.",
-  author: "Naguib Mahfouz"
+  id: 647,
+  quote: "If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.",
+  author: "John Steinbeck"
 }
 ```
 
