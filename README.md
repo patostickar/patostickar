@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1038,
-  quote: "Each day can be one of triumph if you keep up your interests.",
-  author: "George Matthew Adams"
+  id: 502,
+  quote: "The only thing to do with good advice is to pass it on. It is never of any use to oneself.",
+  author: "Oscar Wilde"
 }
 ```
 
