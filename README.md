@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 701,
-  quote: "Work while you have the light. You are responsible for the talent that has been entrusted to you.",
-  author: "Henri-Frederic Amiel"
+  id: 773,
+  quote: "Man cannot discover new oceans unless he has the courage to lose sight of the shore.",
+  author: "Andre Gide"
 }
 ```
 
