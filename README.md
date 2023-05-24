@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1172,
-  quote: "Kindness is the language which the deaf can hear and the blind can see.",
-  author: "Mark Twain"
+  id: 930,
+  quote: "It is only possible to live happily ever after on a day to day basis.",
+  author: "Margaret Bonnano"
 }
 ```
 
