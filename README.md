@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 773,
-  quote: "Man cannot discover new oceans unless he has the courage to lose sight of the shore.",
-  author: "Andre Gide"
+  id: 942,
+  quote: "When you come to the end of your rope, tie a knot and hang on.",
+  author: "Franklin Roosevelt"
 }
 ```
 
