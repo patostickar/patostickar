@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 595,
-  quote: "If you accept the expectations of others, especially negative ones, then you never will change the outcome.",
-  author: "Michael Jordan"
+  id: 47,
+  quote: "He is able who thinks he is able.",
+  author: "Buddha"
 }
 ```
 
