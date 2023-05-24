@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 47,
-  quote: "He is able who thinks he is able.",
-  author: "Buddha"
+  id: 701,
+  quote: "Work while you have the light. You are responsible for the talent that has been entrusted to you.",
+  author: "Henri-Frederic Amiel"
 }
 ```
 
