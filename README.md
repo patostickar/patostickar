@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 185,
-  quote: "The best way out is always through.",
-  author: "Robert Frost"
+  id: 611,
+  quote: "The grand essentials of happiness are: something to do, something to love, and something to hope for.",
+  author: "Chalmers"
 }
 ```
 
