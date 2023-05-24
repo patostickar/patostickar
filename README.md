@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 502,
-  quote: "The only thing to do with good advice is to pass it on. It is never of any use to oneself.",
-  author: "Oscar Wilde"
+  id: 437,
+  quote: "You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.",
+  author: "Naguib Mahfouz"
 }
 ```
 
