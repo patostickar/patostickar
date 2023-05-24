@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 835,
-  quote: "Friends are those rare people who ask how we are and then wait to hear the answer.",
-  author: "Ed Cunningham"
+  id: 1019,
+  quote: "Always tell the truth. That way, you don't have to remember what you said.",
+  author: "Mark Twain"
 }
 ```
 
