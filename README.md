@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1386,
-  quote: "Learn to listen. Opportunity could be knocking at your door very softly.",
-  author: "Frank Tyger"
+  id: 925,
+  quote: "He who conquers others is strong; He who conquers himself is mighty.",
+  author: "Lao Tzu"
 }
 ```
 
