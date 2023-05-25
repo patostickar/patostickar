@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1120,
-  quote: "Our kindness may be the most persuasive argument for that which we believe.",
-  author: "Gordon Hinckley"
+  id: 1145,
+  quote: "No matter how hard the past, you can always begin again.",
+  author: "Buddha"
 }
 ```
 
