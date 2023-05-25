@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1060,
-  quote: "If you can't feed a hundred people, then feed just one.",
-  author: "Mother Teresa"
+  id: 384,
+  quote: "Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.",
+  author: "Horace"
 }
 ```
 
