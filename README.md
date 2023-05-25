@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 253,
-  quote: "Sadness flies away on the wings of time.",
-  author: "Jean de la Fontaine"
+  id: 1120,
+  quote: "Our kindness may be the most persuasive argument for that which we believe.",
+  author: "Gordon Hinckley"
 }
 ```
 
