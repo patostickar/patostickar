@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 558,
-  quote: "One must be fond of people and trust them if one is not to make a mess of life.",
-  author: "E. M. Forster"
+  id: 1386,
+  quote: "Learn to listen. Opportunity could be knocking at your door very softly.",
+  author: "Frank Tyger"
 }
 ```
 
