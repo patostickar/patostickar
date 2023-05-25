@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1003,
-  quote: "Only those who dare to fail greatly can ever achieve greatly.",
-  author: "Robert Kennedy"
+  id: 410,
+  quote: "We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.",
+  author: "Sam Keen"
 }
 ```
 
