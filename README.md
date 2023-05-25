@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 893,
-  quote: "We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.",
-  author: "Uta Hagen"
+  id: 1003,
+  quote: "Only those who dare to fail greatly can ever achieve greatly.",
+  author: "Robert Kennedy"
 }
 ```
 
