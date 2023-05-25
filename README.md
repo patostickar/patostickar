@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 225,
-  quote: "To enjoy life, we must touch much of it lightly.",
-  author: "Voltaire"
+  id: 828,
+  quote: "A failure is a man who has blundered but is not capable of cashing in on the experience.",
+  author: "Elbert Hubbard"
 }
 ```
 
