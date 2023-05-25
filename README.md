@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1319,
-  quote: "All the world is a stage, And all the men and women merely players.They have their exits and entrances; Each man in his time plays many parts.",
-  author: "William Shakespeare"
+  id: 893,
+  quote: "We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.",
+  author: "Uta Hagen"
 }
 ```
 
