@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 639,
-  quote: "When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.",
-  author: "Pema Chodron"
+  id: 350,
+  quote: "When your desires are strong enough you will appear to possess superhuman powers to achieve.",
+  author: "Napoleon Hill"
 }
 ```
 
