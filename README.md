@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1313,
-  quote: "The first duty of a human being is to assume the right functional relationship to society more briefly, to find your real job, and do it.",
-  author: "Charlotte Perkins Gilman"
+  id: 639,
+  quote: "When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.",
+  author: "Pema Chodron"
 }
 ```
 
