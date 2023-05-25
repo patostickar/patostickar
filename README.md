@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 410,
-  quote: "We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.",
-  author: "Sam Keen"
+  id: 225,
+  quote: "To enjoy life, we must touch much of it lightly.",
+  author: "Voltaire"
 }
 ```
 
