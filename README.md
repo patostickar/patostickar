@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 206,
-  quote: "Pick battles big enough to matter, small enough to win.",
-  author: "Jonathan Kozol"
+  id: 1443,
+  quote: "When people are like each other they tend to like each other.",
+  author: "Tony Robbins"
 }
 ```
 
