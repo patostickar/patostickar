@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1513,
-  quote: "Never promise more than you can perform.",
-  author: "Publilius Syrus"
+  id: 1586,
+  quote: "When you judge another, you do not define them, you define yourself.",
+  author: "Wayne Dyer"
 }
 ```
 
