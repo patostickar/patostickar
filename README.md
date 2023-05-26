@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1295,
-  quote: "You can never cross the ocean unless you have the courage to lose sight of the shore.",
-  author: "null"
+  id: 52,
+  quote: "Do, or do not. There is no try.",
+  author: "Yoda"
 }
 ```
 
