@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 747,
-  quote: "Don't miss all the beautiful colors of the rainbow looking for that pot of gold.",
-  author: "null"
+  id: 206,
+  quote: "Pick battles big enough to matter, small enough to win.",
+  author: "Jonathan Kozol"
 }
 ```
 
