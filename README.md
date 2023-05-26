@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1414,
-  quote: "To listen well is as powerful a means of communication and influence as to talk well.",
-  author: "John Marshall"
+  id: 1502,
+  quote: "A man's dreams are an index to his greatness.",
+  author: "Zadok Rabinowitz"
 }
 ```
 
