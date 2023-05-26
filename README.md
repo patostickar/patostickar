@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 186,
-  quote: "The mind unlearns with difficulty what it has long learned.",
-  author: "Seneca"
+  id: 300,
+  quote: "A little knowledge that acts is worth infinitely more than much knowledge that is idle.",
+  author: "Kahlil Gibran"
 }
 ```
 
