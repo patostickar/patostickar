@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1612,
-  quote: "He who knows that enough is enough will always have enough.",
-  author: "Lao Tzu"
+  id: 1111,
+  quote: "Each time we face a fear, we gain strength, courage, and confidence in the doing.",
+  author: "null"
 }
 ```
 
