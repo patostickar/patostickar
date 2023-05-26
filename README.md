@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1111,
-  quote: "Each time we face a fear, we gain strength, courage, and confidence in the doing.",
-  author: "null"
+  id: 989,
+  quote: "Saying thank you is more than good manners. It is good spirituality.",
+  author: "Alfred Painter"
 }
 ```
 
