@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 669,
-  quote: "You have power over your mind not outside events. Realize this, and you will find strength.",
-  author: "Marcus Aurelius"
+  id: 455,
+  quote: "You may be deceived if you trust too much, but you will live in torment if you don't trust enough.",
+  author: "Frank Crane"
 }
 ```
 
