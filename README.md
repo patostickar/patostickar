@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 389,
-  quote: "It does not matter how slowly you go as long as you do not stop.",
-  author: "Confucius"
+  id: 1414,
+  quote: "To listen well is as powerful a means of communication and influence as to talk well.",
+  author: "John Marshall"
 }
 ```
 
