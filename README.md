@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1330,
-  quote: "The least of things with a meaning is worth more in life than the greatest of things without it.",
-  author: "Carl Jung"
+  id: 1295,
+  quote: "You can never cross the ocean unless you have the courage to lose sight of the shore.",
+  author: "null"
 }
 ```
 
