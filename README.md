@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 300,
-  quote: "A little knowledge that acts is worth infinitely more than much knowledge that is idle.",
-  author: "Kahlil Gibran"
+  id: 389,
+  quote: "It does not matter how slowly you go as long as you do not stop.",
+  author: "Confucius"
 }
 ```
 
