@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1502,
-  quote: "A man's dreams are an index to his greatness.",
-  author: "Zadok Rabinowitz"
+  id: 1319,
+  quote: "All the world is a stage, And all the men and women merely players.They have their exits and entrances; Each man in his time plays many parts.",
+  author: "William Shakespeare"
 }
 ```
 
