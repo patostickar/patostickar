@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 52,
-  quote: "Do, or do not. There is no try.",
-  author: "Yoda"
+  id: 17,
+  quote: "Every man dies. Not every man really lives.",
+  author: "null"
 }
 ```
 
