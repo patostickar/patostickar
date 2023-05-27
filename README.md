@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 11,
-  quote: "What you give is what you get.",
-  author: "Byron Pulsifer"
+  id: 787,
+  quote: "Myths which are believed in tend to become true.",
+  author: "George Orwell"
 }
 ```
 
