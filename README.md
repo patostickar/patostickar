@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 787,
-  quote: "Myths which are believed in tend to become true.",
-  author: "George Orwell"
+  id: 301,
+  quote: "If you get up one more time than you fall, you will make it through.",
+  author: "null"
 }
 ```
 
