@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1519,
-  quote: "If someone in your life talked to you the way you talk to yourself, you would have left them long ago.",
-  author: "Carla Gordon"
+  id: 1514,
+  quote: "If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place.",
+  author: "Nora Roberts"
 }
 ```
 
