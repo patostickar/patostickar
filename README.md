@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 815,
-  quote: "Happiness is a perfume you cannot pour on others without getting a few drops on yourself.",
-  author: "Ralph Waldo Emerson"
+  id: 861,
+  quote: "If you have no respect for your own values how can you be worthy of respect from others.",
+  author: "Byron Pulsifer"
 }
 ```
 
