@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1514,
-  quote: "If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place.",
-  author: "Nora Roberts"
+  id: 604,
+  quote: "You have to take it as it happens, but you should try to make it happen the way you want to take it.",
+  author: "Old German proverb"
 }
 ```
 
