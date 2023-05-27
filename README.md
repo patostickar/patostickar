@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1344,
-  quote: "Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.",
-  author: "Barack Obama"
+  id: 475,
+  quote: "Money was never a big motivation for me, except as a way to keep score. The real excitement is playing the game.",
+  author: "Donald Trump"
 }
 ```
 
