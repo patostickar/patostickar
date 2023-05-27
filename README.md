@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 604,
-  quote: "You have to take it as it happens, but you should try to make it happen the way you want to take it.",
-  author: "Old German proverb"
+  id: 13,
+  quote: "Life is change. Growth is optional. Choose wisely.",
+  author: "Karen Clark"
 }
 ```
 
