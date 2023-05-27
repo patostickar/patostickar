@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 475,
-  quote: "Money was never a big motivation for me, except as a way to keep score. The real excitement is playing the game.",
-  author: "Donald Trump"
+  id: 815,
+  quote: "Happiness is a perfume you cannot pour on others without getting a few drops on yourself.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
