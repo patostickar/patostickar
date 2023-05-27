@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 10,
-  quote: "Peace comes from within. Do not seek it without.",
-  author: "Buddha"
+  id: 144,
+  quote: "Time is the most valuable thing a man can spend.",
+  author: "Theophrastus"
 }
 ```
 
