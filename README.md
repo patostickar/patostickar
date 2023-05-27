@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1313,
-  quote: "The first duty of a human being is to assume the right functional relationship to society more briefly, to find your real job, and do it.",
-  author: "Charlotte Perkins Gilman"
+  id: 487,
+  quote: "People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
