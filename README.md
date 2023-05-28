@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1628,
-  quote: "Great is the art of beginning, but greater is the art of ending.",
-  author: "Lazurus Long"
+  id: 1386,
+  quote: "Learn to listen. Opportunity could be knocking at your door very softly.",
+  author: "Frank Tyger"
 }
 ```
 
