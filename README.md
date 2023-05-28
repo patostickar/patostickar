@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1192,
-  quote: "Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.",
-  author: "Ralph Emerson"
+  id: 1161,
+  quote: "Forgiveness is choosing to love. It is the first skill of self-giving love.",
+  author: "Mohandas Gandhi"
 }
 ```
 
