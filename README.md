@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1386,
-  quote: "Learn to listen. Opportunity could be knocking at your door very softly.",
-  author: "Frank Tyger"
+  id: 1192,
+  quote: "Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.",
+  author: "Ralph Emerson"
 }
 ```
 
