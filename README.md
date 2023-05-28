@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1161,
-  quote: "Forgiveness is choosing to love. It is the first skill of self-giving love.",
-  author: "Mohandas Gandhi"
+  id: 1432,
+  quote: "Let yourself be silently drawn by the stronger pull of what you really love.",
+  author: "Rumi"
 }
 ```
 
