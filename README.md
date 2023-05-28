@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 253,
-  quote: "Sadness flies away on the wings of time.",
-  author: "Jean de la Fontaine"
+  id: 1628,
+  quote: "Great is the art of beginning, but greater is the art of ending.",
+  author: "Lazurus Long"
 }
 ```
 
