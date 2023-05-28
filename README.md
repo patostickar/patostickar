@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1001,
-  quote: "Be less curious about people and more curious about ideas.",
-  author: "Marie Curie"
+  id: 686,
+  quote: "Responsibility is not inherited, it is a choice that everyone needs to make at some point in their life.",
+  author: "Byron Pulsifer"
 }
 ```
 
