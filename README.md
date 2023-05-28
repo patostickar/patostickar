@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 21,
-  quote: "A rolling stone gathers no moss.",
-  author: "Publilius Syrus"
+  id: 1182,
+  quote: "The greatest barrier to success is the fear of failure.",
+  author: "Eriksson"
 }
 ```
 
