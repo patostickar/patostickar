@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1034,
-  quote: "Imagination is not a talent of some men but is the health of every man.",
-  author: "Ralph Waldo Emerson"
+  id: 1208,
+  quote: "As an organizer I start from where the world is, as it is, not as I would like it to be.",
+  author: "Saul Alinsky"
 }
 ```
 
