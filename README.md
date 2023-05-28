@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1004,
-  quote: "Lose an hour in the morning, and you will spend all day looking for it.",
-  author: "Richard Whately"
+  id: 1322,
+  quote: "Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.",
+  author: "Aristotle"
 }
 ```
 
