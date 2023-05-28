@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1521,
-  quote: "If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.",
-  author: "Daisaku Ikeda"
+  id: 1004,
+  quote: "Lose an hour in the morning, and you will spend all day looking for it.",
+  author: "Richard Whately"
 }
 ```
 
