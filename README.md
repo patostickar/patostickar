@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1322,
-  quote: "Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.",
-  author: "Aristotle"
+  id: 710,
+  quote: "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.",
+  author: "Lao Tzu"
 }
 ```
 
