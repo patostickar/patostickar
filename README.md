@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 310,
-  quote: "Action may not always bring happiness; but there is no happiness without action.",
-  author: "Benjamin Disraeli"
+  id: 278,
+  quote: "By believing passionately in something that does not yet exist, we create it.",
+  author: "Nikos Kazantzakis"
 }
 ```
 
