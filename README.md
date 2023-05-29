@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 137,
-  quote: "You can do what's reasonable or you can decide what's possible.",
-  author: "null"
+  id: 222,
+  quote: "To accomplish great things, we must dream as well as act.",
+  author: "Anatole France"
 }
 ```
 
