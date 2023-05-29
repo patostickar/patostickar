@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 617,
-  quote: "Yesterday is history. Tomorrow is a mystery. And today? Today is a gift that's why they call it the present.",
-  author: "null"
+  id: 810,
+  quote: "Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength.",
+  author: "Hasidic saying"
 }
 ```
 
