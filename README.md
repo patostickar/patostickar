@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1352,
-  quote: "I don't believe in failure. It's not failure if you enjoyed the process.",
-  author: "Oprah Winfrey"
+  id: 626,
+  quote: "A true friend is the most precious of all possessions and the one we take the least thought about acquiring.",
+  author: "Francois de La Rochefoucauld"
 }
 ```
 
