@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1500,
-  quote: "Genuine sincerity opens people's hearts, while manipulation causes them to close.",
-  author: "Daisaku Ikeda"
+  id: 128,
+  quote: "Character develops itself in the stream of life.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
