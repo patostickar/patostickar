@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1594,
-  quote: "The greatest mistake you can make in life is to be continually fearing you will make one.",
-  author: "Elbert Hubbard"
+  id: 239,
+  quote: "Don't cry because it's over. Smile because it happened.",
+  author: "Dr. Seuss"
 }
 ```
 
