@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 222,
-  quote: "To accomplish great things, we must dream as well as act.",
-  author: "Anatole France"
+  id: 1222,
+  quote: "Never, never, never give up.",
+  author: "Winston Churchill"
 }
 ```
 
