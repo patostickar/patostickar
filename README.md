@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 626,
-  quote: "A true friend is the most precious of all possessions and the one we take the least thought about acquiring.",
-  author: "Francois de La Rochefoucauld"
+  id: 1479,
+  quote: "The possibilities are numerous once we decide to act and not react.",
+  author: "George Bernard Shaw"
 }
 ```
 
