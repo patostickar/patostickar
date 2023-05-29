@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 278,
-  quote: "By believing passionately in something that does not yet exist, we create it.",
-  author: "Nikos Kazantzakis"
+  id: 150,
+  quote: "Each day provides its own gifts.",
+  author: "Marcus Aurelius"
 }
 ```
 
