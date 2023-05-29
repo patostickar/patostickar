@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 352,
-  quote: "I cannot make my days longer so I strive to make them better.",
-  author: "Henry David Thoreau"
+  id: 1444,
+  quote: "Sincerity is the way of Heaven. The attainment of sincerity is the way of men.",
+  author: "Confucius"
 }
 ```
 
