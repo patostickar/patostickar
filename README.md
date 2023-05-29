@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1173,
-  quote: "I may not know everything, but everything is not known yet anyway.",
-  author: "Byron Pulsifer"
+  id: 581,
+  quote: "If you focus on results, you will never change. If you focus on change, you will get results.",
+  author: "Jack Dixon"
 }
 ```
 
