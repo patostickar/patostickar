@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1479,
-  quote: "The possibilities are numerous once we decide to act and not react.",
-  author: "George Bernard Shaw"
+  id: 352,
+  quote: "I cannot make my days longer so I strive to make them better.",
+  author: "Henry David Thoreau"
 }
 ```
 
