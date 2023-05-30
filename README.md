@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 65,
-  quote: "When deeds speak, words are nothing.",
-  author: "African proverb"
+  id: 1507,
+  quote: "Go for it now. The future is promised to no one.",
+  author: "Wayne Dyer"
 }
 ```
 
