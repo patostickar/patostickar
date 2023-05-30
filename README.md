@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 201,
-  quote: "Autumn is a second spring when every leaf is a flower.",
-  author: "Albert Camus"
+  id: 1383,
+  quote: "Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.",
+  author: "Henry James"
 }
 ```
 
