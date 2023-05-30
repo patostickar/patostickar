@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1444,
-  quote: "Sincerity is the way of Heaven. The attainment of sincerity is the way of men.",
-  author: "Confucius"
+  id: 1278,
+  quote: "Thats the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.",
+  author: "Lisa Alther"
 }
 ```
 
