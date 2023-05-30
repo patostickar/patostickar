@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 633,
-  quote: "The happiness of a man in this life does not consist in the absence but in the mastery of his passions.",
-  author: "Alfred Tennyson"
+  id: 232,
+  quote: "There is no greater harm than that of time wasted.",
+  author: "Michelangelo"
 }
 ```
 
