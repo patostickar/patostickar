@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 438,
-  quote: "Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more",
-  author: "Anthony Robbins"
+  id: 1571,
+  quote: "I think you can have moderate success by copying something else, but if you really want to knock it out of the park, you have to do something different and take chances.",
+  author: "Lee Womack"
 }
 ```
 
