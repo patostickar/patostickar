@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1507,
-  quote: "Go for it now. The future is promised to no one.",
-  author: "Wayne Dyer"
+  id: 1148,
+  quote: "Your work is to discover your work and then with all your heart to give yourself to it.",
+  author: "Buddha"
 }
 ```
 
