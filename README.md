@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1321,
-  quote: "The most successful people are those who are good at plan B.",
-  author: "James Yorke"
+  id: 497,
+  quote: "Snowflakes are one of natures most fragile things, but just look what they can do when they stick together.",
+  author: "Vista Kelly"
 }
 ```
 
