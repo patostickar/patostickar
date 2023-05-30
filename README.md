@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1523,
-  quote: "Never tell me the sky is the limit when there are footprints on the moon.",
-  author: "null"
+  id: 1136,
+  quote: "Always do your best. What you plant now, you will harvest later.",
+  author: "Og Mandino"
 }
 ```
 
