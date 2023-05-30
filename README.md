@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1136,
-  quote: "Always do your best. What you plant now, you will harvest later.",
-  author: "Og Mandino"
+  id: 633,
+  quote: "The happiness of a man in this life does not consist in the absence but in the mastery of his passions.",
+  author: "Alfred Tennyson"
 }
 ```
 
