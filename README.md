@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1511,
-  quote: "In skating over thin ice our safety is in our speed.",
-  author: "Ralph Emerson"
+  id: 935,
+  quote: "The only limit to your impact is your imagination and commitment.",
+  author: "Tony Robbins"
 }
 ```
 
