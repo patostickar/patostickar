@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 935,
-  quote: "The only limit to your impact is your imagination and commitment.",
-  author: "Tony Robbins"
+  id: 65,
+  quote: "When deeds speak, words are nothing.",
+  author: "African proverb"
 }
 ```
 
