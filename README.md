@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 960,
-  quote: "To dare is to lose ones footing momentarily. To not dare is to lose oneself.",
-  author: "Soren Kierkegaard"
+  id: 412,
+  quote: "There are things so deep and complex that only intuition can reach it in our stage of development as human beings.",
+  author: "John Astin"
 }
 ```
 
