@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 69,
-  quote: "Wisdom is the supreme part of happiness.",
-  author: "Sophocles"
+  id: 332,
+  quote: "Most great people have attained their greatest success just one step beyond their greatest failure.",
+  author: "Napoleon Hill"
 }
 ```
 
