@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 246,
-  quote: "You can't shake hands with a clenched fist.",
-  author: "Indira Gandhi"
+  id: 583,
+  quote: "There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.",
+  author: "Denis Waitley"
 }
 ```
 
