@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 939,
-  quote: "We must not allow ourselves to become like the system we oppose.",
-  author: "Bishop Desmond Tutu"
+  id: 69,
+  quote: "Wisdom is the supreme part of happiness.",
+  author: "Sophocles"
 }
 ```
 
