@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 722,
-  quote: "All is flux; nothing stays still.",
-  author: "Heraclitus"
+  id: 140,
+  quote: "The only real valuable thing is intuition.",
+  author: "Albert Einstein"
 }
 ```
 
