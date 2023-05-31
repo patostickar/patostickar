@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 191,
-  quote: "Problems are only opportunities with thorns on them.",
-  author: "Hugh Miller"
+  id: 202,
+  quote: "If you surrender to the wind, you can ride it.",
+  author: "Toni Morrison"
 }
 ```
 
