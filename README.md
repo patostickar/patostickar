@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 700,
-  quote: "All that we are is the result of what we have thought. The mind is everything. What we think we become.",
-  author: "Buddha"
+  id: 960,
+  quote: "To dare is to lose ones footing momentarily. To not dare is to lose oneself.",
+  author: "Soren Kierkegaard"
 }
 ```
 
