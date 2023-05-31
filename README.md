@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 328,
-  quote: "How we spend our days is, of course, how we spend our lives.",
-  author: "Annie Dillard"
+  id: 554,
+  quote: "A friend is someone who understands your past, believes in your future, and accepts you just the way you are.",
+  author: "null"
 }
 ```
 
