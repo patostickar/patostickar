@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 605,
-  quote: "Nothing is predestined: The obstacles of your past can become the gateways that lead to new beginnings.",
-  author: "Ralph Blum"
+  id: 328,
+  quote: "How we spend our days is, of course, how we spend our lives.",
+  author: "Annie Dillard"
 }
 ```
 
