@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1191,
-  quote: "What separates the winners from the losers is how a person reacts to each new twist of fate.",
-  author: "Donald Trump"
+  id: 722,
+  quote: "All is flux; nothing stays still.",
+  author: "Heraclitus"
 }
 ```
 
