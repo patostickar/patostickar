@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 759,
-  quote: "Life is 10% what happens to you and 90% how you react to it.",
-  author: "Charles Swindoll"
+  id: 939,
+  quote: "We must not allow ourselves to become like the system we oppose.",
+  author: "Bishop Desmond Tutu"
 }
 ```
 
