@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 202,
-  quote: "If you surrender to the wind, you can ride it.",
-  author: "Toni Morrison"
+  id: 513,
+  quote: "We all live with the objective of being happy; our lives are all different and yet the same.",
+  author: "Anne Frank"
 }
 ```
 
