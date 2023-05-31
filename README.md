@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 26,
-  quote: "Study the past, if you would divine the future.",
-  author: "Confucius"
+  id: 1191,
+  quote: "What separates the winners from the losers is how a person reacts to each new twist of fate.",
+  author: "Donald Trump"
 }
 ```
 
