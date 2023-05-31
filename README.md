@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 91,
-  quote: "Love all, trust a few, do wrong to none.",
-  author: "William Shakespeare"
+  id: 605,
+  quote: "Nothing is predestined: The obstacles of your past can become the gateways that lead to new beginnings.",
+  author: "Ralph Blum"
 }
 ```
 
