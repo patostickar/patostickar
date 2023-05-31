@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 119,
-  quote: "Everyone smiles in the same language.",
-  author: "null"
+  id: 191,
+  quote: "Problems are only opportunities with thorns on them.",
+  author: "Hugh Miller"
 }
 ```
 
