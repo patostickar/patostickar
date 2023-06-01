@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 140,
-  quote: "The only real valuable thing is intuition.",
-  author: "Albert Einstein"
+  id: 211,
+  quote: "The cause is hidden. The effect is visible to all.",
+  author: "Ovid"
 }
 ```
 
