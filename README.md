@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 535,
-  quote: "How wonderful that we have met with a paradox. Now we have some hope of making progress.",
-  author: "Niels Bohr"
+  id: 462,
+  quote: "The fox has many tricks. The hedgehog has but one. But that is the best of all.",
+  author: "Desiderius Erasmus"
 }
 ```
 
