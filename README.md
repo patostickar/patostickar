@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 848,
-  quote: "The greatest antidote to insecurity and the sense of fear is compassion it brings one back to the basis of one's inner strength",
-  author: "Dalai Lama"
+  id: 1327,
+  quote: "We can change our lives. We can do, have, and be exactly what we wish.",
+  author: "Tony Robbins"
 }
 ```
 
