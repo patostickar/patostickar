@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 638,
-  quote: "When you are content to be simply yourself and don't compare or compete, everybody will respect you.",
-  author: "Lao Tzu"
+  id: 1395,
+  quote: "We cannot direct the wind but we can adjust the sails.",
+  author: "null"
 }
 ```
 
