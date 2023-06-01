@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1352,
-  quote: "I don't believe in failure. It's not failure if you enjoyed the process.",
-  author: "Oprah Winfrey"
+  id: 376,
+  quote: "Life is so constructed that an event does not, cannot, will not, match the expectation.",
+  author: "Charlotte Bronte"
 }
 ```
 
