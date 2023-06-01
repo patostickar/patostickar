@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1268,
-  quote: "The smallest act of kindness is worth more than the grandest intention.",
-  author: "Oscar Wilde"
+  id: 1210,
+  quote: "Don't let what you can't do stop you from doing what you can do.",
+  author: "null"
 }
 ```
 
