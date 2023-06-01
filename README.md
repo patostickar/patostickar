@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 462,
-  quote: "The fox has many tricks. The hedgehog has but one. But that is the best of all.",
-  author: "Desiderius Erasmus"
+  id: 1163,
+  quote: "Most smiles are started by another smile.",
+  author: "null"
 }
 ```
 
