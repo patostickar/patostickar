@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1210,
-  quote: "Don't let what you can't do stop you from doing what you can do.",
-  author: "null"
+  id: 888,
+  quote: "Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.",
+  author: "Winston Churchill"
 }
 ```
 
