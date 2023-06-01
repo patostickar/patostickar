@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1163,
-  quote: "Most smiles are started by another smile.",
-  author: "null"
+  id: 1458,
+  quote: "And as we let our own light shine, we unconsciously give other people permission to do the same.",
+  author: "Nelson Mandela"
 }
 ```
 
