@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 828,
-  quote: "A failure is a man who has blundered but is not capable of cashing in on the experience.",
-  author: "Elbert Hubbard"
+  id: 1571,
+  quote: "I think you can have moderate success by copying something else, but if you really want to knock it out of the park, you have to do something different and take chances.",
+  author: "Lee Womack"
 }
 ```
 
