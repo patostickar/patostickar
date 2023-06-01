@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 940,
-  quote: "Smile, breathe and go slowly.",
-  author: "Thich Nhat Hanh"
+  id: 1352,
+  quote: "I don't believe in failure. It's not failure if you enjoyed the process.",
+  author: "Oprah Winfrey"
 }
 ```
 
