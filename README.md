@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 211,
-  quote: "The cause is hidden. The effect is visible to all.",
-  author: "Ovid"
+  id: 535,
+  quote: "How wonderful that we have met with a paradox. Now we have some hope of making progress.",
+  author: "Niels Bohr"
 }
 ```
 
