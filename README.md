@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 209,
-  quote: "Difficulties are things that show a person what they are.",
-  author: "Epictetus"
+  id: 1024,
+  quote: "Kindness is the golden chain by which society is bound together.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
