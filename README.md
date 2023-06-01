@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 377,
-  quote: "If you change the way you look at things, the things you look at change.",
-  author: "Wayne Dyer"
+  id: 209,
+  quote: "Difficulties are things that show a person what they are.",
+  author: "Epictetus"
 }
 ```
 
