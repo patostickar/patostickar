@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 676,
-  quote: "Everyone has been made for some particular work, and the desire for that work has been put in every heart.",
-  author: "Rumi"
+  id: 848,
+  quote: "The greatest antidote to insecurity and the sense of fear is compassion it brings one back to the basis of one's inner strength",
+  author: "Dalai Lama"
 }
 ```
 
