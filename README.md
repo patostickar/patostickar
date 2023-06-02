@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 157,
-  quote: "Without faith, nothing is possible. With it, nothing is impossible.",
-  author: "Mary Bethune"
+  id: 62,
+  quote: "Change in all things is sweet.",
+  author: "Aristotle"
 }
 ```
 
