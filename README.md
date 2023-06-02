@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1062,
-  quote: "Don't let today's disappointments cast a shadow on tomorrow's dreams.",
-  author: "null"
+  id: 1130,
+  quote: "If you love life, don't waste time, for time is what life is made up of.",
+  author: "Bruce Lee"
 }
 ```
 
