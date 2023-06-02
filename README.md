@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 269,
-  quote: "I believe that we are fundamentally the same and have the same basic potential.",
-  author: "Dalai Lama"
+  id: 1131,
+  quote: "Imagination is the living power and prime agent of all human perception.",
+  author: "Samuel Taylor Coleridge"
 }
 ```
 
