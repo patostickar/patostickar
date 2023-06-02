@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 22,
-  quote: "Ideas are the beginning points of all fortunes.",
-  author: "Napoleon Hill"
+  id: 1353,
+  quote: "The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.",
+  author: "Helen Keller"
 }
 ```
 
