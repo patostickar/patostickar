@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 754,
-  quote: "You don't drown by falling in water. You drown by staying there.",
+  id: 1062,
+  quote: "Don't let today's disappointments cast a shadow on tomorrow's dreams.",
   author: "null"
 }
 ```
