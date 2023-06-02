@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 694,
-  quote: "Try not to become a man of success but rather try to become a man of value.",
-  author: "Albert Einstein"
+  id: 1499,
+  quote: "You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.",
+  author: "Albert Camus"
 }
 ```
 
