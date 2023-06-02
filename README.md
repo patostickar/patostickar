@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1130,
-  quote: "If you love life, don't waste time, for time is what life is made up of.",
-  author: "Bruce Lee"
+  id: 362,
+  quote: "Love and compassion open our own inner life, reducing stress, distrust and loneliness.",
+  author: "Dalai Lama"
 }
 ```
 
