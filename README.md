@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1266,
-  quote: "Courage is not the absence of fear, but simply moving on with dignity despite that fear.",
-  author: "Pat Riley"
+  id: 269,
+  quote: "I believe that we are fundamentally the same and have the same basic potential.",
+  author: "Dalai Lama"
 }
 ```
 
