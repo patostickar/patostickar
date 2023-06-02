@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 748,
-  quote: "Your big opportunity may be right where you are now.",
-  author: "Napoleon Hill"
+  id: 1126,
+  quote: "A man is not old as long as he is seeking something.",
+  author: "Edmond Rostand"
 }
 ```
 
