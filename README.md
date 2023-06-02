@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1499,
-  quote: "You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.",
-  author: "Albert Camus"
+  id: 1266,
+  quote: "Courage is not the absence of fear, but simply moving on with dignity despite that fear.",
+  author: "Pat Riley"
 }
 ```
 
