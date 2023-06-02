@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1131,
-  quote: "Imagination is the living power and prime agent of all human perception.",
-  author: "Samuel Taylor Coleridge"
+  id: 754,
+  quote: "You don't drown by falling in water. You drown by staying there.",
+  author: "null"
 }
 ```
 
