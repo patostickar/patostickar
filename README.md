@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 932,
-  quote: "Action may not always bring happiness, but there is no happiness without action.",
-  author: "Benjamin Disraeli"
+  id: 539,
+  quote: "Sadness may be part of life but there is no need to let it dominate your entire life.",
+  author: "Byron Pulsifer"
 }
 ```
 
