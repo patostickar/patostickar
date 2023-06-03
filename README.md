@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 567,
-  quote: "I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.",
-  author: "Dalai Lama"
+  id: 55,
+  quote: "Think how hard physics would be if particles could think.",
+  author: "Murray Gell-Mann"
 }
 ```
 
