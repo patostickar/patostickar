@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1018,
-  quote: "Experience can only be gained by doing not by thinking or dreaming.",
-  author: "Byron Pulsifer"
+  id: 860,
+  quote: "Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.",
+  author: "William Channing"
 }
 ```
 
