@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 76,
-  quote: "Great talent finds happiness in execution.",
-  author: "Johann Wolfgang von Goethe"
+  id: 144,
+  quote: "Time is the most valuable thing a man can spend.",
+  author: "Theophrastus"
 }
 ```
 
