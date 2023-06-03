@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1372,
-  quote: "If you want things to be different, perhaps the answer is to become different yourself.",
-  author: "Norman Peale"
+  id: 1575,
+  quote: "Flow with whatever is happening and let your mind be free. Stay centred by accepting whatever you are doing. This is the ultimate.",
+  author: "Chuang Tzu"
 }
 ```
 
