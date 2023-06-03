@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 281,
-  quote: "One of the advantages of being disorderly is that one is constantly making exciting discoveries.",
-  author: "A. A. Milne"
+  id: 1372,
+  quote: "If you want things to be different, perhaps the answer is to become different yourself.",
+  author: "Norman Peale"
 }
 ```
 
