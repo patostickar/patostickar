@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1015,
-  quote: "Don't talk about what you have done or what you are going to do.",
-  author: "Thomas Jefferson"
+  id: 252,
+  quote: "Every problem has a gift for you in its hands.",
+  author: "Richard Bach"
 }
 ```
 
