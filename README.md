@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1575,
-  quote: "Flow with whatever is happening and let your mind be free. Stay centred by accepting whatever you are doing. This is the ultimate.",
-  author: "Chuang Tzu"
+  id: 1015,
+  quote: "Don't talk about what you have done or what you are going to do.",
+  author: "Thomas Jefferson"
 }
 ```
 
