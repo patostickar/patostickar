@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 700,
-  quote: "All that we are is the result of what we have thought. The mind is everything. What we think we become.",
-  author: "Buddha"
+  id: 640,
+  quote: "If you love someone, set them free. If they come back they're yours; if they don't they never were.",
+  author: "Richard Bach"
 }
 ```
 
