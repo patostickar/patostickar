@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1544,
-  quote: "Count your joys instead of your woes. Count your friends instead of your foes.",
-  author: "null"
+  id: 1606,
+  quote: "To know your purpose is to live a life of direction, and in that direction is found peace and tranquillity.",
+  author: "Byron Pulsifer"
 }
 ```
 
