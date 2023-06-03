@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 252,
-  quote: "Every problem has a gift for you in its hands.",
-  author: "Richard Bach"
+  id: 1544,
+  quote: "Count your joys instead of your woes. Count your friends instead of your foes.",
+  author: "null"
 }
 ```
 
