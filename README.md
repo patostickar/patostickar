@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 198,
-  quote: "Science is organized knowledge. Wisdom is organized life.",
-  author: "Immanuel Kant"
+  id: 1018,
+  quote: "Experience can only be gained by doing not by thinking or dreaming.",
+  author: "Byron Pulsifer"
 }
 ```
 
