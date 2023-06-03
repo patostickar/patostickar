@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 170,
-  quote: "Today is the tomorrow you worried about yesterday.",
-  author: "null"
+  id: 567,
+  quote: "I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.",
+  author: "Dalai Lama"
 }
 ```
 
