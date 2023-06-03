@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 973,
-  quote: "Hope arouses, as nothing else can arouse, a passion for the possible.",
-  author: "William Sloane Coffin"
+  id: 281,
+  quote: "One of the advantages of being disorderly is that one is constantly making exciting discoveries.",
+  author: "A. A. Milne"
 }
 ```
 
