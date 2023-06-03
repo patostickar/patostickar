@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1103,
-  quote: "The odds of hitting your target go up dramatically when you aim at it.",
-  author: "Mal Pancoast"
+  id: 76,
+  quote: "Great talent finds happiness in execution.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
