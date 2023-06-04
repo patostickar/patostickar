@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1075,
-  quote: "You only lose what you cling to.",
-  author: "Buddha"
+  id: 245,
+  quote: "An ant on the move does more than a dozing ox",
+  author: "Lao Tzu"
 }
 ```
 
