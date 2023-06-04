@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 245,
-  quote: "An ant on the move does more than a dozing ox",
-  author: "Lao Tzu"
+  id: 1642,
+  quote: "Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on.",
+  author: "Tom Jackson"
 }
 ```
 
