@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1023,
-  quote: "Doing what you love is the cornerstone of having abundance in your life.",
-  author: "Wayne Dyer"
+  id: 1626,
+  quote: "An ounce of emotion is equal to a ton of facts.",
+  author: "John Junor"
 }
 ```
 
