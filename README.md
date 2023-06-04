@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1642,
-  quote: "Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on.",
-  author: "Tom Jackson"
+  id: 962,
+  quote: "Peace cannot be kept by force. It can only be achieved by understanding.",
+  author: "Albert Einstein"
 }
 ```
 
