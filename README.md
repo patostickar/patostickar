@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 53,
-  quote: "All serious daring starts from within.",
-  author: "Harriet Beecher Stowe"
+  id: 427,
+  quote: "If your actions inspire others to dream more, learn more, do more and become more, you are a leader.",
+  author: "John Quincy Adams"
 }
 ```
 
