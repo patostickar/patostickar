@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 860,
-  quote: "Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.",
-  author: "William Channing"
+  id: 133,
+  quote: "A really great talent finds its happiness in execution.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
