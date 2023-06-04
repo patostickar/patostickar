@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 425,
-  quote: "No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto.",
-  author: "W. Clement Stone"
+  id: 1544,
+  quote: "Count your joys instead of your woes. Count your friends instead of your foes.",
+  author: "null"
 }
 ```
 
