@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1598,
-  quote: "An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.",
-  author: "Thomas Fuller"
+  id: 954,
+  quote: "Take heed: you do not find what you do not seek.",
+  author: "English proverb"
 }
 ```
 
