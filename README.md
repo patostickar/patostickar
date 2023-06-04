@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1626,
-  quote: "An ounce of emotion is equal to a ton of facts.",
-  author: "John Junor"
+  id: 1428,
+  quote: "Failure will never overtake me if my determination to succeed is strong enough.",
+  author: "Og Mandino"
 }
 ```
 
