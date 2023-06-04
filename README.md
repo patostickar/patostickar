@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1072,
-  quote: "The most formidable weapon against errors of every kind is reason.",
-  author: "Thomas Paine"
+  id: 33,
+  quote: "Once you choose hope, anythings possible.",
+  author: "Christopher Reeve"
 }
 ```
 
