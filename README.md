@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 962,
-  quote: "Peace cannot be kept by force. It can only be achieved by understanding.",
-  author: "Albert Einstein"
+  id: 1337,
+  quote: "Divide each difficulty into as many parts as is feasible and necessary to resolve it.",
+  author: "Rene Descartes"
 }
 ```
 
