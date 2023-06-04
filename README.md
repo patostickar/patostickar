@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 723,
-  quote: "He who is fixed to a star does not change his mind.",
-  author: "Leonardo da Vinci"
+  id: 53,
+  quote: "All serious daring starts from within.",
+  author: "Harriet Beecher Stowe"
 }
 ```
 
