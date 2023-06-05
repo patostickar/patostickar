@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1146,
-  quote: "I begin with an idea and then it becomes something else.",
-  author: "Pablo Picasso"
+  id: 383,
+  quote: "The truth you believe and cling to makes you unavailable to hear anything new.",
+  author: "Pema Chodron"
 }
 ```
 
