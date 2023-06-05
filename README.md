@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1051,
-  quote: "It isn't where you come from, it's where you're going that counts.",
-  author: "Ella Fitzgerald"
+  id: 219,
+  quote: "Better be ignorant of a matter than half know it.",
+  author: "Publilius Syrus"
 }
 ```
 
