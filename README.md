@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 936,
-  quote: "You are special, you are unique, you are the best!",
-  author: "Cathy Pulsifer"
+  id: 174,
+  quote: "He who talks more is sooner exhausted.",
+  author: "Lao Tzu"
 }
 ```
 
