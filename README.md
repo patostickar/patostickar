@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 524,
-  quote: "If you must tell me your opinions, tell me what you believe in. I have plenty of douts of my own.",
-  author: "Johann Wolfgang von Goethe"
+  id: 398,
+  quote: "Time changes everything except something within us which is always surprised by change.",
+  author: "Thomas Hardy"
 }
 ```
 
