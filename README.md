@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1428,
-  quote: "Failure will never overtake me if my determination to succeed is strong enough.",
-  author: "Og Mandino"
+  id: 936,
+  quote: "You are special, you are unique, you are the best!",
+  author: "Cathy Pulsifer"
 }
 ```
 
