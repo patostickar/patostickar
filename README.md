@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 88,
-  quote: "Argue for your limitations, and sure enough theyre yours.",
-  author: "Richard Bach"
+  id: 917,
+  quote: "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+  author: "Marie Curie"
 }
 ```
 
