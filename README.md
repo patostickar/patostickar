@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1238,
-  quote: "The universe is made of stories, not atoms.",
-  author: "Muriel Rukeyser"
+  id: 524,
+  quote: "If you must tell me your opinions, tell me what you believe in. I have plenty of douts of my own.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
