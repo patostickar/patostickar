@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 383,
-  quote: "The truth you believe and cling to makes you unavailable to hear anything new.",
-  author: "Pema Chodron"
+  id: 1073,
+  quote: "It's important to know that words don't move mountains. Work, exacting work moves mountains.",
+  author: "Danilo Dolci"
 }
 ```
 
