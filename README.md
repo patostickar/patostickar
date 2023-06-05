@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1452,
-  quote: "Giving up doesn't always mean you are weak; sometimes it means that you are strong enough to let go.",
-  author: "null"
+  id: 953,
+  quote: "To be tested is good. The challenged life may be the best therapist.",
+  author: "Gail Sheehy"
 }
 ```
 
