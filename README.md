@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 262,
-  quote: "All things change; nothing perishes.",
-  author: "Ovid"
+  id: 1452,
+  quote: "Giving up doesn't always mean you are weak; sometimes it means that you are strong enough to let go.",
+  author: "null"
 }
 ```
 
