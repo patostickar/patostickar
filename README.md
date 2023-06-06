@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1419,
-  quote: "The best cure for the body is a quiet mind.",
-  author: "Napoleon Bonaparte"
+  id: 225,
+  quote: "To enjoy life, we must touch much of it lightly.",
+  author: "Voltaire"
 }
 ```
 
