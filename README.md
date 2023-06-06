@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 368,
-  quote: "Three things cannot be long hidden: the sun, the moon, and the truth.",
-  author: "Buddha"
+  id: 1420,
+  quote: "See the positive side, the potential, and make an effort.",
+  author: "Dalai Lama"
 }
 ```
 
