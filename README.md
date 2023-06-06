@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1392,
-  quote: "Prosperity depends more on wanting what you have than having what you want.",
-  author: "Geoffrey F. Abert"
+  id: 1492,
+  quote: "Love vanquishes time. To lovers, a moment can be eternity, eternity can be the tick of a clock.",
+  author: "Mary Parrish"
 }
 ```
 
