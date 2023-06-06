@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 344,
-  quote: "We should all be thankful for those people who rekindle the inner spirit.",
-  author: "Albert Schweitzer"
+  id: 958,
+  quote: "I have always thought the actions of men the best interpreters of their thoughts.",
+  author: "John Locke"
 }
 ```
 
