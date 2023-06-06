@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 979,
-  quote: "Love is the only force capable of transforming an enemy into friend.",
-  author: "Martin Luther King, Jr."
+  id: 883,
+  quote: "You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.",
+  author: "John Lennon"
 }
 ```
 
