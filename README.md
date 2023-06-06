@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1102,
-  quote: "Great acts are made up of small deeds.",
-  author: "Lao Tzu"
+  id: 1392,
+  quote: "Prosperity depends more on wanting what you have than having what you want.",
+  author: "Geoffrey F. Abert"
 }
 ```
 
