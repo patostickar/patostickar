@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 349,
-  quote: "The world makes way for the man who knows where he is going.",
-  author: "Ralph Emerson"
+  id: 18,
+  quote: "To lead people walk behind them.",
+  author: "Lao Tzu"
 }
 ```
 
