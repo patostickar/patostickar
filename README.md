@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 883,
-  quote: "You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.",
-  author: "John Lennon"
+  id: 1376,
+  quote: "The only real failure in life is not to be true to the best one knows.",
+  author: "Buddha"
 }
 ```
 
