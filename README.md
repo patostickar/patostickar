@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 219,
-  quote: "Better be ignorant of a matter than half know it.",
-  author: "Publilius Syrus"
+  id: 1102,
+  quote: "Great acts are made up of small deeds.",
+  author: "Lao Tzu"
 }
 ```
 
