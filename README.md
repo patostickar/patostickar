@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 487,
-  quote: "People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.",
-  author: "Johann Wolfgang von Goethe"
+  id: 979,
+  quote: "Love is the only force capable of transforming an enemy into friend.",
+  author: "Martin Luther King, Jr."
 }
 ```
 
