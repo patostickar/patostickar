@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1376,
-  quote: "The only real failure in life is not to be true to the best one knows.",
-  author: "Buddha"
+  id: 1512,
+  quote: "When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.",
+  author: "W. Clement Stone"
 }
 ```
 
