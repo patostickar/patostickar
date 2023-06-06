@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 999,
-  quote: "Where all think alike, no one thinks very much.",
-  author: "Walter Lippmann"
+  id: 1040,
+  quote: "The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.",
+  author: "Winston Churchill"
 }
 ```
 
