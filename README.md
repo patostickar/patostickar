@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 706,
-  quote: "The pain passes, but the beauty remains.",
-  author: "Pierre Auguste Renoir"
+  id: 338,
+  quote: "Slow down and everything you are chasing will come around and catch you.",
+  author: "John De Paola"
 }
 ```
 
