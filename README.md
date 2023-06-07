@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 240,
-  quote: "No is easier to do. Yes is easier to say.",
-  author: "Jason Fried"
+  id: 1034,
+  quote: "Imagination is not a talent of some men but is the health of every man.",
+  author: "Ralph Waldo Emerson"
 }
 ```
 
