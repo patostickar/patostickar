@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 56,
-  quote: "Love is the flower you've got to let grow.",
-  author: "John Lennon"
+  id: 1434,
+  quote: "Give thanks for a little and you will find a lot.",
+  author: "Hausa"
 }
 ```
 
