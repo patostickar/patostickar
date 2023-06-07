@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1434,
-  quote: "Give thanks for a little and you will find a lot.",
-  author: "Hausa"
+  id: 415,
+  quote: "I will not be concerned at other men is not knowing me;I will be concerned at my own want of ability.",
+  author: "Confucius"
 }
 ```
 
