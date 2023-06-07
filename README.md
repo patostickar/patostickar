@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1042,
-  quote: "Nature is a mutable cloud which is always and never the same.",
-  author: "Ralph Emerson"
+  id: 245,
+  quote: "An ant on the move does more than a dozing ox",
+  author: "Lao Tzu"
 }
 ```
 
