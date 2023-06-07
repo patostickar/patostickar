@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 204,
-  quote: "Write your plans in pencil and give God the eraser.",
-  author: "Paulo Coelho"
+  id: 115,
+  quote: "Light tomorrow with today!",
+  author: "Elizabeth Browning"
 }
 ```
 
