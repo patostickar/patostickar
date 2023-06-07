@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 338,
-  quote: "Slow down and everything you are chasing will come around and catch you.",
-  author: "John De Paola"
+  id: 712,
+  quote: "You block your dream when you allow your fear to grow bigger than your faith.",
+  author: "Mary Morrissey"
 }
 ```
 
