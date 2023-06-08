@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1482,
-  quote: "Listen to what you know instead of what you fear.",
-  author: "Richard Bach"
+  id: 1371,
+  quote: "Weve got to have a dream if we are going to make a dream come true.",
+  author: "Walt Disney"
 }
 ```
 
