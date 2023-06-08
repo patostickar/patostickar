@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1112,
-  quote: "Ask yourself the secret of your success. Listen to your answer, and practice it.",
-  author: "Richard Bach"
+  id: 645,
+  quote: "To accomplish great things, we must not only act, but also dream; not only plan, but also believe.",
+  author: "Anatole France"
 }
 ```
 
