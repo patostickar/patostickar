@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1371,
-  quote: "Weve got to have a dream if we are going to make a dream come true.",
-  author: "Walt Disney"
+  id: 1635,
+  quote: "We are all inclined to judge ourselves by our ideals; others, by their acts.",
+  author: "Harold Nicolson"
 }
 ```
 
