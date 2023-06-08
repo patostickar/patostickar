@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 302,
-  quote: "The doors we open and close each day decide the lives we live.",
-  author: "Flora Whittemore"
+  id: 185,
+  quote: "The best way out is always through.",
+  author: "Robert Frost"
 }
 ```
 
