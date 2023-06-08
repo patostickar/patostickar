@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 166,
-  quote: "Change your thoughts, change your life!",
-  author: "null"
+  id: 91,
+  quote: "Love all, trust a few, do wrong to none.",
+  author: "William Shakespeare"
 }
 ```
 
