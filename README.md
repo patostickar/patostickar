@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 413,
-  quote: "A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.",
-  author: "Elbert Hubbard"
+  id: 219,
+  quote: "Better be ignorant of a matter than half know it.",
+  author: "Publilius Syrus"
 }
 ```
 
