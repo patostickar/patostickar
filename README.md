@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 122,
-  quote: "If you can dream it, you can do it.",
-  author: "Walt Disney"
+  id: 306,
+  quote: "Everything is perfect in the universe even your desire to improve it.",
+  author: "Wayne Dyer"
 }
 ```
 
