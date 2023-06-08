@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 219,
-  quote: "Better be ignorant of a matter than half know it.",
-  author: "Publilius Syrus"
+  id: 1112,
+  quote: "Ask yourself the secret of your success. Listen to your answer, and practice it.",
+  author: "Richard Bach"
 }
 ```
 
