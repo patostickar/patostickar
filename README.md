@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1635,
-  quote: "We are all inclined to judge ourselves by our ideals; others, by their acts.",
-  author: "Harold Nicolson"
+  id: 94,
+  quote: "You can do it if you believe you can!",
+  author: "Napoleon Hill"
 }
 ```
 
