@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 76,
-  quote: "Great talent finds happiness in execution.",
-  author: "Johann Wolfgang von Goethe"
+  id: 515,
+  quote: "To be beautiful means to be yourself. You do not need to be accepted by others. You need to accept yourself.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
