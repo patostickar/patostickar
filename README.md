@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 972,
-  quote: "The wisest men follow their own direction.",
-  author: "Euripides"
+  id: 665,
+  quote: "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+  author: "Buddha"
 }
 ```
 
