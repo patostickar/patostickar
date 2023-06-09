@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 612,
-  quote: "By living deeply in the present moment we can understand the past better and we can prepare for a better future.",
-  author: "Thich Nhat Hanh"
+  id: 873,
+  quote: "Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.",
+  author: "Jean-Paul Sartre"
 }
 ```
 
