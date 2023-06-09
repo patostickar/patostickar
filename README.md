@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 91,
-  quote: "Love all, trust a few, do wrong to none.",
-  author: "William Shakespeare"
+  id: 807,
+  quote: "Every artist dips his brush in his own soul, and paints his own nature into his pictures.",
+  author: "Henry Ward Beecher"
 }
 ```
 
