@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 665,
-  quote: "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
-  author: "Buddha"
+  id: 979,
+  quote: "Love is the only force capable of transforming an enemy into friend.",
+  author: "Martin Luther King, Jr."
 }
 ```
 
