@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 231,
-  quote: "Kind words do not cost much. Yet they accomplish much.",
-  author: "Blaise Pascal"
+  id: 375,
+  quote: "Wicked people are always surprised to find ability in those that are good.",
+  author: "Marquis Vauvenargues"
 }
 ```
 
