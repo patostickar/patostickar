@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 979,
-  quote: "Love is the only force capable of transforming an enemy into friend.",
-  author: "Martin Luther King, Jr."
+  id: 708,
+  quote: "Creativity comes from trust. Trust your instincts. And never hope more than you work.",
+  author: "Rita Mae Brown"
 }
 ```
 
