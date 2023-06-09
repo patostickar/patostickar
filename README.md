@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 375,
-  quote: "Wicked people are always surprised to find ability in those that are good.",
-  author: "Marquis Vauvenargues"
+  id: 541,
+  quote: "Nature gave us one tongue and two ears so we could hear twice as much as we speak.",
+  author: "Epictetus"
 }
 ```
 
