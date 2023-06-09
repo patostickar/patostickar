@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 752,
-  quote: "Accept challenges, so that you may feel the exhilaration of victory.",
-  author: "George Patton"
+  id: 231,
+  quote: "Kind words do not cost much. Yet they accomplish much.",
+  author: "Blaise Pascal"
 }
 ```
 
