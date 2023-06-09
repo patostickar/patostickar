@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 923,
-  quote: "My advice to you is not to inquire why or whither, but just enjoy your ice cream while its on your plate that's my philosophy.",
-  author: "Thornton Wilder"
+  id: 1531,
+  quote: "If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow.",
+  author: "Rachel Carson"
 }
 ```
 
