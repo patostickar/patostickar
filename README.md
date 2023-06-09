@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1099,
-  quote: "The difficulties of life are intended to make us better, not bitter.",
-  author: "null"
+  id: 205,
+  quote: "Inspiration exists, but it has to find us working.",
+  author: "Pablo Picasso"
 }
 ```
 
