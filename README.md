@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1205,
-  quote: "There is no scarcity of opportunity to make a living at what you love; theres only scarcity of resolve to make it happen.",
-  author: "Wayne Dyer"
+  id: 612,
+  quote: "By living deeply in the present moment we can understand the past better and we can prepare for a better future.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
