@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1385,
-  quote: "They can conquer who believe they can.",
-  author: "Virgil"
+  id: 334,
+  quote: "Better to have loved and lost, than to have never loved at all.",
+  author: "St. Augustine"
 }
 ```
 
