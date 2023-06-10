@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 503,
-  quote: "Life is not measured by the breaths we take, but by the moments that take our breath.",
+  id: 965,
+  quote: "All the flowers of all the tomorrows are in the seeds of today.",
   author: "null"
 }
 ```
