@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1170,
-  quote: "You can't choose up sides on a round world.",
-  author: "Wayne Dyer"
+  id: 1436,
+  quote: "Forgiveness does not change the past, but it does enlarge the future.",
+  author: "Paul Boese"
 }
 ```
 
