@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1184,
-  quote: "If you aren't going all the way, why go at all?",
-  author: "Joe Namath"
+  id: 1126,
+  quote: "A man is not old as long as he is seeking something.",
+  author: "Edmond Rostand"
 }
 ```
 
