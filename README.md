@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 365,
-  quote: "If you spend too much time thinking about a thing, you'll never get it done.",
-  author: "Bruce Lee"
+  id: 707,
+  quote: "All I can say about life is, Oh God, enjoy it!",
+  author: "Bob Newhart"
 }
 ```
 
