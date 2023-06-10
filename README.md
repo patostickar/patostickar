@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1078,
-  quote: "Good actions give strength to ourselves and inspire good actions in others.",
-  author: "Plato"
+  id: 1603,
+  quote: "The only Zen you find on the tops of mountains is the Zen you bring up there.",
+  author: "Robert Pirsig"
 }
 ```
 
