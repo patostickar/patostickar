@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 32,
-  quote: "One today is worth two tomorrows.",
-  author: "Benjamin Franklin"
+  id: 965,
+  quote: "All the flowers of all the tomorrows are in the seeds of today.",
+  author: "null"
 }
 ```
 
