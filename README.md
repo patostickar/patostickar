@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1603,
-  quote: "The only Zen you find on the tops of mountains is the Zen you bring up there.",
-  author: "Robert Pirsig"
+  id: 32,
+  quote: "One today is worth two tomorrows.",
+  author: "Benjamin Franklin"
 }
 ```
 
