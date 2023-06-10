@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1436,
-  quote: "Forgiveness does not change the past, but it does enlarge the future.",
-  author: "Paul Boese"
+  id: 365,
+  quote: "If you spend too much time thinking about a thing, you'll never get it done.",
+  author: "Bruce Lee"
 }
 ```
 
