@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 965,
-  quote: "All the flowers of all the tomorrows are in the seeds of today.",
-  author: "null"
+  id: 1385,
+  quote: "They can conquer who believe they can.",
+  author: "Virgil"
 }
 ```
 
