@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1493,
-  quote: "We never live; we are always in the expectation of living.",
-  author: "Voltaire"
+  id: 1170,
+  quote: "You can't choose up sides on a round world.",
+  author: "Wayne Dyer"
 }
 ```
 
