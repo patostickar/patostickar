@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1126,
-  quote: "A man is not old as long as he is seeking something.",
-  author: "Edmond Rostand"
+  id: 1167,
+  quote: "We can only be said to be alive in those moments when our hearts are conscious of our treasures.",
+  author: "Thornton Wilder"
 }
 ```
 
