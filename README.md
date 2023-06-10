@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 993,
-  quote: "A jug fills drop by drop.",
-  author: "Buddha"
+  id: 503,
+  quote: "Life is not measured by the breaths we take, but by the moments that take our breath.",
+  author: "null"
 }
 ```
 
