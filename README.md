@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1021,
-  quote: "He who fears being conquered is sure of defeat.",
-  author: "Napoleon Bonaparte"
+  id: 389,
+  quote: "It does not matter how slowly you go as long as you do not stop.",
+  author: "Confucius"
 }
 ```
 
