@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 440,
-  quote: "I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.",
-  author: "Og Mandino"
+  id: 1078,
+  quote: "Good actions give strength to ourselves and inspire good actions in others.",
+  author: "Plato"
 }
 ```
 
