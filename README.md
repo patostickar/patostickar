@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1335,
-  quote: "We are what we repeatedly do. Excellence, then, is not an act but a habit.",
-  author: "Aristotle"
+  id: 1184,
+  quote: "If you aren't going all the way, why go at all?",
+  author: "Joe Namath"
 }
 ```
 
