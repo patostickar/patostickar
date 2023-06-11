@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 435,
-  quote: "Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.",
-  author: "Henry Van Dyke"
+  id: 112,
+  quote: "The harder you fall, the higher you bounce.",
+  author: "null"
 }
 ```
 
