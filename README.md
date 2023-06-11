@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 628,
-  quote: "Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.",
-  author: "Margaret Cousins"
+  id: 1540,
+  quote: "Those who dream by day are cognizant of many things which escape those who dream only by night.",
+  author: "Edgar Allan Poe"
 }
 ```
 
