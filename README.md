@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 718,
-  quote: "Happiness is not something ready made. It comes from your own actions.",
-  author: "Dalai Lama"
+  id: 201,
+  quote: "Autumn is a second spring when every leaf is a flower.",
+  author: "Albert Camus"
 }
 ```
 
