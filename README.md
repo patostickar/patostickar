@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 408,
-  quote: "Don't leave a stone unturned. It's always something, to know you have done the most you could.",
-  author: "Charles Dickens"
+  id: 1494,
+  quote: "Think like a man of action; act like a man of thought.",
+  author: "Henri L. Bergson"
 }
 ```
 
