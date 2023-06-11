@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 277,
-  quote: "In separateness lies the world's great misery, in compassion lies the world's true strength.",
-  author: "Buddha"
+  id: 1382,
+  quote: "Things that were hard to bear are sweet to remember.",
+  author: "Seneca"
 }
 ```
 
