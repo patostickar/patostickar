@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1013,
-  quote: "Do good by stealth, and blush to find it fame.",
-  author: "Alexander Pope"
+  id: 195,
+  quote: "Fortune befriends the bold.",
+  author: "John Dryden"
 }
 ```
 
