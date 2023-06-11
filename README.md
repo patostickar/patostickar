@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1494,
-  quote: "Think like a man of action; act like a man of thought.",
-  author: "Henri L. Bergson"
+  id: 1567,
+  quote: "If you have knowledge, let others light their candles in it.",
+  author: "Margaret Fuller"
 }
 ```
 
