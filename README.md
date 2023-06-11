@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 305,
-  quote: "Don't focus on making the right decision, focus on making the decision the right one.",
-  author: "null"
+  id: 277,
+  quote: "In separateness lies the world's great misery, in compassion lies the world's true strength.",
+  author: "Buddha"
 }
 ```
 
