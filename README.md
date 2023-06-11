@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1474,
-  quote: "However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?",
-  author: "Buddha"
+  id: 185,
+  quote: "The best way out is always through.",
+  author: "Robert Frost"
 }
 ```
 
