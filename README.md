@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 185,
-  quote: "The best way out is always through.",
-  author: "Robert Frost"
+  id: 718,
+  quote: "Happiness is not something ready made. It comes from your own actions.",
+  author: "Dalai Lama"
 }
 ```
 
