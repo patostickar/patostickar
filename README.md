@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 822,
-  quote: "Let us always meet each other with smile, for the smile is the beginning of love.",
-  author: "Mother Teresa"
+  id: 1494,
+  quote: "Think like a man of action; act like a man of thought.",
+  author: "Henri L. Bergson"
 }
 ```
 
