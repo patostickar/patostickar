@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1485,
-  quote: "Remember that failure is an event, not a person.",
-  author: "Zig Ziglar"
+  id: 408,
+  quote: "Don't leave a stone unturned. It's always something, to know you have done the most you could.",
+  author: "Charles Dickens"
 }
 ```
 
