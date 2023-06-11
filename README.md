@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 112,
-  quote: "The harder you fall, the higher you bounce.",
-  author: "null"
+  id: 1485,
+  quote: "Remember that failure is an event, not a person.",
+  author: "Zig Ziglar"
 }
 ```
 
