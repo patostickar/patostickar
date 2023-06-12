@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1567,
-  quote: "If you have knowledge, let others light their candles in it.",
-  author: "Margaret Fuller"
+  id: 1621,
+  quote: "There surely is in human nature an inherent propensity to extract all the good out of all the evil.",
+  author: "Benjamin Haydon"
 }
 ```
 
