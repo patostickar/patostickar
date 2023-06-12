@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 171,
-  quote: "There is no way to happiness, happiness is the way.",
-  author: "Thich Nhat Hanh"
+  id: 1147,
+  quote: "Whoever is happy will make others happy, too.",
+  author: "Mark Twain"
 }
 ```
 
