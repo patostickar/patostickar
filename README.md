@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1331,
-  quote: "The noblest worship is to make yourself as good and as just as you can.",
-  author: "Isocrates"
+  id: 832,
+  quote: "The best thing about the future is that it only comes one day at a time.",
+  author: "Abraham Lincoln"
 }
 ```
 
