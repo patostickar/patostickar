@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1621,
-  quote: "There surely is in human nature an inherent propensity to extract all the good out of all the evil.",
-  author: "Benjamin Haydon"
+  id: 563,
+  quote: "The past has no power to stop you from being present now. Only your grievance about the past can do that.",
+  author: "Eckhart Tolle"
 }
 ```
 
