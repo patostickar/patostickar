@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 320,
-  quote: "The secret to a rich life is to have more beginnings than endings.",
-  author: "Dave Weinbaum"
+  id: 1513,
+  quote: "Never promise more than you can perform.",
+  author: "Publilius Syrus"
 }
 ```
 
