@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1539,
-  quote: "It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.",
-  author: "Pema Chodron"
+  id: 1540,
+  quote: "Those who dream by day are cognizant of many things which escape those who dream only by night.",
+  author: "Edgar Allan Poe"
 }
 ```
 
