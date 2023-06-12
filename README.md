@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 8,
-  quote: "Life is a learning experience, only if you learn.",
-  author: "Yogi Berra"
+  id: 1331,
+  quote: "The noblest worship is to make yourself as good and as just as you can.",
+  author: "Isocrates"
 }
 ```
 
