@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 563,
-  quote: "The past has no power to stop you from being present now. Only your grievance about the past can do that.",
-  author: "Eckhart Tolle"
+  id: 320,
+  quote: "The secret to a rich life is to have more beginnings than endings.",
+  author: "Dave Weinbaum"
 }
 ```
 
