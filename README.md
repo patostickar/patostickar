@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1426,
-  quote: "If you propose to speak, always ask yourself, is it true, is it necessary, is it kind.",
-  author: "Buddha"
+  id: 1316,
+  quote: "True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.",
+  author: "Daisaku Ikeda"
 }
 ```
 
