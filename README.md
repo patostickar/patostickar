@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 832,
-  quote: "The best thing about the future is that it only comes one day at a time.",
-  author: "Abraham Lincoln"
+  id: 1058,
+  quote: "Build a better mousetrap and the world will beat a path to your door.",
+  author: "Ralph Emerson"
 }
 ```
 
