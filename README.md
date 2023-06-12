@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1540,
-  quote: "Those who dream by day are cognizant of many things which escape those who dream only by night.",
-  author: "Edgar Allan Poe"
+  id: 742,
+  quote: "Watch the little things; a small leak will sink a great ship.",
+  author: "Benjamin Franklin"
 }
 ```
 
