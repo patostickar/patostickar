@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 957,
-  quote: "Freedom is not worth having if it does not connote freedom to err.",
-  author: "Mohandas Gandhi"
+  id: 171,
+  quote: "There is no way to happiness, happiness is the way.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
