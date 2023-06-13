@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1077,
-  quote: "Most of the shadows of life are caused by standing in our own sunshine.",
-  author: "Ralph Waldo Emerson"
+  id: 1214,
+  quote: "With every experience, you alone are painting your own canvas, thought by thought, choice by choice.",
+  author: "Oprah Winfrey"
 }
 ```
 
