@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 637,
-  quote: "Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.",
-  author: "Richard Bach"
+  id: 710,
+  quote: "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.",
+  author: "Lao Tzu"
 }
 ```
 
