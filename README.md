@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1052,
-  quote: "The greatest obstacle to connecting with our joy is resentment.",
-  author: "Pema Chodron"
+  id: 977,
+  quote: "Only when we are no longer afraid do we begin to live.",
+  author: "Dorothy Thompson"
 }
 ```
 
