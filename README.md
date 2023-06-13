@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 784,
-  quote: "As long as your going to be thinking anyway, think big.",
-  author: "Donald Trump"
+  id: 1062,
+  quote: "Don't let today's disappointments cast a shadow on tomorrow's dreams.",
+  author: "null"
 }
 ```
 
