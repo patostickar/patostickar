@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1467,
-  quote: "I am glad that I paid so little attention to good advice; had I abided by it I might have been saved from some of my most valuable mistakes.",
-  author: "Edna Millay"
+  id: 637,
+  quote: "Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.",
+  author: "Richard Bach"
 }
 ```
 
