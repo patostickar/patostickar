@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 701,
-  quote: "Work while you have the light. You are responsible for the talent that has been entrusted to you.",
-  author: "Henri-Frederic Amiel"
+  id: 1484,
+  quote: "If you're in a bad situation, don't worry it'll change. If you're in a good situation, don't worry it'll change.",
+  author: "John Simone"
 }
 ```
 
