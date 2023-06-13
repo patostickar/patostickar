@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 409,
-  quote: "By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.",
-  author: "Dalai Lama"
+  id: 919,
+  quote: "Adversity isn't set against you to fail; adversity is a way to build your character so that you can succeed over and over again through perseverance.",
+  author: "Byron Pulsifer"
 }
 ```
 
