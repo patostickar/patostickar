@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 186,
-  quote: "The mind unlearns with difficulty what it has long learned.",
-  author: "Seneca"
+  id: 693,
+  quote: "To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.",
+  author: "Henri Bergson"
 }
 ```
 
