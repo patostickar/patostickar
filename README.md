@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1160,
-  quote: "Sometimes the most important thing in a whole day is the rest we take between two deep breaths.",
-  author: "Etty Hillesum"
+  id: 1093,
+  quote: "I never worry about action, but only inaction.",
+  author: "Winston Churchill"
 }
 ```
 
