@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1487,
-  quote: "What the caterpillar calls the end of the world, the master calls a butterfly.",
-  author: "Richard Bach"
+  id: 186,
+  quote: "The mind unlearns with difficulty what it has long learned.",
+  author: "Seneca"
 }
 ```
 
