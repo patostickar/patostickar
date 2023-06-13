@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 710,
-  quote: "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.",
-  author: "Lao Tzu"
+  id: 511,
+  quote: "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+  author: "Aristotle"
 }
 ```
 
