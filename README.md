@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 511,
-  quote: "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
-  author: "Aristotle"
+  id: 1052,
+  quote: "The greatest obstacle to connecting with our joy is resentment.",
+  author: "Pema Chodron"
 }
 ```
 
