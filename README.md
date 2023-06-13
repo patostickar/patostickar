@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1484,
-  quote: "If you're in a bad situation, don't worry it'll change. If you're in a good situation, don't worry it'll change.",
-  author: "John Simone"
+  id: 720,
+  quote: "No one has ever become poor by giving.",
+  author: "Anne Frank"
 }
 ```
 
