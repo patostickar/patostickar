@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 720,
-  quote: "No one has ever become poor by giving.",
-  author: "Anne Frank"
+  id: 784,
+  quote: "As long as your going to be thinking anyway, think big.",
+  author: "Donald Trump"
 }
 ```
 
