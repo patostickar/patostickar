@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1443,
-  quote: "When people are like each other they tend to like each other.",
-  author: "Tony Robbins"
+  id: 121,
+  quote: "No alibi will save you from accepting the responsibility.",
+  author: "Napoleon Hill"
 }
 ```
 
