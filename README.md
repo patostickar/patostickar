@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1074,
-  quote: "Beware of missing chances; otherwise it may be altogether too late some day.",
-  author: "Franz Liszt"
+  id: 905,
+  quote: "Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.",
+  author: "Amiel"
 }
 ```
 
