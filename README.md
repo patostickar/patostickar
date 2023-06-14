@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1443,
-  quote: "When people are like each other they tend to like each other.",
-  author: "Tony Robbins"
+  id: 837,
+  quote: "People grow through experience if they meet life honestly and courageously. This is how character is built.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
