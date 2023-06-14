@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1169,
-  quote: "We do not quit playing because we grow old, we grow old because we quit playing.",
-  author: "Oliver Holmes"
+  id: 1289,
+  quote: "I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.",
+  author: "Buddha"
 }
 ```
 
