@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 941,
-  quote: "Reality is merely an illusion, albeit a very persistent one.",
-  author: "Albert Einstein"
+  id: 1169,
+  quote: "We do not quit playing because we grow old, we grow old because we quit playing.",
+  author: "Oliver Holmes"
 }
 ```
 
