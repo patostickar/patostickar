@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 745,
-  quote: "Kindness is the greatest wisdom.",
-  author: "null"
+  id: 1472,
+  quote: "Good thoughts are no better than good dreams, unless they be executed.",
+  author: "Ralph Emerson"
 }
 ```
 
