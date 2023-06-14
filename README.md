@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1339,
-  quote: "We know the truth, not only by the reason, but by the heart.",
-  author: "Blaise Pascal"
+  id: 120,
+  quote: "Yesterday I dared to struggle. Today I dare to win.",
+  author: "Bernadette Devlin"
 }
 ```
 
