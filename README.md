@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1469,
-  quote: "Love is the master key that opens the gates of happiness.",
-  author: "Oliver Holmes"
+  id: 1074,
+  quote: "Beware of missing chances; otherwise it may be altogether too late some day.",
+  author: "Franz Liszt"
 }
 ```
 
