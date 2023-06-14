@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 770,
-  quote: "People seldom notice old clothes if you wear a big smile.",
-  author: "Lee Mildon"
+  id: 104,
+  quote: "Do something wonderful, people may imitate it.",
+  author: "Albert Schweitzer"
 }
 ```
 
