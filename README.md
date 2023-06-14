@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1289,
-  quote: "I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.",
-  author: "Buddha"
+  id: 1443,
+  quote: "When people are like each other they tend to like each other.",
+  author: "Tony Robbins"
 }
 ```
 
