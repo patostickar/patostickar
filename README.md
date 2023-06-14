@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 837,
-  quote: "People grow through experience if they meet life honestly and courageously. This is how character is built.",
-  author: "Eleanor Roosevelt"
+  id: 895,
+  quote: "Everything can be taken from a man but ... the last of the human freedoms to choose ones attitude in any given set of circumstances, to choose ones own way.",
+  author: "Victor Frankl"
 }
 ```
 
