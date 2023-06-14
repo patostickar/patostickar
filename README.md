@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1530,
-  quote: "A garden is always a series of losses set against a few triumphs, like life itself.",
-  author: "May Sarton"
+  id: 1409,
+  quote: "We are all faced with a series of great opportunities brilliantly disguised as impossible situations.",
+  author: "Charles R. Swindoll"
 }
 ```
 
