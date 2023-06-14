@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 121,
-  quote: "No alibi will save you from accepting the responsibility.",
-  author: "Napoleon Hill"
+  id: 862,
+  quote: "Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.",
+  author: "Alphonse Karr"
 }
 ```
 
