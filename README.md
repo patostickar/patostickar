@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 293,
-  quote: "If we did the things we are capable of, we would astound ourselves.",
-  author: "Thomas Edison"
+  id: 33,
+  quote: "Once you choose hope, anythings possible.",
+  author: "Christopher Reeve"
 }
 ```
 
