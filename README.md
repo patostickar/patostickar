@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1006,
-  quote: "Go to your bosom: Knock there, and ask your heart what it doth know.",
-  author: "William Shakespeare"
+  id: 247,
+  quote: "A good decision is based on knowledge and not on numbers.",
+  author: "Plato"
 }
 ```
 
