@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 109,
-  quote: "What we think, we become.",
-  author: "Buddha"
+  id: 819,
+  quote: "Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.",
+  author: "Babatunde Olatunji"
 }
 ```
 
