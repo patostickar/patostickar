@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 247,
-  quote: "A good decision is based on knowledge and not on numbers.",
-  author: "Plato"
+  id: 1369,
+  quote: "Knowing your own darkness is the best method for dealing with the darknesses of other people.",
+  author: "Carl Jung"
 }
 ```
 
