@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1493,
-  quote: "We never live; we are always in the expectation of living.",
-  author: "Voltaire"
+  id: 352,
+  quote: "I cannot make my days longer so I strive to make them better.",
+  author: "Henry David Thoreau"
 }
 ```
 
