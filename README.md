@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 289,
-  quote: "If one does not know to which port is sailing, no wind is favorable.",
-  author: "Seneca"
+  id: 1006,
+  quote: "Go to your bosom: Knock there, and ask your heart what it doth know.",
+  author: "William Shakespeare"
 }
 ```
 
