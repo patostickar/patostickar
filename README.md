@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 352,
-  quote: "I cannot make my days longer so I strive to make them better.",
-  author: "Henry David Thoreau"
+  id: 1005,
+  quote: "Mistakes are always forgivable, if one has the courage to admit them.",
+  author: "Bruce Lee"
 }
 ```
 
