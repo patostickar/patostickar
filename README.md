@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 898,
-  quote: "By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.",
-  author: "Lao Tzu"
+  id: 1493,
+  quote: "We never live; we are always in the expectation of living.",
+  author: "Voltaire"
 }
 ```
 
