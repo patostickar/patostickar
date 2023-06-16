@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 478,
-  quote: "A wise man can learn more from a foolish question than a fool can learn from a wise answer.",
-  author: "Bruce Lee"
+  id: 1358,
+  quote: "The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.",
+  author: "Anais Nin"
 }
 ```
 
