@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1358,
-  quote: "The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.",
-  author: "Anais Nin"
+  id: 598,
+  quote: "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.",
+  author: "Epictetus"
 }
 ```
 
