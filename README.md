@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1579,
-  quote: "Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.",
-  author: "Lao Tzu"
+  id: 1096,
+  quote: "If we are not fully ourselves, truly in the present moment, we miss everything.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
