@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1640,
-  quote: "Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.",
-  author: "Tony Robbins"
+  id: 1116,
+  quote: "Listen to your intuition. It will tell you everything you need to know.",
+  author: "Anthony D'Angelo"
 }
 ```
 
