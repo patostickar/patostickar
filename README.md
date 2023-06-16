@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1035,
-  quote: "We must embrace pain and burn it as fuel for our journey.",
-  author: "Kenji Miyazawa"
+  id: 1640,
+  quote: "Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.",
+  author: "Tony Robbins"
 }
 ```
 
