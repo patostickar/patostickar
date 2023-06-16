@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1416,
-  quote: "Live through feeling and you will live through love. For feeling is the language of the soul, and feeling is truth.",
-  author: "Matt Zotti"
+  id: 541,
+  quote: "Nature gave us one tongue and two ears so we could hear twice as much as we speak.",
+  author: "Epictetus"
 }
 ```
 
