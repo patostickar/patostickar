@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1234,
-  quote: "To see things in the seed, that is genius.",
-  author: "Lao Tzu"
+  id: 1416,
+  quote: "Live through feeling and you will live through love. For feeling is the language of the soul, and feeling is truth.",
+  author: "Matt Zotti"
 }
 ```
 
