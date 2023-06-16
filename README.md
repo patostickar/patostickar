@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1513,
-  quote: "Never promise more than you can perform.",
-  author: "Publilius Syrus"
+  id: 1234,
+  quote: "To see things in the seed, that is genius.",
+  author: "Lao Tzu"
 }
 ```
 
