@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1357,
-  quote: "We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.",
-  author: "Ralph Emerson"
+  id: 922,
+  quote: "If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.",
+  author: "Albert Einstein"
 }
 ```
 
