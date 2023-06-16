@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 922,
-  quote: "If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.",
-  author: "Albert Einstein"
+  id: 1513,
+  quote: "Never promise more than you can perform.",
+  author: "Publilius Syrus"
 }
 ```
 
