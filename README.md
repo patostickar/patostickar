@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 541,
-  quote: "Nature gave us one tongue and two ears so we could hear twice as much as we speak.",
-  author: "Epictetus"
+  id: 392,
+  quote: "If you would take, you must first give, this is the beginning of intelligence.",
+  author: "Lao Tzu"
 }
 ```
 
