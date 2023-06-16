@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1074,
-  quote: "Beware of missing chances; otherwise it may be altogether too late some day.",
-  author: "Franz Liszt"
+  id: 1084,
+  quote: "The path to success is to take massive, determined action.",
+  author: "Anthony Robbins"
 }
 ```
 
