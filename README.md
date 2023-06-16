@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 614,
-  quote: "Do not go where the path may lead, go instead where there is no path and leave a trail.",
-  author: "Ralph Emerson"
+  id: 818,
+  quote: "Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.",
+  author: "Carl Jung"
 }
 ```
 
