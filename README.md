@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 392,
-  quote: "If you would take, you must first give, this is the beginning of intelligence.",
-  author: "Lao Tzu"
+  id: 1074,
+  quote: "Beware of missing chances; otherwise it may be altogether too late some day.",
+  author: "Franz Liszt"
 }
 ```
 
