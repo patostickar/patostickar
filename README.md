@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1116,
-  quote: "Listen to your intuition. It will tell you everything you need to know.",
-  author: "Anthony D'Angelo"
+  id: 260,
+  quote: "All seasons are beautiful for the person who carries happiness within.",
+  author: "Horace Friess"
 }
 ```
 
