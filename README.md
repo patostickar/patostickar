@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 769,
-  quote: "The eye sees only what the mind is prepared to comprehend.",
-  author: "Henri Bergson"
+  id: 50,
+  quote: "Learn from yesterday, live for today, hope for tomorrow.",
+  author: "Albert Einstein"
 }
 ```
 
