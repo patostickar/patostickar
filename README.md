@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1622,
-  quote: "Music in the soul can be heard by the universe.",
-  author: "Lao Tzu"
+  id: 1270,
+  quote: "Everything in the universe goes by indirection. There are no straight lines.",
+  author: "Ralph Emerson"
 }
 ```
 
