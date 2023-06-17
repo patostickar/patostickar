@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 513,
-  quote: "We all live with the objective of being happy; our lives are all different and yet the same.",
-  author: "Anne Frank"
+  id: 988,
+  quote: "Learning is finding out what you already know.",
+  author: "Richard Bach"
 }
 ```
 
