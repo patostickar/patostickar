@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1549,
-  quote: "A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.",
-  author: "Jawaharlal Nehru"
+  id: 859,
+  quote: "A man should look for what is, and not for what he thinks should be.",
+  author: "Albert Einstein"
 }
 ```
 
