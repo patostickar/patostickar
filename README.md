@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 258,
-  quote: "The secret of success is constancy to purpose.",
-  author: "Benjamin Disraeli"
+  id: 1282,
+  quote: "Be gentle first with yourself if you wish to be gentle with others.",
+  author: "Lama Yeshe"
 }
 ```
 
