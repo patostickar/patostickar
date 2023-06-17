@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1249,
-  quote: "The things that one most wants to do are the things that are probably most worth doing.",
-  author: "Winifred Holtby"
+  id: 1478,
+  quote: "Better than a thousand hollow words is one word that brings peace.",
+  author: "Buddha"
 }
 ```
 
