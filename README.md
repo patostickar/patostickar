@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1478,
-  quote: "Better than a thousand hollow words is one word that brings peace.",
-  author: "Buddha"
+  id: 1124,
+  quote: "The meaning I picked, the one that changed my life: Overcome fear, behold wonder.",
+  author: "Richard Bach"
 }
 ```
 
