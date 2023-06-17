@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1124,
-  quote: "The meaning I picked, the one that changed my life: Overcome fear, behold wonder.",
-  author: "Richard Bach"
+  id: 2,
+  quote: "A house divided against itself cannot stand.",
+  author: "Abraham Lincoln"
 }
 ```
 
