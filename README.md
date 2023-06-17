@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 980,
-  quote: "In all chaos there is a cosmos, in all disorder a secret order.",
-  author: "Carl Jung"
+  id: 376,
+  quote: "Life is so constructed that an event does not, cannot, will not, match the expectation.",
+  author: "Charlotte Bronte"
 }
 ```
 
