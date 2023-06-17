@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1227,
-  quote: "Try and fail, but don't fail to try.",
-  author: "Stephen Kaggwa"
+  id: 1550,
+  quote: "I have no special talent. I am only passionately curious.",
+  author: "Albert Einstein"
 }
 ```
 
