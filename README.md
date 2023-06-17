@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 859,
-  quote: "A man should look for what is, and not for what he thinks should be.",
-  author: "Albert Einstein"
+  id: 601,
+  quote: "The world is round and the place which may seem like the end may also be the beginning.",
+  author: "Ivy Baker Priest"
 }
 ```
 
