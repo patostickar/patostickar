@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 376,
-  quote: "Life is so constructed that an event does not, cannot, will not, match the expectation.",
-  author: "Charlotte Bronte"
+  id: 1622,
+  quote: "Music in the soul can be heard by the universe.",
+  author: "Lao Tzu"
 }
 ```
 
