@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 988,
-  quote: "Learning is finding out what you already know.",
-  author: "Richard Bach"
+  id: 769,
+  quote: "The eye sees only what the mind is prepared to comprehend.",
+  author: "Henri Bergson"
 }
 ```
 
