@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1550,
-  quote: "I have no special talent. I am only passionately curious.",
-  author: "Albert Einstein"
+  id: 1549,
+  quote: "A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.",
+  author: "Jawaharlal Nehru"
 }
 ```
 
