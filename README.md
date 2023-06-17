@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 601,
-  quote: "The world is round and the place which may seem like the end may also be the beginning.",
-  author: "Ivy Baker Priest"
+  id: 980,
+  quote: "In all chaos there is a cosmos, in all disorder a secret order.",
+  author: "Carl Jung"
 }
 ```
 
