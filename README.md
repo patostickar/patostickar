@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 50,
-  quote: "Learn from yesterday, live for today, hope for tomorrow.",
-  author: "Albert Einstein"
+  id: 324,
+  quote: "The world is a book, and those who do not travel read only a page.",
+  author: "Augustinus Sanctus"
 }
 ```
 
