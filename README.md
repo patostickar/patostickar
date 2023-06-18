@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 158,
-  quote: "Once we accept our limits, we go beyond them.",
-  author: "Albert Einstein"
+  id: 1592,
+  quote: "Everything that irritates us about others can lead us to a better understanding of ourselves.",
+  author: "Carl Jung"
 }
 ```
 
