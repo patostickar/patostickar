@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 34,
-  quote: "God always takes the simplest way.",
-  author: "Albert Einstein"
+  id: 457,
+  quote: "All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.",
+  author: "Kathleen Norris"
 }
 ```
 
