@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1441,
-  quote: "We have committed the Golden Rule to memory; let us now commit it to life.",
-  author: "Edwin Markham"
+  id: 543,
+  quote: "You are always free to change your mind and choose a different future, or a different past.",
+  author: "Richard Bach"
 }
 ```
 
