@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 457,
-  quote: "All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.",
-  author: "Kathleen Norris"
+  id: 697,
+  quote: "The person who lives life fully, glowing with life's energy, is the person who lives a successful life.",
+  author: "Daisaku Ikeda"
 }
 ```
 
