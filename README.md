@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 477,
-  quote: "Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.",
-  author: "Robert Fulghum"
+  id: 1109,
+  quote: "The one who always loses, is the only person who gets the reward.",
+  author: "Claire Charmont"
 }
 ```
 
