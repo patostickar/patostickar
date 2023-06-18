@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1067,
-  quote: "The final proof of greatness lies in being able to endure criticism without resentment.",
-  author: "Elbert Hubbard"
+  id: 1441,
+  quote: "We have committed the Golden Rule to memory; let us now commit it to life.",
+  author: "Edwin Markham"
 }
 ```
 
