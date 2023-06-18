@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 697,
-  quote: "The person who lives life fully, glowing with life's energy, is the person who lives a successful life.",
-  author: "Daisaku Ikeda"
+  id: 338,
+  quote: "Slow down and everything you are chasing will come around and catch you.",
+  author: "John De Paola"
 }
 ```
 
