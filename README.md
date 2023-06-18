@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1052,
-  quote: "The greatest obstacle to connecting with our joy is resentment.",
-  author: "Pema Chodron"
+  id: 68,
+  quote: "Skill to do comes of doing.",
+  author: "Ralph Emerson"
 }
 ```
 
