@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1109,
-  quote: "The one who always loses, is the only person who gets the reward.",
-  author: "Claire Charmont"
+  id: 1074,
+  quote: "Beware of missing chances; otherwise it may be altogether too late some day.",
+  author: "Franz Liszt"
 }
 ```
 
