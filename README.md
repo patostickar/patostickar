@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1444,
-  quote: "Sincerity is the way of Heaven. The attainment of sincerity is the way of men.",
-  author: "Confucius"
+  id: 1120,
+  quote: "Our kindness may be the most persuasive argument for that which we believe.",
+  author: "Gordon Hinckley"
 }
 ```
 
