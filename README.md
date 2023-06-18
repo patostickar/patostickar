@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 338,
-  quote: "Slow down and everything you are chasing will come around and catch you.",
-  author: "John De Paola"
+  id: 158,
+  quote: "Once we accept our limits, we go beyond them.",
+  author: "Albert Einstein"
 }
 ```
 
