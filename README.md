@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1074,
-  quote: "Beware of missing chances; otherwise it may be altogether too late some day.",
-  author: "Franz Liszt"
+  id: 1067,
+  quote: "The final proof of greatness lies in being able to endure criticism without resentment.",
+  author: "Elbert Hubbard"
 }
 ```
 
