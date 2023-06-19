@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1078,
-  quote: "Good actions give strength to ourselves and inspire good actions in others.",
-  author: "Plato"
+  id: 959,
+  quote: "He who obtains has little. He who scatters has much.",
+  author: "Lao Tzu"
 }
 ```
 
