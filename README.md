@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1417,
-  quote: "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.",
-  author: "Lao Tzu"
+  id: 560,
+  quote: "Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?",
+  author: "Confucius"
 }
 ```
 
