@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 46,
-  quote: "Talk doesn't cook rice.",
-  author: "Chinese proverb"
+  id: 1129,
+  quote: "Much wisdom often goes with fewer words.",
+  author: "Sophocles"
 }
 ```
 
