@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 560,
-  quote: "Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?",
+  id: 389,
+  quote: "It does not matter how slowly you go as long as you do not stop.",
   author: "Confucius"
 }
 ```
