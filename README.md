@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 790,
-  quote: "It is never too late to be what you might have been.",
-  author: "George Eliot"
+  id: 1212,
+  quote: "Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.",
+  author: "Charles A. Lindbergh"
 }
 ```
 
