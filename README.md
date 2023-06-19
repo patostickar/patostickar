@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 327,
-  quote: "Think for yourselves and let others enjoy the privilege to do so too.",
-  author: "Voltaire"
+  id: 352,
+  quote: "I cannot make my days longer so I strive to make them better.",
+  author: "Henry David Thoreau"
 }
 ```
 
