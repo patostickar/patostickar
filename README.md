@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 897,
-  quote: "Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.",
-  author: "Abraham Lincoln"
+  id: 1417,
+  quote: "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.",
+  author: "Lao Tzu"
 }
 ```
 
