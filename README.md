@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 282,
-  quote: "I never see what has been done; I only see what remains to be done.",
-  author: "Marie Curie"
+  id: 1210,
+  quote: "Don't let what you can't do stop you from doing what you can do.",
+  author: "null"
 }
 ```
 
