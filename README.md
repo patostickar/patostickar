@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 220,
-  quote: "Follow your instincts. That is where true wisdom manifests itself.",
-  author: "Oprah Winfrey"
+  id: 1525,
+  quote: "The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.",
+  author: "Eckhart Tolle"
 }
 ```
 
