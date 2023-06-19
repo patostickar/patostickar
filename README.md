@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1129,
-  quote: "Much wisdom often goes with fewer words.",
-  author: "Sophocles"
+  id: 189,
+  quote: "There is no failure except in no longer trying.",
+  author: "Elbert Hubbard"
 }
 ```
 
