@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1525,
-  quote: "The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.",
-  author: "Eckhart Tolle"
+  id: 292,
+  quote: "To be upset over what you don't have is to waste what you do have.",
+  author: "Ken S. Keyes"
 }
 ```
 
