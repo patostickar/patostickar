@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 959,
-  quote: "He who obtains has little. He who scatters has much.",
-  author: "Lao Tzu"
+  id: 897,
+  quote: "Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.",
+  author: "Abraham Lincoln"
 }
 ```
 
