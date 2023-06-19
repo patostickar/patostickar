@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 189,
-  quote: "There is no failure except in no longer trying.",
-  author: "Elbert Hubbard"
+  id: 327,
+  quote: "Think for yourselves and let others enjoy the privilege to do so too.",
+  author: "Voltaire"
 }
 ```
 
