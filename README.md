@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 160,
-  quote: "Whatever we expect with confidence becomes our own self-fulfilling prophecy.",
-  author: "Brian Tracy"
+  id: 807,
+  quote: "Every artist dips his brush in his own soul, and paints his own nature into his pictures.",
+  author: "Henry Ward Beecher"
 }
 ```
 
