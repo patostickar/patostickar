@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 104,
-  quote: "Do something wonderful, people may imitate it.",
-  author: "Albert Schweitzer"
+  id: 21,
+  quote: "A rolling stone gathers no moss.",
+  author: "Publilius Syrus"
 }
 ```
 
