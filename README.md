@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 128,
-  quote: "Character develops itself in the stream of life.",
-  author: "Johann Wolfgang von Goethe"
+  id: 572,
+  quote: "These days people seek knowledge, not wisdom. Knowledge is of the past, wisdom is of the future.",
+  author: "Vernon Cooper"
 }
 ```
 
