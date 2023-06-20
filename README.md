@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 287,
-  quote: "Think as a wise man but communicate in the language of the people.",
-  author: "William Yeats"
+  id: 160,
+  quote: "Whatever we expect with confidence becomes our own self-fulfilling prophecy.",
+  author: "Brian Tracy"
 }
 ```
 
