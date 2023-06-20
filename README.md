@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 111,
-  quote: "All our knowledge has its origins in our perceptions.",
-  author: "Leonardo da Vinci"
+  id: 841,
+  quote: "The Creator has not given you a longing to do that which you have no ability to do.",
+  author: "Orison Marden"
 }
 ```
 
