@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1068,
-  quote: "An invasion of armies can be resisted, but not an idea whose time has come.",
-  author: "Victor Hugo"
+  id: 536,
+  quote: "Everyone is a genius at least once a year. A real genius has his original ideas closer together.",
+  author: "Georg Lichtenberg"
 }
 ```
 
