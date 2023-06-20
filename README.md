@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 841,
-  quote: "The Creator has not given you a longing to do that which you have no ability to do.",
-  author: "Orison Marden"
+  id: 454,
+  quote: "Deep listening is miraculous for both listener and speaker.When someone receives us with open-hearted, non-judging, intensely interested listening, our spirits expand.",
+  author: "Sue Patton Thoele"
 }
 ```
 
