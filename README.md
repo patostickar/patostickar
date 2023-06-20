@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1055,
-  quote: "If you can't explain it simply, you don't understand it well enough.",
-  author: "Albert Einstein"
+  id: 748,
+  quote: "Your big opportunity may be right where you are now.",
+  author: "Napoleon Hill"
 }
 ```
 
