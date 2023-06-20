@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 748,
-  quote: "Your big opportunity may be right where you are now.",
-  author: "Napoleon Hill"
+  id: 134,
+  quote: "Reality leaves a lot to the imagination.",
+  author: "John Lennon"
 }
 ```
 
