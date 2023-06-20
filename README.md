@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1391,
-  quote: "Just as much as we see in others we have in ourselves.",
-  author: "William Hazlitt"
+  id: 15,
+  quote: "Today is the tomorrow we worried about yesterday.",
+  author: "null"
 }
 ```
 
