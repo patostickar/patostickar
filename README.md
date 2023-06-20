@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1292,
-  quote: "The superior man acts before he speaks, and afterwards speaks according to his action.",
-  author: "Confucius"
+  id: 287,
+  quote: "Think as a wise man but communicate in the language of the people.",
+  author: "William Yeats"
 }
 ```
 
