@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 572,
-  quote: "These days people seek knowledge, not wisdom. Knowledge is of the past, wisdom is of the future.",
-  author: "Vernon Cooper"
+  id: 953,
+  quote: "To be tested is good. The challenged life may be the best therapist.",
+  author: "Gail Sheehy"
 }
 ```
 
