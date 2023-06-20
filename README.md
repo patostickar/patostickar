@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 807,
-  quote: "Every artist dips his brush in his own soul, and paints his own nature into his pictures.",
-  author: "Henry Ward Beecher"
+  id: 66,
+  quote: "Real magic in relationships means an absence of judgement of others.",
+  author: "Wayne Dyer"
 }
 ```
 
