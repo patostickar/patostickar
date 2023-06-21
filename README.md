@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 536,
-  quote: "Everyone is a genius at least once a year. A real genius has his original ideas closer together.",
-  author: "Georg Lichtenberg"
+  id: 675,
+  quote: "When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.",
+  author: "Epictetus"
 }
 ```
 
