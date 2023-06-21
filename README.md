@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 660,
-  quote: "When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.",
-  author: "Abraham Lincoln"
+  id: 1236,
+  quote: "Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.",
+  author: "Douglas Adams"
 }
 ```
 
