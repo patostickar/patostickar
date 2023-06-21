@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 119,
-  quote: "Everyone smiles in the same language.",
-  author: "null"
+  id: 26,
+  quote: "Study the past, if you would divine the future.",
+  author: "Confucius"
 }
 ```
 
