@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 993,
-  quote: "A jug fills drop by drop.",
-  author: "Buddha"
+  id: 119,
+  quote: "Everyone smiles in the same language.",
+  author: "null"
 }
 ```
 
