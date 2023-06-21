@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 265,
-  quote: "The beginning of knowledge is the discovery of something we do not understand.",
-  author: "Frank Herbert"
+  id: 1198,
+  quote: "When I let go of what I am, I become what I might be.",
+  author: "Lao Tzu"
 }
 ```
 
