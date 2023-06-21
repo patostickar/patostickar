@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 877,
-  quote: "To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.",
-  author: "Kahlil Gibran"
+  id: 301,
+  quote: "If you get up one more time than you fall, you will make it through.",
+  author: "null"
 }
 ```
 
