@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 579,
-  quote: "Treat people as if they were what they ought to be and you help them to become what they are capable of being.",
-  author: "Johann Wolfgang von Goethe"
+  id: 409,
+  quote: "By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.",
+  author: "Dalai Lama"
 }
 ```
 
