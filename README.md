@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1198,
-  quote: "When I let go of what I am, I become what I might be.",
-  author: "Lao Tzu"
+  id: 579,
+  quote: "Treat people as if they were what they ought to be and you help them to become what they are capable of being.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
