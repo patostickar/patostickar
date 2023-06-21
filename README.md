@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1363,
-  quote: "The foolish man seeks happiness in the distance; the wise grows it under his feet.",
-  author: "James Openheim"
+  id: 477,
+  quote: "Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.",
+  author: "Robert Fulghum"
 }
 ```
 
