@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 26,
-  quote: "Study the past, if you would divine the future.",
-  author: "Confucius"
+  id: 1396,
+  quote: "One may say the eternal mystery of the world is its comprehensibility.",
+  author: "Albert Einstein"
 }
 ```
 
