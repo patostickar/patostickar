@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 301,
-  quote: "If you get up one more time than you fall, you will make it through.",
-  author: "null"
+  id: 265,
+  quote: "The beginning of knowledge is the discovery of something we do not understand.",
+  author: "Frank Herbert"
 }
 ```
 
