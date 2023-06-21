@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 78,
-  quote: "Courage is going from failure to failure without losing enthusiasm.",
-  author: "Winston Churchill"
+  id: 648,
+  quote: "If we are facing in the right direction, all we have to do is keep on walking.",
+  author: "null"
 }
 ```
 
