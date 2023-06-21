@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1396,
-  quote: "One may say the eternal mystery of the world is its comprehensibility.",
-  author: "Albert Einstein"
+  id: 215,
+  quote: "Nature takes away any faculty that is not used.",
+  author: "William R. Inge"
 }
 ```
 
