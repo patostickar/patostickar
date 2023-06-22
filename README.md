@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 282,
-  quote: "I never see what has been done; I only see what remains to be done.",
-  author: "Marie Curie"
+  id: 1302,
+  quote: "For everything that lives is holy, life delights in life.",
+  author: "William Blake"
 }
 ```
 
