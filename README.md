@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1449,
-  quote: "To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.",
-  author: "Pema Chodron"
+  id: 651,
+  quote: "If you seek truth you will not seek victory by dishonourable means, and if you find truth you will become invincible.",
+  author: "Epictetus"
 }
 ```
 
