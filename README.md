@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 36,
-  quote: "From small beginnings come great things.",
-  author: "null"
+  id: 1078,
+  quote: "Good actions give strength to ourselves and inspire good actions in others.",
+  author: "Plato"
 }
 ```
 
