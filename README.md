@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 18,
-  quote: "To lead people walk behind them.",
-  author: "Lao Tzu"
+  id: 140,
+  quote: "The only real valuable thing is intuition.",
+  author: "Albert Einstein"
 }
 ```
 
