@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 135,
-  quote: "The greatest remedy for anger is delay.",
-  author: "Seneca"
+  id: 948,
+  quote: "Success is getting what you want. Happiness is wanting what you get.",
+  author: "Dale Carnegie"
 }
 ```
 
