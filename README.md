@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1302,
-  quote: "For everything that lives is holy, life delights in life.",
-  author: "William Blake"
+  id: 36,
+  quote: "From small beginnings come great things.",
+  author: "null"
 }
 ```
 
