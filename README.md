@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1256,
-  quote: "Peace begins with a smile.",
-  author: "Mother Teresa"
+  id: 648,
+  quote: "If we are facing in the right direction, all we have to do is keep on walking.",
+  author: "null"
 }
 ```
 
