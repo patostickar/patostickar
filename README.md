@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 948,
-  quote: "Success is getting what you want. Happiness is wanting what you get.",
-  author: "Dale Carnegie"
+  id: 129,
+  quote: "From little acorns mighty oaks do grow.",
+  author: "American proverb"
 }
 ```
 
