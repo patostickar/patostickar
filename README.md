@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1506,
-  quote: "Obstacles are those frightful things you see when you take your eyes off your goal.",
-  author: "Henry Ford"
+  id: 283,
+  quote: "Begin at once to live and count each separate day as a separate life.",
+  author: "Seneca"
 }
 ```
 
