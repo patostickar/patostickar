@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 409,
-  quote: "By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.",
-  author: "Dalai Lama"
+  id: 1280,
+  quote: "Strength to carry on despite the odds means you have faith in your own abilities and know how.",
+  author: "Byron Pulsifer"
 }
 ```
 
