@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 648,
-  quote: "If we are facing in the right direction, all we have to do is keep on walking.",
-  author: "null"
+  id: 687,
+  quote: "Never do things others can do and will do, if there are things others cannot do or will not do.",
+  author: "Amelia Earhart"
 }
 ```
 
