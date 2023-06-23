@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1385,
-  quote: "They can conquer who believe they can.",
-  author: "Virgil"
+  id: 767,
+  quote: "Always be smarter than the people who hire you.",
+  author: "Lena Horne"
 }
 ```
 
