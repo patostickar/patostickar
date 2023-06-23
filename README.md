@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 553,
-  quote: "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
-  author: "Anne Frank"
+  id: 612,
+  quote: "By living deeply in the present moment we can understand the past better and we can prepare for a better future.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
