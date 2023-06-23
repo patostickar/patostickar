@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1558,
-  quote: "We lost because we told ourselves we lost.",
-  author: "Leo Tolstoy"
+  id: 109,
+  quote: "What we think, we become.",
+  author: "Buddha"
 }
 ```
 
