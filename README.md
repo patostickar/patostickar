@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1107,
-  quote: "On every thorn, delightful wisdom grows, In every rill a sweet instruction flows.",
-  author: "Edward Young"
+  id: 516,
+  quote: "Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind.",
+  author: "Buddha"
 }
 ```
 
