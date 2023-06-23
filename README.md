@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1259,
-  quote: "Things turn out best for those who make the best of the way things turn out.",
-  author: "Jack Buck"
+  id: 1385,
+  quote: "They can conquer who believe they can.",
+  author: "Virgil"
 }
 ```
 
