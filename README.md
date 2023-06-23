@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 767,
-  quote: "Always be smarter than the people who hire you.",
-  author: "Lena Horne"
+  id: 447,
+  quote: "If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.",
+  author: "Dalai Lama"
 }
 ```
 
