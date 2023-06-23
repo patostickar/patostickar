@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1312,
-  quote: "Maxim for life: You get treated in life the way you teach people to treat you.",
-  author: "Wayne Dyer"
+  id: 667,
+  quote: "Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.",
+  author: "Helen Keller"
 }
 ```
 
