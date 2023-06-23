@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 191,
-  quote: "Problems are only opportunities with thorns on them.",
-  author: "Hugh Miller"
+  id: 1107,
+  quote: "On every thorn, delightful wisdom grows, In every rill a sweet instruction flows.",
+  author: "Edward Young"
 }
 ```
 
