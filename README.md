@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 442,
-  quote: "By nature man hates change; seldom will he quit his old home till it has actually fallen around his ears.",
-  author: "Thomas Carlyle"
+  id: 1302,
+  quote: "For everything that lives is holy, life delights in life.",
+  author: "William Blake"
 }
 ```
 
