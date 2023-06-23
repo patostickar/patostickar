@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1020,
-  quote: "From wonder into wonder existence opens.",
-  author: "Lao Tzu"
+  id: 402,
+  quote: "Transformation doesn't take place with a vacuum; instead, it occurs when we are indirectly and directly connected to all those around us.",
+  author: "Byron Pulsifer"
 }
 ```
 
