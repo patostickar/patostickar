@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1302,
-  quote: "For everything that lives is holy, life delights in life.",
-  author: "William Blake"
+  id: 367,
+  quote: "Most people are about as happy as they make up their minds to be",
+  author: "Abraham Lincoln"
 }
 ```
 
