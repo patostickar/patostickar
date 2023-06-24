@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 802,
-  quote: "Trust your own instinct. Your mistakes might as well be your own, instead of someone elses.",
-  author: "Billy Wilder"
+  id: 640,
+  quote: "If you love someone, set them free. If they come back they're yours; if they don't they never were.",
+  author: "Richard Bach"
 }
 ```
 
