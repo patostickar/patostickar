@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1515,
-  quote: "I can't believe that God put us on this earth to be ordinary.",
-  author: "Lou Holtz"
+  id: 139,
+  quote: "Wherever you go, go with all your heart.",
+  author: "Confucius"
 }
 ```
 
