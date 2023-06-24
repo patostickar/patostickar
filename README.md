@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 139,
-  quote: "Wherever you go, go with all your heart.",
-  author: "Confucius"
+  id: 1485,
+  quote: "Remember that failure is an event, not a person.",
+  author: "Zig Ziglar"
 }
 ```
 
