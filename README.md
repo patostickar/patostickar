@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 710,
-  quote: "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.",
-  author: "Lao Tzu"
+  id: 762,
+  quote: "History will be kind to me for I intend to write it.",
+  author: "Winston Churchill"
 }
 ```
 
