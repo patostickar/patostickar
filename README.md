@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1161,
-  quote: "Forgiveness is choosing to love. It is the first skill of self-giving love.",
-  author: "Mohandas Gandhi"
+  id: 1248,
+  quote: "There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.",
+  author: "Mark Twain"
 }
 ```
 
