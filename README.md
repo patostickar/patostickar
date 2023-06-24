@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1156,
-  quote: "Why worry about tomorrow, when today is all we have?",
-  author: "null"
+  id: 774,
+  quote: "Everything that irritates us about others can lead us to an understanding about ourselves.",
+  author: "Carl Jung"
 }
 ```
 
