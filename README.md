@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1315,
-  quote: "Thought is the blossom; language the bud; action the fruit behind it.",
-  author: "Ralph Emerson"
+  id: 1156,
+  quote: "Why worry about tomorrow, when today is all we have?",
+  author: "null"
 }
 ```
 
