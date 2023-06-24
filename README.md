@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 41,
-  quote: "What worries you masters you.",
-  author: "Haddon Robinson"
+  id: 291,
+  quote: "Being right is highly overrated. Even a stopped clock is right twice a day.",
+  author: "null"
 }
 ```
 
