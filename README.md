@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1456,
-  quote: "Truth is generally the best vindication against slander.",
-  author: "Abraham Lincoln"
+  id: 1285,
+  quote: "Leaders aren't born they are made. And they are made just like anything else, through hard work. And that's the price well have to pay to achieve that goal, or any goal.",
+  author: "Vince Lombardi"
 }
 ```
 
