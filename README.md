@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 862,
-  quote: "Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.",
-  author: "Alphonse Karr"
+  id: 487,
+  quote: "People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
