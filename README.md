@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1149,
-  quote: "It's not what happens to you, but how you react to it that matters.",
-  author: "Epictetus"
+  id: 710,
+  quote: "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.",
+  author: "Lao Tzu"
 }
 ```
 
