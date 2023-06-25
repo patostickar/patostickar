@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 867,
-  quote: "I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.",
-  author: "Michel de Montaigne"
+  id: 908,
+  quote: "The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.",
+  author: "Margaret Smith"
 }
 ```
 
