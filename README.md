@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 58,
-  quote: "Time is the wisest counsellor of all.",
-  author: "Pericles"
+  id: 375,
+  quote: "Wicked people are always surprised to find ability in those that are good.",
+  author: "Marquis Vauvenargues"
 }
 ```
 
