@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 966,
-  quote: "Your sacred space is where you can find yourself again and again.",
-  author: "Joseph Campbell"
+  id: 1280,
+  quote: "Strength to carry on despite the odds means you have faith in your own abilities and know how.",
+  author: "Byron Pulsifer"
 }
 ```
 
