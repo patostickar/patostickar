@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1004,
-  quote: "Lose an hour in the morning, and you will spend all day looking for it.",
-  author: "Richard Whately"
+  id: 58,
+  quote: "Time is the wisest counsellor of all.",
+  author: "Pericles"
 }
 ```
 
