@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 116,
-  quote: "Silence is a fence around wisdom.",
-  author: "German proverb"
+  id: 867,
+  quote: "I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.",
+  author: "Michel de Montaigne"
 }
 ```
 
