@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 79,
-  quote: "The two most powerful warriors are patience and time.",
-  author: "Leo Tolstoy"
+  id: 832,
+  quote: "The best thing about the future is that it only comes one day at a time.",
+  author: "Abraham Lincoln"
 }
 ```
 
