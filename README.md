@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 559,
-  quote: "We cannot change our memories, but we can change their meaning and the power they have over us.",
-  author: "David Seamans"
+  id: 804,
+  quote: "I am always doing that which I can not do, in order that I may learn how to do it.",
+  author: "Pablo Picasso"
 }
 ```
 
