@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 568,
-  quote: "When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.",
-  author: "Confucius"
+  id: 1031,
+  quote: "Positive thinking will let you do everything better than negative thinking will.",
+  author: "Zig Ziglar"
 }
 ```
 
