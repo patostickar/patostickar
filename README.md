@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1193,
-  quote: "To change ones life, start immediately, do it flamboyantly, no exceptions.",
-  author: "William James"
+  id: 568,
+  quote: "When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.",
+  author: "Confucius"
 }
 ```
 
