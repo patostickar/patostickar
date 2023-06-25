@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1031,
-  quote: "Positive thinking will let you do everything better than negative thinking will.",
-  author: "Zig Ziglar"
+  id: 1605,
+  quote: "Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong.",
+  author: "Richard Needham"
 }
 ```
 
