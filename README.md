@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1280,
-  quote: "Strength to carry on despite the odds means you have faith in your own abilities and know how.",
-  author: "Byron Pulsifer"
+  id: 818,
+  quote: "Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.",
+  author: "Carl Jung"
 }
 ```
 
