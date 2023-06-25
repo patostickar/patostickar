@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1605,
-  quote: "Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong.",
-  author: "Richard Needham"
+  id: 559,
+  quote: "We cannot change our memories, but we can change their meaning and the power they have over us.",
+  author: "David Seamans"
 }
 ```
 
