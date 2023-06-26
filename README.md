@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 407,
-  quote: "The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.",
-  author: "Lao Tzu"
+  id: 809,
+  quote: "Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.",
+  author: "Denis Waitley"
 }
 ```
 
