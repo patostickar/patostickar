@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 523,
-  quote: "The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.",
-  author: "Dalai Lama"
+  id: 896,
+  quote: "It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all.",
+  author: "Edward de Bono"
 }
 ```
 
