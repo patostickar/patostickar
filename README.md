@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 946,
-  quote: "The weak can never forgive. Forgiveness is the attribute of the strong.",
-  author: "Mohandas Gandhi"
+  id: 1038,
+  quote: "Each day can be one of triumph if you keep up your interests.",
+  author: "George Matthew Adams"
 }
 ```
 
