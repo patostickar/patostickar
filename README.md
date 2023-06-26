@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 217,
-  quote: "There is no way to prosperity, prosperity is the way.",
-  author: "Wayne Dyer"
+  id: 1525,
+  quote: "The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.",
+  author: "Eckhart Tolle"
 }
 ```
 
