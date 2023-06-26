@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 152,
-  quote: "Life isn't about finding yourself. Life is about creating yourself.",
-  author: "Bernard Shaw"
+  id: 316,
+  quote: "Through perseverance many people win success out of what seemed destined to be certain failure.",
+  author: "Benjamin Disraeli"
 }
 ```
 
