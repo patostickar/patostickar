@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1254,
-  quote: "Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others.",
-  author: "Harriet Lerner"
+  id: 946,
+  quote: "The weak can never forgive. Forgiveness is the attribute of the strong.",
+  author: "Mohandas Gandhi"
 }
 ```
 
