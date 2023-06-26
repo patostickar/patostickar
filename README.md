@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 249,
-  quote: "If there is no struggle, there is no progress.",
-  author: "Frederick Douglass"
+  id: 523,
+  quote: "The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.",
+  author: "Dalai Lama"
 }
 ```
 
