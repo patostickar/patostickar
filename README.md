@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 908,
-  quote: "The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.",
-  author: "Margaret Smith"
+  id: 1514,
+  quote: "If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place.",
+  author: "Nora Roberts"
 }
 ```
 
