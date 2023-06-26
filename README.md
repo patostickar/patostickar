@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 85,
-  quote: "Only do what your heart tells you.",
-  author: "Princess Diana"
+  id: 407,
+  quote: "The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.",
+  author: "Lao Tzu"
 }
 ```
 
