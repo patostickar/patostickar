@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1525,
-  quote: "The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.",
-  author: "Eckhart Tolle"
+  id: 257,
+  quote: "If a man does his best, what else is there?",
+  author: "George Patton"
 }
 ```
 
