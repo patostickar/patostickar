@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1113,
-  quote: "Don't frown because you never know who is falling in love with your smile.",
-  author: "Sinvyest Tan"
+  id: 598,
+  quote: "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.",
+  author: "Epictetus"
 }
 ```
 
