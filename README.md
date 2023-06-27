@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1384,
-  quote: "However many holy words you read, However many you speak, What good will they do you If you do not act on upon them?",
-  author: "Buddha"
+  id: 244,
+  quote: "Don't smother each other. No one can grow in the shade.",
+  author: "Leo F. Buscaglia"
 }
 ```
 
