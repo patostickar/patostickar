@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 525,
-  quote: "Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.",
-  author: "Ovid"
+  id: 1438,
+  quote: "Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.",
+  author: "Aristotle"
 }
 ```
 
