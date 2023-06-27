@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 598,
-  quote: "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.",
-  author: "Epictetus"
+  id: 279,
+  quote: "Letting go is not the end of the world; it is the beginning of a new life.",
+  author: "null"
 }
 ```
 
