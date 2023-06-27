@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 728,
-  quote: "Do not turn back when you are just at the goal.",
-  author: "Publilius Syrus"
+  id: 990,
+  quote: "Silence is a source of great strength.",
+  author: "Lao Tzu"
 }
 ```
 
