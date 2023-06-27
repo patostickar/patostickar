@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 395,
-  quote: "Quality is never an accident; it is always the result of intelligent effort.",
-  author: "John Ruskin"
+  id: 228,
+  quote: "The heart has its reasons which reason knows not of.",
+  author: "Blaise Pascal"
 }
 ```
 
