@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 2,
-  quote: "A house divided against itself cannot stand.",
-  author: "Abraham Lincoln"
+  id: 395,
+  quote: "Quality is never an accident; it is always the result of intelligent effort.",
+  author: "John Ruskin"
 }
 ```
 
