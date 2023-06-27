@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 809,
-  quote: "Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.",
-  author: "Denis Waitley"
+  id: 1081,
+  quote: "Every human being is the author of his own health or disease.",
+  author: "Buddha"
 }
 ```
 
