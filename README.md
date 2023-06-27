@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 614,
-  quote: "Do not go where the path may lead, go instead where there is no path and leave a trail.",
-  author: "Ralph Emerson"
+  id: 316,
+  quote: "Through perseverance many people win success out of what seemed destined to be certain failure.",
+  author: "Benjamin Disraeli"
 }
 ```
 
