@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1438,
-  quote: "Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.",
-  author: "Aristotle"
+  id: 614,
+  quote: "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+  author: "Ralph Emerson"
 }
 ```
 
