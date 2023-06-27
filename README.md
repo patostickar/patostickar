@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 14,
-  quote: "You'll see it when you believe it.",
-  author: "Wayne Dyer"
+  id: 653,
+  quote: "We could never learn to be brave and patient if there were only joy in the world.",
+  author: "Helen Keller"
 }
 ```
 
