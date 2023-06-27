@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 340,
-  quote: "I always wanted to be somebody, but I should have been more specific.",
-  author: "Lily Tomlin"
+  id: 57,
+  quote: "Don't wait. The time will never be just right.",
+  author: "Napoleon Hill"
 }
 ```
 
