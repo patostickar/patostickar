@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1238,
-  quote: "The universe is made of stories, not atoms.",
-  author: "Muriel Rukeyser"
+  id: 1602,
+  quote: "If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose.",
+  author: "Mary Pickford"
 }
 ```
 
