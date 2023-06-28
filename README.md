@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 315,
-  quote: "I have done my best: that is about all the philosophy of living one needs.",
-  author: "Lin-yutang"
+  id: 770,
+  quote: "People seldom notice old clothes if you wear a big smile.",
+  author: "Lee Mildon"
 }
 ```
 
