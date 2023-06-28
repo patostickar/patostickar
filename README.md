@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 927,
-  quote: "Arriving at one point is the starting point to another.",
-  author: "John Dewey"
+  id: 1238,
+  quote: "The universe is made of stories, not atoms.",
+  author: "Muriel Rukeyser"
 }
 ```
 
