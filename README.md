@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 306,
-  quote: "Everything is perfect in the universe even your desire to improve it.",
-  author: "Wayne Dyer"
+  id: 927,
+  quote: "Arriving at one point is the starting point to another.",
+  author: "John Dewey"
 }
 ```
 
