@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1446,
-  quote: "The more you care, the stronger you can be.",
-  author: "Jim Rohn"
+  id: 315,
+  quote: "I have done my best: that is about all the philosophy of living one needs.",
+  author: "Lin-yutang"
 }
 ```
 
