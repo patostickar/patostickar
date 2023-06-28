@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 366,
-  quote: "The way is not in the sky. The way is in the heart.",
-  author: "Buddha"
+  id: 345,
+  quote: "Opportunity is missed by most because it is dressed in overalls and looks like work.",
+  author: "Thomas Edison"
 }
 ```
 
