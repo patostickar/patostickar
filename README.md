@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1194,
-  quote: "As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.",
-  author: "John F. Kennedy"
+  id: 231,
+  quote: "Kind words do not cost much. Yet they accomplish much.",
+  author: "Blaise Pascal"
 }
 ```
 
