@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1416,
-  quote: "Live through feeling and you will live through love. For feeling is the language of the soul, and feeling is truth.",
-  author: "Matt Zotti"
+  id: 1019,
+  quote: "Always tell the truth. That way, you don't have to remember what you said.",
+  author: "Mark Twain"
 }
 ```
 
