@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 770,
-  quote: "People seldom notice old clothes if you wear a big smile.",
-  author: "Lee Mildon"
+  id: 1620,
+  quote: "Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.",
+  author: "Gordon Hinckley"
 }
 ```
 
