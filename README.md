@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 144,
-  quote: "Time is the most valuable thing a man can spend.",
-  author: "Theophrastus"
+  id: 366,
+  quote: "The way is not in the sky. The way is in the heart.",
+  author: "Buddha"
 }
 ```
 
