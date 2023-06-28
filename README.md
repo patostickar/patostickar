@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 197,
-  quote: "You're never a loser until you quit trying.",
-  author: "Mike Ditka"
+  id: 1311,
+  quote: "If you want to study yourself look into the hearts of other people. If you want to study other people look into your own heart.",
+  author: "Friedrich von Schiller"
 }
 ```
 
