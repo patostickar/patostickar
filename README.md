@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 231,
-  quote: "Kind words do not cost much. Yet they accomplish much.",
-  author: "Blaise Pascal"
+  id: 306,
+  quote: "Everything is perfect in the universe even your desire to improve it.",
+  author: "Wayne Dyer"
 }
 ```
 
