@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1620,
-  quote: "Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.",
-  author: "Gordon Hinckley"
+  id: 1194,
+  quote: "As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.",
+  author: "John F. Kennedy"
 }
 ```
 
