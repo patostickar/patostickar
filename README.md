@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 479,
-  quote: "Every man takes the limits of his own field of vision for the limits of the world.",
-  author: "Arthur Schopenhauer"
+  id: 1086,
+  quote: "He who has health has hope, and he who has hope has everything.",
+  author: "null"
 }
 ```
 
