@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1019,
-  quote: "Always tell the truth. That way, you don't have to remember what you said.",
-  author: "Mark Twain"
+  id: 1205,
+  quote: "There is no scarcity of opportunity to make a living at what you love; theres only scarcity of resolve to make it happen.",
+  author: "Wayne Dyer"
 }
 ```
 
