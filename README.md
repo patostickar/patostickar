@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 720,
-  quote: "No one has ever become poor by giving.",
-  author: "Anne Frank"
+  id: 1043,
+  quote: "Life is what you make of it. Always has been, always will be.",
+  author: "Grandma Moses"
 }
 ```
 
