@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 700,
-  quote: "All that we are is the result of what we have thought. The mind is everything. What we think we become.",
-  author: "Buddha"
+  id: 442,
+  quote: "By nature man hates change; seldom will he quit his old home till it has actually fallen around his ears.",
+  author: "Thomas Carlyle"
 }
 ```
 
