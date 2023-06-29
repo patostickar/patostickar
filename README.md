@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 292,
-  quote: "To be upset over what you don't have is to waste what you do have.",
-  author: "Ken S. Keyes"
+  id: 720,
+  quote: "No one has ever become poor by giving.",
+  author: "Anne Frank"
 }
 ```
 
