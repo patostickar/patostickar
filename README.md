@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1629,
-  quote: "Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.",
-  author: "Wayne Dyer"
+  id: 479,
+  quote: "Every man takes the limits of his own field of vision for the limits of the world.",
+  author: "Arthur Schopenhauer"
 }
 ```
 
