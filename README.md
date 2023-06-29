@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 602,
-  quote: "Never miss an opportunity to make others happy, even if you have to leave them alone in order to do it.",
-  author: "null"
+  id: 1606,
+  quote: "To know your purpose is to live a life of direction, and in that direction is found peace and tranquillity.",
+  author: "Byron Pulsifer"
 }
 ```
 
