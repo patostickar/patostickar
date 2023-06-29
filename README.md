@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1353,
-  quote: "The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.",
-  author: "Helen Keller"
+  id: 1184,
+  quote: "If you aren't going all the way, why go at all?",
+  author: "Joe Namath"
 }
 ```
 
