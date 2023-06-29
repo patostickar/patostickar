@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 458,
-  quote: "Choose a job you love, and you will never have to work a day in your life.",
-  author: "Confucius"
+  id: 700,
+  quote: "All that we are is the result of what we have thought. The mind is everything. What we think we become.",
+  author: "Buddha"
 }
 ```
 
