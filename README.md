@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 60,
-  quote: "Wisdom begins in wonder.",
-  author: "Socrates"
+  id: 1013,
+  quote: "Do good by stealth, and blush to find it fame.",
+  author: "Alexander Pope"
 }
 ```
 
