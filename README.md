@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 130,
-  quote: "You can't stop the waves, but you can learn to surf.",
-  author: "Jon Kabat-Zinn"
+  id: 602,
+  quote: "Never miss an opportunity to make others happy, even if you have to leave them alone in order to do it.",
+  author: "null"
 }
 ```
 
