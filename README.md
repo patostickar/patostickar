@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1013,
-  quote: "Do good by stealth, and blush to find it fame.",
-  author: "Alexander Pope"
+  id: 1576,
+  quote: "Nothing could be worse than the fear that one had given up too soon, and left one unexpended effort that might have saved the world.",
+  author: "Jane Addams"
 }
 ```
 
