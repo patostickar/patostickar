@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 442,
-  quote: "By nature man hates change; seldom will he quit his old home till it has actually fallen around his ears.",
-  author: "Thomas Carlyle"
+  id: 1629,
+  quote: "Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.",
+  author: "Wayne Dyer"
 }
 ```
 
