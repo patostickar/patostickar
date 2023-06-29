@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1376,
-  quote: "The only real failure in life is not to be true to the best one knows.",
-  author: "Buddha"
+  id: 458,
+  quote: "Choose a job you love, and you will never have to work a day in your life.",
+  author: "Confucius"
 }
 ```
 
