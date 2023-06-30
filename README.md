@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 784,
-  quote: "As long as your going to be thinking anyway, think big.",
-  author: "Donald Trump"
+  id: 980,
+  quote: "In all chaos there is a cosmos, in all disorder a secret order.",
+  author: "Carl Jung"
 }
 ```
 
