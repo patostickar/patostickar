@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 578,
-  quote: "Giving up doesn't always mean you are weak. Sometimes it means that you are strong enough to let go.",
-  author: "null"
+  id: 1003,
+  quote: "Only those who dare to fail greatly can ever achieve greatly.",
+  author: "Robert Kennedy"
 }
 ```
 
