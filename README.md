@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 209,
-  quote: "Difficulties are things that show a person what they are.",
-  author: "Epictetus"
+  id: 578,
+  quote: "Giving up doesn't always mean you are weak. Sometimes it means that you are strong enough to let go.",
+  author: "null"
 }
 ```
 
