@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 415,
-  quote: "I will not be concerned at other men is not knowing me;I will be concerned at my own want of ability.",
-  author: "Confucius"
+  id: 1578,
+  quote: "Begin, be bold, and venture to be wise.",
+  author: "Horace"
 }
 ```
 
