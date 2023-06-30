@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1003,
-  quote: "Only those who dare to fail greatly can ever achieve greatly.",
-  author: "Robert Kennedy"
+  id: 1503,
+  quote: "This is the final test of a gentleman: his respect for those who can be of no possible value to him.",
+  author: "William Lyon Phelps"
 }
 ```
 
