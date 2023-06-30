@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 947,
-  quote: "A man is great by deeds, not by birth.",
-  author: "Chanakya"
+  id: 1478,
+  quote: "Better than a thousand hollow words is one word that brings peace.",
+  author: "Buddha"
 }
 ```
 
