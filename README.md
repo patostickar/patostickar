@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 930,
-  quote: "It is only possible to live happily ever after on a day to day basis.",
-  author: "Margaret Bonnano"
+  id: 194,
+  quote: "May our hearts garden of awakening bloom with hundreds of flowers.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
