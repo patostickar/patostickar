@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 218,
-  quote: "Either you run the day or the day runs you.",
-  author: "Jim Rohn"
+  id: 784,
+  quote: "As long as your going to be thinking anyway, think big.",
+  author: "Donald Trump"
 }
 ```
 
