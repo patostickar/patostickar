@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1578,
-  quote: "Begin, be bold, and venture to be wise.",
-  author: "Horace"
+  id: 1568,
+  quote: "It is impossible for a man to learn what he thinks he already knows.",
+  author: "Epictetus"
 }
 ```
 
