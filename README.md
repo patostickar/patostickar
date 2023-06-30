@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 931,
-  quote: "A man sees in the world what he carries in his heart.",
-  author: "Goethe"
+  id: 218,
+  quote: "Either you run the day or the day runs you.",
+  author: "Jim Rohn"
 }
 ```
 
