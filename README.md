@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 631,
-  quote: "Every great mistake has a halfway moment, a split second when it can be recalled and perhaps remedied.",
-  author: "Pearl Buck"
+  id: 707,
+  quote: "All I can say about life is, Oh God, enjoy it!",
+  author: "Bob Newhart"
 }
 ```
 
