@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 23,
-  quote: "Everything in life is luck.",
-  author: "Donald Trump"
+  id: 1555,
+  quote: "All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.",
+  author: "Alexis Carrel"
 }
 ```
 
