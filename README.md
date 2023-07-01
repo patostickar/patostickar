@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 238,
-  quote: "Blaze with the fire that is never extinguished.",
-  author: "Luisa Sigea"
+  id: 114,
+  quote: "Truth is powerful and it prevails.",
+  author: "Sojourner Truth"
 }
 ```
 
