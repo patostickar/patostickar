@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 734,
-  quote: "The longer we dwell on our misfortunes, the greater is their power to harm us.",
-  author: "Voltaire"
+  id: 927,
+  quote: "Arriving at one point is the starting point to another.",
+  author: "John Dewey"
 }
 ```
 
