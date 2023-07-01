@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 599,
-  quote: "I am always doing that which I cannot do, in order that I may learn how to do it.",
-  author: "Pablo Picasso"
+  id: 1022,
+  quote: "Life is what happens while you are making other plans.",
+  author: "John Lennon"
 }
 ```
 
