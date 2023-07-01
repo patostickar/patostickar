@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 828,
-  quote: "A failure is a man who has blundered but is not capable of cashing in on the experience.",
-  author: "Elbert Hubbard"
+  id: 167,
+  quote: "Never ignore a gut feeling, but never believe that it's enough.",
+  author: "Robert Heller"
 }
 ```
 
