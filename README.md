@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 177,
-  quote: "Our strength grows out of our weaknesses.",
-  author: "Ralph Waldo Emerson"
+  id: 160,
+  quote: "Whatever we expect with confidence becomes our own self-fulfilling prophecy.",
+  author: "Brian Tracy"
 }
 ```
 
