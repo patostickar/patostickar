@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 114,
-  quote: "Truth is powerful and it prevails.",
-  author: "Sojourner Truth"
+  id: 1488,
+  quote: "Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.",
+  author: "Thomas Carlyle"
 }
 ```
 
