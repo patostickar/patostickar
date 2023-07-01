@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 927,
-  quote: "Arriving at one point is the starting point to another.",
-  author: "John Dewey"
+  id: 429,
+  quote: "Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.",
+  author: "Ralph Emerson"
 }
 ```
 
