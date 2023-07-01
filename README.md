@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 651,
-  quote: "If you seek truth you will not seek victory by dishonourable means, and if you find truth you will become invincible.",
-  author: "Epictetus"
+  id: 412,
+  quote: "There are things so deep and complex that only intuition can reach it in our stage of development as human beings.",
+  author: "John Astin"
 }
 ```
 
