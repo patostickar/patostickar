@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 160,
-  quote: "Whatever we expect with confidence becomes our own self-fulfilling prophecy.",
-  author: "Brian Tracy"
+  id: 48,
+  quote: "A goal without a plan is just a wish.",
+  author: "Larry Elder"
 }
 ```
 
