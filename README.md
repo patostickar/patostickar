@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1043,
-  quote: "Life is what you make of it. Always has been, always will be.",
-  author: "Grandma Moses"
+  id: 377,
+  quote: "If you change the way you look at things, the things you look at change.",
+  author: "Wayne Dyer"
 }
 ```
 
