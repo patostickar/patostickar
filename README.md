@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1488,
-  quote: "Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.",
-  author: "Thomas Carlyle"
+  id: 915,
+  quote: "Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.",
+  author: "Marcus Aurelius"
 }
 ```
 
