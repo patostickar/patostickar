@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 489,
-  quote: "The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.",
-  author: "Anais Nin"
+  id: 1579,
+  quote: "Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.",
+  author: "Lao Tzu"
 }
 ```
 
