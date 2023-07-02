@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1579,
-  quote: "Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.",
-  author: "Lao Tzu"
+  id: 1544,
+  quote: "Count your joys instead of your woes. Count your friends instead of your foes.",
+  author: "null"
 }
 ```
 
