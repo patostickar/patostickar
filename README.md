@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 545,
-  quote: "Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.",
-  author: "Napoleon Hill"
+  id: 880,
+  quote: "When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points.",
+  author: "Confucius"
 }
 ```
 
