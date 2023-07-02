@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1642,
-  quote: "Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on.",
-  author: "Tom Jackson"
+  id: 545,
+  quote: "Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.",
+  author: "Napoleon Hill"
 }
 ```
 
