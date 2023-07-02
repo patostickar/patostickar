@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 498,
-  quote: "The first step to getting the things you want out of life is this: decide what you want.",
-  author: "Ben Stein"
+  id: 1642,
+  quote: "Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on.",
+  author: "Tom Jackson"
 }
 ```
 
