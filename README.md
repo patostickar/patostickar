@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 349,
-  quote: "The world makes way for the man who knows where he is going.",
-  author: "Ralph Emerson"
+  id: 817,
+  quote: "The amount of happiness that you have depends on the amount of freedom you have in your heart.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
