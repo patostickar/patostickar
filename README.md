@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1334,
-  quote: "Don't think of it as failure. Think of it as time-released success.",
-  author: "Robert Orben"
+  id: 1084,
+  quote: "The path to success is to take massive, determined action.",
+  author: "Anthony Robbins"
 }
 ```
 
