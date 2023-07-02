@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 670,
-  quote: "Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.",
-  author: "Louis Pasteur"
+  id: 568,
+  quote: "When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.",
+  author: "Confucius"
 }
 ```
 
