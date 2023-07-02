@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1084,
-  quote: "The path to success is to take massive, determined action.",
-  author: "Anthony Robbins"
+  id: 1604,
+  quote: "Gratitude is riches. Complaint is poverty.",
+  author: "Doris Day"
 }
 ```
 
