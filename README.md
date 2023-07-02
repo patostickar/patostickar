@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 562,
-  quote: "Id rather regret the things that I have done than the things that I have not done.",
-  author: "Lucille Ball"
+  id: 890,
+  quote: "If one advances confidently in the direction of his dream, and endeavours to live the life which he had imagines, he will meet with a success unexpected in common hours.",
+  author: "Henry David Thoreau"
 }
 ```
 
