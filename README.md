@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 328,
-  quote: "How we spend our days is, of course, how we spend our lives.",
-  author: "Annie Dillard"
+  id: 562,
+  quote: "Id rather regret the things that I have done than the things that I have not done.",
+  author: "Lucille Ball"
 }
 ```
 
