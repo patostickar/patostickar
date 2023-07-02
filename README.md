@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 34,
-  quote: "God always takes the simplest way.",
-  author: "Albert Einstein"
+  id: 489,
+  quote: "The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.",
+  author: "Anais Nin"
 }
 ```
 
