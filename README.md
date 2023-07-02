@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1544,
-  quote: "Count your joys instead of your woes. Count your friends instead of your foes.",
-  author: "null"
+  id: 670,
+  quote: "Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.",
+  author: "Louis Pasteur"
 }
 ```
 
