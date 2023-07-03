@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 859,
-  quote: "A man should look for what is, and not for what he thinks should be.",
-  author: "Albert Einstein"
+  id: 1360,
+  quote: "We can do no great things, only small things with great love.",
+  author: "Mother Teresa"
 }
 ```
 
