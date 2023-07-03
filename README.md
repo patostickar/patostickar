@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 317,
-  quote: "Give thanks for the rain of life that propels us to reach new horizons.",
-  author: "Byron Pulsifer"
+  id: 637,
+  quote: "Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.",
+  author: "Richard Bach"
 }
 ```
 
