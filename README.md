@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 9,
-  quote: "Self-complacency is fatal to progress.",
-  author: "Margaret Sangster"
+  id: 1173,
+  quote: "I may not know everything, but everything is not known yet anyway.",
+  author: "Byron Pulsifer"
 }
 ```
 
