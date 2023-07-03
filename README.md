@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 908,
-  quote: "The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.",
-  author: "Margaret Smith"
+  id: 532,
+  quote: "Today, give a stranger a smile without waiting for it may be the joy they need to have a great day.",
+  author: "Byron Pulsifer"
 }
 ```
 
