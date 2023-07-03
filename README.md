@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1360,
-  quote: "We can do no great things, only small things with great love.",
-  author: "Mother Teresa"
+  id: 1050,
+  quote: "Whoso loves, believes the impossible.",
+  author: "Elizabeth Browning"
 }
 ```
 
