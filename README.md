@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1078,
-  quote: "Good actions give strength to ourselves and inspire good actions in others.",
-  author: "Plato"
+  id: 367,
+  quote: "Most people are about as happy as they make up their minds to be",
+  author: "Abraham Lincoln"
 }
 ```
 
