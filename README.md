@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1173,
-  quote: "I may not know everything, but everything is not known yet anyway.",
-  author: "Byron Pulsifer"
+  id: 859,
+  quote: "A man should look for what is, and not for what he thinks should be.",
+  author: "Albert Einstein"
 }
 ```
 
