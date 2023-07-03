@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1267,
-  quote: "All truths are easy to understand once they are discovered; the point is to discover them.",
-  author: "Galileo Galilei"
+  id: 1334,
+  quote: "Don't think of it as failure. Think of it as time-released success.",
+  author: "Robert Orben"
 }
 ```
 
