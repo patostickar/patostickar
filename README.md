@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1613,
-  quote: "The only way to have a friend is to be one.",
-  author: "Ralph Emerson"
+  id: 1267,
+  quote: "All truths are easy to understand once they are discovered; the point is to discover them.",
+  author: "Galileo Galilei"
 }
 ```
 
