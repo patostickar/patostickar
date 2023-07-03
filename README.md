@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 224,
-  quote: "The mind is everything. What you think you become.",
-  author: "Buddha"
+  id: 1613,
+  quote: "The only way to have a friend is to be one.",
+  author: "Ralph Emerson"
 }
 ```
 
