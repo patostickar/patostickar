@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 260,
-  quote: "All seasons are beautiful for the person who carries happiness within.",
-  author: "Horace Friess"
+  id: 224,
+  quote: "The mind is everything. What you think you become.",
+  author: "Buddha"
 }
 ```
 
