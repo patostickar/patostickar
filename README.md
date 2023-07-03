@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1099,
-  quote: "The difficulties of life are intended to make us better, not bitter.",
-  author: "null"
+  id: 840,
+  quote: "When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.",
+  author: "Wayne Dyer"
 }
 ```
 
