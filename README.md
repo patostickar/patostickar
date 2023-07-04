@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1526,
-  quote: "Take it easy but take it.",
-  author: "Woody Guthrie"
+  id: 741,
+  quote: "You might well remember that nothing can bring you success but yourself.",
+  author: "Napoleon Hill"
 }
 ```
 
