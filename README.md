@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 692,
-  quote: "The greatest way to live with honour in this world is to be what we pretend to be.",
-  author: "Socrates"
+  id: 71,
+  quote: "Important principles may, and must, be inflexible.",
+  author: "Abraham Lincoln"
 }
 ```
 
