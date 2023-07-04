@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 423,
-  quote: "Make the best use of what is in your power, and take the rest as it happens.",
-  author: "Epictetus"
+  id: 212,
+  quote: "A prudent question is one half of wisdom.",
+  author: "Francis Bacon"
 }
 ```
 
