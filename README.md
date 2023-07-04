@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 27,
-  quote: "The day is already blessed, find peace within it.",
-  author: "null"
+  id: 1526,
+  quote: "Take it easy but take it.",
+  author: "Woody Guthrie"
 }
 ```
 
