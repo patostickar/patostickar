@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1305,
-  quote: "In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.",
-  author: "Leonardo da Vinci"
+  id: 593,
+  quote: "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+  author: "Thomas Edison"
 }
 ```
 
