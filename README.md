@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 816,
-  quote: "It is not the mistake that has the most power, instead, it is learning from the mistake to advance your own attributes.",
-  author: "Byron Roberts"
+  id: 1344,
+  quote: "Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.",
+  author: "Barack Obama"
 }
 ```
 
