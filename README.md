@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 71,
-  quote: "Important principles may, and must, be inflexible.",
-  author: "Abraham Lincoln"
+  id: 1348,
+  quote: "To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.",
+  author: "Mahummad Ali"
 }
 ```
 
