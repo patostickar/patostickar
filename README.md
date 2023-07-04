@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1371,
-  quote: "Weve got to have a dream if we are going to make a dream come true.",
-  author: "Walt Disney"
+  id: 1308,
+  quote: "There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.",
+  author: "Alfred Korzybski"
 }
 ```
 
