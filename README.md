@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 593,
-  quote: "Many of life's failures are people who did not realize how close they were to success when they gave up.",
-  author: "Thomas Edison"
+  id: 1371,
+  quote: "Weve got to have a dream if we are going to make a dream come true.",
+  author: "Walt Disney"
 }
 ```
 
