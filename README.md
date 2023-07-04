@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 419,
-  quote: "Success means having the courage, the determination, and the will to become the person you believe you were meant to be.",
-  author: "George Sheehan"
+  id: 692,
+  quote: "The greatest way to live with honour in this world is to be what we pretend to be.",
+  author: "Socrates"
 }
 ```
 
