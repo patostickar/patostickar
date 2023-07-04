@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 212,
-  quote: "A prudent question is one half of wisdom.",
-  author: "Francis Bacon"
+  id: 816,
+  quote: "It is not the mistake that has the most power, instead, it is learning from the mistake to advance your own attributes.",
+  author: "Byron Roberts"
 }
 ```
 
