@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1344,
-  quote: "Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.",
-  author: "Barack Obama"
+  id: 419,
+  quote: "Success means having the courage, the determination, and the will to become the person you believe you were meant to be.",
+  author: "George Sheehan"
 }
 ```
 
