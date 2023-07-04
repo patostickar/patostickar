@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1348,
-  quote: "To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.",
-  author: "Mahummad Ali"
+  id: 381,
+  quote: "They say that time changes things, but you actually have to change them yourself.",
+  author: "Andy Warhol"
 }
 ```
 
