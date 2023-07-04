@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1308,
-  quote: "There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.",
-  author: "Alfred Korzybski"
+  id: 27,
+  quote: "The day is already blessed, find peace within it.",
+  author: "null"
 }
 ```
 
