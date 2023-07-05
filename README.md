@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 512,
-  quote: "Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.",
-  author: "Washington Irving"
+  id: 345,
+  quote: "Opportunity is missed by most because it is dressed in overalls and looks like work.",
+  author: "Thomas Edison"
 }
 ```
 
