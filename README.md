@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1406,
-  quote: "Things do not change; we change.",
-  author: "Henry Thoreau"
+  id: 275,
+  quote: "Each misfortune you encounter will carry in it the seed of tomorrows good luck.",
+  author: "Og Mandino"
 }
 ```
 
