@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1515,
-  quote: "I can't believe that God put us on this earth to be ordinary.",
-  author: "Lou Holtz"
+  id: 335,
+  quote: "Everyone thinks of changing the world, but no one thinks of changing himself.",
+  author: "Leo Tolstoy"
 }
 ```
 
