@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 275,
-  quote: "Each misfortune you encounter will carry in it the seed of tomorrows good luck.",
-  author: "Og Mandino"
+  id: 643,
+  quote: "No valid plans for the future can be made by those who have no capacity for living now.",
+  author: "Alan Watts"
 }
 ```
 
