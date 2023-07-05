@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 741,
-  quote: "You might well remember that nothing can bring you success but yourself.",
-  author: "Napoleon Hill"
+  id: 432,
+  quote: "Your destiny isn't just fate; it is how you use your own developed abilities to get what you want.",
+  author: "Byron Pulsifer"
 }
 ```
 
