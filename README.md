@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1289,
-  quote: "I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.",
-  author: "Buddha"
+  id: 986,
+  quote: "We cannot solve our problems with the same thinking we used when we created them.",
+  author: "Albert Einstein"
 }
 ```
 
