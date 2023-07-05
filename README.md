@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 873,
-  quote: "Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.",
-  author: "Jean-Paul Sartre"
+  id: 446,
+  quote: "It is better to take many small steps in the right direction than to make a great leap forward only to stumble backward.",
+  author: "null"
 }
 ```
 
