@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1043,
-  quote: "Life is what you make of it. Always has been, always will be.",
-  author: "Grandma Moses"
+  id: 246,
+  quote: "You can't shake hands with a clenched fist.",
+  author: "Indira Gandhi"
 }
 ```
 
