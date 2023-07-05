@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 643,
-  quote: "No valid plans for the future can be made by those who have no capacity for living now.",
-  author: "Alan Watts"
+  id: 114,
+  quote: "Truth is powerful and it prevails.",
+  author: "Sojourner Truth"
 }
 ```
 
