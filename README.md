@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 114,
-  quote: "Truth is powerful and it prevails.",
-  author: "Sojourner Truth"
+  id: 1475,
+  quote: "For success, attitude is equally as important as ability.",
+  author: "Harry Banks"
 }
 ```
 
