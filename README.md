@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 335,
-  quote: "Everyone thinks of changing the world, but no one thinks of changing himself.",
-  author: "Leo Tolstoy"
+  id: 576,
+  quote: "There are only two mistakes one can make along the road to truth; not going all the way, and not starting.",
+  author: "Buddha"
 }
 ```
 
