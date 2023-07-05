@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 345,
-  quote: "Opportunity is missed by most because it is dressed in overalls and looks like work.",
-  author: "Thomas Edison"
+  id: 1406,
+  quote: "Things do not change; we change.",
+  author: "Henry Thoreau"
 }
 ```
 
