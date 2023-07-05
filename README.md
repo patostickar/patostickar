@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 246,
-  quote: "You can't shake hands with a clenched fist.",
-  author: "Indira Gandhi"
+  id: 771,
+  quote: "The more light you allow within you, the brighter the world you live in will be.",
+  author: "Shakti Gawain"
 }
 ```
 
