@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1200,
-  quote: "Time is not a measure the length of a day or month or year but more a measure of what you have accomplished.",
-  author: "Byron Pulsifer"
+  id: 1378,
+  quote: "Change will not come if we wait for some other person or some other time. We are the ones weve been waiting for. We are the change that we seek.",
+  author: "Barack Obama"
 }
 ```
 
