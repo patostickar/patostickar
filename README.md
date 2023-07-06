@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1582,
-  quote: "Miracles come in moments. Be ready and willing.",
-  author: "Wayne Dyer"
+  id: 1612,
+  quote: "He who knows that enough is enough will always have enough.",
+  author: "Lao Tzu"
 }
 ```
 
