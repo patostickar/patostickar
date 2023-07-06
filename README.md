@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 935,
-  quote: "The only limit to your impact is your imagination and commitment.",
-  author: "Tony Robbins"
+  id: 404,
+  quote: "The free man is he who does not fear to go to the end of his thought.",
+  author: "Leon Blum"
 }
 ```
 
