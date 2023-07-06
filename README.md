@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 452,
-  quote: "You're not obligated to win. You're obligated to keep trying to do the best you can every day.",
-  author: "Marian Edelman"
+  id: 1344,
+  quote: "Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.",
+  author: "Barack Obama"
 }
 ```
 
