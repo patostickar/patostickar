@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1612,
-  quote: "He who knows that enough is enough will always have enough.",
-  author: "Lao Tzu"
+  id: 1195,
+  quote: "The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.",
+  author: "Booker Washington"
 }
 ```
 
