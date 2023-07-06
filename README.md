@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 423,
-  quote: "Make the best use of what is in your power, and take the rest as it happens.",
-  author: "Epictetus"
+  id: 24,
+  quote: "Doing nothing is better than being busy doing nothing.",
+  author: "Lao Tzu"
 }
 ```
 
