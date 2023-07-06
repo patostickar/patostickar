@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 323,
-  quote: "Reviewing what you have learned and learning anew, you are fit to be a teacher.",
-  author: "Confucius"
+  id: 986,
+  quote: "We cannot solve our problems with the same thinking we used when we created them.",
+  author: "Albert Einstein"
 }
 ```
 
