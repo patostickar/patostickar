@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 986,
-  quote: "We cannot solve our problems with the same thinking we used when we created them.",
-  author: "Albert Einstein"
+  id: 957,
+  quote: "Freedom is not worth having if it does not connote freedom to err.",
+  author: "Mohandas Gandhi"
 }
 ```
 
