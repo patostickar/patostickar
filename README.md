@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 333,
-  quote: "If you think you can, you can. And if you think you can't, you're right.",
-  author: "Henry Ford"
+  id: 1200,
+  quote: "Time is not a measure the length of a day or month or year but more a measure of what you have accomplished.",
+  author: "Byron Pulsifer"
 }
 ```
 
