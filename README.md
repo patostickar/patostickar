@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 738,
-  quote: "The universe is transformation; our life is what our thoughts make it.",
-  author: "Marcus Aurelius"
+  id: 293,
+  quote: "If we did the things we are capable of, we would astound ourselves.",
+  author: "Thomas Edison"
 }
 ```
 
