@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 986,
-  quote: "We cannot solve our problems with the same thinking we used when we created them.",
-  author: "Albert Einstein"
+  id: 423,
+  quote: "Make the best use of what is in your power, and take the rest as it happens.",
+  author: "Epictetus"
 }
 ```
 
