@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1195,
-  quote: "The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.",
-  author: "Booker Washington"
+  id: 904,
+  quote: "A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.",
+  author: "Chuck Norris"
 }
 ```
 
