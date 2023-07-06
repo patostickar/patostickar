@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1378,
-  quote: "Change will not come if we wait for some other person or some other time. We are the ones weve been waiting for. We are the change that we seek.",
-  author: "Barack Obama"
+  id: 738,
+  quote: "The universe is transformation; our life is what our thoughts make it.",
+  author: "Marcus Aurelius"
 }
 ```
 
