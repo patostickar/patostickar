@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1534,
-  quote: "One who is too insistent on his own views, finds few to agree with him.",
-  author: "Lao Tzu"
+  id: 333,
+  quote: "If you think you can, you can. And if you think you can't, you're right.",
+  author: "Henry Ford"
 }
 ```
 
