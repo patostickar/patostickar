@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 904,
-  quote: "A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.",
-  author: "Chuck Norris"
+  id: 935,
+  quote: "The only limit to your impact is your imagination and commitment.",
+  author: "Tony Robbins"
 }
 ```
 
