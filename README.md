@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 24,
-  quote: "Doing nothing is better than being busy doing nothing.",
-  author: "Lao Tzu"
+  id: 323,
+  quote: "Reviewing what you have learned and learning anew, you are fit to be a teacher.",
+  author: "Confucius"
 }
 ```
 
