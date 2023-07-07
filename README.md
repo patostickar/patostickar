@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1098,
-  quote: "Every man is a volume if you know how to read him.",
-  author: "Channing"
+  id: 569,
+  quote: "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.",
+  author: "Nikola Tesla"
 }
 ```
 
