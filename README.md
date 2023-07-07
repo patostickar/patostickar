@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 296,
-  quote: "Love is not blind; it simply enables one to see things others fail to see.",
-  author: "null"
+  id: 846,
+  quote: "The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
+  author: "Henry Miller"
 }
 ```
 
