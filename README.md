@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 266,
-  quote: "Love doesn't make the world go round, love is what makes the ride worthwhile.",
-  author: "Elizabeth Browning"
+  id: 1158,
+  quote: "Things do not change, we change.",
+  author: "Henry Thoreau"
 }
 ```
 
