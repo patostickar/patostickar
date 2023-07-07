@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1345,
-  quote: "Compassion and happiness are not a sign of weakness but a sign of strength.",
-  author: "Dalai Lama"
+  id: 900,
+  quote: "Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.",
+  author: "Epictetus"
 }
 ```
 
