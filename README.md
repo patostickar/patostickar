@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 338,
-  quote: "Slow down and everything you are chasing will come around and catch you.",
-  author: "John De Paola"
+  id: 1445,
+  quote: "Be the change that you want to see in the world.",
+  author: "Mohandas Gandhi"
 }
 ```
 
