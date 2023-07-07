@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 697,
-  quote: "The person who lives life fully, glowing with life's energy, is the person who lives a successful life.",
-  author: "Daisaku Ikeda"
+  id: 927,
+  quote: "Arriving at one point is the starting point to another.",
+  author: "John Dewey"
 }
 ```
 
