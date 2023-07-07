@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 927,
-  quote: "Arriving at one point is the starting point to another.",
-  author: "John Dewey"
+  id: 135,
+  quote: "The greatest remedy for anger is delay.",
+  author: "Seneca"
 }
 ```
 
