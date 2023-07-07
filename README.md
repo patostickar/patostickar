@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 434,
-  quote: "A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.",
-  author: "Isaac Asimov"
+  id: 296,
+  quote: "Love is not blind; it simply enables one to see things others fail to see.",
+  author: "null"
 }
 ```
 
