@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1419,
-  quote: "The best cure for the body is a quiet mind.",
-  author: "Napoleon Bonaparte"
+  id: 481,
+  quote: "What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.",
+  author: "Sai Baba"
 }
 ```
 
