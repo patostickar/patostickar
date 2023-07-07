@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 135,
-  quote: "The greatest remedy for anger is delay.",
-  author: "Seneca"
+  id: 264,
+  quote: "Imagination is the highest kite one can fly.",
+  author: "Lauren Bacall"
 }
 ```
 
