@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1059,
-  quote: "As our case is new, we must think and act anew.",
-  author: "Abraham Lincoln"
+  id: 697,
+  quote: "The person who lives life fully, glowing with life's energy, is the person who lives a successful life.",
+  author: "Daisaku Ikeda"
 }
 ```
 
