@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1443,
-  quote: "When people are like each other they tend to like each other.",
-  author: "Tony Robbins"
+  id: 1505,
+  quote: "Continuous effort, not strength or intelligence is the key to unlocking our potential.",
+  author: "Winston Churchill"
 }
 ```
 
