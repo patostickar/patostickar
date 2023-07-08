@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1212,
-  quote: "Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.",
-  author: "Charles A. Lindbergh"
+  id: 146,
+  quote: "Experience is simply the name we give our mistakes.",
+  author: "Oscar Wilde"
 }
 ```
 
