@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 934,
-  quote: "Sooner or later, those who win are those who think they can.",
-  author: "Richard Bach"
+  id: 1287,
+  quote: "Always seek out the seed of triumph in every adversity.",
+  author: "Og Mandino"
 }
 ```
 
