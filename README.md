@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 131,
-  quote: "Reality does not conform to the ideal, but confirms it.",
-  author: "Gustave Flaubert"
+  id: 364,
+  quote: "The superior man is satisfied and composed; the mean man is always full of distress.",
+  author: "Confucius"
 }
 ```
 
