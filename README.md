@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 135,
-  quote: "The greatest remedy for anger is delay.",
-  author: "Seneca"
+  id: 1628,
+  quote: "Great is the art of beginning, but greater is the art of ending.",
+  author: "Lazurus Long"
 }
 ```
 
