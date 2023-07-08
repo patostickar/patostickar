@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 364,
-  quote: "The superior man is satisfied and composed; the mean man is always full of distress.",
-  author: "Confucius"
+  id: 706,
+  quote: "The pain passes, but the beauty remains.",
+  author: "Pierre Auguste Renoir"
 }
 ```
 
