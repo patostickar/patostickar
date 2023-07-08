@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1056,
-  quote: "He who lives in harmony with himself lives in harmony with the world.",
-  author: "Marcus Aurelius"
+  id: 1072,
+  quote: "The most formidable weapon against errors of every kind is reason.",
+  author: "Thomas Paine"
 }
 ```
 
