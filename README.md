@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1072,
-  quote: "The most formidable weapon against errors of every kind is reason.",
-  author: "Thomas Paine"
+  id: 934,
+  quote: "Sooner or later, those who win are those who think they can.",
+  author: "Richard Bach"
 }
 ```
 
