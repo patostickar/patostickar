@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 973,
-  quote: "Hope arouses, as nothing else can arouse, a passion for the possible.",
-  author: "William Sloane Coffin"
+  id: 253,
+  quote: "Sadness flies away on the wings of time.",
+  author: "Jean de la Fontaine"
 }
 ```
 
