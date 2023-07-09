@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 856,
-  quote: "Nobody made a greater mistake than he who did nothing because he could do only a little.",
-  author: "Edmund Burke"
+  id: 1178,
+  quote: "I am not afraid of tomorrow, for I have seen yesterday and I love today.",
+  author: "William White"
 }
 ```
 
