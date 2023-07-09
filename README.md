@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1510,
-  quote: "If we look at the world with a love of life, the world will reveal its beauty to us.",
-  author: "Daisaku Ikeda"
+  id: 1498,
+  quote: "Time you enjoyed wasting was not wasted.",
+  author: "John Lennon"
 }
 ```
 
