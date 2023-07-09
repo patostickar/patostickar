@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 253,
-  quote: "Sadness flies away on the wings of time.",
-  author: "Jean de la Fontaine"
+  id: 1472,
+  quote: "Good thoughts are no better than good dreams, unless they be executed.",
+  author: "Ralph Emerson"
 }
 ```
 
