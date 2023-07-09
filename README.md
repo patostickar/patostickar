@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 502,
-  quote: "The only thing to do with good advice is to pass it on. It is never of any use to oneself.",
-  author: "Oscar Wilde"
+  id: 703,
+  quote: "Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.",
+  author: "Napoleon Hill"
 }
 ```
 
