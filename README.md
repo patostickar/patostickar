@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1498,
-  quote: "Time you enjoyed wasting was not wasted.",
-  author: "John Lennon"
+  id: 381,
+  quote: "They say that time changes things, but you actually have to change them yourself.",
+  author: "Andy Warhol"
 }
 ```
 
