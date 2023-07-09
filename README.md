@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 668,
-  quote: "Change is the law of life. And those who look only to the past or present are certain to miss the future.",
-  author: "John Kennedy"
+  id: 607,
+  quote: "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
