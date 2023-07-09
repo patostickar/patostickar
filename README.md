@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1178,
-  quote: "I am not afraid of tomorrow, for I have seen yesterday and I love today.",
-  author: "William White"
+  id: 973,
+  quote: "Hope arouses, as nothing else can arouse, a passion for the possible.",
+  author: "William Sloane Coffin"
 }
 ```
 
