@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 7,
-  quote: "Well begun is half done.",
-  author: "Aristotle"
+  id: 1297,
+  quote: "Knowledge rests not upon truth alone, but upon error also.",
+  author: "Carl Jung"
 }
 ```
 
