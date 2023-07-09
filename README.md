@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 612,
-  quote: "By living deeply in the present moment we can understand the past better and we can prepare for a better future.",
-  author: "Thich Nhat Hanh"
+  id: 1462,
+  quote: "We read the world wrong and say that it deceives us.",
+  author: "Rabindranath Tagore"
 }
 ```
 
