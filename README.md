@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1472,
-  quote: "Good thoughts are no better than good dreams, unless they be executed.",
-  author: "Ralph Emerson"
+  id: 502,
+  quote: "The only thing to do with good advice is to pass it on. It is never of any use to oneself.",
+  author: "Oscar Wilde"
 }
 ```
 
