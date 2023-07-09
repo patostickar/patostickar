@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 388,
-  quote: "Shoot for the moon. Even if you miss, you'll land among the stars.",
-  author: "Les Brown"
+  id: 668,
+  quote: "Change is the law of life. And those who look only to the past or present are certain to miss the future.",
+  author: "John Kennedy"
 }
 ```
 
