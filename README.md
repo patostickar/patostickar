@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 490,
-  quote: "Everything that happens happens as it should, and if you observe carefully, you will find this to be so.",
-  author: "Marcus Aurelius"
+  id: 821,
+  quote: "Sometimes it is better to lose and do the right thing than to win and do the wrong thing.",
+  author: "Tony Blair"
 }
 ```
 
