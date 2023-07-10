@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 153,
-  quote: "To bring anything into your life, imagine that it's already there.",
-  author: "Richard Bach"
+  id: 1630,
+  quote: "Nothing will work unless you do.",
+  author: "Maya Angelou"
 }
 ```
 
