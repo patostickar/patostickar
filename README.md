@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1297,
-  quote: "Knowledge rests not upon truth alone, but upon error also.",
-  author: "Carl Jung"
+  id: 1343,
+  quote: "Allow the world to live as it chooses, and allow yourself to live as you choose.",
+  author: "Richard Bach"
 }
 ```
 
