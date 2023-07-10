@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 377,
-  quote: "If you change the way you look at things, the things you look at change.",
-  author: "Wayne Dyer"
+  id: 604,
+  quote: "You have to take it as it happens, but you should try to make it happen the way you want to take it.",
+  author: "Old German proverb"
 }
 ```
 
