@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1106,
-  quote: "You have to think anyway, so why not think big?",
-  author: "Donald Trump"
+  id: 80,
+  quote: "Anticipate the difficult by managing the easy.",
+  author: "Lao Tzu"
 }
 ```
 
