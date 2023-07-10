@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 550,
-  quote: "I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.",
-  author: "Albert Einstein"
+  id: 1503,
+  quote: "This is the final test of a gentleman: his respect for those who can be of no possible value to him.",
+  author: "William Lyon Phelps"
 }
 ```
 
