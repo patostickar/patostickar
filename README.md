@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1343,
-  quote: "Allow the world to live as it chooses, and allow yourself to live as you choose.",
-  author: "Richard Bach"
+  id: 377,
+  quote: "If you change the way you look at things, the things you look at change.",
+  author: "Wayne Dyer"
 }
 ```
 
