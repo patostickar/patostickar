@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1541,
-  quote: "We cannot hold a torch to light another's path without brightening our own.",
-  author: "Ben Sweetland"
+  id: 1106,
+  quote: "You have to think anyway, so why not think big?",
+  author: "Donald Trump"
 }
 ```
 
