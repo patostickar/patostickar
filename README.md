@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1600,
-  quote: "Example has more followers than reason.",
-  author: "Christian Bovee"
+  id: 490,
+  quote: "Everything that happens happens as it should, and if you observe carefully, you will find this to be so.",
+  author: "Marcus Aurelius"
 }
 ```
 
