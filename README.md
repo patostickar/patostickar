@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 604,
-  quote: "You have to take it as it happens, but you should try to make it happen the way you want to take it.",
-  author: "Old German proverb"
+  id: 1044,
+  quote: "Worry often gives a small thing a big shadow.",
+  author: "Swedish proverb"
 }
 ```
 
