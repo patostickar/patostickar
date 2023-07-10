@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1630,
-  quote: "Nothing will work unless you do.",
-  author: "Maya Angelou"
+  id: 1296,
+  quote: "Work for something because it is good, not just because it stands a chance to succeed.",
+  author: "Vaclav Havel"
 }
 ```
 
