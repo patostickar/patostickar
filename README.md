@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 136,
-  quote: "Growth itself contains the germ of happiness.",
-  author: "Pearl Buck"
+  id: 1600,
+  quote: "Example has more followers than reason.",
+  author: "Christian Bovee"
 }
 ```
 
