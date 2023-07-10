@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1296,
-  quote: "Work for something because it is good, not just because it stands a chance to succeed.",
-  author: "Vaclav Havel"
+  id: 817,
+  quote: "The amount of happiness that you have depends on the amount of freedom you have in your heart.",
+  author: "Thich Nhat Hanh"
 }
 ```
 
