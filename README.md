@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 80,
-  quote: "Anticipate the difficult by managing the easy.",
-  author: "Lao Tzu"
+  id: 550,
+  quote: "I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.",
+  author: "Albert Einstein"
 }
 ```
 
