@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1044,
-  quote: "Worry often gives a small thing a big shadow.",
-  author: "Swedish proverb"
+  id: 136,
+  quote: "Growth itself contains the germ of happiness.",
+  author: "Pearl Buck"
 }
 ```
 
