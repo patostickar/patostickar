@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 289,
-  quote: "If one does not know to which port is sailing, no wind is favorable.",
-  author: "Seneca"
+  id: 630,
+  quote: "This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.",
+  author: "Thomas Carlyle"
 }
 ```
 
