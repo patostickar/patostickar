@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1236,
-  quote: "Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.",
-  author: "Douglas Adams"
+  id: 503,
+  quote: "Life is not measured by the breaths we take, but by the moments that take our breath.",
+  author: "null"
 }
 ```
 
