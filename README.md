@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 399,
-  quote: "You are important enough to ask and you are blessed enough to receive back.",
-  author: "Wayne Dyer"
+  id: 960,
+  quote: "To dare is to lose ones footing momentarily. To not dare is to lose oneself.",
+  author: "Soren Kierkegaard"
 }
 ```
 
