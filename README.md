@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 240,
-  quote: "No is easier to do. Yes is easier to say.",
-  author: "Jason Fried"
+  id: 95,
+  quote: "Set your goals high, and don't stop till you get there.",
+  author: "Bo Jackson"
 }
 ```
 
