@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1625,
-  quote: "The truest greatness lies in being kind, the truest wisdom in a happy mind.",
-  author: "Ella Wilcox"
+  id: 545,
+  quote: "Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.",
+  author: "Napoleon Hill"
 }
 ```
 
