@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 601,
-  quote: "The world is round and the place which may seem like the end may also be the beginning.",
-  author: "Ivy Baker Priest"
+  id: 577,
+  quote: "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+  author: "Marcus Aurelius"
 }
 ```
 
