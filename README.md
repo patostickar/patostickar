@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 797,
-  quote: "Men are disturbed not by things, but by the view which they take of them.",
-  author: "Epictetus"
+  id: 601,
+  quote: "The world is round and the place which may seem like the end may also be the beginning.",
+  author: "Ivy Baker Priest"
 }
 ```
 
