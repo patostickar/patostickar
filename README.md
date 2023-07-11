@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 985,
-  quote: "The world does not happen to you it happens from you.",
-  author: "null"
+  id: 240,
+  quote: "No is easier to do. Yes is easier to say.",
+  author: "Jason Fried"
 }
 ```
 
