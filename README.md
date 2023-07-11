@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 528,
-  quote: "The real measure of your wealth is how much youd be worth if you lost all your money.",
-  author: "null"
+  id: 843,
+  quote: "Consider that not only do negative thoughts and emotions destroy our experience of peace, they also undermine our health.",
+  author: "Dalai Lama"
 }
 ```
 
