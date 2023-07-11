@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 536,
-  quote: "Everyone is a genius at least once a year. A real genius has his original ideas closer together.",
-  author: "Georg Lichtenberg"
+  id: 1540,
+  quote: "Those who dream by day are cognizant of many things which escape those who dream only by night.",
+  author: "Edgar Allan Poe"
 }
 ```
 
