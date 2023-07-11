@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1503,
-  quote: "This is the final test of a gentleman: his respect for those who can be of no possible value to him.",
-  author: "William Lyon Phelps"
+  id: 1437,
+  quote: "Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.",
+  author: "Nikola Tesla"
 }
 ```
 
