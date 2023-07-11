@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1050,
-  quote: "Whoso loves, believes the impossible.",
-  author: "Elizabeth Browning"
+  id: 399,
+  quote: "You are important enough to ask and you are blessed enough to receive back.",
+  author: "Wayne Dyer"
 }
 ```
 
