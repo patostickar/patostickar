@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 95,
-  quote: "Set your goals high, and don't stop till you get there.",
-  author: "Bo Jackson"
+  id: 528,
+  quote: "The real measure of your wealth is how much youd be worth if you lost all your money.",
+  author: "null"
 }
 ```
 
