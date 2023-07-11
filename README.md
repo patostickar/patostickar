@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1540,
-  quote: "Those who dream by day are cognizant of many things which escape those who dream only by night.",
-  author: "Edgar Allan Poe"
+  id: 1496,
+  quote: "There is not one big cosmic meaning for all, there is only the meaning we each give to our life.",
+  author: "Anais Nin"
 }
 ```
 
