@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 577,
-  quote: "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
-  author: "Marcus Aurelius"
+  id: 765,
+  quote: "You must welcome change as the rule but not as your ruler.",
+  author: "Denis Waitley"
 }
 ```
 
