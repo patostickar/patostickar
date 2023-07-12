@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 59,
-  quote: "You give before you get.",
-  author: "Napoleon Hill"
+  id: 1641,
+  quote: "I will prepare and some day my chance will come.",
+  author: "Abraham Lincoln"
 }
 ```
 
