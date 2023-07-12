@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 727,
-  quote: "All achievements, all earned riches, have their beginning in an idea.",
-  author: "Napoleon Hill"
+  id: 272,
+  quote: "To get something you never had, you have to do something you never did.",
+  author: "null"
 }
 ```
 
