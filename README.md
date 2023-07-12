@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 483,
-  quote: "Life is like a sewer. What you get out of it depends on what you put into it.",
-  author: "Tom Lehrer"
+  id: 1166,
+  quote: "Experience keeps a dear school, but fools will learn in no other.",
+  author: "Benjamin Franklin"
 }
 ```
 
