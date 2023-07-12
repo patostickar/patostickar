@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 552,
-  quote: "Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.",
-  author: "Paavo Nurmi"
+  id: 1471,
+  quote: "My reputation grows with every failure.",
+  author: "George Shaw"
 }
 ```
 
