@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 631,
-  quote: "Every great mistake has a halfway moment, a split second when it can be recalled and perhaps remedied.",
-  author: "Pearl Buck"
+  id: 1629,
+  quote: "Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.",
+  author: "Wayne Dyer"
 }
 ```
 
