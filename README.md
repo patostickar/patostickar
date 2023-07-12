@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 964,
-  quote: "Better than a thousand hollow words, is one word that brings peace.",
-  author: "Buddha"
+  id: 72,
+  quote: "The undertaking of a new action brings new strength.",
+  author: "Richard Evans"
 }
 ```
 
