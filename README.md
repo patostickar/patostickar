@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 843,
-  quote: "Consider that not only do negative thoughts and emotions destroy our experience of peace, they also undermine our health.",
-  author: "Dalai Lama"
+  id: 120,
+  quote: "Yesterday I dared to struggle. Today I dare to win.",
+  author: "Bernadette Devlin"
 }
 ```
 
