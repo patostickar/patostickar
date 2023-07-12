@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 77,
-  quote: "Faith in oneself is the best and safest course.",
-  author: "Michelangelo"
+  id: 552,
+  quote: "Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.",
+  author: "Paavo Nurmi"
 }
 ```
 
