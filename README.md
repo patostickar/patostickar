@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 272,
-  quote: "To get something you never had, you have to do something you never did.",
-  author: "null"
+  id: 483,
+  quote: "Life is like a sewer. What you get out of it depends on what you put into it.",
+  author: "Tom Lehrer"
 }
 ```
 
