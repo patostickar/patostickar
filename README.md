@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1166,
-  quote: "Experience keeps a dear school, but fools will learn in no other.",
-  author: "Benjamin Franklin"
+  id: 964,
+  quote: "Better than a thousand hollow words, is one word that brings peace.",
+  author: "Buddha"
 }
 ```
 
