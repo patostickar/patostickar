@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1465,
-  quote: "Be yourself; everyone else is already taken.",
-  author: "Oscar Wilde"
+  id: 59,
+  quote: "You give before you get.",
+  author: "Napoleon Hill"
 }
 ```
 
