@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1521,
-  quote: "If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.",
-  author: "Daisaku Ikeda"
+  id: 1078,
+  quote: "Good actions give strength to ourselves and inspire good actions in others.",
+  author: "Plato"
 }
 ```
 
