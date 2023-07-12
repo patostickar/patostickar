@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 137,
-  quote: "You can do what's reasonable or you can decide what's possible.",
-  author: "null"
+  id: 77,
+  quote: "Faith in oneself is the best and safest course.",
+  author: "Michelangelo"
 }
 ```
 
