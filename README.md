@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 959,
-  quote: "He who obtains has little. He who scatters has much.",
-  author: "Lao Tzu"
+  id: 1216,
+  quote: "The world turns aside to let any man pass who knows where he is going.",
+  author: "Epictetus"
 }
 ```
 
