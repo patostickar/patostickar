@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1561,
-  quote: "The winner ain't the one with the fastest car it's the one who refuses to lose.",
-  author: "Dale Earnhardt"
+  id: 1269,
+  quote: "We know from science that nothing in the universe exists as an isolated or independent entity.",
+  author: "Margaret Wheatley"
 }
 ```
 
