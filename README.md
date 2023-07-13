@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 522,
-  quote: "Silences make the real conversations between friends. Not the saying but the never needing to say is what counts.",
-  author: "Margaret Runbeck"
+  id: 959,
+  quote: "He who obtains has little. He who scatters has much.",
+  author: "Lao Tzu"
 }
 ```
 
