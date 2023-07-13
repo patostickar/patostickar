@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 547,
-  quote: "To be what we are, and to become what we are capable of becoming, is the only end of life.",
-  author: "Robert Stevenson"
+  id: 63,
+  quote: "What you fear is that which requires action to overcome.",
+  author: "Byron Pulsifer"
 }
 ```
 
