@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 28,
-  quote: "From error to error one discovers the entire truth.",
-  author: "Sigmund Freud"
+  id: 931,
+  quote: "A man sees in the world what he carries in his heart.",
+  author: "Goethe"
 }
 ```
 
