@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1521,
-  quote: "If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.",
-  author: "Daisaku Ikeda"
+  id: 671,
+  quote: "We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world.",
+  author: "Buddha"
 }
 ```
 
