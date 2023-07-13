@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 63,
-  quote: "What you fear is that which requires action to overcome.",
-  author: "Byron Pulsifer"
+  id: 1519,
+  quote: "If someone in your life talked to you the way you talk to yourself, you would have left them long ago.",
+  author: "Carla Gordon"
 }
 ```
 
