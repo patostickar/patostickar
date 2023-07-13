@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1519,
-  quote: "If someone in your life talked to you the way you talk to yourself, you would have left them long ago.",
-  author: "Carla Gordon"
+  id: 1066,
+  quote: "Who we are never changes. Who we think we are does.",
+  author: "Mary Almanac"
 }
 ```
 
