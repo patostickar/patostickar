@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 587,
-  quote: "Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.",
-  author: "Doug Larson"
+  id: 470,
+  quote: "The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.",
+  author: "Buddha"
 }
 ```
 
