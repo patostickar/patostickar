@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 719,
-  quote: "Meaning is not what you start with but what you end up with.",
-  author: "Peter Elbow"
+  id: 264,
+  quote: "Imagination is the highest kite one can fly.",
+  author: "Lauren Bacall"
 }
 ```
 
