@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 511,
-  quote: "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
-  author: "Aristotle"
+  id: 547,
+  quote: "To be what we are, and to become what we are capable of becoming, is the only end of life.",
+  author: "Robert Stevenson"
 }
 ```
 
