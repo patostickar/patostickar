@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 931,
-  quote: "A man sees in the world what he carries in his heart.",
-  author: "Goethe"
+  id: 511,
+  quote: "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+  author: "Aristotle"
 }
 ```
 
