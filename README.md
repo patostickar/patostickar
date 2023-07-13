@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1286,
-  quote: "It takes courage to grow up and become who you really are.",
-  author: "E. E. Cummings"
+  id: 620,
+  quote: "You can only grow if you're willing to feel awkward and uncomfortable when you try something new.",
+  author: "Brian Tracy"
 }
 ```
 
