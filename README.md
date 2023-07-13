@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 264,
-  quote: "Imagination is the highest kite one can fly.",
-  author: "Lauren Bacall"
+  id: 587,
+  quote: "Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.",
+  author: "Doug Larson"
 }
 ```
 
