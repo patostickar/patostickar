@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1078,
-  quote: "Good actions give strength to ourselves and inspire good actions in others.",
-  author: "Plato"
+  id: 719,
+  quote: "Meaning is not what you start with but what you end up with.",
+  author: "Peter Elbow"
 }
 ```
 
