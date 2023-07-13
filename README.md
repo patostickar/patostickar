@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1269,
-  quote: "We know from science that nothing in the universe exists as an isolated or independent entity.",
-  author: "Margaret Wheatley"
+  id: 1286,
+  quote: "It takes courage to grow up and become who you really are.",
+  author: "E. E. Cummings"
 }
 ```
 
