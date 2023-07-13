@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1216,
-  quote: "The world turns aside to let any man pass who knows where he is going.",
-  author: "Epictetus"
+  id: 1521,
+  quote: "If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.",
+  author: "Daisaku Ikeda"
 }
 ```
 
