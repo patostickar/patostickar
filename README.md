@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1066,
-  quote: "Who we are never changes. Who we think we are does.",
-  author: "Mary Almanac"
+  id: 1208,
+  quote: "As an organizer I start from where the world is, as it is, not as I would like it to be.",
+  author: "Saul Alinsky"
 }
 ```
 
