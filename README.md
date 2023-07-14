@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1585,
-  quote: "The true way to render ourselves happy is to love our work and find in it our pleasure.",
-  author: "Francoise de Motteville"
+  id: 1039,
+  quote: "The place to improve the world is first in one's own heart and head and hands.",
+  author: "Robert M. Pirsig"
 }
 ```
 
