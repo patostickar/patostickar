@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 952,
-  quote: "Small opportunities are often the beginning of great enterprises.",
-  author: "Demosthenes"
+  id: 794,
+  quote: "Don't look back. Something might be gaining on you.",
+  author: "Satchel Paige"
 }
 ```
 
