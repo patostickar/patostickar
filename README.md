@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 150,
-  quote: "Each day provides its own gifts.",
-  author: "Marcus Aurelius"
+  id: 1333,
+  quote: "A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.",
+  author: "Denis Waitley"
 }
 ```
 
