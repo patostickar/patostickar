@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 994,
-  quote: "Until you make peace with who you are, you'll never be content with what you have.",
-  author: "Doris Mortman"
+  id: 1482,
+  quote: "Listen to what you know instead of what you fear.",
+  author: "Richard Bach"
 }
 ```
 
