@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 794,
-  quote: "Don't look back. Something might be gaining on you.",
-  author: "Satchel Paige"
+  id: 227,
+  quote: "What you see depends on what you're looking for.",
+  author: "null"
 }
 ```
 
