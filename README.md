@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 565,
-  quote: "There are two kinds of failures: those who thought and never did, and those who did and never thought.",
-  author: "Laurence J. Peter"
+  id: 407,
+  quote: "The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.",
+  author: "Lao Tzu"
 }
 ```
 
