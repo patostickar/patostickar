@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 671,
-  quote: "We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world.",
-  author: "Buddha"
+  id: 320,
+  quote: "The secret to a rich life is to have more beginnings than endings.",
+  author: "Dave Weinbaum"
 }
 ```
 
