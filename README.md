@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 690,
-  quote: "A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.",
-  author: "Joseph Roux"
+  id: 545,
+  quote: "Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.",
+  author: "Napoleon Hill"
 }
 ```
 
