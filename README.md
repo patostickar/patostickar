@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 182,
-  quote: "No snowflake in an avalanche ever feels responsible.",
-  author: "Voltaire"
+  id: 1324,
+  quote: "Obstacles are those things you see when you take your eyes off the goal.",
+  author: "Hannah More"
 }
 ```
 
