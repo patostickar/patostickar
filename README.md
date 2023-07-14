@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 227,
-  quote: "What you see depends on what you're looking for.",
-  author: "null"
+  id: 668,
+  quote: "Change is the law of life. And those who look only to the past or present are certain to miss the future.",
+  author: "John Kennedy"
 }
 ```
 
