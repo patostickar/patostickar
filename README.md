@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1482,
-  quote: "Listen to what you know instead of what you fear.",
-  author: "Richard Bach"
+  id: 1527,
+  quote: "Blessed is the man who expects nothing, for he shall never be disappointed.",
+  author: "Alexander Pope"
 }
 ```
 
