@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 668,
-  quote: "Change is the law of life. And those who look only to the past or present are certain to miss the future.",
-  author: "John Kennedy"
+  id: 690,
+  quote: "A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.",
+  author: "Joseph Roux"
 }
 ```
 
