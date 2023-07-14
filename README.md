@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 320,
-  quote: "The secret to a rich life is to have more beginnings than endings.",
-  author: "Dave Weinbaum"
+  id: 565,
+  quote: "There are two kinds of failures: those who thought and never did, and those who did and never thought.",
+  author: "Laurence J. Peter"
 }
 ```
 
