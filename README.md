@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1333,
-  quote: "A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.",
-  author: "Denis Waitley"
+  id: 545,
+  quote: "Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.",
+  author: "Napoleon Hill"
 }
 ```
 
