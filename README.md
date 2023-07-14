@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1051,
-  quote: "It isn't where you come from, it's where you're going that counts.",
-  author: "Ella Fitzgerald"
+  id: 952,
+  quote: "Small opportunities are often the beginning of great enterprises.",
+  author: "Demosthenes"
 }
 ```
 
