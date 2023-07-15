@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 266,
-  quote: "Love doesn't make the world go round, love is what makes the ride worthwhile.",
-  author: "Elizabeth Browning"
+  id: 274,
+  quote: "Strength does not come from physical capacity. It comes from an indomitable will.",
+  author: "Mahatma Gandhi"
 }
 ```
 
