@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 535,
-  quote: "How wonderful that we have met with a paradox. Now we have some hope of making progress.",
-  author: "Niels Bohr"
+  id: 1362,
+  quote: "Remembering a wrong is like carrying a burden on the mind.",
+  author: "Buddha"
 }
 ```
 
