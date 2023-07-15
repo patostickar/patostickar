@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1239,
-  quote: "Respect should be earned by actions, and not acquired by years.",
-  author: "Frank Wright"
+  id: 879,
+  quote: "Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.",
+  author: "Albert Einstein"
 }
 ```
 
