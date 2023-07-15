@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1344,
-  quote: "Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.",
-  author: "Barack Obama"
+  id: 243,
+  quote: "Silence is deep as Eternity, Speech is shallow as Time.",
+  author: "Carlyle"
 }
 ```
 
