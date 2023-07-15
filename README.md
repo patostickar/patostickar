@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 879,
-  quote: "Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.",
-  author: "Albert Einstein"
+  id: 1505,
+  quote: "Continuous effort, not strength or intelligence is the key to unlocking our potential.",
+  author: "Winston Churchill"
 }
 ```
 
