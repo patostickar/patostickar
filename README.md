@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1426,
-  quote: "If you propose to speak, always ask yourself, is it true, is it necessary, is it kind.",
-  author: "Buddha"
+  id: 1588,
+  quote: "He who wishes to secure the good of others, has already secured his own.",
+  author: "Confucius"
 }
 ```
 
