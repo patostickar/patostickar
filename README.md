@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1362,
-  quote: "Remembering a wrong is like carrying a burden on the mind.",
-  author: "Buddha"
+  id: 1548,
+  quote: "When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.",
+  author: "Helen Keller"
 }
 ```
 
