@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 342,
-  quote: "Knowledge is a process of piling up facts; wisdom lies in their simplification.",
-  author: "Martin Fischer"
+  id: 1100,
+  quote: "Quality means doing it right when no one is looking.",
+  author: "Henry Ford"
 }
 ```
 
