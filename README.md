@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 243,
-  quote: "Silence is deep as Eternity, Speech is shallow as Time.",
-  author: "Carlyle"
+  id: 19,
+  quote: "Having nothing, nothing can he lose.",
+  author: "William Shakespeare"
 }
 ```
 
