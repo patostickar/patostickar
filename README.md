@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1517,
-  quote: "It is through science that we prove, but through intuition that we discover.",
-  author: "Jules Poincare"
+  id: 1426,
+  quote: "If you propose to speak, always ask yourself, is it true, is it necessary, is it kind.",
+  author: "Buddha"
 }
 ```
 
