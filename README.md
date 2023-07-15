@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 781,
-  quote: "Fear grows in darkness; if you think theres a bogeyman around, turn on the light.",
-  author: "Dorothy Thompson"
+  id: 408,
+  quote: "Don't leave a stone unturned. It's always something, to know you have done the most you could.",
+  author: "Charles Dickens"
 }
 ```
 
