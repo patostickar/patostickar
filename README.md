@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 472,
-  quote: "Patience is a virtue but you will never ever accomplish anything if you don't exercise action over patience.",
-  author: "Byron Pulsifer"
+  id: 266,
+  quote: "Love doesn't make the world go round, love is what makes the ride worthwhile.",
+  author: "Elizabeth Browning"
 }
 ```
 
