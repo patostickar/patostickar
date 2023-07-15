@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1588,
-  quote: "He who wishes to secure the good of others, has already secured his own.",
-  author: "Confucius"
+  id: 1239,
+  quote: "Respect should be earned by actions, and not acquired by years.",
+  author: "Frank Wright"
 }
 ```
 
