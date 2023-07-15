@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 330,
-  quote: "The most complicated achievements of thought are possible without the assistance of consciousness.",
-  author: "Sigmund Freud"
+  id: 1517,
+  quote: "It is through science that we prove, but through intuition that we discover.",
+  author: "Jules Poincare"
 }
 ```
 
