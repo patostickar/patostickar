@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 274,
-  quote: "Strength does not come from physical capacity. It comes from an indomitable will.",
-  author: "Mahatma Gandhi"
+  id: 330,
+  quote: "The most complicated achievements of thought are possible without the assistance of consciousness.",
+  author: "Sigmund Freud"
 }
 ```
 
