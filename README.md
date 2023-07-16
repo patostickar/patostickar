@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1364,
-  quote: "Gratitude is the fairest blossom which springs from the soul.",
-  author: "Henry Beecher"
+  id: 450,
+  quote: "Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.",
+  author: "Alan Cohen"
 }
 ```
 
