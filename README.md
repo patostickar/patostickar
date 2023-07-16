@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 450,
-  quote: "Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.",
-  author: "Alan Cohen"
+  id: 1154,
+  quote: "Do what you can. Want what you have. Be who you are.",
+  author: "Forrest Church"
 }
 ```
 
