@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 542,
-  quote: "Don't wait for your feelings to change to take the action. Take the action and your feelings will change.",
-  author: "Barbara Baron"
+  id: 1178,
+  quote: "I am not afraid of tomorrow, for I have seen yesterday and I love today.",
+  author: "William White"
 }
 ```
 
