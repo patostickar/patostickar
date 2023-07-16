@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 860,
-  quote: "Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.",
-  author: "William Channing"
+  id: 1517,
+  quote: "It is through science that we prove, but through intuition that we discover.",
+  author: "Jules Poincare"
 }
 ```
 
