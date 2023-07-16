@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1196,
-  quote: "The steeper the mountain the harder the climb the better the view from the finishing line",
-  author: "null"
+  id: 351,
+  quote: "Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.",
+  author: "John Adams"
 }
 ```
 
