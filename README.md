@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 148,
-  quote: "A good plan today is better than a perfect plan tomorrow.",
-  author: "null"
+  id: 214,
+  quote: "I allow my intuition to lead my path.",
+  author: "Manuel Puig"
 }
 ```
 
