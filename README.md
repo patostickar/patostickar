@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 581,
-  quote: "If you focus on results, you will never change. If you focus on change, you will get results.",
-  author: "Jack Dixon"
+  id: 311,
+  quote: "I don't believe in failure. It is not failure if you enjoyed the process.",
+  author: "Oprah Winfrey"
 }
 ```
 
