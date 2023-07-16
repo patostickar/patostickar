@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 311,
-  quote: "I don't believe in failure. It is not failure if you enjoyed the process.",
-  author: "Oprah Winfrey"
+  id: 1196,
+  quote: "The steeper the mountain the harder the climb the better the view from the finishing line",
+  author: "null"
 }
 ```
 
