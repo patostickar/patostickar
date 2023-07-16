@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 958,
-  quote: "I have always thought the actions of men the best interpreters of their thoughts.",
-  author: "John Locke"
+  id: 756,
+  quote: "Correction does much, but encouragement does more.",
+  author: "Johann Wolfgang von Goethe"
 }
 ```
 
