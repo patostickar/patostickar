@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1154,
-  quote: "Do what you can. Want what you have. Be who you are.",
-  author: "Forrest Church"
+  id: 860,
+  quote: "Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.",
+  author: "William Channing"
 }
 ```
 
