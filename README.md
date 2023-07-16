@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 114,
-  quote: "Truth is powerful and it prevails.",
-  author: "Sojourner Truth"
+  id: 958,
+  quote: "I have always thought the actions of men the best interpreters of their thoughts.",
+  author: "John Locke"
 }
 ```
 
