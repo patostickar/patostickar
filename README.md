@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 756,
-  quote: "Correction does much, but encouragement does more.",
-  author: "Johann Wolfgang von Goethe"
+  id: 393,
+  quote: "Some people think it's holding that makes one strong sometimes it's letting go.",
+  author: "null"
 }
 ```
 
