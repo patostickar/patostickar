@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1178,
-  quote: "I am not afraid of tomorrow, for I have seen yesterday and I love today.",
-  author: "William White"
+  id: 1476,
+  quote: "If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception, it is a prevailing attitude.",
+  author: "Colin Powell"
 }
 ```
 
