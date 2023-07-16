@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 214,
-  quote: "I allow my intuition to lead my path.",
-  author: "Manuel Puig"
+  id: 581,
+  quote: "If you focus on results, you will never change. If you focus on change, you will get results.",
+  author: "Jack Dixon"
 }
 ```
 
