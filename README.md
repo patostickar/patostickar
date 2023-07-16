@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 351,
-  quote: "Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.",
-  author: "John Adams"
+  id: 1364,
+  quote: "Gratitude is the fairest blossom which springs from the soul.",
+  author: "Henry Beecher"
 }
 ```
 
