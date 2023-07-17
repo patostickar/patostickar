@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 370,
-  quote: "Before you put on a frown, make absolutely sure there are no smiles available.",
-  author: "Jim Beggs"
+  id: 659,
+  quote: "If you are patient in one moment of anger, you will escape one hundred days of sorrow.",
+  author: "Chinese proverb"
 }
 ```
 
