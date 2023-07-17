@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1309,
-  quote: "The art of progress is to preserve order amid change, and to preserve change amid order.",
-  author: "Alfred Whitehead"
+  id: 1634,
+  quote: "Into each life rain must fall but rain can be the giver of life and it is all in your attitude that makes rain produce sunshine.",
+  author: "Byron Pulsifer"
 }
 ```
 
