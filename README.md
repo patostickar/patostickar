@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 316,
-  quote: "Through perseverance many people win success out of what seemed destined to be certain failure.",
-  author: "Benjamin Disraeli"
+  id: 370,
+  quote: "Before you put on a frown, make absolutely sure there are no smiles available.",
+  author: "Jim Beggs"
 }
 ```
 
