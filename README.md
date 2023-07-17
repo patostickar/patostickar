@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1479,
-  quote: "The possibilities are numerous once we decide to act and not react.",
-  author: "George Bernard Shaw"
+  id: 942,
+  quote: "When you come to the end of your rope, tie a knot and hang on.",
+  author: "Franklin Roosevelt"
 }
 ```
 
