@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1634,
-  quote: "Into each life rain must fall but rain can be the giver of life and it is all in your attitude that makes rain produce sunshine.",
-  author: "Byron Pulsifer"
+  id: 235,
+  quote: "Fears are nothing more than a state of mind.",
+  author: "Napoleon Hill"
 }
 ```
 
