@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1394,
-  quote: "He who knows, does not speak. He who speaks, does not know.",
-  author: "Lao Tzu"
+  id: 1094,
+  quote: "No man is free who is not master of himself.",
+  author: "Epictetus"
 }
 ```
 
