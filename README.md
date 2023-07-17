@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 493,
-  quote: "It is the greatest of all mistakes to do nothing because you can only do little do what you can.",
-  author: "Sydney Smith"
+  id: 49,
+  quote: "To succeed, we must first believe that we can.",
+  author: "Michael Korda"
 }
 ```
 
