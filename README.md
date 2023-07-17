@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1299,
-  quote: "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
-  author: "Victoria Holt"
+  id: 854,
+  quote: "It is surprising what a man can do when he has to, and how little most men will do when they don't have to.",
+  author: "Walter Linn"
 }
 ```
 
