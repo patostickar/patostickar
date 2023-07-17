@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 349,
-  quote: "The world makes way for the man who knows where he is going.",
-  author: "Ralph Emerson"
+  id: 1436,
+  quote: "Forgiveness does not change the past, but it does enlarge the future.",
+  author: "Paul Boese"
 }
 ```
 
