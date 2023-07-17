@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1194,
-  quote: "As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.",
-  author: "John F. Kennedy"
+  id: 349,
+  quote: "The world makes way for the man who knows where he is going.",
+  author: "Ralph Emerson"
 }
 ```
 
