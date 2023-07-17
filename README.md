@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 235,
-  quote: "Fears are nothing more than a state of mind.",
-  author: "Napoleon Hill"
+  id: 1479,
+  quote: "The possibilities are numerous once we decide to act and not react.",
+  author: "George Bernard Shaw"
 }
 ```
 
