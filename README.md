@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 49,
-  quote: "To succeed, we must first believe that we can.",
-  author: "Michael Korda"
+  id: 1184,
+  quote: "If you aren't going all the way, why go at all?",
+  author: "Joe Namath"
 }
 ```
 
