@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 88,
-  quote: "Argue for your limitations, and sure enough theyre yours.",
-  author: "Richard Bach"
+  id: 1194,
+  quote: "As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.",
+  author: "John F. Kennedy"
 }
 ```
 
