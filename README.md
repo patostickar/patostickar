@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 549,
-  quote: "Take things as they are. Punch when you have to punch. Kick when you have to kick.",
-  author: "Bruce Lee"
+  id: 797,
+  quote: "Men are disturbed not by things, but by the view which they take of them.",
+  author: "Epictetus"
 }
 ```
 
