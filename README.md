@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 358,
-  quote: "Invent your world. Surround yourself with people, color, sounds, and work that nourish you.",
-  author: "null"
+  id: 693,
+  quote: "To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.",
+  author: "Henri Bergson"
 }
 ```
 
