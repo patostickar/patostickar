@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1219,
-  quote: "Truth, and goodness, and beauty are but different faces of the same all.",
-  author: "Ralph Emerson"
+  id: 153,
+  quote: "To bring anything into your life, imagine that it's already there.",
+  author: "Richard Bach"
 }
 ```
 
