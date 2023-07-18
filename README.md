@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 797,
-  quote: "Men are disturbed not by things, but by the view which they take of them.",
-  author: "Epictetus"
+  id: 234,
+  quote: "Worry gives a small thing a big shadow.",
+  author: "null"
 }
 ```
 
