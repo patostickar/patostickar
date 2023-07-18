@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1131,
-  quote: "Imagination is the living power and prime agent of all human perception.",
-  author: "Samuel Taylor Coleridge"
+  id: 1104,
+  quote: "Open minds lead to open doors.",
+  author: "null"
 }
 ```
 
