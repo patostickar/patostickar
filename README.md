@@ -43,8 +43,8 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 323,
-  quote: "Reviewing what you have learned and learning anew, you are fit to be a teacher.",
+  id: 458,
+  quote: "Choose a job you love, and you will never have to work a day in your life.",
   author: "Confucius"
 }
 ```
