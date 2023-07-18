@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 26,
-  quote: "Study the past, if you would divine the future.",
-  author: "Confucius"
+  id: 116,
+  quote: "Silence is a fence around wisdom.",
+  author: "German proverb"
 }
 ```
 
