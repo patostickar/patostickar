@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1615,
-  quote: "Joy is what happens to us when we allow ourselves to recognize how good things really are.",
-  author: "Marianne Williamson"
+  id: 358,
+  quote: "Invent your world. Surround yourself with people, color, sounds, and work that nourish you.",
+  author: "null"
 }
 ```
 
