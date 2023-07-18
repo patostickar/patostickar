@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1104,
-  quote: "Open minds lead to open doors.",
-  author: "null"
+  id: 1219,
+  quote: "Truth, and goodness, and beauty are but different faces of the same all.",
+  author: "Ralph Emerson"
 }
 ```
 
