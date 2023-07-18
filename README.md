@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 458,
-  quote: "Choose a job you love, and you will never have to work a day in your life.",
-  author: "Confucius"
+  id: 1615,
+  quote: "Joy is what happens to us when we allow ourselves to recognize how good things really are.",
+  author: "Marianne Williamson"
 }
 ```
 
