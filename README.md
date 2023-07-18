@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 234,
-  quote: "Worry gives a small thing a big shadow.",
-  author: "null"
+  id: 857,
+  quote: "Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.",
+  author: "Albert Schweitzer"
 }
 ```
 
