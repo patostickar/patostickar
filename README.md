@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 345,
-  quote: "Opportunity is missed by most because it is dressed in overalls and looks like work.",
-  author: "Thomas Edison"
+  id: 976,
+  quote: "When you learn, teach. When you get, give.",
+  author: "Maya Angelou"
 }
 ```
 
