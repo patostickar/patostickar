@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 139,
-  quote: "Wherever you go, go with all your heart.",
-  author: "Confucius"
+  id: 190,
+  quote: "Kind words will unlock an iron door.",
+  author: "Turkish proverb"
 }
 ```
 
