@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 770,
-  quote: "People seldom notice old clothes if you wear a big smile.",
-  author: "Lee Mildon"
+  id: 446,
+  quote: "It is better to take many small steps in the right direction than to make a great leap forward only to stumble backward.",
+  author: "null"
 }
 ```
 
