@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 473,
-  quote: "Any of us can achieve virtue, if by virtue we merely mean the avoidance of the vices that do not attract us.",
-  author: "Robert Lynd"
+  id: 348,
+  quote: "If you correct your mind, the rest of your life will fall into place.",
+  author: "Lao Tzu"
 }
 ```
 
