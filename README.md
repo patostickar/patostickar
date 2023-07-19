@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 190,
-  quote: "Kind words will unlock an iron door.",
-  author: "Turkish proverb"
+  id: 154,
+  quote: "Begin to weave and God will give you the thread.",
+  author: "German proverb"
 }
 ```
 
