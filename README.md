@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1166,
-  quote: "Experience keeps a dear school, but fools will learn in no other.",
-  author: "Benjamin Franklin"
+  id: 654,
+  quote: "If it is not right do not do it; if it is not true do not say it.",
+  author: "Marcus Aurelius"
 }
 ```
 
