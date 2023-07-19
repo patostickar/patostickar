@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1304,
-  quote: "Our passion is our strength.",
-  author: "Billie Armstrong"
+  id: 750,
+  quote: "The day you decide to do it is your lucky day.",
+  author: "Japanese proverb"
 }
 ```
 
