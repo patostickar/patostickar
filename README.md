@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 154,
-  quote: "Begin to weave and God will give you the thread.",
-  author: "German proverb"
+  id: 556,
+  quote: "He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.",
+  author: "Tryon Edwards"
 }
 ```
 
