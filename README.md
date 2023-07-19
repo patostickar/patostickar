@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 477,
-  quote: "Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.",
-  author: "Robert Fulghum"
+  id: 345,
+  quote: "Opportunity is missed by most because it is dressed in overalls and looks like work.",
+  author: "Thomas Edison"
 }
 ```
 
