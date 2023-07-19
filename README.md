@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 302,
-  quote: "The doors we open and close each day decide the lives we live.",
-  author: "Flora Whittemore"
+  id: 1444,
+  quote: "Sincerity is the way of Heaven. The attainment of sincerity is the way of men.",
+  author: "Confucius"
 }
 ```
 
