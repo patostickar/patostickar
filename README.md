@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 750,
-  quote: "The day you decide to do it is your lucky day.",
-  author: "Japanese proverb"
+  id: 139,
+  quote: "Wherever you go, go with all your heart.",
+  author: "Confucius"
 }
 ```
 
