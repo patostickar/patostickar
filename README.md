@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 485,
-  quote: "Learn all you can from the mistakes of others. You won't have time to make them all yourself.",
-  author: "Alfred Sheinwold"
+  id: 1450,
+  quote: "If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.",
+  author: "Jim Rohn"
 }
 ```
 
