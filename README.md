@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 683,
-  quote: "All difficult things have their origin in that which is easy, and great things in that which is small.",
-  author: "Lao Tzu"
+  id: 473,
+  quote: "Any of us can achieve virtue, if by virtue we merely mean the avoidance of the vices that do not attract us.",
+  author: "Robert Lynd"
 }
 ```
 
