@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 976,
-  quote: "When you learn, teach. When you get, give.",
-  author: "Maya Angelou"
+  id: 485,
+  quote: "Learn all you can from the mistakes of others. You won't have time to make them all yourself.",
+  author: "Alfred Sheinwold"
 }
 ```
 
