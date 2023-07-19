@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1636,
-  quote: "Nothing is a waste of time if you use the experience wisely.",
-  author: "Rodin"
+  id: 477,
+  quote: "Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.",
+  author: "Robert Fulghum"
 }
 ```
 
