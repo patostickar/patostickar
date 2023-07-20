@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 501,
-  quote: "A good teacher is like a candle it consumes itself to light the way for others.",
-  author: "null"
+  id: 1249,
+  quote: "The things that one most wants to do are the things that are probably most worth doing.",
+  author: "Winifred Holtby"
 }
 ```
 
