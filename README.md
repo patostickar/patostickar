@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 313,
-  quote: "Short words are best and the old words when short are best of all.",
-  author: "Winston Churchill"
+  id: 1374,
+  quote: "Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.",
+  author: "Theodore Rubin"
 }
 ```
 
