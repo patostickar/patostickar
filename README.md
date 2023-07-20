@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1374,
-  quote: "Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.",
-  author: "Theodore Rubin"
+  id: 342,
+  quote: "Knowledge is a process of piling up facts; wisdom lies in their simplification.",
+  author: "Martin Fischer"
 }
 ```
 
