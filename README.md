@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 152,
-  quote: "Life isn't about finding yourself. Life is about creating yourself.",
-  author: "Bernard Shaw"
+  id: 14,
+  quote: "You'll see it when you believe it.",
+  author: "Wayne Dyer"
 }
 ```
 
