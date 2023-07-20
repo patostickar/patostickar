@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1315,
-  quote: "Thought is the blossom; language the bud; action the fruit behind it.",
-  author: "Ralph Emerson"
+  id: 457,
+  quote: "All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.",
+  author: "Kathleen Norris"
 }
 ```
 
