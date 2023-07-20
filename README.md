@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1470,
-  quote: "The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.",
-  author: "Cecil B. DeMille"
+  id: 1553,
+  quote: "If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?",
+  author: "Rabbi Hillel"
 }
 ```
 
