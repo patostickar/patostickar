@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 612,
-  quote: "By living deeply in the present moment we can understand the past better and we can prepare for a better future.",
-  author: "Thich Nhat Hanh"
+  id: 1315,
+  quote: "Thought is the blossom; language the bud; action the fruit behind it.",
+  author: "Ralph Emerson"
 }
 ```
 
