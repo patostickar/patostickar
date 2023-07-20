@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 556,
-  quote: "He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.",
-  author: "Tryon Edwards"
+  id: 525,
+  quote: "Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.",
+  author: "Ovid"
 }
 ```
 
