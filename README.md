@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 5,
-  quote: "Be the chief but never the lord.",
-  author: "Lao Tzu"
+  id: 1135,
+  quote: "A thing well said will be wit in all languages.",
+  author: "John Dryden"
 }
 ```
 
