@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 14,
-  quote: "You'll see it when you believe it.",
-  author: "Wayne Dyer"
+  id: 294,
+  quote: "Nothing in life is to be feared. It is only to be understood.",
+  author: "Marie Curie"
 }
 ```
 
