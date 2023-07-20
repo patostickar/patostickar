@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 294,
-  quote: "Nothing in life is to be feared. It is only to be understood.",
-  author: "Marie Curie"
+  id: 1428,
+  quote: "Failure will never overtake me if my determination to succeed is strong enough.",
+  author: "Og Mandino"
 }
 ```
 
