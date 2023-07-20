@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 525,
-  quote: "Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.",
-  author: "Ovid"
+  id: 1470,
+  quote: "The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.",
+  author: "Cecil B. DeMille"
 }
 ```
 
