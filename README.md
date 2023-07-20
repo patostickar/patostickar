@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1553,
-  quote: "If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?",
-  author: "Rabbi Hillel"
+  id: 351,
+  quote: "Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.",
+  author: "John Adams"
 }
 ```
 
