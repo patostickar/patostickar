@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1237,
-  quote: "Make the most of yourself, for that is all there is of you.",
-  author: "Ralph Emerson"
+  id: 5,
+  quote: "Be the chief but never the lord.",
+  author: "Lao Tzu"
 }
 ```
 
