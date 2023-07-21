@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 122,
-  quote: "If you can dream it, you can do it.",
-  author: "Walt Disney"
+  id: 870,
+  quote: "If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace.",
+  author: "Ajahn Chah"
 }
 ```
 
