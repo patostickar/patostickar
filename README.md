@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 472,
-  quote: "Patience is a virtue but you will never ever accomplish anything if you don't exercise action over patience.",
-  author: "Byron Pulsifer"
+  id: 122,
+  quote: "If you can dream it, you can do it.",
+  author: "Walt Disney"
 }
 ```
 
