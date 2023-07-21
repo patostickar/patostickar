@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1545,
-  quote: "Dreams come true. Without that possibility, nature would not incite us to have them.",
-  author: "John Updike"
+  id: 283,
+  quote: "Begin at once to live and count each separate day as a separate life.",
+  author: "Seneca"
 }
 ```
 
