@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1140,
-  quote: "It is not only for what we do that we are held responsible, but also for what we do not do.",
-  author: "Moliere"
+  id: 1066,
+  quote: "Who we are never changes. Who we think we are does.",
+  author: "Mary Almanac"
 }
 ```
 
