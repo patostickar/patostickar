@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1073,
-  quote: "It's important to know that words don't move mountains. Work, exacting work moves mountains.",
-  author: "Danilo Dolci"
+  id: 472,
+  quote: "Patience is a virtue but you will never ever accomplish anything if you don't exercise action over patience.",
+  author: "Byron Pulsifer"
 }
 ```
 
