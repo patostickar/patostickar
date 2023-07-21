@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1379,
-  quote: "Those who cannot learn from history are doomed to repeat it.",
-  author: "George Santayan"
+  id: 649,
+  quote: "Remember always that you not only have the right to be an individual, you have an obligation to be one.",
+  author: "Eleanor Roosevelt"
 }
 ```
 
