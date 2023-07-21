@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 830,
-  quote: "One who asks a question is a fool for five minutes; one who does not ask a question remains a fool forever.",
-  author: "null"
+  id: 1545,
+  quote: "Dreams come true. Without that possibility, nature would not incite us to have them.",
+  author: "John Updike"
 }
 ```
 
