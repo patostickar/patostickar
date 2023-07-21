@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1469,
-  quote: "Love is the master key that opens the gates of happiness.",
-  author: "Oliver Holmes"
+  id: 1088,
+  quote: "No person is your friend who demands your silence, or denies your right to grow.",
+  author: "Alice Walker"
 }
 ```
 
