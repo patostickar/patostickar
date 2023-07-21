@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 329,
-  quote: "It has never been my object to record my dreams, just to realize them.",
-  author: "Man Ray"
+  id: 1363,
+  quote: "The foolish man seeks happiness in the distance; the wise grows it under his feet.",
+  author: "James Openheim"
 }
 ```
 
