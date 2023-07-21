@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 770,
-  quote: "People seldom notice old clothes if you wear a big smile.",
-  author: "Lee Mildon"
+  id: 282,
+  quote: "I never see what has been done; I only see what remains to be done.",
+  author: "Marie Curie"
 }
 ```
 
