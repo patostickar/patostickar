@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 708,
-  quote: "Creativity comes from trust. Trust your instincts. And never hope more than you work.",
-  author: "Rita Mae Brown"
+  id: 1469,
+  quote: "Love is the master key that opens the gates of happiness.",
+  author: "Oliver Holmes"
 }
 ```
 
