@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 798,
-  quote: "Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.",
-  author: "Blaise Pascal"
+  id: 1073,
+  quote: "It's important to know that words don't move mountains. Work, exacting work moves mountains.",
+  author: "Danilo Dolci"
 }
 ```
 
