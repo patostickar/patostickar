@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 722,
-  quote: "All is flux; nothing stays still.",
-  author: "Heraclitus"
+  id: 1506,
+  quote: "Obstacles are those frightful things you see when you take your eyes off your goal.",
+  author: "Henry Ford"
 }
 ```
 
