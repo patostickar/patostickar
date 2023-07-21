@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1066,
-  quote: "Who we are never changes. Who we think we are does.",
-  author: "Mary Almanac"
+  id: 798,
+  quote: "Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.",
+  author: "Blaise Pascal"
 }
 ```
 
