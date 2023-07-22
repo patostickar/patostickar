@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 70,
-  quote: "I believe that every person is born with talent.",
-  author: "Maya Angelou"
+  id: 388,
+  quote: "Shoot for the moon. Even if you miss, you'll land among the stars.",
+  author: "Les Brown"
 }
 ```
 
