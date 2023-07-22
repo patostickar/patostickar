@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1478,
-  quote: "Better than a thousand hollow words is one word that brings peace.",
-  author: "Buddha"
+  id: 1472,
+  quote: "Good thoughts are no better than good dreams, unless they be executed.",
+  author: "Ralph Emerson"
 }
 ```
 
