@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 372,
-  quote: "You, yourself, as much as anybody in the entire universe, deserve your love and affection.",
-  author: "Buddha"
+  id: 588,
+  quote: "The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.",
+  author: "Charles Lamb"
 }
 ```
 
