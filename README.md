@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 500,
-  quote: "Experience is not what happens to a man. It is what a man does with what happens to him.",
-  author: "Aldous Huxley"
+  id: 434,
+  quote: "A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.",
+  author: "Isaac Asimov"
 }
 ```
 
