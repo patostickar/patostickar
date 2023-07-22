@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 922,
-  quote: "If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.",
-  author: "Albert Einstein"
+  id: 855,
+  quote: "To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.",
+  author: "Tenzin Gyatso"
 }
 ```
 
