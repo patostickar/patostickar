@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 234,
-  quote: "Worry gives a small thing a big shadow.",
-  author: "null"
+  id: 878,
+  quote: "I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can.",
+  author: "Bernard Shaw"
 }
 ```
 
