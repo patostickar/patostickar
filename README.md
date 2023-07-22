@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1353,
-  quote: "The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.",
-  author: "Helen Keller"
+  id: 372,
+  quote: "You, yourself, as much as anybody in the entire universe, deserve your love and affection.",
+  author: "Buddha"
 }
 ```
 
