@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1472,
-  quote: "Good thoughts are no better than good dreams, unless they be executed.",
-  author: "Ralph Emerson"
+  id: 1306,
+  quote: "Spring is a time for rebirth and the fulfilment of new life.",
+  author: "Byron Pulsifer"
 }
 ```
 
