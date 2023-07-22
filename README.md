@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 93,
-  quote: "A goal is a dream with a deadline.",
-  author: "Napoleon Hill"
+  id: 922,
+  quote: "If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.",
+  author: "Albert Einstein"
 }
 ```
 
