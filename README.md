@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1484,
-  quote: "If you're in a bad situation, don't worry it'll change. If you're in a good situation, don't worry it'll change.",
-  author: "John Simone"
+  id: 1616,
+  quote: "Your vision will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
+  author: "Carl Jung"
 }
 ```
 
