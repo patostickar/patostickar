@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1616,
-  quote: "Your vision will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
-  author: "Carl Jung"
+  id: 70,
+  quote: "I believe that every person is born with talent.",
+  author: "Maya Angelou"
 }
 ```
 
