@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 80,
-  quote: "Anticipate the difficult by managing the easy.",
-  author: "Lao Tzu"
+  id: 973,
+  quote: "Hope arouses, as nothing else can arouse, a passion for the possible.",
+  author: "William Sloane Coffin"
 }
 ```
 
