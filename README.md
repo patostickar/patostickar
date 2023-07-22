@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 388,
-  quote: "Shoot for the moon. Even if you miss, you'll land among the stars.",
-  author: "Les Brown"
+  id: 686,
+  quote: "Responsibility is not inherited, it is a choice that everyone needs to make at some point in their life.",
+  author: "Byron Pulsifer"
 }
 ```
 
