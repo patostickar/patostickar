@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 855,
-  quote: "To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.",
-  author: "Tenzin Gyatso"
+  id: 1254,
+  quote: "Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others.",
+  author: "Harriet Lerner"
 }
 ```
 
