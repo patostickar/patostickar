@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1341,
-  quote: "Anybody can make history. Only a great man can write it.",
-  author: "Oscar Wilde"
+  id: 1484,
+  quote: "If you're in a bad situation, don't worry it'll change. If you're in a good situation, don't worry it'll change.",
+  author: "John Simone"
 }
 ```
 
