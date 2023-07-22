@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 588,
-  quote: "The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.",
-  author: "Charles Lamb"
+  id: 500,
+  quote: "Experience is not what happens to a man. It is what a man does with what happens to him.",
+  author: "Aldous Huxley"
 }
 ```
 
