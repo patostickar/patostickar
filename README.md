@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 660,
-  quote: "When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.",
-  author: "Abraham Lincoln"
+  id: 636,
+  quote: "You get peace of mind not by thinking about it or imagining it, but by quietening and relaxing the restless mind.",
+  author: "Remez Sasson"
 }
 ```
 
