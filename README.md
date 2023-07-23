@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 991,
-  quote: "Joy is the best makeup.",
-  author: "Anne Lamott"
+  id: 187,
+  quote: "I destroy my enemies when I make them my friends.",
+  author: "Abraham Lincoln"
 }
 ```
 
