@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 778,
-  quote: "They must often change, who would be constant in happiness or wisdom.",
-  author: "Confucius"
+  id: 991,
+  quote: "Joy is the best makeup.",
+  author: "Anne Lamott"
 }
 ```
 
