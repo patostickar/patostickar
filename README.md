@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 724,
-  quote: "He who lives in harmony with himself lives in harmony with the universe.",
-  author: "Marcus Aurelius"
+  id: 1235,
+  quote: "The happiness that is genuinely satisfying is accompanied by the fullest exercise of our faculties and the fullest realization of the world in which we live.",
+  author: "Bertrand Russell"
 }
 ```
 
