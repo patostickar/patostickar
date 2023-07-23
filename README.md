@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 79,
-  quote: "The two most powerful warriors are patience and time.",
-  author: "Leo Tolstoy"
+  id: 778,
+  quote: "They must often change, who would be constant in happiness or wisdom.",
+  author: "Confucius"
 }
 ```
 
