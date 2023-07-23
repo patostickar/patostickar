@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 443,
-  quote: "Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.",
-  author: "M. Scott Peck"
+  id: 403,
+  quote: "The only difference between your abilities and others is the ability to put yourself in their shoes and actually try.",
+  author: "Leonardo Ruiz"
 }
 ```
 
