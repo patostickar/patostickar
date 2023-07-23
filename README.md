@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1235,
-  quote: "The happiness that is genuinely satisfying is accompanied by the fullest exercise of our faculties and the fullest realization of the world in which we live.",
-  author: "Bertrand Russell"
+  id: 172,
+  quote: "The day always looks brighter from behind a smile.",
+  author: "null"
 }
 ```
 
