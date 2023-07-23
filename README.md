@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 636,
-  quote: "You get peace of mind not by thinking about it or imagining it, but by quietening and relaxing the restless mind.",
-  author: "Remez Sasson"
+  id: 1131,
+  quote: "Imagination is the living power and prime agent of all human perception.",
+  author: "Samuel Taylor Coleridge"
 }
 ```
 
