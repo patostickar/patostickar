@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 403,
-  quote: "The only difference between your abilities and others is the ability to put yourself in their shoes and actually try.",
-  author: "Leonardo Ruiz"
+  id: 1636,
+  quote: "Nothing is a waste of time if you use the experience wisely.",
+  author: "Rodin"
 }
 ```
 
