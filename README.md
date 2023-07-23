@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1082,
-  quote: "When in doubt, tell the truth.",
-  author: "Mark Twain"
+  id: 957,
+  quote: "Freedom is not worth having if it does not connote freedom to err.",
+  author: "Mohandas Gandhi"
 }
 ```
 
