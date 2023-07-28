@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1,
-  quote: "You can observe a lot just by watching.",
-  author: "Yogi Berra, type.fit"
+  id: 9,
+  quote: "Self-complacency is fatal to progress.",
+  author: "Margaret Sangster, type.fit"
 }
 ```
 
