@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 9,
-  quote: "Self-complacency is fatal to progress.",
-  author: "Margaret Sangster, type.fit"
+  id: 6,
+  quote: "Nothing happens unless first we dream.",
+  author: "Carl Sandburg, type.fit"
 }
 ```
 
