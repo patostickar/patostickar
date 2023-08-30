@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 13,
-  quote: "Life is change. Growth is optional. Choose wisely.",
-  author: "Karen Clark, type.fit"
+  id: 11,
+  quote: "What you give is what you get.",
+  author: "Byron Pulsifer, type.fit"
 }
 ```
 
