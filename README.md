@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 0,
-  quote: "Genius is one percent inspiration and ninety-nine percent perspiration.",
-  author: "Thomas Edison, type.fit"
+  id: 6,
+  quote: "Nothing happens unless first we dream.",
+  author: "Carl Sandburg, type.fit"
 }
 ```
 
