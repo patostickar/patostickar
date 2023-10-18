@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 4,
-  quote: "Fate is in your hands and no one elses",
-  author: "Byron Pulsifer, type.fit"
+  id: 5,
+  quote: "Be the chief but never the lord.",
+  author: "Lao Tzu, type.fit"
 }
 ```
 
