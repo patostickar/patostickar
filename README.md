@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 5,
-  quote: "Be the chief but never the lord.",
-  author: "Lao Tzu, type.fit"
+  id: 7,
+  quote: "Well begun is half done.",
+  author: "Aristotle, type.fit"
 }
 ```
 
