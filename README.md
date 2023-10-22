@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 7,
-  quote: "Well begun is half done.",
-  author: "Aristotle, type.fit"
+  id: 14,
+  quote: "You'll see it when you believe it.",
+  author: "Wayne Dyer, type.fit"
 }
 ```
 
