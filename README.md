@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 6,
-  quote: "Nothing happens unless first we dream.",
-  author: "Carl Sandburg, type.fit"
+  id: 5,
+  quote: "Be the chief but never the lord.",
+  author: "Lao Tzu, type.fit"
 }
 ```
 
