@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 5,
-  quote: "Be the chief but never the lord.",
-  author: "Lao Tzu, type.fit"
+  id: 2,
+  quote: "A house divided against itself cannot stand.",
+  author: "Abraham Lincoln, type.fit"
 }
 ```
 
