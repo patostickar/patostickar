@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 11,
-  quote: "What you give is what you get.",
-  author: "Byron Pulsifer, type.fit"
+  id: 12,
+  quote: "We can only learn to love by loving.",
+  author: "Iris Murdoch, type.fit"
 }
 ```
 
