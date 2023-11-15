@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 6,
-  quote: "Nothing happens unless first we dream.",
-  author: "Carl Sandburg, type.fit"
+  id: 12,
+  quote: "We can only learn to love by loving.",
+  author: "Iris Murdoch, type.fit"
 }
 ```
 
