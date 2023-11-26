@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 12,
-  quote: "We can only learn to love by loving.",
-  author: "Iris Murdoch, type.fit"
+  id: 10,
+  quote: "Peace comes from within. Do not seek it without.",
+  author: "Buddha, type.fit"
 }
 ```
 
