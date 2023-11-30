@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 2,
-  quote: "A house divided against itself cannot stand.",
-  author: "Abraham Lincoln, type.fit"
+  id: 13,
+  quote: "Life is change. Growth is optional. Choose wisely.",
+  author: "Karen Clark, type.fit"
 }
 ```
 
