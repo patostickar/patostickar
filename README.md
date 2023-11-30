@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 13,
-  quote: "Life is change. Growth is optional. Choose wisely.",
-  author: "Karen Clark, type.fit"
+  id: 0,
+  quote: "Genius is one percent inspiration and ninety-nine percent perspiration.",
+  author: "Thomas Edison, type.fit"
 }
 ```
 
