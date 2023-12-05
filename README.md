@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 8,
-  quote: "Life is a learning experience, only if you learn.",
-  author: "Yogi Berra"
+  id: 9,
+  quote: "Self-complacency is fatal to progress.",
+  author: "Margaret Sangster, type.fit"
 }
 ```
 
