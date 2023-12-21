@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 6,
-  quote: "Nothing happens unless first we dream.",
-  author: "Carl Sandburg, type.fit"
+  id: 2,
+  quote: "A house divided against itself cannot stand.",
+  author: "Abraham Lincoln, type.fit"
 }
 ```
 
