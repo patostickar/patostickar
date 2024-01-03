@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 4,
-  quote: "Fate is in your hands and no one elses",
-  author: "Byron Pulsifer, type.fit"
+  id: 1,
+  quote: "You can observe a lot just by watching.",
+  author: "Yogi Berra, type.fit"
 }
 ```
 
