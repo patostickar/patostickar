@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 8,
-  quote: "Life is a learning experience, only if you learn.",
-  author: "Yogi Berra"
+  id: 10,
+  quote: "Peace comes from within. Do not seek it without.",
+  author: "Buddha, type.fit"
 }
 ```
 
