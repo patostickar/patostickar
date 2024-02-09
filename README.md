@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 15,
-  quote: "Today is the tomorrow we worried about yesterday.",
-  author: "type.fit"
+  id: 6,
+  quote: "Nothing happens unless first we dream.",
+  author: "Carl Sandburg, type.fit"
 }
 ```
 
