@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 9,
-  quote: "Self-complacency is fatal to progress.",
-  author: "Margaret Sangster, type.fit"
+  id: 13,
+  quote: "Life is change. Growth is optional. Choose wisely.",
+  author: "Karen Clark, type.fit"
 }
 ```
 
