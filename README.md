@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 13,
-  quote: "Life is change. Growth is optional. Choose wisely.",
-  author: "Karen Clark, type.fit"
+  id: 1,
+  quote: "You can observe a lot just by watching.",
+  author: "Yogi Berra, type.fit"
 }
 ```
 
