@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 10,
-  quote: "Peace comes from within. Do not seek it without.",
-  author: "Buddha, type.fit"
+  id: 5,
+  quote: "Be the chief but never the lord.",
+  author: "Lao Tzu, type.fit"
 }
 ```
 
