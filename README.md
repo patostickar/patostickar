@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 13,
-  quote: "Life is change. Growth is optional. Choose wisely.",
-  author: "Karen Clark, type.fit"
+  id: 10,
+  quote: "Peace comes from within. Do not seek it without.",
+  author: "Buddha, type.fit"
 }
 ```
 
