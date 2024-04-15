@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 7,
-  quote: "Well begun is half done.",
-  author: "Aristotle, type.fit"
+  id: 4,
+  quote: "Fate is in your hands and no one elses",
+  author: "Byron Pulsifer, type.fit"
 }
 ```
 
