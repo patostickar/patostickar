@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 14,
-  quote: "You'll see it when you believe it.",
-  author: "Wayne Dyer, type.fit"
+  id: 10,
+  quote: "Peace comes from within. Do not seek it without.",
+  author: "Buddha, type.fit"
 }
 ```
 
