@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 1,
-  quote: "You can observe a lot just by watching.",
-  author: "Yogi Berra, type.fit"
+  id: 3,
+  quote: "Difficulties increase the nearer we get to the goal.",
+  author: "Johann Wolfgang von Goethe, type.fit"
 }
 ```
 
