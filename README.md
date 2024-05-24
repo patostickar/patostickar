@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 3,
-  quote: "Difficulties increase the nearer we get to the goal.",
-  author: "Johann Wolfgang von Goethe, type.fit"
+  id: 13,
+  quote: "Life is change. Growth is optional. Choose wisely.",
+  author: "Karen Clark, type.fit"
 }
 ```
 
