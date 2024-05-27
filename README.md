@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 5,
-  quote: "Be the chief but never the lord.",
-  author: "Lao Tzu, type.fit"
+  id: 11,
+  quote: "What you give is what you get.",
+  author: "Byron Pulsifer, type.fit"
 }
 ```
 
