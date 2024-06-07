@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 11,
-  quote: "What you give is what you get.",
-  author: "Byron Pulsifer, type.fit"
+  id: 7,
+  quote: "Well begun is half done.",
+  author: "Aristotle, type.fit"
 }
 ```
 
