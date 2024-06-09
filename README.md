@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 10,
-  quote: "Peace comes from within. Do not seek it without.",
-  author: "Buddha, type.fit"
+  id: 0,
+  quote: "Genius is one percent inspiration and ninety-nine percent perspiration.",
+  author: "Thomas Edison, type.fit"
 }
 ```
 
