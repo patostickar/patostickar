@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 2,
-  quote: "A house divided against itself cannot stand.",
-  author: "Abraham Lincoln, type.fit"
+  id: 14,
+  quote: "You'll see it when you believe it.",
+  author: "Wayne Dyer, type.fit"
 }
 ```
 
