@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 14,
-  quote: "You'll see it when you believe it.",
-  author: "Wayne Dyer, type.fit"
+  id: 1,
+  quote: "You can observe a lot just by watching.",
+  author: "Yogi Berra, type.fit"
 }
 ```
 
