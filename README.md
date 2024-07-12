@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 12,
-  quote: "We can only learn to love by loving.",
-  author: "Iris Murdoch, type.fit"
+  id: 14,
+  quote: "You'll see it when you believe it.",
+  author: "Wayne Dyer, type.fit"
 }
 ```
 
