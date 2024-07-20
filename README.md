@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 5,
-  quote: "Be the chief but never the lord.",
-  author: "Lao Tzu, type.fit"
+  id: 0,
+  quote: "Genius is one percent inspiration and ninety-nine percent perspiration.",
+  author: "Thomas Edison, type.fit"
 }
 ```
 
