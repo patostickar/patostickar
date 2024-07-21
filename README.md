@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 0,
-  quote: "Genius is one percent inspiration and ninety-nine percent perspiration.",
-  author: "Thomas Edison, type.fit"
+  id: 1,
+  quote: "You can observe a lot just by watching.",
+  author: "Yogi Berra, type.fit"
 }
 ```
 
