@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 3,
-  quote: "Difficulties increase the nearer we get to the goal.",
-  author: "Johann Wolfgang von Goethe, type.fit"
+  id: 12,
+  quote: "We can only learn to love by loving.",
+  author: "Iris Murdoch, type.fit"
 }
 ```
 
