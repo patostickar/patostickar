@@ -43,9 +43,9 @@ Grab a random quote before you leave:
 
 ```javascript
 {
-  id: 12,
-  quote: "We can only learn to love by loving.",
-  author: "Iris Murdoch, type.fit"
+  id: 0,
+  quote: "Genius is one percent inspiration and ninety-nine percent perspiration.",
+  author: "Thomas Edison, type.fit"
 }
 ```
 
